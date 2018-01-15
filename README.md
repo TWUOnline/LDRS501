@@ -62,7 +62,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Weekly COURSE SCHEDULE – LDRS 501A online** |
 | --- |
 | **Day &amp; Dates** | **TOPIC** | **Course Work** | **Notes** |
-| **Week 0** | PRE COURSE READING &amp; INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins September |
+| **Week 0** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins September |
 | **Week 1** | READING, | ZOOM video-conference and personal meet opportunity | See Course Announcements for personal meet opportunity and video conferencing invitation, access code and web address. This is an open invitation to join the video conference and personal meet anytime between 16:00 - 19:00 PDT (4pm - 7 pm) |
 | **Week 1** | Personal Strategic Assessment | Individual Assignment 1 | Due October 1 @ 23:59 |
 | **Week 2** | Strategic Leadership Development | W2- Forum 1 | Due October 8 @ 23:59 |
@@ -77,10 +77,10 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 8** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | TEAM Assignment 2 | Due November 19 @ 23:59 |
 | **Week 10** | Final Assignment - Strategic Influence Assignment | Individual Assignment 2 | Due December 4@ 23:59 |
 
-Texts &amp; Resources- LDRS 501A Strategic Leadership
+Texts & Resources- LDRS 501A Strategic Leadership
 
 1.  Galbraith, J. R. (2014) **_Designing Organizations: strategy, structure, and process at the business unit and enterprise levels._ **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
-2.  Hughes R., Colarelli-Beatty K. &amp; Dinwoodie D. (2014) **_Becoming a strategic leader._ **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
+2.  Hughes R., Colarelli-Beatty K. & Dinwoodie D. (2014) **_Becoming a strategic leader._ **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3.  Lepsinger R. (2010) **_Closing the Execution Gap_**. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
 4.  Rumelt, R. (2011) **_Good strategy, bad strategy._** New York, NY: Crown Business. ISBN 978-0-307-88623-1 
 5.  You can order these texts from the TWU Bookstore or alternate book supplier.
@@ -106,7 +106,7 @@ E resources for Pre Course Reading
 
 *   PPT W1_Leading_Strategically - Personal Learning and Leadership
 *   PPT W1_Critical_Thinking
-*   D O’Donovan &amp; N Rimland Flower (2013) The Strategic Plan is Dead. Long Live Strategy **_Stanford Social Innovation Review_**
+*   D O’Donovan & N Rimland Flower (2013) The Strategic Plan is Dead. Long Live Strategy **_Stanford Social Innovation Review_**
 *   **Personal research** for Forum and Assignment completion.
 
 | **Week 1- READ, ZOOM Video-conference &amp; Assignment 1** |
@@ -120,12 +120,12 @@ E resources for Pre Course Reading
 E resource
 
 *   _Strategy Palette Framework_(2015)Boston Consulting Group
-*   H Schachter (2015) _Five Approaches to Using a Strategy Palette_ Globe &amp; Mail
+*   H Schachter (2015) _Five Approaches to Using a Strategy Palette_ Globe & Mail
 
 | **Week 2 - Forum** |
 | --- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Hughes &amp; K Collarelli Beatty | **_Becoming A Strategic Leader_** | Chapters 5-7 and Appendices (pp. 197-310) |
+| R Hughes & K Collarelli Beatty | **_Becoming A Strategic Leader_** | Chapters 5-7 and Appendices (pp. 197-310) |
 | R Rumelt | **_Good Strategy, Bad Strategy_** | Chapters 5-8 (pp. 77-123) |
 | J. R. Galbraith | **_Designing Organizations: strategy, structure, and process at the business unit and enterprise levels._** | Chapters 4-6 (pp. 89-148) |
 | R Lepsinger | **_Closing the Execution Gap_** | Chapter 2 (pp. 25-49) |
@@ -149,7 +149,7 @@ E resources
 
 E resources
 
-*   D Kahnernan &amp; G Klein (2010) Strategic Decisions **McKinsey**
+*   D Kahnernan & G Klein (2010) Strategic Decisions **McKinsey**
 *   **Personal research** for Forum and Assignment completion.
 
 | **Week 4 – Forum &amp; TEAM Assignment 1** |
@@ -177,7 +177,7 @@ E resources
 E resources
 
 *   **PPT** Wave of Change
-*   **PPT** Implications &amp; Challenges - excerpt from D Atha
+*   **PPT** Implications & Challenges - excerpt from D Atha
 *   D Lovallo (2010) Behavioural Strategy **McKinsey**
 
 | **Week 6 – ZOOM Video-conference &amp; Forum** |
@@ -187,7 +187,7 @@ E resources and Research
 
 *   **Personal research** for Forum and Assignment completion.
 
-| Week 7 – Forum &amp; **Strategic Applications Team Assignment** |
+| Week 7 – Forum & **Strategic Applications Team Assignment** |
 | --- |
 
 E resources and Research
@@ -250,7 +250,7 @@ ALL course work must be submitted for final grading within 3 days following the 
 
 This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization. This assignment is submitted in Word doc only.
 
-Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 21-51) and Richard Rumelt (2011) _Good Strategy, Bad Strategy._ Crown Publishing, you will:
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 21-51) and Richard Rumelt (2011) _Good Strategy, Bad Strategy._ Crown Publishing, you will:
 
 **Assignment Parameters**
 
@@ -299,11 +299,11 @@ This assignment is an applied learning experience using the STRAT _(Strategic Te
 
 Though you are an adhoc team, thrown together for the purposes of our study together you will work together to determine your potential for strategic team effectiveness.
 
-Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 285-302):
+Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 285-302):
 
-1.  Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 285-289)
+1.  Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 285-289)
     1.  Where the instruction states to respond to the questions as they apply to the strategic leadership team you are part of; focus on responding to the questions from the context of the strategic leadership team/organization you work with regularly.
-2.  Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 291-298) the team leader will lead the team through the exercise by accomplishing the following tasks:
+2.  Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 291-298) the team leader will lead the team through the exercise by accomplishing the following tasks:
     1.  Work with the team to develop a team name.
     2.  Prepare and distribute the team tool to team members.
     3.  Score the results so the team can make sense of them.
@@ -355,9 +355,9 @@ How brain swarming works:
 
 **Assignment Parameters**
 
-Using Lepsinger&#039;s 6 Bridge Building Principles in &#039;Closing the Execution Gap (2010) and Hughes, Beatty and Dunwoody&#039;s assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
+Using Lepsinger's 6 Bridge Building Principles in "Closing the Execution Gap (2010) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
 
-Assess the suggested strategies developed for the organization reviewed in your SWOT analysis of the organization chosen to determine the anticipated success or failure of the changes suggested for the organization&#039;s future practice and suggested strategies determined for change in the organization.
+Assess the suggested strategies developed for the organization reviewed in your SWOT analysis of the organization chosen to determine the anticipated success or failure of the changes suggested for the organization's future practice and suggested strategies determined for change in the organization.
 
 You can use a brainstorming or brain swarming approaches for reviewing the questions in the SWOT analysis. _(Whichever tool your team uses is acceptable as long as the team is comfortable with the tool chosen – both are supplied for your review – direct any questions to me in the Q &amp; A section of the course page if you experience any challenges with the process.)_
 
