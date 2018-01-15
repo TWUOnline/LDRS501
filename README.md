@@ -1,4 +1,4 @@
-# LDRS501 {#ldrs501}
+# LDRS501 
 
 COURSE LEARNING PLAN
 
@@ -308,10 +308,10 @@ Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty & David 
     2.  Prepare and distribute the team tool to team members.
     3.  Score the results so the team can make sense of them.
     4.  Review the results with the team.
-3.  In Debriefing the exercise, prepare a PPT/Prezi* to outline your findings for the team.
+3.  In Debriefing the exercise, prepare a PPT/Prezi to outline your findings for the team.
     1.  The team STRAT scoring:
         1.  Average ratings only (p. 293)
-    2.  Using the material outlined in the _‘possible flow of a STRAT debriefing meeting’_ (pp. 295-298) drawing on as many applicable sections of the process as are relevant for your team.
+    2.  Using the material outlined in the possible flow of a STRAT debriefing meeting (pp. 295-298) drawing on as many applicable sections of the process as are relevant for your team.
 4.  Submit the completed assignment pieces (ppt/Prezi/Word) to the Assignment Drop Box by the due date.
 
 **THE TEAM WILL:**
@@ -376,7 +376,7 @@ The ppt or Prezi must include descriptive notes where the graphics do not explai
 4.  Results compiled - by Week 6 _(November 5)_
 5.  TEAM LEAD will post PPT/Prezi/Video** Presentation and the Reference List to the assigned Drop Box by the Week 8 due date _(November 19)_
 
-***NOTE:** _As the application process for human study research is required to be submitted to REB on campus prior to conducting interviews where personal information is compiled and disseminated, the information you glean for your organizational review will need to be compiled from publicly available research or personal information shared by a team member. (TWU REB Policy 3.1 a&amp;b) There are many organizations with excellent public profiles for you to choose from. Research well, focus clearly and gather information intentionaly._
+***NOTE:** _As the application process for human study research is required to be submitted to REB on campus prior to conducting interviews where personal information is compiled and disseminated, the information you glean for your organizational review will need to be compiled from publicly available research or personal information shared by a team member. (TWU REB Policy 3.1 a&b) There are many organizations with excellent public profiles for you to choose from. Research well, focus clearly and gather information intentionaLly._
 
 ****NOTE**_: PPT is a maximum of 21 slides (don’t forget the notes pages are usable), PREZI’s will be a maximum of 60 stations (use separate notes to explain what the visual presentations miss), or Video 5 minutes max (make a YouTube video, upload it and send only the link to the Virtual Collegium (for viewing). All references must appear on the credits page or submitted as an APA compliant WORD doc to the assignment drop box)._
 
@@ -386,14 +386,14 @@ The ppt or Prezi must include descriptive notes where the graphics do not explai
 
 Your FINAL ASSIGNMENTis an individual essay shaped by the course material and readings. Each learner will focus on a specific organization:
 
-*   1.  Looking at your present organization, evaluate your strategic influence in the organization and how you will develop further influence for the future.
-    2.  Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 145-195), review your strategic influence within the organization you presently serve and prepare a complete assessment of your present strategic influence and the development of your future strategic influence using the following materials and questions:
-        1.  _From p. 76 – write a one-page newspaper article portraying your vision and aspirations for your organization._
+  1.  Looking at your present organization, evaluate your strategic influence in the organization and how you will develop further influence for the future.
+  2.  Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 145-195), review your strategic influence within the organization you presently serve and prepare a complete assessment of your present strategic influence and the development of your future strategic influence using the following materials and questions:
+    1.  From p. 76 – write a one-page newspaper article portraying your vision and aspirations for your organization.
             *   _The article should represent what would make you proud to be able to say about your organization three or four years from now._
             *   _Write the article so:_
                 *   _It tells the story of your organization’s success._
                 *   _It evokes feelings of pride when you read it._
-                *   _It conveys the kind of organization you work for and what it has accomplished._
+                *   _It conveys the kind of organization you work for and what it has accomplished.___
 
 _You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories._
 
@@ -405,7 +405,7 @@ _You will want to cite as much supporting material as you can to support your as
         1.  _You may also use:_
             *   _Any other course materials to support your evaluation and development of your strategic influences within your organization._
             *   Any other research materials you find to _support your evaluation and development of your strategic influences within your organization_
-    3.  _Your assignment with utilize APA 6<sup>th</sup> edition throughout including a cover page and reference page._
+    3.  _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
 
 **NOTE:** _The assignment should not exceed 15 double spaced pages plus cover page, reference page(s) and Appendices. PPT is a maximum of 30 slides (don’t forget the notes pages are usable), PREZI’s will be a maximum of 80 stations (use separate notes to explain what the visual presentations miss), or Video 10 minutes max (make a YouTube video, upload it and send only the link to the Virtual Collegium (for viewing). All references must appear on the credits page and submitted as an APA compliant WORD doc [cover page and references page] to the assignment drop box).Substantive, Succinct and Cited._
 
@@ -431,7 +431,7 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
 | **Quality of starter &amp; summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
 | **Quality of threaded discussion reply ** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| **Understanding of reading and outside source material ** | Does not respond to the question posted or with minimal effort (i.e. &quot;I agree with xxx). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+| **Understanding of reading and outside source material ** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
 **Performance rating:**
 
