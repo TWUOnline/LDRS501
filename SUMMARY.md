@@ -2,11 +2,11 @@
 
 * [README](README.md)
 * [Learning Plan \(FA17\)](learning-plan-fa17.md)
-* Assignments
-  * Assignment 1
-  * Assignment 2
-  * Assignment 3
-  * Assignment 4
+* [Assignments](assignments.md)
+  * [Assignment 1](assignments/assignment-1.md)
+  * [Assignment 2](assignments/assignment-2.md)
+  * [Assignment 3](assignments/assignment-3.md)
+  * [Assignment 4](assignments/assignment-4.md)
 * [Unit 1](unit-1.md)
   * [Unit 1 Notes](unit-1/unit-1-notes.md)
   * [Unit 1 Learning Activities](unit-1/unit-1-learning-activities.md)
@@ -34,9 +34,4 @@
 * [Unit 9](unit-9.md)
   * Unit 9 Notes
   * [Unit 9 Learning Activities](unit-9/unit-9-learning-activities.md)
-* Assignments
-  * Assignment 1
-  * Assignment 2
-  * Assignment 3
-  * Assignment 4
 
