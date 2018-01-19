@@ -7,4 +7,5 @@
 * [Unit 2](unit-2.md)
   * [Unit 2 Learning Activities](unit-2/unit-2-learning-activities.md)
   * [Unit 2 Notes](unit-2/unit-2-notes.md)
+* [Learning Plan \(FA17\)](learning-plan-fa17.md)
 
