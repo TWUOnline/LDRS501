@@ -1,6 +1,6 @@
 # Summary
 
-* [LDRS501](README.md)
+* [README](README.md)
 * [Unit 1](unit-1.md)
   * [Unit 1 Learning Activities](unit-1/unit-1-learning-activities.md)
   * [Unit 1 Notes](unit-1/unit-1-notes.md)
