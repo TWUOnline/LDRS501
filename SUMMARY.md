@@ -35,5 +35,7 @@
 * [Unit 9](unit-9.md)
   * [Unit 9 Notes](unit-9/unit-9-notes.md)
   * [Unit 9 Learning Activities](unit-9/unit-9-learning-activities.md)
-* Course Overview
+* [Unit 10](unit-10/unit-10.md)		 
+  * [Unit 10 Notes](unit-10/unit-10-notes.md)		
+  * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
 
