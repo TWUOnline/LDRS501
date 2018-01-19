@@ -29,4 +29,7 @@
 * Unit 9
 * Unit 9 Notes
 * Unit 9 Learning Activities
+* Unit 10
+* Unit 10 Notes
+* Unit 10 Learning Activities
 
