@@ -3,11 +3,11 @@
 * [README](README.md)
 * [Learning Plan \(FA17\)](learning-plan-fa17.md)
 * [Unit 1](unit-1.md)
+  * [Unit 1 Notes](https://www.gitbook.com/book/twonline/ldrs501/edit#)
   * [Unit 1 Learning Activities](unit-1/unit-1-learning-activities.md)
-* [Unit 1 Notes](unit-1/unit-1-notes.md)
 * [Unit 2](unit-2.md)
-  * [Unit 2 Learning Activities](unit-2/unit-2-learning-activities.md)
   * [Unit 2 Notes](unit-2/unit-2-notes.md)
+  * [Unit 2 Learning Activities](unit-2/unit-2-learning-activities.md)
 * [Unit 3](unit-3.md)
   * [Unit 3 Notes](unit-3-notes.md)
   * [Unit 3 Learning Activities](unit-3-learning-activities.md)
@@ -32,4 +32,6 @@
 * [Unit 10](unit-10.md)
   * Unit 10 Notes
   * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
+
+
 
