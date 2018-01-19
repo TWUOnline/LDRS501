@@ -32,4 +32,11 @@
 * [Unit 10](unit-10.md)
   * Unit 10 Notes
   * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
+* Assignments
+  * Assignment 1
+  * Assignment 2
+  * Assignment 3
+  * Assignment 4
+
+
 
