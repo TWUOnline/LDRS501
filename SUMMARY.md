@@ -15,7 +15,7 @@
   * [Unit 4 Notes](unit-4-notes.md)
   * [Unit 4 Learning Activities](unit-4-learning-activities.md)
 * [Unit 5](unit-5.md)
-  * Unit 5 Notes
+  * [Unit 5 Notes](unit-5-notes.md)
   * [Unit 5 Learning Activities](unit-5-learning-activities.md)
 * [Unit 6](unit-6.md)
   * Unit 6 Notes
@@ -32,6 +32,4 @@
 * [Unit 10](unit-10.md)
   * Unit 10 Notes
   * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
-
-
 
