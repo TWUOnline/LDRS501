@@ -72,13 +72,12 @@ By the end of this LDRS 501 course, learners will be able to:
 
 You can order these texts from the TWU Bookstore or alternate book supplier.
 
-Assessment
+#### Assessment
 
-| Item | Value |
-| :--- | :--- |
-| Blog Posts | 20% |
-| Assignment 1 | 15% |
-|  |  |
+| **Assignments/Blog Posts = 30% of final grade - Introductory and, Weeks 2, 3, 4, 5, and 8 blogs.** |
+| :--- |
+| **Individual Assignments = 20% of final grade - Week1, Week 3** |
+| **Team Assignments = 50% of final grade Week 6, Week 8, Week 10** |
 
 Schedule
 
