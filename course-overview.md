@@ -1,4 +1,4 @@
-### $$$$
+### 
 
 ### 
 
@@ -74,14 +74,32 @@ You can order these texts from the TWU Bookstore or alternate book supplier.
 
 #### Assessment
 
-| **Assignments/Blog Posts = 30% of final grade - Introductory and, Weeks 2, 3, 4, 5, and 8 blogs. \(5% x 6\)** |
+| **Assigned Blog Posts = 35% of final grade - Introductory and, Weeks 2, 3, 4, 6, 7 and 8 blogs. \(5% x 7\)** |
 | :--- |
-| **Individual Assignments = 20% of final grade - Week1, Week 3 \(10%/10%\)** |
-| **Team Assignments = 50% of final grade Week 6, Week 8, Week 10 \(15%/15%/20%\)** |
+| **Individual Assignments = 10% of final grade - Week1 \(10%\)** |
+| **Team Assignments = 55% of final grade Week 6, Week 8, Week 10 \(15%/15%/25%\)** |
 
-**Assignment:** Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - 5%.
+**Assignment:** _Introductory Blog post _- **May 1, 2018 **- _Post in Learner Introduction Blog _- _**5%**_.
 
-**Assignment:** Week 1 - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Post in Assignment Drop Box - 10%.
+**Assignment:** _**Week 1**_ - _Individual Assignment 1 - Strategic Assessment _- **May 6, 2018 **- _Post in Assignment Drop Box _- _**10%**_.
 
-**Assignment: **Week 2 - Blog Post - May 13, 2018 - Post Blog 1 - 5%.
+**Assignment: **_**Week 2**_ - _Blog Post _- **May 13, 2018 **- _Post Blog 1_ - _**5%**_
+
+**Assignment:**_** Week 3**_ - _Blog Post _- **May 20, 2018 **- _Post Blog 2_ - _**5%**_
+
+**Assignment: **_**Week 4**_ - _Blog Post _- **May 27, 2018 **- _Post Blog 3_ - _**5%**_
+
+**Assignment:** _**Week 4**_ - _Team Assignment 1 - STRAT Assignment - _ **May 27, 2018 **- _Assignment Drop Box _- _**15%**_
+
+**Assignment: **_**Week 6**_ - _Blog Post _- **June 10, 2018 **- _Post Blog 4_ - _**5%**_
+
+**Assignment: **_**Week 7**_ - _Team Assignment 2 - Strategic Leadership Team Assign_ment - **June 17, 2018 **- _Assignment Drop Box _- _**15%**_
+
+**Assignment: **_**Week 7**_ - _Blog Post _- **June 17, 2018 **- _Post Blog 5_ - _**5%**_
+
+**Assignment: **_**Week 8**_ - _Blog Post _- **June 24, 2018 **- _Post Blog 6_ - _**5%**_
+
+**Assignment: **_**Week 10 **_- _Final Team Assignment - Strategic Influence _- **July 6, 2018 **- _Assignment Drop Box _- _**25%**_
+
+**Total Grade:** _**all Forums and Assignments: 100%**_
 
