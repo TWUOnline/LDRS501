@@ -93,7 +93,7 @@ You can order these texts from the TWU Bookstore or alternate book supplier.
 
 **Assignment: **_**Week 6**_ - _Blog Post _- **June 10, 2018 **- _Post Blog 4_ - _**5%**_
 
-**Assignment: **_**Week 7**_ - _Team Assignment 2 - Strategic Leadership Team Assign_ment - **June 17, 2018 **- _Assignment Drop Box _- _**15%**_
+**Assignment: **_**Week 7**_ - _Team Assignment 2 - Strategic Leadership Team Assignment - **June 17, 2018 **- \_Assignment Drop Box _- _**15%**_
 
 **Assignment: **_**Week 7**_ - _Blog Post _- **June 17, 2018 **- _Post Blog 5_ - _**5%**_
 
