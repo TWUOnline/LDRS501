@@ -1,4 +1,12 @@
-### 
+|  |
+| :--- |
+
+
+### $$x = y$$
+
+|  |  |
+| :--- | :--- |
+|  |  |
 
 ### 
 
@@ -77,7 +85,12 @@ You can order these texts from the TWU Bookstore or alternate book supplier.
 | **Assignments/Blog Posts = 30% of final grade - Introductory and, Weeks 2, 3, 4, 5, and 8 blogs.** |
 | :--- |
 | **Individual Assignments = 20% of final grade - Week1, Week 3** |
-| **Team Assignments = 50% of final grade Week 6, Week 8, Week 10** |
+| **Team Assignments = 50% of final grade Week 6, Week 8, Week 10 \(15%/15%/20%\)** |
 
-Schedule
+| Assignment          | Due Date       | Where to Post       | %of Grade |  |
+| :---: | :---: | :---: | :---: | :--- |
+| Introductory Blog | May 1, 2018  | Introductory Blog  |      5%        |  |
+| Week 1 - Individual Assignment 1 - Strategic Assessment |  |  |  |  |
+
+
 
