@@ -42,7 +42,7 @@ Strategic Leadership focuses on the changing environments around us as they rela
 
 Tis course does not take generic processes and apply them randomly to get the results everyone gets. Your results will be as specific and focused as you need them to be, for meeting the strategic challenges required for leading your organization.
 
-#### Course Outcomes
+Course Outcomes
 
 By the end of this LDRS 501 course, learners will be able to:
 
@@ -60,6 +60,17 @@ By the end of this LDRS 501 course, learners will be able to:
    of strategic issues related to strategic leadership.
 7. **Integrate strategic leadership practice**
    into your personal, corporate and career experience through the application of service improvement principles.
+
+#### Course Texts and Reading Resources
+
+1. Galbraith, J. R. \(2014\) **Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**
+    San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
+2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) **Becoming a strategic leader. ** San Francisco**:**Jossey-Bass. Second Edition. ISBN 978-1-118-56723-4
+3. Lepsinger R. \(2010\) **Closing the Execution Gap.**. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
+4. \(Pending\) Rumelt, R. \(2011\) ** Good strategy, bad strategy. ** New York, NY: Crown Business. ISBN 978-0-307-88623-1
+5. \(Pending\) Leinwand, P. and Mainardi, C. R. \(2016\) **Strategy that works: how winning companies close the strategy-to-execution gap**. Boston, MA: HBR Press.
+
+You can order these texts from the TWU Bookstore or alternate book supplier.
 
 Assessment
 
