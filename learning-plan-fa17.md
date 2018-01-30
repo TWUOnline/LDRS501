@@ -58,31 +58,31 @@ By the end of this LDRS 501 course, learners will be able to:
 | --- |
 
 
-|  |  |  | **Weekly COURSE SCHEDULE – LDRS 501A online** |
+|  |  |  | **Weekly COURSE SCHEDULE – LDRS 501 online** |
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
-| **Week 0** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins September |
-| **Week 1** | READING, | ZOOM video-conference and personal meet opportunity | See Course Announcements for personal meet opportunity and video conferencing invitation, access code and web address. This is an open invitation to join the video conference and personal meet anytime between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
-| **Week 1** | Personal Strategic Assessment | Individual Assignment 1 | Due October 1 @ 23:59 |
-| **Week 2** | Strategic Leadership Development | W2- Forum 1 | Due October 8 @ 23:59 |
-| **Week 3** | Strategic Leadership Development | W3- Forum 2 | Due October 15 @ 23:59 |
-| **Week 4** | Strategic Leadership Practice | W4- Forum 3 | Due October 22 @ 23:59 |
-| **Week 4** | STRAT Assignment | TEAM Assignment 1 | Due October 22 @ 23:59 |
-|  |  |  | **READING WEEK – OCTOBER 23-29** |
-| **Week 6** | READING, | ZOOM video-conference | See Course Announcements for personal meet opportunity and video conferencing invitation, access code and web address. This is an open invitation to join the video conference and personal meet anytime between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
-| **Week 6** | Strategic Leadership Design | W6- Forum 4 | Due November 5 @ 23:59 |
-| **Week 7** | Strategic Leadership Design and Execution | W7- Forum 5 | Due November 12 @ 23:59 |
-| **Week 8** | Strategic Leadership Execution | W8- Forum 6 | Due November 19 @ 23:59 |
-| **Week 8** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | TEAM Assignment 2 | Due November 19 @ 23:59 |
-| **Week 10** | Final Assignment - Strategic Influence Assignment | Individual Assignment 2 | Due December 4@ 23:59 |
+| **Week 0** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins MAY |
+| **Week 1** | READING, | ZOOM video-conference  | See Course Announcements for video conferencing invitation, access code and web address. This is an open invitation to join the video conference any time between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
+| **Week 1** | Personal Strategic Assessment | Individual Assignment 1 | Due MAY 6 @ 23:59 |
+| **Week 2** | Strategic Leadership Development | W2- BLOG1 | Due MAY 13 @ 23:59 |
+| **Week 3** | Strategic Leadership Development | W3- BLOG2 | Due MAY 20 @ 23:59 |
+| **Week 4** | Strategic Leadership Practice | W4- BLOG 3 | Due MAY 27 @ 23:59 |
+| **Week 4** | STRAT Assignment | TEAM Assignment 1 | Due MAY 27 @ 23:59 |
+|  |  |  | **READING WEEK – MAY 28-JUNE 3** |
+| **Week 6** | READING, | ZOOM video-conference | See Course Announcements for video conferencing invitation, access code and web address. This is an open invitation to join the video conference anytime between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
+| **Week 6** | Strategic Leadership Design | W6- BLOG 4 | Due JUNE 10 @ 23:59 |
+| **Week 7** | Strategic Leadership Design and Execution | W7- BLOG 5 | Due JUNE 17 @ 23:59 |
+| **Week 8** | Strategic Leadership Execution | W8- BLOG 6 | Due JUNE 24 @ 23:59 |
+| **Week 8** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | TEAM Assignment 2 | Due JUNE 24 @ 23:59 |
+| **Week 10** | Final Assignment - Strategic Influence Assignment | Individual Assignment 2 | Due JULY 6 @ 23:59 |
 
 Texts & Resources- LDRS 501A Strategic Leadership
 
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3. Lepsinger R. \(2010\) _**Closing the Execution Gap**_. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
-4. Rumelt, R. \(2011\) _**Good strategy, bad strategy.**_ New York, NY: Crown Business. ISBN 978-0-307-88623-1 
-5. You can order these texts from the TWU Bookstore or alternate book supplier.
+4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\). **Navigating Strategic Possibilities : Strategy Formulation and Execution Practices to Flourish.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
+5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
 |  |  | Reading Outline- LDRS 501A Strategic Leadership\* |
 | :--- | :--- | :--- |
