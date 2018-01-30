@@ -62,7 +62,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
 | **Week 0** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins MAY |
-| **Week 1** | READING, | ZOOM video-conference  | See Course Announcements for video conferencing invitation, access code and web address. This is an open invitation to join the video conference any time between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
+| **Week 1** | READING, | ZOOM video-conference | See Course Announcements for video conferencing invitation, access code and web address. This is an open invitation to join the video conference any time between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
 | **Week 1** | Personal Strategic Assessment | Individual Assignment 1 | Due MAY 6 @ 23:59 |
 | **Week 2** | Strategic Leadership Development | W2- BLOG1 | Due MAY 13 @ 23:59 |
 | **Week 3** | Strategic Leadership Development | W3- BLOG2 | Due MAY 20 @ 23:59 |
@@ -81,7 +81,7 @@ Texts & Resources- LDRS 501A Strategic Leadership
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3. Lepsinger R. \(2010\) _**Closing the Execution Gap**_. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
-4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\). **Navigating Strategic Possibilities : Strategy Formulation and Execution Practices to Flourish.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
+4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities : Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
 5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
 |  |  | Reading Outline- LDRS 501A Strategic Leadership\* |
