@@ -1,26 +1,22 @@
 # LDRS501 STRATEGIC LEADERSHIP
 
-COURSE LEARNING PLAN
+## COURSE LEARNING PLAN
 
-FALL 2017 – 10 week delivery
+### FALL 2017 – 10 week delivery
 
-Instructor: Dr. D. L. \(Doug\) Atha
+#### Instructor: Dr. D. L. \(Doug\) Atha
 
-LDRS 501A
+##### Pre Course READ Dates: _**April 16-30, 2018**_
 
-STRATEGIC LEADERSHIP
+##### Course Start Date: _May 1, 2018_
 
-Pre Course READ Dates: September 10-24, 2017
+##### Course End Date: _July 6, 2018_
 
-Course Start Date: **September 25, 2017**
+##### Final Date for Course Assignments: _July 8, 2018_
 
-Course End Date: December 1, 2017
+#### This course is taught as follows:
 
-Final Date for Course Assignments: December 4, 2017
-
-This course is taught as follows:
-
-| x | Approach | Duration | Time of Year |
+|  | Approach | Duration | Time of Year |
 | --- | --- | --- | --- |
 | X | ONLINE | 10 weeks online | Fall |
 
