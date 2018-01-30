@@ -55,9 +55,9 @@ By the end of this LDRS 501 course, learners will be able to:
 4. **Examine key strategic leadership applications**
    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 5. **Develop the necessary skills for systemic and systematic inquiry**
-   of related strategic leadership issues.
+   of strategic leadership issues related to your personal leadership development.
 6. **Integrate strategic leadership practice **
-   into your personal, corporate and career experience through the application of service improvement principles.
+   into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 #### Course Texts and Reading Resources
 
