@@ -18,7 +18,7 @@
 
 |  | Approach | Duration | Time of Year |
 | --- | --- | --- | --- |
-| X | ONLINE | 10 weeks online | Fall |
+| X | ONLINE | 10 weeks online | Spring |
 
 This course in leadership is delivered as part of the following delivery
 
@@ -26,19 +26,19 @@ This course in leadership is delivered as part of the following delivery
 | --- | --- | --- |
 
 
-**Instructor Contact Information**
+#### **Instructor Contact Information**
 
-Instructor: Dr. D. L. \(Doug\) Atha
+##### Instructor: _Dr. D. L. \(Doug\) Atha_
 
-E-mail Address Douglas.Atha@twu.ca
+##### E-mail Address douglas.atha@twu.ca
 
-Telephone Contact: 778-378-7481
+##### Telephone Contact: 778-378-7481
 
-Skype ID: douglas.atha
+##### Skype ID: douglas.atha
 
-COURSE Description- summary
+#### COURSE Description- summary
 
-| From academic calendar: |
+|  |
 | --- |
 
 
@@ -54,7 +54,7 @@ By the end of this LDRS 501 course, learners will be able to:
 6. **Develop the necessary skills for systemic and systematic inquiry** of strategic issues related to strategic leadership.
 7. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles.
 
-| _**CONNECTIONS ZOOM VIDEO CONFERENCES WILL OCCUR IN**_ |
+| _**CONNECTIONS ZOOM VIDEO CONFERENCES WILL OCCUR IN WEEKS 1 AND 6 OF THE COURSE SCHEDULE**_ |
 | --- |
 
 
