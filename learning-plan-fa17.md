@@ -81,23 +81,23 @@ Texts & Resources- LDRS 501A Strategic Leadership
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3. Lepsinger R. \(2010\) _**Closing the Execution Gap**_. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
-4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities : Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
+4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
 5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
-|  |  | Reading Outline- LDRS 501A Strategic Leadership\* |
+|  |  | Reading Outline- LDRS 501 Strategic Leadership\* |
 | :--- | :--- | :--- |
 |  |  | **Week 0: Pre COURSE READING** |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | All chapters for start of Week 3\*\* |
-| R Rumelt | _**Good Strategy, Bad Strategy**_ | All chapters for start of Week 5\*\* |
+| M. Ungerer, G. Ungerer, & J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | All chapters for start of Week 5\*\* |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters for start Week 5\*\* |
 | R Lepsinger | _**Closing the Execution Gap**_ | All chapters for start of Week 8\*\* |
 
-**\*NOTE:** Weekly reading material will appear in Forum Discussion Question development throughout
+**\*NOTE:** Weekly reading material will appear in Blogged Discussion Question development throughout
 
 the course.
 
-**\*\*NOTE:** You may pre-read all the books before September 25, 2016 _\(the start of LDRS 501\)._ What is
+**\*\*NOTE:** You may pre-read all the books before MAY 1, 2018 _\(the start of LDRS 501\)._ What is
 
 suggested here is a paced approach to the material we will cover.
 
