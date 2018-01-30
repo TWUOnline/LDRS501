@@ -67,7 +67,7 @@ By the end of this LDRS 501 course, learners will be able to:
 3. Lepsinger R. \(2010\) **Closing the Execution Gap.**. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
 4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\). **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**. Randburg: KR Publishing. ISBN: 978-1-869-22623-7
 
-You can order these texts from the TWU Bookstore or alternate book supplier.
+You can order these texts through the TWU Library, TWU Bookstore or alternate book supplier.
 
 #### Assessment
 
@@ -78,7 +78,7 @@ You can order these texts from the TWU Bookstore or alternate book supplier.
 
 **Assignment:** _Introductory Blog post _- **May 1, 2018 **- _Post in Learner Introduction Blog _- _**5%**_.
 
-**Assignment:** _**Week 1**_ - _Individual Assignment 1 - Strategic Assessment _- **May 6, 2018 **- _Post in Assignment Drop Box _- _**10%**_.
+**Assignment:** _**Week 1**_ - _Individual Assignment 1 - Strategic Assessment _- **May 6, 2018 **- _Drop Box _- _**10%**_.
 
 **Assignment: **_**Week 2**_ - _Blog Post _- **May 13, 2018 **- _Post Blog 1_ - _**5%**_
 
@@ -86,17 +86,17 @@ You can order these texts from the TWU Bookstore or alternate book supplier.
 
 **Assignment: **_**Week 4**_ - _Blog Post _- **May 27, 2018 **- _Post Blog 3_ - _**5%**_
 
-**Assignment:** _**Week 4**_ - _Team Assignment 1 - STRAT Assignment - _ **May 27, 2018 **- _Assignment Drop Box _- _**15%**_
+**Assignment:** _**Week 4**_ - _Team Assignment 1 - STRAT Assignment - _ **May 27, 2018 **- _Drop Box _- _**15%**_
 
 **Assignment: **_**Week 6**_ - _Blog Post _- **June 10, 2018 **- _Post Blog 4_ - _**5%**_
 
-**Assignment: **_**Week 7**_ - _Team Assignment 2 - Strategic Leadership Team Assignment - **June 17, 2018 **- \_Assignment Drop Box _- _**15%**_
+**Assignment: **_**Week 7**_ - _Team Assignment 2 - Strategic Leadership Team Assignment - **June 17, 2018 **- Drop Box _- _**15%**_
 
 **Assignment: **_**Week 7**_ - _Blog Post _- **June 17, 2018 **- _Post Blog 5_ - _**5%**_
 
 **Assignment: **_**Week 8**_ - _Blog Post _- **June 24, 2018 **- _Post Blog 6_ - _**5%**_
 
-**Assignment: **_**Week 10 **_- _Final Team Assignment - Strategic Influence _- **July 6, 2018 **- _Assignment Drop Box _- _**25%**_
+**Assignment: **_**Week 10 **_- _Final Team Assignment - TEAM Perspectives in Strategic Influence _- **July 6, 2018 **-_ Drop Box _- _**25%**_
 
 **Total Grade:** _**all Forums and Assignments: 100%**_
 
