@@ -2,7 +2,7 @@
 
 ## COURSE LEARNING PLAN
 
-### FALL 2017 – 10 week delivery
+### SUMMER 2017 – 10 week delivery
 
 #### Instructor: Dr. D. L. \(Doug\) Atha
 
