@@ -42,17 +42,22 @@ This course in leadership is delivered as part of the following delivery
 | --- |
 
 
-Course Outcomes- **LDRS 501A**
+#### Course Outcomes - **LDRS 501A**
 
 By the end of this LDRS 501 course, learners will be able to:
 
-1. **Analyze and strategically evaluate personal and corporate leadership effectiveness** as it relates to visioning and strategic leadership through the review and assessment of various leadership and management styles introduced in the course.
-2. **Evaluate** organizational effectiveness as it relates to strategic leadership principles and practice.
-3. **Demonstrate proficiency** in an online learning environment as it relates to forum participation, submission of assignments and interaction with My Courses online environment at TWU.
-4. **Integrate and synthesize** a broad range of LDRS 501 course materials related to visioning and strategic leadership and be able to demonstrate application to your leadership specialization area.
-5. **Examine and apply key strategic leadership approaches** as transformational servant leaders and values based leaders to maximize organizational benefit as it relates to visioning and strategic leadership.
-6. **Develop the necessary skills for systemic and systematic inquiry** of strategic issues related to strategic leadership.
-7. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles.
+1. **Analyze personal and corporate leadership effectiveness**
+   through the review and assessment of various leadership and management styles..
+2. **Evaluate**
+   organizational effectiveness as it relates to strategic leadership principles and practice.
+3. **Integrate and synthesize** 
+   a broad range of LDRS 501 course materials to demonstrate leadership application.
+4. **Examine key strategic leadership applications**
+   to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+5. **Develop the necessary skills for systemic and systematic inquiry**
+   of strategic leadership issues related to your personal leadership development.
+6. **Integrate strategic leadership practice **
+   into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 | _**CONNECTIONS ZOOM VIDEO CONFERENCES WILL OCCUR IN WEEKS 1 AND 6 OF THE COURSE SCHEDULE**_ |
 | --- |
@@ -101,9 +106,9 @@ the course.
 
 suggested here is a paced approach to the material we will cover.
 
-E resources for Pre Course Reading
+Resources for review with Pre Course Reading
 
-* PPT W1\_Leading\_Strategically - Personal Learning and Leadership
+* Leading\_Strategically - Personal Learning and Leadership
 * PPT W1\_Critical\_Thinking
 * D O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy _**Stanford Social Innovation Review**_
 * **Personal research** for Forum and Assignment completion.
@@ -225,19 +230,21 @@ E resources and Research
 | **W10** | July 6 @ 23:59 PDT | Drop Box | 25% |
 |  |  |  | 100% |
 
-FEEDBACK ON ASSIGNMENTS:
+#### FEEDBACK ON ASSIGNMENTS:
 
-**You may expect feedback on assignments in one week or less from the submission.**
+#### **You may expect feedback on assignments in one week or less from the submission.**
 
-* **TEAM ASSIGNMENT in Week 4 and Week 7 \(presentation and individual assessment\)**
-* **INDIVIDUAL ASSIGNMENTS in Week 1 and Week 10**
-* **PARTCIPATION in weekly DISCUSSION FORUMS in W2, W3, W4, W6 \(TEAM\), W7 and W8.**
+* **TEAM ASSIGNMENT in Week 4, Week 7 and Week 10 \(presentation and individual assessment\)**
+* **INDIVIDUAL ASSIGNMENTS in Week 1**
+* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(TEAM\), W7 and W8.**
 
-GRADING:
+#### GRADING:
 
-**Your grades will be uploaded to the electronic Grade book on learn.twu.ca**.You will receive individualized feedback on your Forums team posts and individual posts at the end of each Forum week.
+Your grades will be uploaded to the electronic Grade book on learn.twu.ca.You will receive individualized feedback on your Forums team posts and individual posts at the end of each Forum week.
 
-**You will receive individual feedback on your course assignments.** Assignments will be graded on the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
+**You will receive individual feedback on your course assignments.**
+
+Assignments will be graded on the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
 LATE ASSIGNMENTS POLICY:As this course is designed to build strategic leadership application cumulatively, it will be very disruptive to have late assignments. Assignments will receive deductions of 15% per day for each day that they are delayed being submitted.
 
@@ -249,7 +256,7 @@ ALL course work must be submitted for final grading within 3 days following the 
 
 **PERSONAL STRATEGIC DEVELOPMENT**
 
-**Submission Due: Sunday October 1 at 23:59 PDT**
+**Submission Due: Sunday May 6 at 23:59 PDT**
 
 This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization. This assignment is submitted in Word doc only.
 
@@ -296,7 +303,7 @@ _page\(s\). Substantive, Succinct and Cited._
 
 **STRAT TEAM – Strategic Team Review and Action Tool**
 
-**Submission Due: Sunday October 22 at 23:59 PDT**
+**Submission Due: Sunday May 27 at 23:59 PDT**
 
 This assignment is an applied learning experience using the STRAT _\(Strategic Team Review and Action Tool\)_ to survey your team to determine its collective strength/weakness as a strategic team.
 
@@ -326,13 +333,13 @@ Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty & David 
 
 **\*NOTE**_: PPT is a maximum of 21 slides \(don’t forget the notes pages are usable\), PREZI’s will be a maximum of 60 stations \(use separate notes \(ppt notes section/Word doc\) to explain what the visual presentations miss. All references must appear on the credits page or submitted as an APA compliant WORD doc to the assignment drop box\)._
 
-**WEEK 8 – TEAM ASSIGNMENT 2**
+**WEEK 7 – TEAM ASSIGNMENT 2**
 
 **STRATEGIC LEADERSHIP TEAM PROJECT \(15%\)**
 
 **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
 
-**Team submissions Due Sunday November 19 at 23:59 PST**
+**Team submissions Due Sunday June 17 at 23:59 PST**
 
 This assignment is intended as an applied learning experience using SWOT in conjunction with either a _**‘brain storming’**_ process or the newer approach of **‘brain swarming’** to develop your information.
 
@@ -385,7 +392,7 @@ The ppt or Prezi must include descriptive notes where the graphics do not explai
 
 **WEEK 10 – STRATEGIC INFLUENCE ASSIGNMENT 5 \(25%\)**
 
-**DUE DATE: December 4 @ 23:59 PST**
+**DUE DATE: July 6 @ 23:59 PST**
 
 Your FINAL ASSIGNMENTis an individual essay shaped by the course material and readings. Each learner will focus on a specific organization:
 
@@ -412,19 +419,19 @@ _You will want to cite as much supporting material as you can to support your as
 
 **NOTE:** _The assignment should not exceed 15 double spaced pages plus cover page, reference page\(s\) and Appendices. PPT is a maximum of 30 slides \(don’t forget the notes pages are usable\), PREZI’s will be a maximum of 80 stations \(use separate notes to explain what the visual presentations miss\), or Video 10 minutes max \(make a YouTube video, upload it and send only the link to the Virtual Collegium \(for viewing\). All references must appear on the credits page and submitted as an APA compliant WORD doc \[cover page and references page\] to the assignment drop box\).Substantive, Succinct and Cited._
 
-**ONLINE FORUMS - LDRS 501A = 35% of final course grade**
+**ONLINE FORUMS - LDRS 501 = 35% of final course grade**
 
 Online Forum Discussions will be used in the following weeks and blocks of LDRS 501.
 
 | Assignment | Post | % of Grade |
 | --- | --- | --- |
-| INTRODUCTORY POST | LEARNER INTRODUCTION POSTS | 5% |
-| W2 FORUM | FORUM 1 | 5% |
-| W3 FORUM | FORUM 2 | 5% |
-| W4 FORUM | FORUM 3 | 5% |
-| W6 TEAM FORUM | FORUM 4 | 5% |
-| W7 FORUM | FORUM 5 | 5% |
-| W8 FORUM | FORUM 6 | 5% |
+| INTRODUCTORY BLOG | LEARNER INTRODUCTION BLOG | 5% |
+| W2 BLOG | BLOG 1 | 5% |
+| W3 BLOG | BLOG 2 | 5% |
+| W4 BLOG | BLOG 3 | 5% |
+| W6 TEAM BLOG | BLOG 4 | 5% |
+| W7 BLOG | BLOG 5 | 5% |
+| W8 BLOG | BLOG 6 | 5% |
 
 **DQ Learner participation is assessed as follows in all Forum Posts for 5% of grade \(per week\):**
 
@@ -548,7 +555,7 @@ As scholars pursuing higher education, academic integrity is a core value of the
 
 All MA Lead and MAEL program staff and faculty are required to abide by Canadian Copyright Guidelines \([http://www.caut.ca/uploads/Copyright\_guidelines.pdf](http://www.caut.ca/uploads/Copyright_guidelines.pdf)\)
 
-Prepared by D. L. Atha – August 20, 2017
+Prepared by D. L. Atha – January 30, 2018
 
-Updated – September 23, 2017
+Updated –
 
