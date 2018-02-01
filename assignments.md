@@ -1,9 +1,20 @@
-Wikipedia Outreach - [https://outreach.wikimedia.org/wiki/Education](https://outreach.wikimedia.org/wiki/Education)
-
-Instructor Resources
-
-* [Assignments](https://outreach.wikimedia.org/wiki/Education/Assignment_Design)
-* [https://outreach.wikimedia.org/wiki/File:Sample\_Syllabus\_for\_Wikipedia\_assignment.pdf](https://outreach.wikimedia.org/wiki/File:Sample_Syllabus_for_Wikipedia_assignment.pdf)
+|  |
+| :--- |
 
 
+### Course Assignments
+
+The table below lists all of the assignments for this course. All of the assignments are mandatory.
+
+| Assignments | Blogs = 35% of final grade:  Intro, W2, W3, W4, W6, W7, W8 | Individual Assignments =   10% of final grade- W1 | Team Assignments = 55%  of final grade – W4, W7,   W10 |
+| :---: | :---: | :---: | :---: |
+
+
+|  |
+| :--- |
+
+
+##### Program Grade Submission Policy
+
+ALL course work must be submitted for final grading within 7-10 days following the course end date. The instructor has to submit grades to the Registrar within 14 days of the course end date. In extenuating circumstances, a provision is made for an INC to be entered pending final assignment of a course mark.
 
