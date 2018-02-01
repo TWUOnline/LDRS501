@@ -8,11 +8,11 @@ The table below lists all of the assignments for this course. All of the assignm
 
 #### Assignments
 
-Blogs = 35% of final grade:  Intro, W2, W3, W4, W6, W7, W8
+**Blogs **= 35% of final grade:  Intro, W2, W3, W4, W6, W7, W8
 
-Individual Assignments =   10% of final grade- W1
+**Individual Assignments **=   10% of final grade- W1
 
-Team Assignments = 55%  of final grade – W4, W7,   W10 \|
+**Team Assignments **= 55%  of final grade – W4, W7,   W10 \|
 
 |  |
 | :--- |
