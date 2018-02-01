@@ -1,7 +1,3 @@
-|  |
-| :--- |
-
-
 ### Course Assignments
 
 The table below lists all of the assignments for this course. All of the assignments are mandatory.
@@ -14,9 +10,23 @@ The table below lists all of the assignments for this course. All of the assignm
 
 **Team Assignments **= 55%  of final grade – W4, W7,   W10 \|
 
-|  |
-| :--- |
+| Assignment | Due | Post | % of Grade |
+| :---: | :---: | :---: | :---: |
 
+
+| Introductory Blog | May 1 @ 23:59  PDT | Learner Introduction BLOG | 5% |
+| :---: | :---: | :---: | :---: |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ##### Program Grade Submission Policy
 
