@@ -46,13 +46,21 @@ This course in leadership is delivered as part of the following delivery
 
 By the end of this LDRS 501 course, learners will be able to:
 
-1. **Analyze and strategically evaluate personal and corporate leadership effectiveness** as it relates to visioning and strategic leadership through the review and assessment of various leadership and management styles introduced in the course.
-2. **Evaluate** organizational effectiveness as it relates to strategic leadership principles and practice.
-3. **Demonstrate proficiency** in an online learning environment as it relates to forum participation, submission of assignments and interaction with My Courses online environment at TWU.
-4. **Integrate and synthesize** a broad range of LDRS 501 course materials related to visioning and strategic leadership and be able to demonstrate application to your leadership specialization area.
-5. **Examine and apply key strategic leadership approaches** as transformational servant leaders and values based leaders to maximize organizational benefit as it relates to visioning and strategic leadership.
-6. **Develop the necessary skills for systemic and systematic inquiry** of strategic issues related to strategic leadership.
-7. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles.
+1. **Analyze personal and corporate leadership effectiveness**
+
+   through the review and assessment of various leadership and management styles..
+
+2. **Evaluate**  
+   organizational effectiveness as it relates to strategic leadership principles and practice.
+
+3. **Integrate and synthesize** 
+   a broad range of LDRS 501 course materials to demonstrate leadership application.
+4. **Examine key strategic leadership applications**
+   to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+5. **Develop the necessary skills for systemic and systematic inquiry**
+   of strategic leadership issues related to your personal leadership development.
+6. **Integrate strategic leadership practice **
+   into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 | _**CONNECTIONS ZOOM VIDEO CONFERENCES WILL OCCUR IN WEEKS 1 AND 6 OF THE COURSE SCHEDULE**_ |
 | --- |
@@ -81,7 +89,7 @@ Texts & Resources- LDRS 501A Strategic Leadership
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3. Lepsinger R. \(2010\) _**Closing the Execution Gap**_. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
-4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
+4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 or 978-1-86922-624-4 \(ePDF\)
 5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
 |  |  | Reading Outline- LDRS 501 Strategic Leadership\* |
@@ -237,7 +245,7 @@ E resources and Research
 
 Your grades will be uploaded to the electronic Grade book on learn.twu.ca.You will receive individualized feedback on your Forums team posts and individual posts at the end of each Forum week.
 
-**You will receive individual feedback on your course assignments.** 
+**You will receive individual feedback on your course assignments.**
 
 Assignments will be graded on the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
@@ -552,5 +560,5 @@ All MA Lead and MAEL program staff and faculty are required to abide by Canadian
 
 Prepared by D. L. Atha – January 30, 2018
 
-Updated – 
+Updated –
 
