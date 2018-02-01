@@ -88,7 +88,7 @@ Texts & Resources- LDRS 501A Strategic Leadership
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
 3. Lepsinger R. \(2010\) _**Closing the Execution Gap**_. San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
-4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 
+4. Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_**.** Randburg: KR Publishing.ISBN 978-1-869-22623-7 or 978-1-86922-624-4 \(ePDF\)
 5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
 |  |  | Reading Outline- LDRS 501 Strategic Leadership\* |
