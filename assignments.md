@@ -17,8 +17,8 @@ The table below lists all of the assignments for this course. All of the assignm
 | **Introductory Blog** | May 1 @ 23:59  PDT | Learner Introduction BLOG | 5% |
 | :---: | :---: | :---: | :---: |
 | **Week 1 - Individual Assignment 1 - Strategic Assessment** | **May 6 @ 23:59  PDT** | **Drop Box** | **10%** |
-| **Week 2 BLOG post** | **May 13 @ 23:59  PDT - **_**See Blogging Instructions for   Posting Order**_ | **BLOG 1** | **5%** |
-|  |  |  |  |
+| **Week 2 - BLOG posts** | **May 13 @ 23:59  PDT - **_**See Blogging Instructions for   Posting Order**_ | **BLOG 1** | **5%** |
+| **Week 3 - BLOG posts** | **May 20 @ 23:59  PDT -  **_**See   Blogging Instructions for Posting Order**_ | **BLOG 2** | **5%** |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
