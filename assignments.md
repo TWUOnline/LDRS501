@@ -1,6 +1,6 @@
 ### Course Assignments
 
-The table below lists all of the assignments for this course. All of the assignments are mandatory.
+The table below lists all assignments for this course. All assignments are mandatory.
 
 #### Assignments
 
