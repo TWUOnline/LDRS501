@@ -24,7 +24,7 @@ The table below lists all of the assignments for this course. All of the assignm
 | **Week 6 - BLOG post** | **June 10 @ 23:59  PDT **_**-See Blogging Instructions for TEAM Posting requirements**_ | **BLOG 4** | **5%** |
 | **Week 7 TEAM Assignment 2 - Strategic Leadership TEAM Assignment ** | **June 17 @ 23:59  PDT** | **Drop Box** | **15%** |
 | **Week 7  BLOG Posts** | **June 17 @ 23:59  PDT- **_**See    Blogging Instructions for Posting Order**_ | **BLOG 5** | **5%** |
-|  |  |  |  |
+| **WEEK 8  BLOG Posts** | **June 24 @ 23:59 PDT - **_**See   Blogging Instructions for Posting Order**_ | **BLOG 6** | **5%** |
 |  |  |  |  |
 |  |  |  |  |
 
