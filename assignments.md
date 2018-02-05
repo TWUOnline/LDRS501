@@ -4,11 +4,11 @@ The table below lists all assignments for this course. All assignments are manda
 
 #### Assignments
 
-**Blogs **= 35% of final grade:  Intro, Week 2, Week 3, Week 4, Week 6, Week 7, Week 8
+**Blogs**= 35% of final grade:  Intro, Week 2, Week 3, Week 4, Week 6, Week 7, Week 8
 
-**Individual Assignments **=   10% of final grade- Week 1
+**Individual Assignments**=   10% of final grade- Week 1
 
-**Team Assignments **= 55%  of final grade – Week 4, Week 7,   Week 10
+**Team Assignments**= 55%  of final grade – Week 4, Week 7,   Week 10
 
 | **Assignment** | **Due** | **Post** | **% of Grade** |
 | :---: | :---: | :---: | :---: |
