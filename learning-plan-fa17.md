@@ -50,10 +50,12 @@ By the end of this LDRS 501 course, learners will be able to:
 
    through the review and assessment of various leadership and management styles..
 
-2. **Evaluate**
+2. **Evaluate**  
    organizational effectiveness as it relates to strategic leadership principles and practice.
-3. **Integrate and synthesize** 
+
+3. **Integrate and synthesize**   
    a broad range of LDRS 501 course materials to demonstrate leadership application.
+
 4. **Examine key strategic leadership applications**
    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 5. **Develop the necessary skills for systemic and systematic inquiry**
@@ -83,7 +85,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 8** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | TEAM Assignment 2 | Due JUNE 24 @ 23:59 |
 | **Week 10** | Final Assignment - Strategic Influence Assignment | Individual Assignment 2 | Due JULY 6 @ 23:59 |
 
-Texts & Resources- LDRS 501A Strategic Leadership
+#### **Texts & Resources- LDRS 501A Strategic Leadership**
 
 1. Galbraith, J. R. \(2014\) _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_** **San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 2. Hughes R., Colarelli-Beatty K. & Dinwoodie D. \(2014\) _**Becoming a strategic leader.**_** **San Francisco**:**Jossey-Bass Second Edition ISBN 978-1-118-56723-4
@@ -92,26 +94,22 @@ Texts & Resources- LDRS 501A Strategic Leadership
 5. You can order these texts from the TWU Library \(ebook\), TWU Bookstore or alternate book or ebook supplier.
 
 |  |  | Reading Outline- LDRS 501 Strategic Leadership\* |
-| :--- | :--- | :--- |
-|  |  | **Week 0: Pre COURSE READING** |
+| :--- | :--- | :---: |
+|  |  | **   Week 0: Pre COURSE READING            \(start 4 weeks prior to course start\)** |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | All chapters for start of Week 3\*\* |
-| M. Ungerer, G. Ungerer, & J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | All chapters for start of Week 5\*\* |
-| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters for start Week 5\*\* |
-| R Lepsinger | _**Closing the Execution Gap**_ | All chapters for start of Week 8\*\* |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | All chapters\*\* - 2 chapters and 2         appendices per week - take notes for     personal insight and important            application   ideas |
+| M. Ungerer, G. Ungerer, & J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | All chapters\*\* - 3 chapters per week -  take notes for personal insight and      important application ideas. |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters\*\* - 4 chapters per week -  take notes for personal insight and      important application ideas |
+| R Lepsinger | _**Closing the Execution Gap**_ | All chapters\*\* - 2 chapters per week - take notes for personal insight and        important application ideas. |
 
-**\*NOTE:** Weekly reading material will appear in Blogged Discussion Question development throughout
+**\*NOTE:** Weekly reading material will appear in Blogged Discussion Question development throughout the course.
 
-the course.
+**\*\*NOTE:** This schedule allows for pre-reading texts prior to the course start date of May 1, 2018 \(the start of LDRS 501\).This is a paced approach to the materials covered.
 
-**\*\*NOTE:** You may pre-read all the books before MAY 1, 2018 _\(the start of LDRS 501\)._ What is
+#### **E resources for Pre Course Reading**
 
-suggested here is a paced approach to the material we will cover.
-
-E resources for Pre Course Reading
-
-* PPT W1\_Leading\_Strategically - Personal Learning and Leadership
-* PPT W1\_Critical\_Thinking
+* Leading Strategically - Personal Learning and Leadership
+* Critical Thinking - Critical Response
 * D O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy _**Stanford Social Innovation Review**_
 * **Personal research** for Forum and Assignment completion.
 
