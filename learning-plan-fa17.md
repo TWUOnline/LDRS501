@@ -73,9 +73,11 @@ By the end of this LDRS 501 course, learners will be able to:
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
 | **Week 0** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introductions | Before course begins MAY |
-| **Week 1** | READING, | ZOOM video-conference | See Course Announcements for video conferencing invitation, access code and web address. This is an open invitation to join the video conference any time between 16:00 - 19:00 PDT \(4pm - 7 pm\) |
+| **Week 1** | READING, | ZOOM video-conference - Learner Introcuctions, Learning Activity 1, plus Q&A | May 1, 2018 - 5 pm - 7 pm PDT - Learner Introductions - 5 pm - 6 pm. Book Development Learning Activity plusQ&A - 6 pm - 7 pm. The session will be recorded and distributed for those unable to connect directly to the session. |
 | **Week 1** | Personal Strategic Assessment | Individual Assignment 1 | Due MAY 6 @ 23:59 |
+| **Week 2** | Learning Activity 2 | Introduction ot BLOG 1 and Book Development Instruction plus Q&A | May 7, 2018 - 6 pm - 7pm PDT _\(optional F2F interaction can be arranged for those living within driving distance to the univeristy\)_ The session will be recorded and distributed following the session for those unable to connect directly to the session.  |
 | **Week 2** | Strategic Leadership Development | W2- BLOG1 | Due MAY 13 @ 23:59 |
+| Week 3 | Learning Activity 3 | Introduction to BLOG 2 and Book Development Instruction and Q&A | START - May 14, 2018 - 6 pm - 7pm PDT  |
 | **Week 3** | Strategic Leadership Development | W3- BLOG2 | Due MAY 20 @ 23:59 |
 | **Week 4** | Strategic Leadership Practice | W4- BLOG 3 | Due MAY 27 @ 23:59 |
 | **Week 4** | STRAT Assignment | TEAM Assignment 1 | Due MAY 27 @ 23:59 |
@@ -123,10 +125,11 @@ By the end of this LDRS 501 course, learners will be able to:
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 \(pp. 1-88\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 \(pp. xvii-23\) |
 
-E resource
+#### E resource
 
 * _Strategy Palette Framework_\(2015\)Boston Consulting Group
 * H Schachter \(2015\) _Five Approaches to Using a Strategy Palette_ Globe & Mail
+* **Personal research** for Forum and Assignment completion.
 
 |  |  | **Week 2 - Forum** |
 | :--- | :---: | :--- |
@@ -134,26 +137,23 @@ E resource
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
 | M. Ungerer, G. Ungerer $ J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 3-5 \(pp. 107-275\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Chapters 4-6 \(pp. 89-148\) |
-| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49\) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49 |
 
-* **Personal research** for Forum and Assignment completion.
+#### **E resources**
 
-E resources
-
-* **PPT** Top-Middle- Bottom
-* **PPT** AI Strategic Success
+* Top-Middle- Bottom
+* AI Strategic Success
 * C Bradley \(2012\) Managing the Strategic Journey _**McKinsey**_
+* **Personal research** for Forum and Assignment completion.
 
 |  |  | **Week 3- Forum** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | M. Ungerer, G. Ungerer & J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 6-7 \(pp. 277-364\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 \(pp. 149-216\) |
-| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72\) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72 |
 
-* **Personal research** for Forum and Assignment completion.
-
-E resources
+#### E resources
 
 * D Kahnernan & G Klein \(2010\) Strategic Decisions **McKinsey**
 * **Personal research** for Forum and Assignment completion.
@@ -165,9 +165,9 @@ E resources
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 \(pp. 74-98\) |
 
-E resources
+#### E resources
 
-* **PPT** Strategic Thinking – excerpts from D Atha
+* Strategic Thinking – D Atha
 * 20 Questions Directors Should Ask about Strategy, 3rd Edition** **_**Chartered**_** Accountants of Canada.**
 * J Barker \( 2012\) **Strategy Matrix Applications**
 * JW Schreier \(2012\) **SWOT Application Strategy Matrix**
@@ -180,17 +180,18 @@ E resources
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 5-Appendix \(pp. 99-212\) |
 
-E resources
+#### E resources
 
-* **PPT** Wave of Change
-* **PPT** Implications & Challenges - excerpt from D Atha
+* Wave of Change
+* Strategic Implications & Challenges - D Atha
+
 * D Lovallo \(2010\) Behavioural Strategy **McKinsey**
 
 | **Week 6 – ZOOM Video-conference & Forum** |
 | --- |
 
 
-E resources and Research
+#### E resources and Research
 
 * **Personal research** for Forum and Assignment completion.
 
@@ -198,15 +199,15 @@ E resources and Research
 | --- |
 
 
-E resources and Research
+#### E resources and Research
 
 * **Personal research** for Forum and Assignment completion.
 
-| Week 8 - Forum |
+| Week 8 - BLOG |
 | --- |
 
 
-E resources and Research
+#### E resources and Research
 
 * **Personal research** for Forum and Assignment completion.
 
