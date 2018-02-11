@@ -53,11 +53,12 @@ By the end of this LDRS 501 course, learners will be able to:
 2. **Evaluate**  
    organizational effectiveness as it relates to strategic leadership principles and practice.
 
-3. **Integrate and synthesize**   
+3. **Integrate and synthesize**  
    a broad range of LDRS 501 course materials to demonstrate leadership application.
 
-4. **Examine key strategic leadership applications**
+4. **Examine key strategic leadership applications**  
    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+
 5. **Develop the necessary skills for systemic and systematic inquiry**
    of strategic leadership issues related to your personal leadership development.
 6. **Integrate strategic leadership practice **
@@ -114,10 +115,10 @@ By the end of this LDRS 501 course, learners will be able to:
 * **Personal research** for Forum and Assignment completion.
 
 |  |  | **Week 1- READ, ZOOM Video-conference & Assignment 1** |
-| :--- | :--- | :--- |
-| Author | Text or Article | Chapters/Pages/Links |
+| :---: | :---: | :---: |
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 \(pp. 1-195\) |
-| R Rumelt | _**Good Strategy, Bad Strategy**_ | Intro and chapters 1-4 \(pp. 1-76\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Good Strategy, Bad Strategy**_ | Intro and chapters 1-4 \(pp. 1-76\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 \(pp. 1-88\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 \(pp. xvii-23\) |
 
@@ -130,7 +131,7 @@ E resource
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
-| R Rumelt | _**Good Strategy, Bad Strategy**_ | Chapters 5-8 \(pp. 77-123\) |
+| M. Ungerer, G. Ungerer $ J. Herholdt | _**Good Strategy, Bad Strategy**_ | Chapters 5-8 \(pp. 77-123\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Chapters 4-6 \(pp. 89-148\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49\) |
 
@@ -145,7 +146,7 @@ E resources
 |  |  | **Week 3- Forum** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Rumelt | _**Good Strategy, Bad Strategy**_ | Chapters 9-15 \(pp. 116-237\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Good Strategy, Bad Strategy**_ | Chapters 9-15 \(pp. 116-237\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 \(pp. 149-216\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72\) |
 
@@ -159,7 +160,7 @@ E resources
 |  |  | **Week 4 – Forum & TEAM Assignment 1** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Rumelt | _**Good Strategy, Bad Strategy**_ | Chapters 16-18 \(pp. 239-298\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Good Strategy, Bad Strategy**_ | Chapters 16-18 \(pp. 239-298\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 \(pp. 74-98\) |
 
