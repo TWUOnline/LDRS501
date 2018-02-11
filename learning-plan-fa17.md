@@ -132,7 +132,7 @@ E resource
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
-| M. Ungerer, G. Ungerer $ J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 5-8 \(pp. 77-123\) |
+| M. Ungerer, G. Ungerer $ J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 3-5 \(pp. 107-275\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Chapters 4-6 \(pp. 89-148\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49\) |
 
@@ -147,7 +147,7 @@ E resources
 |  |  | **Week 3- Forum** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| M. Ungerer, G. Ungerer & J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 9-15 \(pp. 116-237\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 6-7 \(pp. 277-364\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 \(pp. 149-216\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72\) |
 
@@ -161,7 +161,7 @@ E resources
 |  |  | **Week 4 – Forum & TEAM Assignment 1** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| M. Ungerer, G. Ungerer & J. Herholdt | **  Naviagting Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 16-18 \(pp. 239-298\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | **  Naviagting Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 8-9 \(pp. 365-438\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 \(pp. 74-98\) |
 
