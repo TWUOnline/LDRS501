@@ -14,105 +14,70 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
 
 **Assignment Parameters**
 
-1.Assess YOU as a strategic leader.
-
-```
+1. Assess YOU as a strategic leader.
     a. What is your general response to the circumstances YOU presently face in your life?
-
     b. How do YOU handle the stressors you face?
-```
 
-```
+
+
          i.Personal
 
         ii.Professional
-```
 
-```
        c. What are your wants and needs for changing or strengthening your responses?
-```
 
-```
          i.Personal
 
         ii.Professional
-```
 
-```
        d. What are your strengths and weakness with regard to the desired changes in your life?
-```
 
-```
         i.Personal
 
        ii.Professional
-```
+
 
 2. What personal mission, vision and values do you practice?
 
-```
    a. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the   
 
        mission, vision and values statements developed align with YOU and the future personal/professional development YOU 
 
        desire?
-```
-
-```
         i.Personal
 
        ii.Professional
 
       iii.Collectively
-```
 
 3. What key strategic drivers will help YOU create significant impact for achieving your potential?
 
-```
    a. What areas will YOU abandon for your future development?
 
    b. What areas will YOU excel in?
-```
-
-```
       i.Personal
 
      ii.Professional
-```
 
 4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how
 
     they align with your present/future success.
 
-```
     i.Personal
 
    ii.Professional
-```
 
 5. Conclude the assignment with an evaluative summary to be used in the development of an EBook for the class \(Discovery of
 
     Personal Strategic Leadership Practices: From Discovery to Influence. Volume 1\)
 
-```
-   a. Identifying some of the ‘old economy’ values YOU naturally practice and the outcome\(s\) you experienced and the ‘new 
+   a. Identifying some of the ‘old economy’ values YOU naturally practice and the outcome\(s\) you experienced and the ‘new economy’ values YOU need to adopt to create an effective personal/professional strategy and the outcome\(s\) YOU believe you will experience to improve your personal/professional strategy. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
 
-       economy’ values YOU need to adopt to create an effective personal/professional strategy and the outcome\(s\) YOU 
-
-        believe you will experience to improve your personal/professional strategy. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
-
-   b. Provide a personal assessment of needed personal development to become a better strategic leader based on your 
-
-       review of the chapter 1 material. \(Hughes, Beatty and Dinwoodie, pp 21-51\)
+   b. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dinwoodie, pp 21-51\)
 
    c. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
-```
 
-**NOTE: ** The assignment should not exceed 10 double spaced pages plus cover page and reference
-
-```
-     page(s). Substantive, Succinct and Cited.
-```
+**NOTE: ** The assignment should not exceed 10 double spaced pages plus cover page and reference page(s). Substantive, Succinct and Cited.
 
 
 
