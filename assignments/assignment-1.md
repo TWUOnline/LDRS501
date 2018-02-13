@@ -14,13 +14,13 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
 
 **Assignment Parameters**
 
-1. Assess YOU as a strategic leader.
+1.Assess YOU as a strategic leader.
 
-   ```
-       a. What is your general response to the circumstances YOU presently face in your life?
+```
+    a. What is your general response to the circumstances YOU presently face in your life?
 
-       b. How do YOU handle the stressors you face?
-   ```
+    b. How do YOU handle the stressors you face?
+```
 
 ```
          i.Personal
@@ -110,7 +110,9 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
 
 **NOTE: ** The assignment should not exceed 10 double spaced pages plus cover page and reference
 
-             page\(s\). Substantive, Succinct and Cited.
+```
+     page(s). Substantive, Succinct and Cited.
+```
 
 
 
