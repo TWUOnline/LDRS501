@@ -42,7 +42,7 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
        ii.Professional
 ```
 
-2. What personal mission, vision and values do you practice?
+1. What personal mission, vision and values do you practice?
 
 * If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
 
