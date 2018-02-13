@@ -14,37 +14,45 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
 
 **Assignment Parameters**
 
-1. Assess YOU as a strategic leader.  
+1. Assess YOU as a strategic leader.
 
 * What is your general response to the circumstances YOU presently face in your life?
 
 * How do YOU handle the stressors you face?
 
-               i.Personal
+```
+         i.Personal
 
-              ii.Professional
+        ii.Professional
+```
 
 * What are your wants and needs for changing or strengthening your responses?
 
-               i.Personal
+```
+         i.Personal
 
-              ii.Professional
+        ii.Professional
+```
 
 * What are your strengths and weakness with regard to the desired changes in your life?
 
-              i.Personal
+```
+        i.Personal
 
-             ii.Professional
+       ii.Professional
+```
 
 2. What personal mission, vision and values do you practice?
 
 * If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
 
-              i.Personal
+```
+        i.Personal
 
-             ii.Professional
+       ii.Professional
 
-            iii.Collectively
+      iii.Collectively
+```
 
 3. What key strategic drivers will help YOU create significant impact for achieving your potential?
 
@@ -52,15 +60,19 @@ Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli 
 
 * What areas will YOU excel in?
 
-            i.Personal
+```
+      i.Personal
 
-           ii.Professional
+     ii.Professional
+```
 
 4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
 
-           i.Personal
+```
+    i.Personal
 
-          ii.Professional
+   ii.Professional
+```
 
 5. Conclude the assignment with an evaluative summary to be used in the development of an EBook for the class \(Discovery of Personal Strategic Leadership Practices: From Discovery to Influence. Volume 1\)
 
