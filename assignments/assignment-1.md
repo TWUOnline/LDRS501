@@ -8,76 +8,46 @@
 
 #### **Submission Due:Sunday May 6 at 23:59 PDT**
 
-This assignment is an assessment of your Personal and Individual Strategic Development. This assignment is submitted in Word doc only. Submission to an EBook format will be determined and discussed durng weekly ZOOM Video Learning Activities throughout the course.
+This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization.
 
-Using the materials outlined inchapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 21-51\) and Marius Ungerer, Gerard Ungerer & Johan Herholdt \(2011\) Naviagting strategic possibilities: strategic formulation and execution practices to flourish. KR Publishing: South Africa, \(pp. xiii-105\) you will:
+This assignment is submitted in the PressBooks environment as the First Chapter of the Book Project completed for this course. All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the matewrail and receiving grading suggestions from the class.
 
-**Assignment Parameters**
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
+
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Richard Rumelt \(2011\) _Good Strategy, Bad Strategy._ Crown Publishing, you will:
+
+#### **Assignment Parameters**
 
 1. Assess YOU as a strategic leader.
-    a. What is your general response to the circumstances YOU presently face in your life?
-    b. How do YOU handle the stressors you face?
-
-
-
-         i.Personal
-
-        ii.Professional
-
-       c. What are your wants and needs for changing or strengthening your responses?
-
-         i.Personal
-
-        ii.Professional
-
-       d. What are your strengths and weakness with regard to the desired changes in your life?
-
-        i.Personal
-
-       ii.Professional
-
-
+   1. What is your general response to the circumstances YOU presently face in your life?
+   2. How do YOU handle the stressors you face?
+      1. Personal
+      2. Professional
+   3. What are your wants and needs for changing or strengthening your responses?
+      1. Personal
+      2. Professional
+   4. What are your strengths and weakness with regard to the desired changes in your life?
+      1. Personal
+      2. Professional
 2. What personal mission, vision and values do you practice?
-
-   a. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the   
-
-       mission, vision and values statements developed align with YOU and the future personal/professional development YOU 
-
-       desire?
-        i.Personal
-
-       ii.Professional
-
-      iii.Collectively
-
+   1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
+      1. Personal
+      2. Professional
+      3. Collectively
 3. What key strategic drivers will help YOU create significant impact for achieving your potential?
+   1. What areas will YOU abandon for your future development?
+   2. What areas will YOU excel in?
+      1. Personal
+      2. Professional
+4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
+   * 1. Personal
+     2. Professional
+5. Conclude the assignment:
+   1. Identify some ‘old economy’ thinking YOU continue to use in your leadership practice  and the outcome\(s\) you experienced. Include how you plan changing those habits to 'new economy' thinking to create an effective personal/professional strategy and the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\) 
+   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
+   3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 
-   a. What areas will YOU abandon for your future development?
+**NOTE:** _The assignment should not exceed 10 double spaced pages plus cover page and reference page\(s\). Substantive, Succinct _
 
-   b. What areas will YOU excel in?
-      i.Personal
-
-     ii.Professional
-
-4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how
-
-    they align with your present/future success.
-
-    i.Personal
-
-   ii.Professional
-
-5. Conclude the assignment with an evaluative summary to be used in the development of an EBook for the class \(Discovery of
-
-    Personal Strategic Leadership Practices: From Discovery to Influence. Volume 1\)
-
-   a. Identifying some of the ‘old economy’ values YOU naturally practice and the outcome\(s\) you experienced and the ‘new economy’ values YOU need to adopt to create an effective personal/professional strategy and the outcome\(s\) YOU believe you will experience to improve your personal/professional strategy. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
-
-   b. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dinwoodie, pp 21-51\)
-
-   c. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
-
-**NOTE: ** The assignment should not exceed 10 double spaced pages plus cover page and reference page(s). Substantive, Succinct and Cited.
-
-
+_             and Cited._
 
