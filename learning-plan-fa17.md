@@ -75,11 +75,11 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 0  - April 30 - 23:59** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introduction BLOG | Before course begins MAY |
 | **Week 1 - May 1-6** | Video Introductions, Learning Activity 1, plus Q&A | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm**. Assignment 1 Review - **6 pm - 6:30 pm**. Book Development Learning Activity plus Q&A - **6:30 pm - 7 pm**. _\(optional F2F interaction can be arranged for those living_ _within driving distance to the university\)_           The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 1 - May 1-6** | Personal Strategic Assessment | Individual Assignment 1 | Due **MAY 6 @ 23:59** |
-| **Week 2 - May 1-7** | Learning Activity 2  | Book Development Instruction  | Available** May 7, 2018 ** |
+| **Week 2 - May 1-7** | Learning Activity 2 | Book Development Instruction | Available** May 7, 2018 ** |
 | **Week 2 - May 7-13** | Strategic Leadership Development | Week 2- BLOG 1 | Due **MAY 13 @ 23:59** |
 | **Week 3 - May 14-20** | Learning Activity 3 | Book Development Instruction | Available** May 14, 2018** |
 | **Week 3 - May 14-20** | Strategic Leadership Development | Week 3- BLOG 2 | Due **MAY 20 @ 23:59** |
-| **Week 4 - May 21-27** | Learning Activity 4  | Book Development Instruction | Available** May 22, 2018** |
+| **Week 4 - May 21-27** | Learning Activity 4 | Book Development Instruction | Available** May 22, 2018** |
 | **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- BLOG 3 | Due **MAY 27 @ 23:59** |
 | **Week 4 - May 21-27** | STRAT Assignment | TEAM Assignment 1 | Due **MAY 27 @ 23:59** |
 |  |  |  | **READING WEEK – MAY 28-JUNE 3** |
@@ -242,21 +242,23 @@ By the end of this LDRS 501 course, learners will be able to:
 
 #### **You may expect feedback on assignments in one week or less from the submission.**
 
-* **TEAM ASSIGNMENT in Week 4, Week 7 and Week 10 \(presentation and individual assessment\)**
-* **INDIVIDUAL ASSIGNMENTS in Week 1**
-* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(TEAM\), W7 and W8.**
+* **TEAM ASSIGNMENT in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
+* **INDIVIDUAL ASSIGNMENTS in Week 1\(for addition to Open Source Book\) - Peer reviewed grading in effect.**
+* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(TEAM\), W7 and W8. - Instructor grading in effect.**
 
 #### GRADING:
 
-Your grades will be uploaded to the electronic Grade book on learn.twu.ca.You will receive individualized feedback on your Forums team posts and individual posts at the end of each Forum week.
+Your completed grades will be uploaded to the electronic Grade book in WordPress.You will receive individualized instructor feedback on team and individual BLOG posts at the end of each Forum week.
 
-**You will receive individual feedback on your course assignments.**
+**You will receive individual feedback on course assignments.**
 
-Assignments will be graded on the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
+Because this course involves interviews and interaction with real time organizations and the development of an open source book chronicling the progress of the course work, the open source book created by the class will represent the body of material prepared for distribution by the class.
 
-LATE ASSIGNMENTS POLICY:As this course is designed to build strategic leadership application cumulatively, it will be very disruptive to have late assignments. Assignments will receive deductions of 15% per day for each day that they are delayed being submitted.
+Assignments will be awarded after peer review and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
-ALL course work must be submitted for final grading within 3 days following the course end date. The instructor has to submit grades to the Registrar.
+LATE ASSIGNMENTS POLICY: As this course is designed to build strategic leadership application cumulatively, it will be very disruptive to have late assignments. Assignments will receive deductions of 15% per day for each day they are delayed.
+
+ALL course work must be submitted for final grading within 3 days following the course end date without penalty. The instructor must submit grades to the Registrar within 10 days of the course end date.
 
 **Week 1**
 
@@ -300,7 +302,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    1. Identifying some ‘bad strategy’ markers YOU used previously to create an effective personal/professional strategy and the outcome\(s\) you experienced. \(Rumelt, pp. 32-57\)
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
    3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
-
+6. 
 **NOTE:** _The assignment should not exceed 10 double spaced pages plus cover page and reference_
 
 _page\(s\). Substantive, Succinct and Cited._
