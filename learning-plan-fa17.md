@@ -268,7 +268,11 @@ ALL course work must be submitted for final grading within 3 days following the 
 
 **Submission Due: Sunday May 6 at 23:59 PDT**
 
-This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization. This assignment is submitted in Word doc only.
+This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization. 
+
+This assignment is submitted in the PressBooks environment as the First Chapter of the Book Project completed for this course. All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the matewrail and receiving grading suggestions from the class. 
+
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
 Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Richard Rumelt \(2011\) _Good Strategy, Bad Strategy._ Crown Publishing, you will:
 
@@ -302,10 +306,10 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    1. Identifying some ‘bad strategy’ markers YOU used previously to create an effective personal/professional strategy and the outcome\(s\) you experienced. \(Rumelt, pp. 32-57\)
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
    3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
-6. 
-**NOTE:** _The assignment should not exceed 10 double spaced pages plus cover page and reference_
 
-_page\(s\). Substantive, Succinct and Cited._
+**NOTE:** _The assignment should not exceed 10 double spaced pages plus cover page and reference page\(s\). Substantive, Succinct _
+
+  _          and Cited._
 
 **WEEK 4**
 
