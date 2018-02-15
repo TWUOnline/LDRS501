@@ -412,7 +412,7 @@ The PressBooks material must include descriptive notes where the graphics do not
 2. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization forfor the end of week 4 _\(May 27\)_
 3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _\(June 3\)_
 4. Compile findings and results by the end of Week 6 _\(June 10\)_
-5. TEAM LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(November 19\)_
+5. TEAM LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(June 17\)_
 
 **\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
