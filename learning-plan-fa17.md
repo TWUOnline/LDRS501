@@ -273,7 +273,7 @@ ALL course work must be submitted for final grading within 3 days following the 
 1. An assessment of your Personal and Individual Strategic Development.
 2. Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course.  
 
-All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
+All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
