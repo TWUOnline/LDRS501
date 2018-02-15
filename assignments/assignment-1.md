@@ -8,13 +8,13 @@
 
 #### **Submission Due:Sunday May 6 at 23:59 PDT**
 
-This assignment is an assessment of your Personal and Individual Strategic Development through the lens of YOU being a strategic organization.
+This assignment is an assessment of your Personal and Individual Strategic Development .
 
-This assignment is submitted in the PressBooks environment as the First Chapter of the Book Project completed for this course. All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the matewrail and receiving grading suggestions from the class.
+This assignment is submitted in the PressBooks environment as the First Chapter of the Book Project completed for this course. All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
-Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Richard Rumelt \(2011\) _Good Strategy, Bad Strategy._ Crown Publishing, you will:
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\)._ Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, \(pp. xiii-105\) you will:
 
 #### **Assignment Parameters**
 
