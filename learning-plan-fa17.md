@@ -338,37 +338,43 @@ Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David D
 
 2. Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 291-298\) the team leader will lead the team through the exercise by accomplishing the following tasks:
 
-          a. Work with the team to develop a team name.
+   ```
+      a. Work with the team to develop a team name.
 
-          b. Prepare and distribute the team tool to team members.
+      b. Prepare and distribute the team tool to team members.
 
-          c. Score the results of the STRAT Assessment so the team can make sense of them.
+      c. Score the results of the STRAT Assessment so the team can make sense of them.
 
-          d. Review the results with the team.
+      d. Review the results with the team.
+   ```
 
    3. In Debriefing the exercise, outline your findings for the team.
 
-          a. The team STRAT scoring:
+   ```
+   a. The team STRAT scoring:
 
-                  i. Average ratings only \(p. 293\)
+           i. Average ratings only \(p. 293\)
 
-           b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many 
+    b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many 
 
-               applicable sections of the process as are relevant for your team.
+        applicable sections of the process as are relevant for your team.
+   ```
 
-    4. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due 
+   4. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due
 
-        date.
+   date.
 
 **THE TEAM WILL:**
 
-    1\) Connect as a TEAM during Week 1 of LDRS 501. \(May 1-6\)
+```
+1) Connect as a TEAM during Week 1 of LDRS 501. (May 1-6)
 
-    2\) The team will develop their Strategy for meeting and reviewing material by the end of Week 2 \(May 7-13\)
+2) The team will develop their Strategy for meeting and reviewing material by the end of Week 2(May 7-13)
 
-    3\)The team will gather their findings and prepare for the development of the PressBook materials. \(May 14-20\)
+3)The team will gather their findings and prepare for the development of the PressBook materials.(May 14-20)
 
-    4\)The team will complete the PressBook materials for submission to the PressBooks environment. \(May 21-27\)
+4)The team will complete the PressBook materials for submission to the PressBooks environment. (May 21-27)
+```
 
 **\*NOTE**: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
 
