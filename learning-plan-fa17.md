@@ -226,16 +226,16 @@ By the end of this LDRS 501 course, learners will be able to:
 | :--- | :--- | :--- | :--- |
 | Assignment | Due | Post | % of Grade |
 | **Introductory BLOG** | May 1 @ 23:59 PDT | Learner Introduction BLOG | 5% |
-| **W1 Individual Assignment 1** | May 6 @ 23:59 PDT | Drop Box | 10% |
+| **W1 Individual Assignment 1** | May 6 @ 23:59 PDT | PressBooks Environment | 10% |
 | **W2 BLOG post** | May 13 @ 23:59 PDT | BLOG 1 | 5% |
 | **W3 BLOG posts** | May 20 @ 23:59 PDT | BLOG 2 | 5% |
 | **W4 BLOG posts** | May 27 @ 23:59 PDT | BLOG 3 | 5% |
-| **W4 TEAM Assignment 1** | May 27 @ 23:59 PDT | Drop Box | 15% |
+| **W4 TEAM Assignment 1** | May 27 @ 23:59 PDT | PressBooks Environment | 15% |
 | **W6 TEAM BLOG post** | June 10 @ 23:59 PDT | BLOG 4 | 5% |
 | **W7 BLOG Posts** | June 17 @ 23:59 PDT | BLOG 5 | 5% |
 | **W8 BLOG Posts** | June 24 @ 23:59 PDT | BLOG 6 | 5% |
-| **W8 TEAM Assignment 2** | June 24 @ 23:59 PDT | Drop Box | 15% |
-| **W10** | July 6 @ 23:59 PDT | Drop Box | 25% |
+| **W8 TEAM Assignment 2** | June 24 @ 23:59 PDT | PressBooks Environment | 15% |
+| **W10** | July 6 @ 23:59 PDT | PressBooks Environment | 25% |
 |  |  |  | 100% |
 
 #### FEEDBACK ON ASSIGNMENTS:
