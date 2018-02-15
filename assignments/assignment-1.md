@@ -8,9 +8,12 @@
 
 #### **Submission Due:Sunday May 6 at 23:59 PDT**
 
-This assignment is an assessment of your Personal and Individual Strategic Development .
+**This assignment is:**
 
-This assignment is submitted in the PressBooks environment as the First Chapter of the Book Project completed for this course. All assignemnts will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
+1. An assessment of your Personal and Individual Strategic Development.
+2. Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course. 
+
+All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
