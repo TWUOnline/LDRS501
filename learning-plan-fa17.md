@@ -344,10 +344,10 @@ Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David D
    a. The team STRAT scoring:  
      i. Average ratings only \(p. 293\)
 
-   b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many  
+b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many  
    applicable sections of the process as are relevant for your team.
 
-4. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due  
+1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due  
 
 date.
 
@@ -379,15 +379,13 @@ SWOT Analysis however, is in declining use as are **Brain storming** processes \
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
-A newer process focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process called **Brain swarming** and represents a different approach to the discipline of strategic thinking. \(see [https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)\)
+A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking. \(see [https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)\)
 
-Brain swarming asserts it is unproductive to gather everyone in a room to force a solution in an environment that is not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:
+Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:
 
 **Why do we need to talk in the first place?**
 
-**Brain Swarming** asserts it is unproductive to gather everyone in a room to force a solution in an environment that might not be suitable for everyone.
-
-How brain swarming works:
+##### How brain swarming works:
 
 * Learning outcomes are defined, then refined into cluster groups.
 * Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team
@@ -403,22 +401,20 @@ You can use a brainstorming or brain swarming approaches for reviewing the quest
 
 Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above. The analysis will use Lepsinger’s \(2010\) 6 Bridge Builders \(pp. 25-203\) and the questions contained in Hughes, Beatty and Dinwoodie \(2014\) - Exhibits 3.5, 3.6, 3.7 \(pp. 130-133\) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.
 
-The TEAM LEAD will assign all materials the team reviews and is responsible for submitting the finalized PPT or Prezi for grading.
+The TEAM LEAD _\(or a team agreed designate_\) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
 
-The ppt or Prezi must include descriptive notes where the graphics do not explain the material fully and include a clear reference page citing all reference materials used in the presentation.
+The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 
 **THE TEAM WILL:**
 
-1. Select an organization to review using a SWOT analysis.\* _\(The organization can be fictional or actual that team members have awareness of.\)_
-   1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(October 11\)_
-2. The team will develop their SWOT Questions for the end of week 4 _\(October 22\)_
-3. The team will review the 4 quadrants by the end of Week 5 _\(October 29\)_
-4. Results compiled - by Week 6 _\(November 5\)_
-5. TEAM LEAD will post PPT/Prezi/Video\*\* Presentation and the Reference List to the assigned Drop Box by the Week 8 due date _\(November 19\)_
+1. Select an organization to review using a SWOT analysis. _\(The organization can be fictional or actual that team members have awareness of.\)_
+   1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(May 16\)_
+2. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization forfor the end of week 4 _\(May 27\)_
+3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _\(June 3\)_
+4. Compile findings and results by the end of Week 6 _\(June 10\)_
+5. TEAM LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(November 19\)_
 
-**\*NOTE:** _As the application process for human study research is required to be submitted to REB on campus prior to conducting interviews where personal information is compiled and disseminated, the information you glean for your organizational review will need to be compiled from publicly available research or personal information shared by a team member. \(TWU REB Policy 3.1 a&b\) There are many organizations with excellent public profiles for you to choose from. Research well, focus clearly and gather information intentionaLly._
-
-**\*\*NOTE**_: PPT is a maximum of 21 slides \(don’t forget the notes pages are usable\), PREZI’s will be a maximum of 60 stations \(use separate notes to explain what the visual presentations miss\), or Video 5 minutes max \(make a YouTube video, upload it and send only the link to the Virtual Collegium \(for viewing\). All references must appear on the credits page or submitted as an APA compliant WORD doc to the assignment drop box\)._
+**\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
 **WEEK 10 – STRATEGIC INFLUENCE ASSIGNMENT 5 \(25%\)**
 
