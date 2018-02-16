@@ -430,17 +430,19 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
       interviewed in TEAM Assignment 2.
    ```
 
-* _The article should represent what makes them proud of their organization three or four years from now._
+                           _ i.  The article should represent what makes them proud of their organization three or four years from now._
 
-* _Write the article so:_
+_                           ii. Write the article so:_
 
-*   _        It tells the story of the organization’s success._
-*   _        It evokes feelings of pride when you read it._
-*           _It conveys the kind of organization \_they are and what they've accomplished._
+_                                       a. It tells the story of the organization’s success._
 
-*   _                      You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, _
+_                                       b. It evokes feelings of pride when you read it._
 
-  _                              quotes and corporate stories._
+_                                      c.  It conveys the kind of organization \_they are and what they've accomplished._
+
+_                                                     I. You will want to cite as much supporting material as you can to support your assertions, along             _
+
+  _                                                      with anecdotes, quotes and corporate stories._
 
 ```
   b. Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan 
@@ -448,21 +450,27 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
       the organization you interviewed in TEAM Assignment 2.
 ```
 
-3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process 
+1. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
 
-    at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the 
+   at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the
 
-    strategic influence you see the organization developing..
+   strategic influence you see the organization developing..
 
-       a. _ If none of the designs listed in Galbraith fit the organization’s future, following the implementation of the strategic _
+   ```
+   a. _ If none of the designs listed in Galbraith fit the organization’s future, following the implementation of the strategic _
+   ```
 
 _            influence you see the organization you interviewed developing; _
 
-                      _i. State why the described designs do not fit and describe your vision of the organization’s future in terms of another _
+```
+                  _i. State why the described designs do not fit and describe your vision of the organization’s future in terms of another _
+```
 
 _                         suggested design for operating._
 
-        b. _ Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in TEAM _
+```
+    b. _ Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in TEAM _
+```
 
 _             Assignment 2._
 
