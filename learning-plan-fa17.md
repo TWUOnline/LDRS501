@@ -430,7 +430,10 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
       interviewed in TEAM Assignment 2.
    ```
 
-                           _ i.  The article should represent what makes them proud of their organization three or four years from now._
+   ```
+           i.  The article should represent what makes them proud of their organization three or four years 
+               from now.
+   ```
 
 _                           ii. Write the article so:_
 
@@ -442,7 +445,7 @@ _                                      c.  It conveys the kind of organization \
 
 _                                                     I. You will want to cite as much supporting material as you can to support your assertions, along             _
 
-  _                                                      with anecdotes, quotes and corporate stories._
+_                                                      with anecdotes, quotes and corporate stories._
 
 ```
   b. Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan 
@@ -450,29 +453,26 @@ _                                                     I. You will want to cite a
       the organization you interviewed in TEAM Assignment 2.
 ```
 
-1. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
+3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
 
-   at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the
+    at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the
 
-   strategic influence you see the organization developing..
-
-   ```
-   a. _ If none of the designs listed in Galbraith fit the organization’s future, following the implementation of the strategic _
-   ```
-
-_            influence you see the organization you interviewed developing; _
+    strategic influence you see the organization developing..
 
 ```
-                  _i. State why the described designs do not fit and describe your vision of the organization’s future in terms of another _
+   a. If none of the designs listed in Galbraith fit the organization’s future, following the implementation of 
+      the strategic influence you see the organization you interviewed developing.
 ```
 
-_                         suggested design for operating._
+```
+       i. State why the described designs do not fit and describe your vision of the organization’s future in 
+          terms of another suggested design for operating.
+```
 
 ```
-    b. _ Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in TEAM _
+    b. Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in 
+       TEAM Assignment 2.
 ```
-
-_             Assignment 2._
 
 1. You may use any available documentation you can access about your organization to obtain the needed information for the assignment.  
    1. _You may also use:_
