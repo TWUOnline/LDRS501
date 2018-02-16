@@ -426,32 +426,29 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
 2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in TEAM Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
         a. From p. 76 – write a one-page newspaper article portraying your vision and aspirations for the organization you
 
-   ```
       interviewed in TEAM Assignment 2.
-   ```
+   
 
-   ```
+   
            i.  The article should represent what makes them proud of their organization three or four years 
                from now.
-   ```
+   
+                           ii. Write the article so:_
 
-_                           ii. Write the article so:_
+                                       a. It tells the story of the organization’s success.
+                                       b. It evokes feelings of pride when you read it.
 
-_                                       a. It tells the story of the organization’s success._
+                                      c.  It conveys the kind of organization \_they are and what they've accomplished.
 
-_                                       b. It evokes feelings of pride when you read it._
-
-_                                      c.  It conveys the kind of organization \_they are and what they've accomplished._
-
-_                                                     I. You will want to cite as much supporting material as you can to support your assertions, along             _
+                                                     I. You will want to cite as much supporting material as you can to support your assertions, along             _
 
 _                                                      with anecdotes, quotes and corporate stories._
 
-```
+
   b. Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan 
 
       the organization you interviewed in TEAM Assignment 2.
-```
+
 
 3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
 
@@ -459,28 +456,29 @@ _                                                      with anecdotes, quotes an
 
     strategic influence you see the organization developing..
 
-```
+
    a. If none of the designs listed in Galbraith fit the organization’s future, following the implementation of 
       the strategic influence you see the organization you interviewed developing.
-```
 
-```
+
+
        i. State why the described designs do not fit and describe your vision of the organization’s future in 
           terms of another suggested design for operating.
-```
 
-```
+
     b. Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in 
        TEAM Assignment 2.
-```
 
-1. You may use any available documentation you can access about your organization to obtain the needed information for the assignment.  
+
+4. You may use any available documentation you can access about your organization to obtain the needed information for the assignment.  
    1. _You may also use:_
 
-   * _Any other course materials to support your evaluation and development of your strategic influences within your organization._
+   * Any other course materials to support your evaluation and development of your strategic influences within your organization.
    * Any other research materials you find to _support your evaluation and development of your strategic influences within your organization_
 
-2. _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
+5. Your assignment with utilize APA 6th edition throughout including a cover page and reference page.
+
+6. The TEAM LEAD (or the TEAM approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by the Week 10 due date (July 6)
 
 **NOTE:** _The assignment should not exceed 15 double spaced pages plus cover page, reference page\(s\) and Appendices. PPT is a maximum of 30 slides \(don’t forget the notes pages are usable\), PREZI’s will be a maximum of 80 stations \(use separate notes to explain what the visual presentations miss\), or Video 10 minutes max \(make a YouTube video, upload it and send only the link to the Virtual Collegium \(for viewing\). All references must appear on the credits page and submitted as an APA compliant WORD doc \[cover page and references page\] to the assignment drop box\).Substantive, Succinct and Cited._
 
