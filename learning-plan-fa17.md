@@ -416,11 +416,11 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 **\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
-**WEEK 10 – STRATEGIC INFLUENCE ASSIGNMENT 5 \(25%\)**
+**WEEK 10 – STRATEGIC INFLUENCE TEAM ASSIGNMENT 3 \(25%\)**
 
 **DUE DATE: July 6 @ 23:59 PST**
 
-Your FINAL ASSIGNMENTis an individual essay shaped by the course material and readings. Each learner will focus on a specific organization:
+Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material and readings. Each TEAM will enter their materials into the PressBooks environment to complete assignment requirements. Each TEAM will focus on the organization interviewed in TEAM Assignment 2:
 
 1. Looking at your present organization, evaluate your strategic influence in the organization and how you will develop further influence for the future.
 2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review your strategic influence within the organization you presently serve and prepare a complete assessment of your present strategic influence and the development of your future strategic influence using the following materials and questions:
