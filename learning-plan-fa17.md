@@ -422,7 +422,7 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material and readings. Each TEAM will enter their materials into the PressBooks environment to complete assignment requirements. Each TEAM will focus on the organization interviewed in TEAM Assignment 2:
 
-1. Looking at your present organization, evaluate your strategic influence in the organization and how you will develop further influence for the future.
+1. Looking at the organization your TEAM interviewed in TEAM Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
 2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review your strategic influence within the organization you presently serve and prepare a complete assessment of your present strategic influence and the development of your future strategic influence using the following materials and questions:
    1. From p. 76 – write a one-page newspaper article portraying your vision and aspirations for your organization.
       * _The article should represent what would make you proud to be able to say about your organization three or four years from now._
