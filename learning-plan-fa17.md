@@ -423,25 +423,38 @@ The PressBooks material must include descriptive notes where the graphics do not
 Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material and readings. Each TEAM will enter their materials into the PressBooks environment to complete assignment requirements. Each TEAM will focus on the organization interviewed in TEAM Assignment 2:
 
 1. Looking at the organization your TEAM interviewed in TEAM Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
-2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review your strategic influence within the organization you presently serve and prepare a complete assessment of your present strategic influence and the development of your future strategic influence using the following materials and questions:
-   1. From p. 76 – write a one-page newspaper article portraying your vision and aspirations for your organization.
-      * _The article should represent what would make you proud to be able to say about your organization three or four years from now._
-      * _Write the article so:_
-        * _It tells the story of your organization’s success._
-        * _It evokes feelings of pride when you read it._
-        * _It conveys the kind of organization you work for and what it has accomplished.\_\_\_
+2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in TEAM Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
+        a. From p. 76 – write a one-page newspaper article portraying your vision and aspirations for the organization you 
 
-_You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories._
+                 interviewed in TEAM Assignment 2.
 
-* * 1. _Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan for you in your present organization. \(15 double spaced pages maximum\)_
-  * Once you complete your assessment use Chapters 6-9 of Galbraith’s _Designing Organizations: Strategy, Structure and Process at the Business Unit Levels_ \(pp. 131-216\) to identify/determine what type of organizational design is best served by the strategic influence you see yourself developing in the organization.
-    1. _If none of the designs listed in Galbraith fit the organization’s future following the implementation of the strategic influence you see yourself developing; state why they do not fit and describe your vision of the organization’s future in terms of another suggested design for operating._
-    2. _Feel free to create a workable hybrid you can add to your organizational practice for the organization you work with._
-  * You may use any available documentation you can access about your organization to obtain the needed information for the assignment.
-    1. _You may also use:_
-       * _Any other course materials to support your evaluation and development of your strategic influences within your organization._
-       * Any other research materials you find to _support your evaluation and development of your strategic influences within your organization_
-  * _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
+* _The article should represent what makes them proud of their organization three or four years from now._
+* _Write the article so:_
+  * _It tells the story of the organization’s success._
+  * _It evokes feelings of pride when you read it._
+  * _It conveys the kind of organization _they are and what they've accomplished.
+
+
+  * _You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories._
+
+          b. Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan 
+
+              the organization you interviewed in TEAM Assignment 2.
+
+3. Once you complete your assessment use Chapters 6-9 of Galbraith’s _Designing Organizations: Strategy, Structure and Process _
+
+  _  at the Business Unit Levels_ \(pp. 131-216\) to identify/determine what type of organizational design is best served by the 
+
+    strategic influence you see yourself developing in the organization.
+
+1. _If none of the designs listed in Galbraith fit the organization’s future following the implementation of the strategic influence you see yourself developing; state why they do not fit and describe your vision of the organization’s future in terms of another suggested design for operating._
+2. _Feel free to create a workable hybrid you can add to your organizational practice for the organization you work with._
+
+* You may use any available documentation you can access about your organization to obtain the needed information for the assignment.
+  1. _You may also use:_
+     * _Any other course materials to support your evaluation and development of your strategic influences within your organization._
+     * Any other research materials you find to _support your evaluation and development of your strategic influences within your organization_
+* _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
 
 **NOTE:** _The assignment should not exceed 15 double spaced pages plus cover page, reference page\(s\) and Appendices. PPT is a maximum of 30 slides \(don’t forget the notes pages are usable\), PREZI’s will be a maximum of 80 stations \(use separate notes to explain what the visual presentations miss\), or Video 10 minutes max \(make a YouTube video, upload it and send only the link to the Virtual Collegium \(for viewing\). All references must appear on the credits page and submitted as an APA compliant WORD doc \[cover page and references page\] to the assignment drop box\).Substantive, Succinct and Cited._
 
