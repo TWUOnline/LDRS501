@@ -34,7 +34,7 @@ Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David D
 
 b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many applicable sections of the process as are relevant for your team.
 
-4. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due  
+1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due  
 
 date.
 
@@ -49,4 +49,8 @@ date.
 4\)The team will complete the PressBook materials for submission to the PressBooks environment. \(May 21-27\)
 
 **\*NOTE**: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
+
+\[link to PressBooks instruction here\]
+
+\[link to PressBooks files for insertion of materials here\]
 
