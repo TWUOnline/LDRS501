@@ -18,55 +18,28 @@ As you review the ideas of personal learning and leadership, it is important you
 
 Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
 
-What did you like about the summary? Why?
+\[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv\_KS\](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS\)\]
 
-What didn’t you like about it? Why?
+Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
-What was your greatest learning from the summary?
+* What did you like about the summary? Why?
+* What didn’t you like about it? Why?
+* What was your greatest learning from the summary?
+* What frame of mind were you in when you read it?
+* So, what does leadership mean to you?
+  * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
-What frame of mind were you in when you read it?
+Leadership is something people grant you or don't grant you.
 
-So, what does leadership
+* Who have you been granted leadership in your life, what were the circumstances?
 
-mean to you?
+##### Definitions of Leadership
 
-What are couple of key points that come up for you in that conversation?
+_The only definition of a leader is someone who has followers. _\(Drucker, P. \(1996\). Leader of the Future. San Francisco: Jossey-Bass.\)
 
-Leadership is something people grant you or not.
+_Leadership is influence - nothing more, nothing less_. \(Maxwell, J. \(1998\). The 21 Irrefutable Laws of Leadership.
 
-Who have you been granted leadership in your life, what were the circumstances?
-
-Definitions of Leadership
-
-The only definition of a leader is someone who has followers.
-
-Drucker, P. \(1996\).
-
-Leader of the Future.
-
-San Francisco: Jossey-Bass.
-
-Definitions of Leadership
-
-Leadership is influence -
-
-nothing more, nothing less.
-
-Maxwell, J. \(1998\).
-
-The 21 Irrefutable Laws of Leadership.
-
-Definitions of Leadership
-
-```
-The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?
-```
-
-Greenleaf, R. \(1991\).
-
-The servant as leader.
-
-Indianapolis: The Greenleaf Center.
+_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. \(1991\). The servant as leader. Indianapolis: The Greenleaf Center.
 
 Systemic Leadership
 
