@@ -50,5 +50,9 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
    3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 
-**NOTE:** _Substantive, Succinct and Cited. Mic Drop_
+**NOTE:** _Substantive, Succinct and Cited._
+
+\[link to PressBooks instruction here\]
+
+\[link to PressBooks files for insertion of materials here\]
 
