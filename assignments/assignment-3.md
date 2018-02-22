@@ -53,3 +53,7 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 **\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
+\[link to PressBooks instruction here\]
+
+\[link to PressBooks files for insertion of materials here\]
+
