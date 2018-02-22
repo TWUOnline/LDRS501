@@ -29,9 +29,10 @@ Once you read this summary, answer the following questions to deepen your unders
 * So, what does leadership mean to you?
   * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
-Leadership is something people grant you or don't grant you.
+**Leadership is something people grant you or don't grant you.**
 
-* Who have you been granted leadership in your life, what were the circumstances?
+* Who in your life have you been granted leadership from? What were the circumstances? What were the outcomes? positive? Not so positive? A disaster?
+* Did the results stop you or create a greater desire for you to lead more? Why? Why not?
 
 ##### Definitions of Leadership
 
