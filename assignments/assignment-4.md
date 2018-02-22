@@ -33,3 +33,7 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
 
 _**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.Substantive, Succinct and Cited._
 
+\[link to PressBooks instruction here\]
+
+\[link to PressBooks files for insertion of materials here\]
+
