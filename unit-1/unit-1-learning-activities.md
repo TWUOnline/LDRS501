@@ -11,10 +11,12 @@ As you review the ideas of personal learning and leadership, it is important you
 * Explore your ideas about what makes a good leader
 * Think about what the literature says 
 * Explore leadership theory frames
-* Start to think about the question: “so how do you do this leadership anyway…”
+* Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…
 
-Readings…
+Readings
+
+Take a moment to read:
 
 Goleman - “Primal Leadership Book Summary”:
 
@@ -26,57 +28,45 @@ What was your greatest learning from the summary?
 
 What frame of mind were you in when you read it?
 
-
-
-So, what does leadership 
+So, what does leadership
 
 mean to you?
 
-
-
 What are couple of key points that come up for you in that conversation?
 
-Leadership is something people grant you or not. 
+Leadership is something people grant you or not.
 
 Who have you been granted leadership in your life, what were the circumstances?
 
-
-
 Definitions of Leadership
 
-The only definition of a leader is someone who has followers. 
+The only definition of a leader is someone who has followers.
 
+Drucker, P. \(1996\).
 
-
-Drucker, P. \(1996\). 
-
-Leader of the Future. 
+Leader of the Future.
 
 San Francisco: Jossey-Bass.
 
 Definitions of Leadership
 
-Leadership is influence - 
+Leadership is influence -
 
-nothing more, nothing less. 
+nothing more, nothing less.
 
+Maxwell, J. \(1998\).
 
-
-Maxwell, J. \(1998\). 
-
-The 21 Irrefutable Laws of Leadership. 
-
-
+The 21 Irrefutable Laws of Leadership.
 
 Definitions of Leadership
 
-	The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?
+```
+The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?
+```
 
+Greenleaf, R. \(1991\).
 
-
-Greenleaf, R. \(1991\). 
-
-The servant as leader. 
+The servant as leader.
 
 Indianapolis: The Greenleaf Center.
 
@@ -108,8 +98,6 @@ Mobilizes Knowledge
 
 Navigates Socio-Political Environments
 
-
-
 Strategic Leadership
 
 Setting Direction
@@ -124,7 +112,7 @@ Encourage & Support Innovation
 
 Orient Themselves to the Future
 
-Champion & Orchestrate Change 
+Champion & Orchestrate Change
 
 Versatile Leadership
 
@@ -137,22 +125,6 @@ Where do you go when you’re under stress?
 Where do your leaders fit on this chart?
 
 What could you accomplish, knowing this information?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Locus of Control
 
@@ -172,8 +144,6 @@ Demonstrate Character
 
 Mastery Brings
 
-
-
 Sense of purpose
 
 Vision-like calling
@@ -185,8 +155,6 @@ Commitment to seeing reality more and more accurately
 Inquisitiveness
 
 Forces of change to move forward with
-
-
 
 Values
 
@@ -236,53 +204,13 @@ Efficiency
 
 Vision
 
-
-
-It’s a compass 
+It’s a compass
 
 It’s an organizing principle
 
 The R.A.S.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 “It is not what a vision is that’s important, it’s what a vision does.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##### Learning Activity 1.2
 
