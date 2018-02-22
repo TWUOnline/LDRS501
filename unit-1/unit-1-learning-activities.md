@@ -14,11 +14,9 @@ As you review the ideas of personal learning and leadership, it is important you
 * Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…
 
-Readings
+##### Readings
 
-Take a moment to read:
-
-Goleman - “Primal Leadership Book Summary”:
+Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
 
 What did you like about the summary? Why?
 
