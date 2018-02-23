@@ -189,13 +189,15 @@ The R.A.S.
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
+Fournier, G. \(2018\) Locus of Control. Newburyport MA: Psych Central. Retrieved from https://psychcentral.com/encyclopedia/locus-of-control/
+
 Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
 Montgomery, C. A. \(2008\) Putting leadership back into startegy. _Harvard Business Review_. Vol 86. No. 1. pp. 54-60. Boston MA: Harvard Business Publishing.
 
-Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
-
 Najmaei, A., Quazi, Z., & Behnia, M. \(2017\). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management & Organizational Learning, 336-344.
+
+Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
 
 ##### Learning Activity 1.2
 
