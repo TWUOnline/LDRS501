@@ -190,6 +190,8 @@ The R.A.S.
 
 Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
+Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management. _Volume 37. pp. 417-430. Amsterdam: Elsevier. 
+
 ##### Learning Activity 1.2
 
 #### \
