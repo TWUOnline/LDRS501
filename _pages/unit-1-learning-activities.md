@@ -72,7 +72,7 @@ To do this, it is important the leadership development include the demonstration
 
 Supervisory Leadership Practice identifies the necessity to foster the development of others to create healthy organizations and build effective communication structures. These practices set the foundation for building effective functional and cross functional teams that build effective partnerships and networks within, across and beyond the organization. Investing heavily in others, focusing on development priciples for healthy organizational structure and effective communication mobilizes functional and practical knowledge within the organozation so  communication maximizes across the organization and deepens in communicating the important issues effecting the organization as a whole.
 
-Supervisory Leadership Practice also navigates the socio-political environments inherent in organizations where people interact on a variety of levels and for a variety of multi-levelled purposes.
+Supervisory Leadership Practice also navigates the socio-political environments inherent in organizations where people interact on a variety of levels and for a variety of multi-levelled purposes. To address the needs represetned within a complex and broad based enviorment, organizations need to develop ongoing benefit for the oragnziation and the people within it. This requires organizations to make a frim commitment, to not simply address needs and focus on responding to those needs, but  'organizations need to invest in developing the leadership skills of supervisors' as well.
 
 Strategic Leadership
 
