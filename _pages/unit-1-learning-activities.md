@@ -88,9 +88,15 @@ Startegic Leadership is the vehicle organizations can use to champion and orches
 
 The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' \(Najmaei, A., Quazi, Z., & Behnia, M. 2017\) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
 
+#### Versatile Leadership
 
+Versatile leadership allows us to navigate the many challenges attached to the startegic leadership process. Without versaltility, many leaders can get stuck repeating ideas and stagnating in challenges beacauser they are unable to see beyond the patterns set in their own minds or within the restrictive practices of their organizational structures.
 
-Versatile Leadership
+The chart below allows for a snapshot of yourversatility as it relates to Startegic leadership. Look at the chart and then answer the questions below to help you gain a present snapshot of your present practice.
+
+#### Leadership Versatility Chart 
+
+![](/assets/Presentation2_edited.jpg)
 
 Where do you fit on this chart?
 
