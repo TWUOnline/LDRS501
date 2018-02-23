@@ -53,7 +53,11 @@ _Leadership is influence - nothing more, nothing less_. (Maxwell, J. (1998). The
 
 _The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
 
-Systemic Leadership
+#### Systemic Leadership
+
+![](/assets/Presentation1_edited.jpg)
+
+Systemic Leadership 
 
 Personal Leadership
 
