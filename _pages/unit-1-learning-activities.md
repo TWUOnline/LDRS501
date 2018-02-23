@@ -88,21 +88,7 @@ Startegic Leadership is the vehicle organizations can use to champion and orches
 
 The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' \(Najmaei, A., Quazi, Z., & Behnia, M. 2017\) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
 
-Setting Direction
 
-Align Decisions with Vision, Values & Evidence
-
-Assess & Evaluates
-
-Demonstrate Systems & Critical Thinking
-
-Encourage & Support Innovation
-
-Orient Themselves to the Future
-
-Champion & Orchestrate Change
-
-Versatile Leadership
 
 Versatile Leadership
 
@@ -207,10 +193,6 @@ Montgomery, C. A. \(2008\) Putting leadership back into startegy. _Harvard Busin
 Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
 
 Najmaei, A., Quazi, Z., & Behnia, M. \(2017\). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management & Organizational Learning, 336-344.
-
-
-
-
 
 ##### Learning Activity 1.2
 
