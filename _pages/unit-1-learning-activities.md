@@ -74,7 +74,7 @@ Supervisory Leadership Practice identifies the necessity to foster the developme
 
 Supervisory Leadership Practice also navigates the socio-political environments inherent in organizations where people interact on a variety of levels and for a variety of multi-levelled purposes. To address the needs represetned within a complex and broad based enviorment, organizations need to develop ongoing benefit for the oragnziation and the people within it. This requires organizations to make a frim commitment, to not simply address needs and focus on responding to those needs, but  'organizations need to invest in developing the leadership skills of supervisors' as well.
 
-Strategic Leadership
+#### Strategic Leadership
 
 Setting Direction
 
