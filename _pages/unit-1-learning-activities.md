@@ -68,23 +68,11 @@ The first and central aspect of Systemic Leadership is Personal Leadership. Pers
 
 To do this, it is important the leadership development include the demonstration of character in their personal practice and leadership philosophy. It is the strength of self governance in a complex and challenging world around us that requires every leader to pay attention to establishing the the finer details of Self-Awareness, self management, self development and demonstrated character. Appication of these principles in their personal leadership development will set the stage for demonstrable success in their leadership development.
 
+#### Supervisory Leadership
 
+Supervisory Leadership Practice identifies the necessity to foster the development of others to create healthy organizations and build effective communication structures. These practices set the foundation for building effective functional and cross functional teams that build effective partnerships and networks within, across and beyond the organization. Investing heavily in others, focusing on development priciples for healthy organizational structure and effective communication mobilizes functional and practical knowledge within the organozation so  communication maximizes across the organization and deepens in communicating the important issues effecting the organization as a whole.
 
-Supervisory Leadership
-
-Foster Development of Others
-
-Creation of a Healthy Organization
-
-Communicate Effectively
-
-Builds Teams
-
-Builds Partnerships & Networks
-
-Mobilizes Knowledge
-
-Navigates Socio-Political Environments
+Supervisory Leadership Practice also navigates the socio-political environments inherent in organizations where people interact on a variety of levels and for a variety of multi-levelled purposes.
 
 Strategic Leadership
 
