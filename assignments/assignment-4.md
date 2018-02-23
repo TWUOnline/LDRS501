@@ -1,8 +1,13 @@
-# Assignment 4
+---
+post_title: 'Assignment 4'
+layout: page
+published: true
+---
+### Assignment 4
 
-**WEEK 10 – STRATEGIC INFLUENCE TEAM ASSIGNMENT 3 \(25%\)**
+##### **WEEK 10 – STRATEGIC INFLUENCE TEAM ASSIGNMENT 3 \(25%\)**
 
-**DUE DATE: July 6 @ 23:59 PST**
+##### **DUE DATE: July 6 @ 23:59 PST**
 
 Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material and readings. Each TEAM will enter their materials into the PressBooks environment to complete assignment requirements. Each TEAM will focus on the organization interviewed in TEAM Assignment 2:
 

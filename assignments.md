@@ -1,3 +1,8 @@
+---
+post_title: 'Course Assignments'
+layout: page
+published: true
+---
 ### Course Assignments
 
 The table below lists all assignments for this course. All assignments are mandatory.

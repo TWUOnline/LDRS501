@@ -1,12 +1,17 @@
-# Assignment 3
+---
+post_title: 'Assignment 3'
+layout: page
+published: true
+---
+### Assignment 3
 
-## **WEEK 7 – TEAM ASSIGNMENT 2**
+#### **WEEK 7 – TEAM ASSIGNMENT 2**
 
-### **STRATEGIC LEADERSHIP TEAM PROJECT \(15%\)**
+#### **STRATEGIC LEADERSHIP TEAM PROJECT \(15%\)**
 
-### **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
+##### **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
 
-#### **Team submissions Due Sunday June 17 at 23:59 PST**
+##### **Team submissions Due Sunday June 17 at 23:59 PST**
 
 This assignment is intended as an applied learning experience using SWOT in conjunction with either a _**‘brain storming’**_ process or the newer approach of **‘brain swarming’** to develop your information.
 
