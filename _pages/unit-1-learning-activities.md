@@ -76,6 +76,18 @@ Supervisory Leadership Practice also navigates the socio-political environments 
 
 #### Strategic Leadership
 
+Strategic Leadership is about setting direction and aligning decisions with organizational mission \(who you are\), vision \(where you are going\) and values \(how you are going to get there\). Additionally, startegic leadership focuses organizational structures and resources toward establishing evidence of organizational progress along the way. Intention, theory and planning go nowhere if evidence of progress doesn'rt accompany the process.
+
+Evidence sets the course for future decision making beyond the plans and the theory. Evidnece he;lps us align decisions, assess progress and evaluate success in fulfiling the startegic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their startegy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
+
+In many areas: "strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" \(Montgomery, 2008\).
+
+To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the establishe mission, vision and values the organization hold and protect it as it moves toward a future orientation of process, product and people.
+
+Startegic Leadership is the vehicle organizations can use to champion and orchestrate change by its commitment to the startegic processes adopted and the protections initiated.
+
+The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' \(Najmaei, A., Quazi, Z., & Behnia, M. 2017\) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
+
 Setting Direction
 
 Align Decisions with Vision, Values & Evidence
