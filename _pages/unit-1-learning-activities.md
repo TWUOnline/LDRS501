@@ -188,6 +188,8 @@ The R.A.S.
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
+Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
+
 ##### Learning Activity 1.2
 
 #### \
