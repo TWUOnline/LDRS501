@@ -2,13 +2,14 @@
 ID: 16
 post_title: Unit 1 Learning Activities
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/
 published: true
-post_date: 2018-02-23 01:07:23
+post_date: 2018-02-23T01:07:23.000Z
 ---
+
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
@@ -29,7 +30,7 @@ As you review the ideas of personal learning and leadership, it is important you
 
 Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
 
-[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
+\[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv\_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)\]
 
 Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
@@ -47,17 +48,21 @@ Once you read this summary, answer the following questions to deepen your unders
 
 ##### Definitions of Leadership
 
-_The only definition of a leader is someone who has followers. _(Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+_The only definition of a leader is someone who has followers. _\(Drucker, P. \(1996\). Leader of the Future. San Francisco: Jossey-Bass.\)
 
-_Leadership is influence - nothing more, nothing less_. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
+_Leadership is influence - nothing more, nothing less_. \(Maxwell, J. \(1998\). The 21 Irrefutable Laws of Leadership.
 
-_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
+_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. \(1991\). The servant as leader. Indianapolis: The Greenleaf Center.
 
 #### Systemic Leadership
 
 ![](/assets/Presentation1_edited.jpg)
 
-Systemic Leadership 
+#### Systemic Leadership
+
+In Systemic Leadership Develooment \(1999\) by Kevin Liu, 
+
+Development
 
 Personal Leadership
 
@@ -201,4 +206,7 @@ The R.A.S.
 
 ##### Learning Activity 1.2
 
-#####
+#### \#
+
+
+
