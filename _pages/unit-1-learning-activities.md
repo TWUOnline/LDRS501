@@ -92,21 +92,18 @@ The full value of strategic leadership may not be realized in practical terms, h
 
 Versatile leadership allows us to navigate the many challenges attached to the startegic leadership process. Without versaltility, many leaders can get stuck repeating ideas and stagnating in challenges beacauser they are unable to see beyond the patterns set in their own minds or within the restrictive practices of their organizational structures.
 
-The chart below allows for a snapshot of yourversatility as it relates to Startegic leadership. Look at the chart and then answer the questions below to help you gain a present snapshot of your present practice.
+The chart below allows for a snapshot of yourversatility as it relates to Startegic leadership. Look at the chart and then answer the questions below to help you gain a present snapshot of your present versatility practice.
 
-#### Leadership Versatility Chart 
+#### Leadership Versatility Chart
 
 ![](/assets/Presentation2_edited.jpg)
 
-Where do you fit on this chart?
+1. Where do you fit on this chart? Why?
+2. Where do you go when you’re under stress? Why do you think you go there?
+3. Where do your leaders fit on this chart? Why?
+4. What could you accomplish, knowing this information? How will it help you improve your versatility in your organization?
 
-Where do you go when you’re under stress?
-
-Where do your leaders fit on this chart?
-
-What could you accomplish, knowing this information?
-
-Locus of Control
+#### Locus of Control
 
 We truly commit, only to what has meaning for us personally.
 
