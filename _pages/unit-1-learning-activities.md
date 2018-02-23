@@ -62,15 +62,13 @@ _The servant-leader is servant first. It begins with the natural feeling that on
 
 In Systemic Leadership DevelopIn Systemic  Leadership Development \(1999\) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' \(p. 12\). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced apporach using startegic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the  effectiveness of leadership development  in the organization.' \(p. 12\)
 
-Personal Leadership
+#### Personal Leadership
 
-Self-Awareness
+The first and central aspect of Systemic Leadership is Personal Leadership. Personal Leadership requires the leader to be self aware of their strengths and limitations. Taking the time to manage themselves well and develop themselves as effective personal expressions of leadershi\[p strength.
 
-Manage Themselves
+To do this, it is important the leadership development include the demonstration of character in their personal practice and leadership philosophy. It is the strength of self governance in a complex and challenging world around us that requires every leader to pay attention to establishing the the finer details of Self-Awareness, self management, self development and demonstrated character. Appication of these principles in their personal leadership development will set the stage for demonstrable success in their leadership development.
 
-Develops Themselves
 
-Demonstrate Character
 
 Supervisory Leadership
 
