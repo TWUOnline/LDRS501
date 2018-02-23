@@ -60,9 +60,7 @@ _The servant-leader is servant first. It begins with the natural feeling that on
 
 #### Systemic Leadership
 
-In Systemic Leadership DevelopIn Systemic  Leadership Development \(1999\) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' \(p. 12\). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced apporach using startegic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice.
-
-Development
+In Systemic Leadership DevelopIn Systemic  Leadership Development \(1999\) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' \(p. 12\). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced apporach using startegic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the  effectiveness of leadership development  in the organization.' \(p. 12\)
 
 Personal Leadership
 
