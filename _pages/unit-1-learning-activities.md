@@ -107,13 +107,11 @@ The chart below allows for a snapshot of yourversatility as it relates to Starte
 
 When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' \(Fournier, 2018\) If a person or organization has an internal locus of control, they believe they \(personally or corporately\) 'can influence events and their outcomes.' \(Fournier, 2018\) A person or organization 'with an external locus of control blames outside forces for everything.' \(Fournier. 2018\) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect startegic planning and implementation on a broad scale.
 
+This effects every part of the process from planning, through implementation and on through completion of strategic planning, process and outcomes since we only truly commit, to what has meaning for us personally and corporately. If an internal locus of control has personal and corporate meaning we will follow through to complete our plans to the greatest level of success because we believe we can influence all parts of the process and see the challenges within those processes to completion. We find our power, in that meaning.
 
+Similarly, if we have an external locus of control, personally or corporately,  we will be less committed to following through as we see external forces having greater bearing on the outcome than our personal efforts or commitment. The result will be half hearted efforts related to the inability to truly commit to the end result we envisions because we don't see ourselves in control of the outcomes. These controls are dictated to forces beyond our control. We lose our power in that meaning.
 
-
-
-We truly commit, only to what has meaning for us personally.
-
-We find our power, in that meaning.
+Locus of control affects/effects all levels of systemic leadership practice.Persons and orgainzations with an internal locus of control perceive themselves as having greater control over their personal or corporate leadership, than persons with a perceived external locus of control. Where is you locus of control?
 
 Personal Leadership
 
