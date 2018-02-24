@@ -18,7 +18,7 @@ post_date: 2018-02-23T01:07:23.000Z
 
 #### Reading resource
 
-
+O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy. _Stanford Social Innovation Review. _Stanford CA: Stanford Social Innovation Review. \(https://ssir.org/articles/entry/the\_strategic\_plan\_is\_dead.\_long\_live\_strategy\)
 
 ### Unit 1 Learning Activities
 
