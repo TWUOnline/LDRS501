@@ -377,11 +377,21 @@ Critical thinking is not something you do once with an issue and then drop it. I
 
 Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
 
-##### Definition
+##### Definitions
 
 _**Disciplined thinking that is clear, rational, open-minded, and informed by evidence. **_\(Dictionary.com\)
 
+_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion. **_\(Lexicon.com\)
+
+
+
 #### Traits of a Critical Thinking Mind
+
+* Intellectual humility
+  * The intellectually humble do not promote themselves above others, but let their thinking and reasoniung speak for them.
+* Intellectual perseverance
+  * Intellectual perseverance can be described as the pursuit of the truth, or pure knowledge, even if the road to get there is arduous - _**Michael Botyarov**_
+* Intellectual responsibility
 
 #### 
 
