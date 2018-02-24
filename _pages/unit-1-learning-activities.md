@@ -351,11 +351,13 @@ Organziational external:
 
 ##### Vision
 
-It’s a compass
+One last thought on vision.
+
+Vision is not a magic pill, when once framed is fulfilled and committed to by everyone. It’s a compass and an organizing principle people can rally around. It needs regular viewing. It requires focus and commitment to the principles and requires everyone subscribing to it to maintain it's principles and ensure everyone arrives at their strategic destination tgether.
 
 It’s an organizing principle
 
-The R.A.S.
+
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
