@@ -121,7 +121,11 @@ With any focus on mastery of skills, mastery brings a sense of purpose and focus
 
 For the interally locused person or organization, the current reality, no matter how challenging, is the ally not the enemy. The internal locos commits to seeing reality more and more accurately, with an inate inquisitiveness that seeks wisdom, insight, practical and practiceable methods for completing the strategic plans and practices aimed at making what was envisioned into a reality, while providing a focus on the forces of change to move forward with.
 
-Values
+##### Personal and Corporate Strategic Values
+
+A properly set locus of control also effects the way individuals and organizations see their values working through the various strategic plans and intiatives aiming them toward their future. There are many values defining personal and organization effort and whay they are improtant. The list below lists a few values appearing in varous organizations. 
+
+As part of the this learning activity, please look at each of the vlaues listed below and define for yourself what each value can look like if you have an internal or external locaus of control. Answering these questions will help you confirm where your locus of control is, or what you need to change in your strategic practice to develop a more complete understanding of the things helping or hindering you in your systemic leadership development and strategic practice.
 
 Achieving
 
