@@ -129,7 +129,7 @@ As part of this learning activity, please look at each of the values listed belo
 
 ##### Values
 
-Achieving
+_**Achieving**_
 
 Personal internal:
 
@@ -139,7 +139,7 @@ Organizational internal:
 
 Organziational external:
 
-Financial gain
+_**Financial gain**_
 
 Personal internal:
 
@@ -149,7 +149,7 @@ Organizational internal:
 
 Organziational external:
 
-Privacy
+_**Privacy**_
 
 Personal internal:
 
@@ -159,7 +159,7 @@ Organizational internal:
 
 Organziational external:
 
-Advancement
+_**Advancement**_
 
 Personal internal:
 
@@ -169,7 +169,7 @@ Organizational internal:
 
 Organziational external:
 
-Freedom
+_**Freedom**_
 
 Personal internal:
 
@@ -179,7 +179,7 @@ Organizational internal:
 
 Organziational external:
 
-Public service
+_**Public service**_
 
 Personal internal:
 
@@ -189,7 +189,7 @@ Organizational internal:
 
 Organziational external:
 
-Growth
+_**Growth**_
 
 Personal internal:
 
@@ -199,7 +199,7 @@ Organizational internal:
 
 Organziational external:
 
-Friendships
+_**Friendships**_
 
 Personal internal:
 
@@ -209,7 +209,7 @@ Organizational internal:
 
 Organziational external:
 
-Helping people
+_**Helping people**_
 
 Personal internal:
 
@@ -219,7 +219,7 @@ Organizational internal:
 
 Organziational external:
 
-Authority
+_**Authority**_
 
 Personal internal:
 
@@ -229,7 +229,7 @@ Organizational internal:
 
 Organziational external:
 
-Recognition
+_**Recognition**_
 
 Personal internal:
 
@@ -239,7 +239,7 @@ Organizational internal:
 
 Organziational external:
 
-Stability
+_**Stability**_
 
 Personal internal:
 
@@ -249,7 +249,7 @@ Organizational internal:
 
 Organziational external:
 
-Creativity
+_**Creativity**_
 
 Personal internal:
 
@@ -259,7 +259,7 @@ Organizational internal:
 
 Organziational external:
 
-Order
+_**Order**_
 
 Personal internal:
 
@@ -269,7 +269,7 @@ Organizational internal:
 
 Organziational external:
 
-Fame
+_**Fame**_
 
 Personal internal:
 
@@ -279,7 +279,7 @@ Organizational internal:
 
 Organziational external:
 
-Family
+_**Family**_
 
 Personal internal:
 
@@ -289,7 +289,7 @@ Organizational internal:
 
 Organziational external:
 
-Wealth
+_**Wealth**_
 
 Personal internal:
 
@@ -299,7 +299,7 @@ Organizational internal:
 
 Organziational external:
 
-Effectiveness
+_**Effectiveness**_
 
 Personal internal:
 
@@ -309,7 +309,7 @@ Organizational internal:
 
 Organziational external:
 
-Truth
+_**Truth**_
 
 Personal internal:
 
@@ -319,7 +319,7 @@ Organizational internal:
 
 Organziational external:
 
-Leadership
+_**Leadership**_
 
 Personal internal:
 
@@ -329,7 +329,7 @@ Organizational internal:
 
 Organziational external:
 
-Serenity
+_**Serenity**_
 
 Personal internal:
 
@@ -339,7 +339,7 @@ Organizational internal:
 
 Organziational external:
 
-Efficiency
+_**Efficiency**_
 
 Personal internal:
 
@@ -349,7 +349,7 @@ Organizational internal:
 
 Organziational external:
 
-Vision
+##### Vision
 
 It’s a compass
 
