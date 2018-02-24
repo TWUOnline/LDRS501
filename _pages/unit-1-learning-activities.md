@@ -113,9 +113,9 @@ Similarly, if we have an external locus of control, personally or corporately,  
 
 Locus of control affects/effects all levels of systemic leadership practice.Persons and orgainzations with an internal locus of control perceive themselves as having greater control over their personal or corporate leadership, than persons with a perceived external locus of control. Where is you locus of control?
 
-Personal Leadership
+##### **Personal Leadership**
 
-Self-Awareness
+An internal locus of control in Personal Leadership leads leader and organization to a greater self-awareness in their personal and corporate practice. They know their strengths, and hopefiully their limitattions, in fulfilling their strategic responsibilities as they see themsleves influencing the events and outcomes of their strategic initiatives. It assist them in managing themselves, self aware development and the demonstration of character, since everything they do is committed to personal influences and development of influence in their personal and corporate circumstances. Thi leads to a highly self aware personal leadership that benefits personal and organizational development throughout the processes related to the planning and implementation of strategic initiatives they are part of.
 
 Manage Themselves
 
