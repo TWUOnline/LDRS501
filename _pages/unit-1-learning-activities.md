@@ -105,6 +105,12 @@ The chart below allows for a snapshot of yourversatility as it relates to Starte
 
 #### Locus of Control
 
+When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' \(Fournier, 2018\) If a person or organization has an internal locus of control, they believe they \(personally or corporately\) 'can influence events and their outcomes.' \(Fournier, 2018\) A person or organization 'with an external locus of control blames outside forces for everything.' \(Fournier. 2018\) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect startegic planning and implementation on a broad scale.
+
+
+
+
+
 We truly commit, only to what has meaning for us personally.
 
 We find our power, in that meaning.
