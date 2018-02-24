@@ -355,10 +355,6 @@ One last thought on vision.
 
 Vision is not a magic pill, when once framed is fulfilled and committed to by everyone. It’s a compass and an organizing principle people can rally around. It needs regular viewing. It requires focus and commitment to the principles and requires everyone subscribing to it to maintain it's principles and ensure everyone arrives at their strategic destination tgether.
 
-It’s an organizing principle
-
-
-
 “It is not what a vision is that’s important, it’s what a vision does.”
 
 Fournier, G. \(2018\) _Locus of Control_. Newburyport MA: Psych Central. Retrieved from [https://psychcentral.com/encyclopedia/locus-of-control/](https://psychcentral.com/encyclopedia/locus-of-control/)
