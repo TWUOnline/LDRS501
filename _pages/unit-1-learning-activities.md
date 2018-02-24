@@ -373,9 +373,15 @@ Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of
 
 ##### Evaluating Knowledge and Research
 
-Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made.  - _**Daniel Levitin**_
+Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. -_**Daniel Levitin**_
 
-Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. - **Judy Carter**
+Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
 
-Definition
+##### Definition
+
+_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence. **_\(Dictionary.com\)
+
+#### 
+
+
 
