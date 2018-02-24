@@ -123,53 +123,231 @@ For the interally locused person or organization, the current reality, no matter
 
 ##### Personal and Corporate Strategic Values
 
-A properly set locus of control also effects the way individuals and organizations see their values working through the various strategic plans and intiatives aiming them toward their future. There are many values defining personal and organization effort and whay they are improtant. The list below lists a few values appearing in varous organizations. 
+A properly set locus of control also effects the way individuals and organizations see their values working through the various strategic plans and intiatives aiming them toward their future. There are many values defining personal and organization effort and whay they are improtant. The list below lists a few values appearing in varous organizations.
 
-As part of the this learning activity, please look at each of the vlaues listed below and define for yourself what each value can look like if you have an internal or external locaus of control. Answering these questions will help you confirm where your locus of control is, or what you need to change in your strategic practice to develop a more complete understanding of the things helping or hindering you in your systemic leadership development and strategic practice.
+As part of this learning activity, please look at each of the values listed below and define what each value can look like if you or your organization has an internal or external locaus of control. Answering these questions will help you confirm where your personal or corporate locus of control is, or what strategic practices need to change to develop a more complete understanding of the things helping or hindering the personal or corporate systemic leadership development and strategic practice.
+
+##### Values
 
 Achieving
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Financial gain
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Privacy
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Advancement
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Freedom
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Public service
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Growth
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Friendships
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Helping people
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Authority
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Recognition
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Stability
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Creativity
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Order
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Fame
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Family
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Wealth
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Effectiveness
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Truth
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Leadership
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Serenity
 
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
+
 Efficiency
+
+Personal internal:
+
+Personal external:
+
+Organizational internal:
+
+Organziational external:
 
 Vision
 
