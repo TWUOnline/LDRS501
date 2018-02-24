@@ -115,27 +115,11 @@ Locus of control affects/effects all levels of systemic leadership practice.Pers
 
 ##### **Personal Leadership**
 
-An internal locus of control in Personal Leadership leads leader and organization to a greater self-awareness in their personal and corporate practice. They know their strengths, and hopefiully their limitattions, in fulfilling their strategic responsibilities as they see themsleves influencing the events and outcomes of their strategic initiatives. It assist them in managing themselves, self aware development and the demonstration of character, since everything they do is committed to personal influences and development of influence in their personal and corporate circumstances. Thi leads to a highly self aware personal leadership that benefits personal and organizational development throughout the processes related to the planning and implementation of strategic initiatives they are part of.
+An internal locus of control in Personal Leadership leads leader and organization to a greater self-awareness in their personal and corporate practice. They know their strengths, and hopefiully their limitattions, in fulfilling their strategic responsibilities as they see themsleves influencing the events and outcomes of their strategic initiatives. It assist them in managing themselves, self aware development and the demonstration of character, since everything they do is committed to personal influences and development of influence in their personal and corporate circumstances. Thi leads to a highly self aware personal leadership that benefits personal and organizational development throughout the processes related to the planning and implementation of strategic initiatives they are part of; leading to greater mastery of skills related to startegy and fulfillment.
 
-Manage Themselves
+With any focus on mastery of skills, mastery brings a sense of purpose and focus in fulfilling the responsibilities related to strategic outcomes. Some are empowered to the extent it appears they operate from a level akin to vision-like calling. The sense of purpose and focus outweighs any distractions or challenges they or the organization might face along the way. Mastery begets mastery and challenges are viewed as challenges to overcome, not obstacles to block progress.
 
-Develops Themselves
-
-Demonstrate Character
-
-Mastery Brings
-
-Sense of purpose
-
-Vision-like calling
-
-Current reality as ally not enemy
-
-Commitment to seeing reality more and more accurately
-
-Inquisitiveness
-
-Forces of change to move forward with
+For the interally locused person or organization, the current reality, no matter how challenging, is the ally not the enemy. The internal locos commits to seeing reality more and more accurately, with an inate inquisitiveness that seeks wisdom, insight, practical and practiceable methods for completing the strategic plans and practices aimed at making what was envisioned into a reality, while providing a focus on the forces of change to move forward with.
 
 Values
 
