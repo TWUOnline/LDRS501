@@ -390,6 +390,11 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 * Intellectual perseverance
   * Intellectual perseverance can be described as the pursuit of the truth, or pure knowledge, even if the road to get there is arduous - _**Michael Botyarov**_
 * Intellectual responsibility
+  * Being rational, logical and reasonable in our thinking and belief. - _**unknown**_
+
+
+
+
 
 #### 
 
@@ -397,7 +402,5 @@ Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dicti
 
 Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking](http://www.dictionary.com/browse/critical-thinking).
 
-Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from http://www.ifiseeu.com/Misc/intellectual-responsibility.htm
-
-
+Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from [http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm)
 
