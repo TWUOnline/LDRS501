@@ -369,7 +369,7 @@ Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of
 
 #### Learning Activity 1.2
 
-#### Cr**ritical Thinking**
+#### Cr**itical Thinking**
 
 ##### Evaluating Knowledge and Research
 
@@ -386,17 +386,37 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 #### Traits of a Critical Thinking Mind
 
 * Intellectual humility
-  * The intellectually humble do not promote themselves above others, but let their thinking and reasoniung speak for them.
+  * The intellectually humble do not promote themselves above others, but let their thinking and reasoning speak for them.
 * Intellectual perseverance
   * Intellectual perseverance can be described as the pursuit of the truth, or pure knowledge, even if the road to get there is arduous - _**Michael Botyarov**_
 * Intellectual responsibility
   * Being rational, logical and reasonable in our thinking and belief. - _**unknown**_
 
+#### Critical Thinking Values and Skills
+
+When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more. 
+
+> ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. Aveyard, H., Woolliams, M., & Sharp, P. \(p. 7\)
+
+Critical thinking involves clarifying the questions asked. What is the context? Is the information accurate? Are the sources biased or inaccurate in their reporting of fact?
+
+When we ask the questions, we dig deeper into the clarity we seek in trying to assess and develop the materials we research and develop for our professional responsibilities. Too often, people take the first result of the first Google search and apply it as true, when further research and asking critical questions would take them to a much different result.
+
+In addition to clarity, it is important to critically seek accuracy in reporting your findings in your research. Taking previous assumptions is not an acceptable practice when developing ideas your research or your report professionally. Take this learning activity. This is an older presentation I developed in 2008. I could repeat the information and cut and paste the previous information. But that is simply ineffective in providing the most up to date information on the topic designed to enhance your learning. Using older information to convey present truth is akin to suggesting the best way to get across Canada is by bus. The information is accurate for a bygone era, but not relevant to the present day of air travel and the development of low cost flight options. Gathering relevant data requires up to date relevancy of materials to provide the most accurate information available at the time of reporting.
+
+It is also part of the critical thinking to evaluate material regarding its precision as well. By identifying key assumptions \(i.e. bus travel is the best way to get across Canada\), we can address flaws in the accuracy of the information and update it with fresh understandings, statistics and report on the faulty assumptions related to the material presented. The more accurate your research, the better received and respected it will be. The critical thinker aims for the most accurate representation of their material to the intended audience.
+
+When we identify and wrestle with assumptions, follow through with clearly research ideas and understanding of the issues, the value of critical thinking and its benefit is clear.
+
+A further value of critical thinking is relevance. When we trace significant implications in material we review and/or research we have opportunity to test the validity of the material and discover its relevance for the present work in front of us; be it research or reporting \(which can be one and the same\). Accepting what we read without question \(often because we are pressed for time\)can cause us to miss alternative points of view or distort our findings so they bend to our view versus a clear and unbiased reflective view of relevant materials.
+
+Critical thinking also values and practices logic in its approach. When we apply logical consideration to the materials we review, we can assess much of the material based on its logical outcomes. If the result doesn't make sense \(isn't logical\) we need to review the material and sources again to refine and confirm our conclusions before proceeding. When we apply logic and seek valid conclusions, the result of our critical thinking efforts bears fruit and becomes of greater benefit to all concerned.
 
 
 
 
-#### 
+
+Aveyard, H., Woolliams, M., & Sharp, P. \(2015\). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
 Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking?s=t](http://www.dictionary.com/browse/critical-thinking?s=t)
 
