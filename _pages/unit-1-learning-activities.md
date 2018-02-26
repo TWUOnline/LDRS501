@@ -394,7 +394,7 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 
 #### Critical Thinking Values and Skills
 
-When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more. 
+When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more.
 
 > ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. Aveyard, H., Woolliams, M., & Sharp, P. \(p. 7\)
 
@@ -412,7 +412,17 @@ A further value of critical thinking is relevance. When we trace significant imp
 
 Critical thinking also values and practices logic in its approach. When we apply logical consideration to the materials we review, we can assess much of the material based on its logical outcomes. If the result doesn't make sense \(isn't logical\) we need to review the material and sources again to refine and confirm our conclusions before proceeding. When we apply logic and seek valid conclusions, the result of our critical thinking efforts bears fruit and becomes of greater benefit to all concerned.
 
+#### Critical Thinking Process
 
+Take a big picture view
+
+Look for the invisible components
+
+Scrutinize the details
+
+Assess the evidence
+
+Explore context and connections
 
 
 
