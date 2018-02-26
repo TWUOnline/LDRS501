@@ -393,9 +393,11 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 
 #### 
 
-Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from http://www.dictionary.com/browse/critical-thinking?s=t
+Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking?s=t](http://www.dictionary.com/browse/critical-thinking?s=t)
 
-Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from http://www.dictionary.com/browse/critical-thinking.
+Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking](http://www.dictionary.com/browse/critical-thinking).
+
+Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from http://www.ifiseeu.com/Misc/intellectual-responsibility.htm
 
 
 
