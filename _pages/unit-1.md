@@ -12,6 +12,22 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ### Overview
 
+This section of study will provide you with a foundational overview on the general texts for the course, the outcomes we will focus on for the beginning stages of the pre-reading course preparations as well as. The Foundational Learning Activities for this section will introduce you to the concepts of Personal Learning and Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and be prepared for the coursework ahead.
+
+#### Reading Overview
+
+| Reading Outline- LDRS 501 Strategic Leadership\* |
+| :--- |
+
+
+|  |  | \*\* Week 0: Pre COURSE READING \(start 4 weeks prior to course start\)\*\* |
+| :--- | :--- | :--- |
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | All chapters\*\* - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
+| M. Ungerer, G. Ungerer, & J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | All chapters\*\* - 3 chapters per week - take notes for personal insight and important application ideas. |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters\*\* - 4 chapters per week - take notes for personal insight and important application ideas |
+| R Lepsinger | _**Closing the Execution Gap**_ | All chapters\*\* - 2 chapters per week - take notes for personal insight and important application ideas. |
+
 ### Outcomes
 
 Learners will begin development of the following outcomes in the unit:
@@ -28,7 +44,7 @@ Learners will begin development of the following outcomes in the unit:
 4. **Develop the necessary skills for systemic and systematic inquiry**  
     of strategic leadership issues related to your personal leadership development.
 
-5. **Integrate strategic leadership practice      
+5. **Integrate strategic leadership practice        
    ** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ### Resources
