@@ -414,32 +414,39 @@ Critical thinking also values and practices logic in its approach. When we apply
 
 #### Critical Thinking Process
 
-When we think about being critical thinkers, we no longer look at the immediate and consequential views of what we view. We move into a larger view. A big picture view providing us with the best possible oversight of a topic. Looking at the ramifications of decisions and the possible alternatives to direct action available to us in the decision and review process for our organizations and the people we lead and serve. 
+When we think about being critical thinkers, we no longer look at the immediate and consequential views of what we view. We move into a larger view. A big picture view providing us with the best possible oversight of a topic. Looking at the ramifications of decisions and the possible alternatives to direct action available to us in the decision and review process for our organizations and the people we lead and serve.
 
 The Big Picture View looks at what the person is saying? What the key points and major assertions are. Are issues/concepts clearly and accurately defined and described? Are examples pertinent? Do they substantiate the presenter’s point of view? Do you agree with the definitions and descriptions? Critically evaluating what you see, hear, read, reflect and pursue moves your view from localized and cursory to in depth a broad based.
 
-Critical thinking also looks at the invisible components we often miss at the cursory level and looks for the implications for decisions. What will happen if moments. What will happen when? Where will this lead if we do such? Each invisible component missed in the cursory, becomes an alternative in the critical review. Taking the time to review discovery, decision and determinations helps to ensure we make the best possible decisions and provide the best information at the best time; reflective of best practices in our research and reporting. 
+Critical thinking also looks at the invisible components we often miss at the cursory level and looks for the implications for decisions. What will happen if moments. What will happen when? Where will this lead if we do such? Each invisible component missed in the cursory, becomes an alternative in the critical review. Taking the time to review discovery, decision and determinations helps to ensure we make the best possible decisions and provide the best information at the best time; reflective of best practices in our research and reporting.
+
+Invisible Components of critical thinking include:
+
+* What are the presenter’s assumptions? Are they accurate and valid?
+
+* What values and beliefs underlie the presenter's argument?
+
+* Do you agree with the presenter’s assumptions, values and beliefs?
+
+* What exceptions can you think of?
+
+Taking the time to address the questions and seek the answer increases your critically thinking acumen and reveals what was previously hidden in your thinking and your conclusions.
 
 Critical thinking urges us and allows us to:
 
 * Scrutinize the details
+
   * Review information, reflect on its relevance and assess its logic.
 
 * Assess the evidence
+
   * Is the information we reviewed accurate? Does it stand up under scrutiny? Is there an alternative view to what we've just found?
 
 * Explore context and connections
+
   * Are the truths discovered contextually accurate? Do they mean the same in different and differing contexts? What are the cross disciplinary connections to what we discovered? How can it be applied in different and differing contexts?
 
 Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
-
-
-
-
-
-
-
-
 
 Aveyard, H., Woolliams, M., & Sharp, P. \(2015\). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
