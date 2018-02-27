@@ -477,11 +477,7 @@ Critical thinking urges us and allows us to:
 
 Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
 
-The following illustration shows how we generally approach the things we observe and make the assumptions that guide us.
-
-
-
-
+The following illustration shows how we generally approach the things we observe and make the assumptions that guide us.![](/assets/The data and Experience ladder_edited.jpg)
 
 
 
