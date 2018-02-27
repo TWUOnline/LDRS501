@@ -14,11 +14,28 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ### Outcomes
 
+Learners will begin development of the following outcomes in the unit:
+
+1. **Evaluate**  
+    organizational effectiveness as it relates to strategic leadership principles and practice.
+
+2. **Integrate and synthesize**  
+    course materials to demonstrate leadership application.
+
+3. **Examine key strategic leadership applications**  
+    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+
+4. **Develop the necessary skills for systemic and systematic inquiry**  
+    of strategic leadership issues related to your personal leadership development.
+
+5. **Integrate strategic leadership practice  
+   ** into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 ### Resources
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy. \_Stanford Social Innovation Review. \_Stanford CA: Stanford Social Innovation Review. \([https://ssir.org/articles/entry/the\_strategic\_plan\_is\_dead.\_long\_live\_strategy\](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy\)\)
+O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy. \_Stanford Social Innovation Review. \_Stanford CA: Stanford Social Innovation Review. \([https://ssir.org/articles/entry/the\_strategic\_plan\_is\_dead.\_long\_live\_strategy\](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29\)
 
 ### Unit 1 Learning Activities
 
@@ -506,13 +523,11 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
    1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
    2. Keep the proposal for future use in other participation activities throughout the course.
 
-Aveyard, H., Woolliams, M., & Sharp, P. \(2015\)._A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._Maidenhead: McGraw-Hill Education.
+Aveyard, H., Woolliams, M., & Sharp, P. \(2015\).\_A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.\_Maidenhead: McGraw-Hill Education.
 
 Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking?s=t](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
 Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking](https://www.gitbook.com/book/twonline/ldrs501/edit#).
 
 Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
-
-
 
