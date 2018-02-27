@@ -14,8 +14,9 @@ post_date: 2018-02-23T01:07:23.000Z
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. 
-2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
+1. Assess your Personal and Individual Strategic Development.
+
+2. Be submitted in the PressBooks environment as the First Chapter of the \_Discovering Strategic Leadership \_Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -134,13 +135,11 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 \[link to PressBooks files for insertion of materials here\]
 
+#### MA LEAD/MAEL Assignment Grading Rubric Grade  4.3
 
-
-#### MA LEAD/MAEL Assignment Grading Rubric Grade
-
-| Letter Grade | % | Grade | Meaning in Graduate Work - Note:\*\* \*\*For assignments that meet criteria in several categories, instructors will assign an average grade. |
-| :---: | :---: | :---: | :--- |
-|  |  |  |  |
+| Letter Grade | % | Grade | Meaning in Graduate Work - Note: _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
+| :---: | :---: | :---: | :---: |
+| **A+** | **95-100** | **4.3** | _**Exceptionally well-reasoned, compelling development of position.**_ Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
 
 **Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
@@ -151,6 +150,4 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 **W** = **Withdrew**. This grade is assigned for students withdrawing during the first half of the course.
 
 **WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
-
-
 
