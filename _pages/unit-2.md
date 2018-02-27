@@ -12,7 +12,14 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ## Overview
 
-START text here.
+This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
+
+1. Assess your Personal and Individual Strategic Development. 
+2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
+
+All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
+
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
 ### Reading Overview
 
@@ -30,17 +37,23 @@ START text here.
 
 ## Outcomes
 
+Learners will begin development of the following outcomes in the unit:
+
+1. **Examine key strategic leadership applications**  to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+2. **Develop the necessary skills for systemic and systematic inquiry**  of strategic leadership issues related to your personal leadership development
+3. **Integrate strategic leadership practice**   into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 ## Resources
 
 #### Reading Resource
 
 Boston Consulting Group. \(2015\) _Strategy Palette Framework._
 
-http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf
+[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
 H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 
-https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/
+[https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
 
 **Personal research ** for Forum and Assignment completion.
 
@@ -49,19 +62,19 @@ https://www.theglobeandmail.com/report-on-business/careers/management/five-appro
 **Assignment:** \_Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
+
   * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
   * Double down!
 
-*  **Tell us about YOU the person. **
+* **Tell us about YOU the person. **
+
   * What are a few of your favourite things?
   * What are your goals, aspirations and future dreams?
   * What career strategy are you going to follow to achieve them?
 
-
-
 * **Make it personal. Make it memorable. Make it YOU!**
 
-\[Link to Blog 1 submission\]
+\[Link to Introductory Blog submission\]
 
 **Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
@@ -123,11 +136,21 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 
 
-\[Link to Blog 1 submission\]
+#### MA LEAD/MAEL Assignment Grading Rubric Grade
 
+| Letter Grade | % | Grade | Meaning in Graduate Work - Note:\*\* \*\*For assignments that meet criteria in several categories, instructors will assign an average grade. |
+| :---: | :---: | :---: | :--- |
+|  |  |  |  |
 
+**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
+**Other Designated Grades**
 
+**INC** = **Incomplete**. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrollment Services.
+
+**W** = **Withdrew**. This grade is assigned for students withdrawing during the first half of the course.
+
+**WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
 
 
 
