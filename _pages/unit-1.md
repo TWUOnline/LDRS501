@@ -28,7 +28,7 @@ Learners will begin development of the following outcomes in the unit:
 4. **Develop the necessary skills for systemic and systematic inquiry**  
     of strategic leadership issues related to your personal leadership development.
 
-5. **Integrate strategic leadership practice    
+5. **Integrate strategic leadership practice      
    ** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ### Resources
@@ -507,6 +507,8 @@ Critical thinking urges us and allows us to:
 Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
 
 The following illustration shows how we generally approach the things we observe and make the assumptions that guide us.![](blob:https://www.gitbook.com/050b778a-ef17-411d-ae57-2fc868aea2a3)
+
+![](/assets/The data and Experience ladder_edited.jpg)
 
 #### Concluding Learning Activity Exercise
 
