@@ -434,25 +434,60 @@ Taking the time to address the questions and seek the answer increases your crit
 
 > Critical thinking generally incorporates active mental processes \(considering, reviewing, thinking\) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. \(Aveyard, Woolliams, & Sharp p. 114\)
 
-
-
-
-
 Critical thinking urges us and allows us to:
 
 * Scrutinize the details
 
   * Review information, reflect on its relevance and assess its logic.
 
+  * Ask:
+
+    * Is anything unclear or ambiguous?
+
+    * Are the description and qualities accurate? \(all, none, always, never\)
+
+    * Do the models, illustrations, charts, maps, illustrate the presenter’s point of view and add credence to his/her argument?
+
+    * What additional information is needed?
+
 * Assess the evidence
 
-  * Is the information we reviewed accurate? Does it stand up under scrutiny? Is there an alternative view to what we've just found?
+  * Is the information we reviewed accurate? 
+  * Does it stand up under scrutiny? 
+  * Is there an alternative view to what we've just found
+  * Is the data clear, adequate, pertinent, convincing and complete?
+  * Is the presenter’s interpretation of the data accurate, complete?
+  * Are the findings universal?
+  * Are stated cause and effect correctly interpreted?
+  * Do other alternative explanations exist or might be discovered?
+  * Are reasons sufficient and valid?
+  * Is the evidence biased?
 
 * Explore context and connections
 
-  * Are the truths discovered contextually accurate? Do they mean the same in different and differing contexts? What are the cross disciplinary connections to what we discovered? How can it be applied in different and differing contexts?
+  * Are the truths discovered contextually accurate? 
+  * Do they mean the same in different and differing contexts? 
+  * What are the cross disciplinary connections to what we discovered? 
+  * How can it be applied in different and differing contexts?
+  * Does the viewpoint fit the field and discipline?
+  * Does it add something new, present contrasting viewpoints, connect to other ideas?
+  * Are other points of view and data taken into account?
+  * What information is missing?
+  * What would you change or add to improve the work?
 
 Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
+
+The following illustration shows how we generally approach the things we observe and make the assumptions that guide us.
+
+
+
+
+
+
+
+
+
+
 
 Aveyard, H., Woolliams, M., & Sharp, P. \(2015\). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
