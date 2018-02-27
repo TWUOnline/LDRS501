@@ -396,7 +396,7 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 
 When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more.
 
-> ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. Aveyard, H., Woolliams, M., & Sharp, P. \(p. 7\)
+> ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. \(Aveyard, Woolliams, & Sharp, p. 7\)
 
 Critical thinking involves clarifying the questions asked. What is the context? Is the information accurate? Are the sources biased or inaccurate in their reporting of fact?
 
@@ -431,6 +431,12 @@ Invisible Components of critical thinking include:
 * What exceptions can you think of?
 
 Taking the time to address the questions and seek the answer increases your critically thinking acumen and reveals what was previously hidden in your thinking and your conclusions.
+
+> Critical thinking generally incorporates active mental processes \(considering, reviewing, thinking\) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. \(Aveyard, Woolliams, & Sharp p. 114\)
+
+
+
+
 
 Critical thinking urges us and allows us to:
 
