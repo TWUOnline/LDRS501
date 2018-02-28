@@ -139,7 +139,7 @@ By the end of this LDRS 501 course, learners will be able to:
 * H Schachter \(2015\) _Five Approaches to Using a Strategy Palette_ Globe & Mail
 * **Personal research** for Forum and Assignment completion.
 
-|  |  | **Week 2 - Forum** |
+|  |  | **Week 2 - Forum BLOG** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
