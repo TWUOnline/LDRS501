@@ -65,17 +65,19 @@ Learners will begin development of the following outcomes in the unit.
 
 In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 below, take the time to view the videos below. Be prepared to reflect on the materials in the Exercise as they relate to the video content listed below.
 
-1. Appreciative Inquiry - https://www.youtube.com/watch?v=QzW22wwh1J4
+1. Appreciative Inquiry - [https://www.youtube.com/watch?v=QzW22wwh1J4](https://www.youtube.com/watch?v=QzW22wwh1J4)
 
-2. Appreciative Inquiry Resources @ aim2flourish.com - http://aim2flourish.com/appreciative-inquiry-resources - clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
+2. Appreciative Inquiry : a positive revolution approach in change - https://www.youtube.com/watch?v=z\_2nZu1nhlk
 
-3. How to Do An Appreciative Inquiry Interview - https://www.youtube.com/watch?v=8P2xVpH0uTI
+3. Appreciative Inquiry Case Study - Louisiana School District - https://www.youtube.com/watch?v=RG8dW2RwwEc
 
-4. How to use Appreciative Inquiry at work - https://www.youtube.com/watch?v=HQSLhUGZV6
+4. Appreciative Inquiry Resources @ aim2flourish.com - [http://aim2flourish.com/appreciative-inquiry-resources](http://aim2flourish.com/appreciative-inquiry-resources) - clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
 
-5. Hunter Douglas - Appreciative Inquiry Case Study - https://www.youtube.com/watch?v=eLOM4kxOO\_Q
+5. How to Do An Appreciative Inquiry Interview - [https://www.youtube.com/watch?v=8P2xVpH0uTI](https://www.youtube.com/watch?v=8P2xVpH0uTI)
 
-6. Appreciative Inquiry Case Study - Louisiana School District - https://www.youtube.com/watch?v=RG8dW2RwwEc
+6. How to use Appreciative Inquiry at work - [https://www.youtube.com/watch?v=HQSLhUGZV6](https://www.youtube.com/watch?v=HQSLhUGZV6)
+
+7. Hunter Douglas - Appreciative Inquiry Case Study - [https://www.youtube.com/watch?v=eLOM4kxOO\_Q](https://www.youtube.com/watch?v=eLOM4kxOO_Q)
 
 #### Week 2 Assignments
 
@@ -105,8 +107,6 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 ##### Learning Activity 3.1
 
 ##### Appreciative Inquiry
-
-
 
 ##### Learning Activity 3.2
 
