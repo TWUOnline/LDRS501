@@ -16,7 +16,6 @@ post_date: 2018-02-23T01:07:23.000Z
 
 \[Link to PressBooks instruction here\]
 
-##### Learning Activity 2.2
 
 
 
