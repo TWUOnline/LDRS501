@@ -75,7 +75,22 @@ H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 
 * **Make it personal. Make it memorable. Make it YOU!**
 
-\[Link to Introductory Blog submission\]
+\[Link to Introductory Blog\]
+
+#### LDRS 501A – Introductory BLOG Rubric \(5%\) - Example.
+
+#### 
+
+| Grading Criteria | Weight | Assessment % _\(out of 100\)_ |
+| :---: | :---: | ---: |
+| **The Introduction contains a general introduction of YOU.** | **20%** | **%** |
+| **The Introduction contains a few of your favourite things.** | **20%** | **%** |
+| **The Introduction contains your goals, aspirations and future dreams.** | **20%** | **%** |
+| **The Introduction contains what career strategy you are going to follow to achieve them.** | **20%** | **%** |
+| **The Introduction is personal and memorable** | **20%** | **%** |
+| XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment \(Total/5\):** | **%** |
+
+\[Link to Introductory Blog rubric\]
 
 **Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
@@ -134,6 +149,28 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 \[link to PressBooks instruction here\]
 
 \[link to PressBooks files for insertion of materials here\]
+
+#### Assignment 1 Rubric - Example
+
+|  |  |  |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+\[
+
+Link to Assignment 1 rubric\]
+
+Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
+
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
+
+Submit grading to the following link. \[link to grading for Assignment 1\]
 
 #### MA LEAD/MAEL Assignment Grading Rubric  2.0
 
