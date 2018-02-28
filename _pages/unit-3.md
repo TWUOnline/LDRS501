@@ -10,7 +10,7 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-Overview
+#### Overview
 
 #### Week 2 \(update before closing\)
 
@@ -72,22 +72,15 @@ Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey
 
 #### Week 1 Assignments
 
-**Assignment:** \_Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Assignment:** BLOG 1 - due May 7-13, 2018 - Post in BLOG 1 Discussion Thread - _**5%**_.
 
-* **Take the time to introduce yourself.**
+What are your goals, aspirations and future dreams
 
-  * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
-  * Double down!
+What career strategy are you going to follow to achieve them?
 
-* \*\*Tell us about YOU the person. \*\*
+**Make it personal. Make it memorable. Make it YOU!**
 
-  * What are a few of your favourite things?
-  * What are your goals, aspirations and future dreams?
-  * What career strategy are you going to follow to achieve them?
-
-* **Make it personal. Make it memorable. Make it YOU!**
-
-\[Link to Introductory Blog\]
+\[Link to BLOG 1 Discussion Thread\]
 
 #### LDRS 501A – BLOG 1 Rubric \(5%\) - Example.
 
@@ -101,17 +94,14 @@ Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey
 | Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
 | Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
 | Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
-| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in  | **%** |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in | **%** |
 | XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment \(Total/5\):** | **%** |
 
 \[Link to BLOG 1 rubric\]
 
+#### Unit 3 Learning Activities
 
-Unit 3 Learning Activities
+##### Learning Activity 3.1
 
-Learning Activity 3.1 
-
-[Link to PressBooks instruction here]
-
-
+\[Link to PressBooks instruction here\]
 
