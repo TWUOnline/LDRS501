@@ -2,15 +2,21 @@
 ID: 28
 post_title: Unit 2 Learning Activities
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs501-su18/unit-2-learning-activities/
 published: true
-post_date: 2018-02-23 01:07:23
+post_date: 2018-02-23T01:07:23.000Z
 ---
+
 ### Unit 2 Learning Activities
 
 ##### Learning Activity 2.1
 
+\[Link to PressBooks instruction here\]
+
 ##### Learning Activity 2.2
+
+
+
