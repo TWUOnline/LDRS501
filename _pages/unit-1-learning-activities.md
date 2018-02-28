@@ -466,8 +466,7 @@ Critical thinking urges us and allows us to:
 * Explore context and connections
 
   * Are the truths discovered contextually accurate? 
-  * Do they mean the same in different and differing contexts? 
-  * What are the cross disciplinary connections to what we discovered? 
+  * Do they mean the same in different and differing contexts? 3  * What are the cross disciplinary connections to what we discovered? 
   * How can it be applied in different and differing contexts?
   * Does the viewpoint fit the field and discipline?
   * Does it add something new, present contrasting viewpoints, connect to other ideas?
@@ -500,7 +499,7 @@ Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from [http://www.dicti
 
 Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from [http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm)
 
-#### Learning Activity 1.1
+#### Learning Activity 1.3
 
 \[Link to PressBooks instruction\]
 
