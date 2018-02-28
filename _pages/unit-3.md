@@ -10,11 +10,11 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-
-
 ## Overview
 
 #### Week 2 \(update before closing\)
+
+TEAM Assignments based on the results of Week 1 Assignment results \(3 person teams\) 
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
@@ -47,7 +47,7 @@ Assignment grading is awarded following peer review of the materials entered int
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
-| M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | C |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 3-5 \(pp. 107-275\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 4-6 \(pp. 89-148\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 2 \(pp. 25-49\) |
 
@@ -66,9 +66,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading Resource
 
-Boston Consulting Group. \(2015\) _Strategy Palette Framework._
-
-[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey_. McKinsey Quarterly. _Chicago IL: McKinsey and Company. - https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey                               
 
 H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 
@@ -101,7 +99,7 @@ H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 | :--- |
 
 
-| Grading Criteria | Weight | Assessment %  | _\(out of 100\)_ |
+| Grading Criteria | Weight | Assessment % | _\(out of 100\)_ |
 | :--- | :--- | :--- | :--- |
 |  | **The Introduction contains a general introduction of YOU.** | **20%** | **%** |
 |  | **The Introduction contains a few of your favourite things.** | **20%** | **%** |
@@ -198,7 +196,7 @@ Submit grading to the following link. \[link to grading for Assignment 1\]
 
 #### MA LEAD/MAEL Assignment Grading Rubric 2.0
 
-| Letter Grade | % | Grade | **Meaning in Graduate Work ** | **-** |  Note: | _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
+| Letter Grade | % | Grade | **Meaning in Graduate Work ** | **-** | Note: | _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  |  | **A+** | **95-100** | **4.3** | _**Exceptionally well-reasoned, compelling development of position.**_ Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
 |  |  |  | **A** | **90-94** | **4.0** | _**Well-argued and convincing development of position.**_ Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
@@ -223,6 +221,4 @@ Unacceptable work at graduate level. Shows lack of understanding and/or competen
 ##### Learning Activity 2.1
 
 \[Link to PressBooks instruction here\]
-
-
 
