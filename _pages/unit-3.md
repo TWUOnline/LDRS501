@@ -14,7 +14,7 @@ Overview
 
 #### Week 2 \(update before closing\)
 
-TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3. 
+TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
 This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
 
@@ -31,10 +31,6 @@ Assignment grading is awarded following peer review of the materials entered int
 \[Link to BLOG 1 rubric\]
 
 \[Link to PressBooks instruction here\]
-
-\[Link to PressBooks files for insertion of materials here\]
-
-\[Link to Assignment 1 rubric\]
 
 #### Reading Overview
 
@@ -61,9 +57,25 @@ Learners will begin development of the following outcomes in the unit.
 
 #### Reading Resource
 
-Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey\_. McKinsey Quarterly. \_Chicago IL: McKinsey and Company. - [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey)
+1. Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey\_. McKinsey Quarterly. \_Chicago IL: McKinsey and Company. - [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey)
 
 \*\*Personal research \*\* for Forum and Assignment completion.
+
+#### Video & Miscellaneous Resources
+
+In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 below, take the time to view the videos below. Be prepared to reflect on the materials in the Exercise as they relate to the video content listed below.
+
+1. Appreciative Inquiry - https://www.youtube.com/watch?v=QzW22wwh1J4
+
+2. Appreciative Inquiry Resources @ aim2flourish.com - http://aim2flourish.com/appreciative-inquiry-resources - clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
+
+3. How to Do An Appreciative Inquiry Interview - https://www.youtube.com/watch?v=8P2xVpH0uTI
+
+4. How to use Appreciative Inquiry at work - https://www.youtube.com/watch?v=HQSLhUGZV6
+
+5. Hunter Douglas - Appreciative Inquiry Case Study - https://www.youtube.com/watch?v=eLOM4kxOO\_Q
+
+6. Appreciative Inquiry Case Study - Louisiana School District - https://www.youtube.com/watch?v=RG8dW2RwwEc
 
 #### Week 2 Assignments
 
@@ -91,6 +103,12 @@ Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey
 #### Unit 3 Learning Activities
 
 ##### Learning Activity 3.1
+
+##### Appreciative Inquiry
+
+
+
+##### Learning Activity 3.2
 
 \[Link to PressBooks instruction here\]
 
