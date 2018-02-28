@@ -12,7 +12,7 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ### Unit 2 Learning Activities
 
-##### Learning Activity 2.1
+#### Learning Activity 2.1
 
 \[Link to PressBooks instruction here\]
 
