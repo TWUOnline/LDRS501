@@ -53,7 +53,7 @@ Assignment grading is awarded following peer review of the materials entered int
 
 ## Outcomes
 
-Learners will begin development of the following outcomes in the unit:
+Learners will begin development of the following outcomes in the uni
 
 1. **Examine key strategic leadership applications**
     to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
