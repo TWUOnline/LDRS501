@@ -552,4 +552,5 @@ Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from[http://www.ifi
 
 
 Learning Activity 1.3
+
 [Link to PressBooks instruction]
