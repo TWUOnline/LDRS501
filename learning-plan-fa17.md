@@ -76,7 +76,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
 | **Week 0  - April 30 - 23:59** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introduction BLOG | Before course begins MAY |
-| **Week 1 - May 1-6** | Video Introductions, Learning Activity 1, plus Q&A | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm**. Assignment 1 Review - **6 pm - 6:30 pm**. Book Development Learning Activity plus Q&A - **6:30 pm - 7 pm**. _\(optional F2F interaction can be arranged for those living_ _within driving distance to the university\)_           The session is recorded and distributed for those unable to connect directly to the session. |
+| **Week 1 - May 1-6** | Video Introductions, Learning Activity 1, plus Q&A | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm**. Assignment 1 Review - **6 pm - 6:30 pm**. Book Development Learning Activity plus Q&A - **6:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 1 - May 1-6** | Personal Strategic Assessment | Individual Assignment 1 | Due **MAY 6 @ 23:59** |
 | **Week 2 - May 1-7** | Learning Activity 2 | Book Development Instruction | Available** May 7, 2018 ** |
 | **Week 2 - May 7-13** | Strategic Leadership Development | Week 2- BLOG 1 | Due **MAY 13 @ 23:59** |
@@ -86,7 +86,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- BLOG 3 | Due **MAY 27 @ 23:59** |
 | **Week 4 - May 21-27** | STRAT Assignment | TEAM Assignment 1 | Due **MAY 27 @ 23:59** |
 |  |  |  | **READING WEEK – MAY 28-JUNE 3** |
-| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to TEAM BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to TEAM BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. _\(optional F2F interaction can be arranged for those living within driving distance _ _to the university\) _                                       The session is recorded and distributed for those unable to connect directly to the session. |
+| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to TEAM BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to TEAM BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- BLOG 4 | Due **JUNE 10 @ 23:59** |
 | **Week 7 - June 11-17** | Learning Activity 6 | Book Development Instruction and Review | Available **June 11, 2018** |
 | **Week 7 - June 11-17** | Strategic Leadership Design and Execution | Week 7- BLOG 5 | Due **JUNE 17 @ 23:59** |
@@ -606,5 +606,5 @@ All MA Lead and MAEL program staff and faculty are required to abide by Canadian
 
 Prepared by D. L. Atha – January 30, 2018
 
-Updated –
+Updated – February 27, 2018
 
