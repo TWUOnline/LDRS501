@@ -77,9 +77,11 @@ H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 
 \[Link to Introductory Blog\]
 
-#### LDRS 501A – Introductory BLOG Rubric \(5%\) - Example.
+#### LDRS 501A – Introductory BLOG Rubric \(5%\) - Example.
 
-#### 
+| NAME: |
+| :--- |
+
 
 | Grading Criteria | Weight | Assessment % _\(out of 100\)_ |
 | :---: | :---: | ---: |
@@ -152,19 +154,25 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 #### Assignment 1 Rubric - Example
 
-|  |  |  |
-| :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| NAME:  |
+| :--- |
 
-\[
 
-Link to Assignment 1 rubric\]
+
+
+
+
+| Grading Criteria | Weight | Assessment % |
+| :---: | :---: | ---: |
+| _**The Assignment provides a critical thinking and higher ordered analysis response to the assessment of YOU as a strategic leader.**_ | **18%** | **%** |
+| _**The Assignment provides a critical thinking and higher ordered analysis response to the personal mission, vision and values you practice.**_ | **18%** | **%** |
+| _**The Assignment provides a critical thinking and higher ordered analysis response to key strategic drivers helping YOU create significant impact for achieving your potential.**_ | **18%** | **%** |
+| _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
+| _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
+| _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%**	 | **%** |
+|  | **Total score/8:	** |  |
+
+\[Link to Assignment 1 rubric\]
 
 Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
 
