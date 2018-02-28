@@ -12,6 +12,8 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ## Overview
 
+#### Week 1
+
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
 1. Assess your Personal and Individual Strategic Development. \[link to PressBooks instruction here\]
@@ -22,25 +24,17 @@ This week provides an introduction of YOU and your strategic leadership experien
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
-Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric. 
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
-\[Link to Introductory Blog\]     
+\[Link to Introductory Blog\]
 
 \[Link to Introductory Blog rubric\]
 
 \[Link to PressBooks instruction here\]
 
-\[Link to PressBooks files for insertion of materials here\] 
+\[Link to PressBooks files for insertion of materials here\]
 
 \[Link to Assignment 1 rubric\]
-
-\[
-
-Link to Assignment 1 rubric\]
-
-\[link to PressBooks instruction here\]
-
-\[link to PressBooks files for insertion of materials here\]
 
 #### Reading Overview
 
