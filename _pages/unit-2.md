@@ -160,9 +160,9 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 **NOTE:**_Substantive, Succinct and Cited._
 
-\[link to PressBooks instruction here\]
+\[Link to PressBooks instruction here\]
 
-\[link to PressBooks files for insertion of materials here\]
+\[Link to PressBooks files for insertion of materials here\]
 
 #### Assignment 1 Rubric - Example
 
