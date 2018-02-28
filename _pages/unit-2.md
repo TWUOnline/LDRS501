@@ -192,7 +192,10 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 \[Link to Assignment 1 rubric\]
 
-Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
+Unit 2 Learning Activities
+
+Learning Activity 2.1
+[Link to PressBooks instruction here]Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
@@ -220,3 +223,8 @@ Unacceptable work at graduate level. Shows lack of understanding and/or competen
 
 **WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
 
+#### Unit 2 Learning Activities
+
+##### Learning Activity 2.1
+
+[Link to PressBooks instruction here]
