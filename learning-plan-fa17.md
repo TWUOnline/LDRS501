@@ -606,5 +606,5 @@ All MA Lead and MAEL program staff and faculty are required to abide by Canadian
 
 Prepared by D. L. Atha – January 30, 2018
 
-Updated –
+Updated – February 27, 2018
 
