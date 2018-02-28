@@ -10,11 +10,11 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-## Overview
+Overview
 
 #### Week 2 \(update before closing\)
 
-TEAM Assignments based on the results of Week 1 Assignment results \(3 person teams\) 
+TEAM Assignments based on the results of Week 1 Assignment results \(3 person teams\)
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
@@ -66,7 +66,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading Resource
 
-Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey_. McKinsey Quarterly. _Chicago IL: McKinsey and Company. - https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey
+Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey\_. McKinsey Quarterly. \_Chicago IL: McKinsey and Company. - [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey)
 
 \*\*Personal research \*\* for Forum and Assignment completion.
 
@@ -89,22 +89,22 @@ Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey
 
 \[Link to Introductory Blog\]
 
-#### LDRS 501A – Introductory BLOG Rubric \(5%\) - Example.
+#### LDRS 501A – BLOG 1 Rubric \(5%\) - Example.
 
 | NAME: |
 | :--- |
 
 
-| Grading Criteria | Weight | Assessment % | _\(out of 100\)_ |
-| :--- | :--- | :--- | :--- |
-|  | **The Introduction contains a general introduction of YOU.** | **20%** | **%** |
-|  | **The Introduction contains a few of your favourite things.** | **20%** | **%** |
-|  | **The Introduction contains your goals, aspirations and future dreams.** | **20%** | **%** |
-|  | **The Introduction contains what career strategy you are going to follow to achieve them.** | **20%** | **%** |
-|  | **The Introduction is personal and memorable** | **20%** | **%** |
-|  | XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment \(Total/5\):** | **%** |
+| Grading Criteria | Weight | Assessment %_\(out of 100\)_ |
+| :--- | :--- | :--- |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in % | **%** |
+| Instructor criteria for grading goes here | Instructor weighting for each part of the BLOG post assessment goes here in  | **%** |
+| XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment \(Total/5\):** | **%** |
 
-\[Link to Introductory Blog rubric\]
+\[Link to BLOG 1 rubric\]
 
 **Assignment: \_** Week 1\_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
@@ -166,41 +166,15 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 #### Assignment 1 Rubric - Example
 
-| NAME: |
-| :--- |
-
-
-| Grading Criteria | Weight | Assessment % |
-| :--- | :--- | :--- |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to the assessment of YOU as a strategic leader.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to the personal mission, vision and values you practice.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to key strategic drivers helping YOU create significant impact for achieving your potential.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
-| _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
-| _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%** | **%** |
-|  | \*\*Total score/8: \*\* |  |
-
 \[Link to Assignment 1 rubric\]
 
-Unit 2 Learning Activities
+#### Unit 3 Learning Activities
 
-Learning Activity 2.1 \[Link to PressBooks instruction here\]Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
+##### Learning Activity 3.1 
 
-Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
+\[Link to PressBooks instruction here\]
 
-Submit grading to the following link. \[link to grading for Assignment 1\]
 
-#### MA LEAD/MAEL Assignment Grading Rubric 2.0
-
-| Letter Grade | % | Grade | **Meaning in Graduate Work ** | **-** | Note: | _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  | **A+** | **95-100** | **4.3** | _**Exceptionally well-reasoned, compelling development of position.**_ Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
-|  |  |  | **A** | **90-94** | **4.0** | _**Well-argued and convincing development of position.**_ Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
-|  |  |  | **A-** | **85-89** | **3.7** | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
-|  |  |  | **B+** | **80-84** | **3.3** | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
-|  |  |  | **B** | **75-79** | **3.0** | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
-|  |  |  | **B-** | **70-74** | **2.7\*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _\(e.g., clarity, coherence, grammar\)_. Overall quality shows noticeable deficiencies. |
-|  |  |  | **F** | **&lt;70** | **2.0** | \_\*\*Unacceptable work at graduate level. \*\*\_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
 
 **Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
@@ -210,11 +184,7 @@ Unacceptable work at graduate level. Shows lack of understanding and/or competen
 
 **W** = **Withdrew**. This grade is assigned for students withdrawing during the first half of the course.
 
-**WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
+**WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies
 
-#### Unit 2 Learning Activities
 
-##### Learning Activity 2.1
-
-\[Link to PressBooks instruction here\]
 
