@@ -14,23 +14,21 @@ Overview
 
 #### Week 2 \(update before closing\)
 
-TEAM Assignments based on the results of Week 1 Assignment results \(3 person teams\)
+TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3. 
 
-This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
+This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
 
-1. Assess your Personal and Individual Strategic Development. \[link to PressBooks instruction here\]
+1. Appreciative Inquiry
 
-   \[link to PressBooks files for insertion of materials here\]
-
-2. Be submitted in the PressBooks environment as the First Chapter of the \_Discovering Strategic Leadership \_Book Project completed for this course.
+2. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
-\[Link to Introductory Blog\]
+\[Link to BLOG 1\]
 
-\[Link to Introductory Blog rubric\]
+\[Link to BLOG 1 rubric\]
 
 \[Link to PressBooks instruction here\]
 
@@ -40,7 +38,7 @@ Assignment grading is awarded following peer review of the materials entered int
 
 #### Reading Overview
 
-| Week 2 - READ, ZOOM Video-conference   Assignment 1\*\* |
+| Week 2 - BLOG 1 |
 | :--- |
 
 
@@ -53,14 +51,11 @@ Assignment grading is awarded following peer review of the materials entered int
 
 ## Outcomes
 
-Learners will begin development of the following outcomes in the uni
+Learners will begin development of the following outcomes in the unit.
 
-1. **Examine key strategic leadership applications**
-    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
-2. **Develop the necessary skills for systemic and systematic inquiry**
-    of strategic leadership issues related to your personal leadership development
-3. **Integrate strategic leadership practice**
-    into your personal, corporate and career experience through the application of service improvement principles introduced.
+1. **Evaluate**  organizational effectiveness as it relates to strategic leadership principles and practice.
+2. **Integrate and synthesize**  a broad range of LDRS 501 course materials to demonstrate leadership application.
+3. **Examine key strategic leadership applications**  to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
 ## Resources
 
@@ -70,19 +65,13 @@ Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey
 
 \*\*Personal research \*\* for Forum and Assignment completion.
 
-#### Week 1 Assignments
+#### Week 2 Assignments
 
 **Assignment:** BLOG 1 - due May 7-13, 2018 - Post in BLOG 1 Discussion Thread - _**5%**_.
 
-What are your goals, aspirations and future dreams
-
-What career strategy are you going to follow to achieve them?
-
-**Make it personal. Make it memorable. Make it YOU!**
-
 \[Link to BLOG 1 Discussion Thread\]
 
-#### LDRS 501A – BLOG 1 Rubric \(5%\) - Example.
+#### LDRS 501 – BLOG 1 Rubric \(5%\) - Example.
 
 | NAME: |
 | :--- |
