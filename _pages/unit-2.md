@@ -135,19 +135,19 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 \[link to PressBooks files for insertion of materials here\]
 
-#### MA LEAD/MAEL Assignment Grading Rubric 
+#### MA LEAD/MAEL Assignment Grading Rubric  2.0
 
 | Letter Grade | % | Grade | **Meaning in Graduate Work **-** Note:** _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
 | :---: | :---: | :---: | :---: |
 | **A+** | **95-100** | **4.3** | _**Exceptionally well-reasoned, compelling development of position.**_ Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
-|  |  |  | _**Well-argued and convincing development of position.**_ Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
-|  |  |  | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
-|  |  |  | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
-|  |  |  | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
-|  |  |  | _**Unimpressive development of position.**_ Position not completely consistent with personal vision  or  references and resources not taken fully into account  or  examples are basic or not completely convincing  or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _\(e.g., clarity, coherence, grammar\)_. Overall quality shows noticeable deficiencies. |
-|  |  |  | _**Unacceptable work at graduate level. **_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
+| **A** | **90-94** | **4.0** | _**Well-argued and convincing development of position.**_ Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
+| **A-** | **85-89** | **3.7** | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
+| **B+** | **80-84** | **3.3** | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
+| **B** | **75-79** | **3.0** | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
+| **B-** | **70-74** | **2.7\*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision  or  references and resources not taken fully into account  or  examples are basic or not completely convincing  or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _\(e.g., clarity, coherence, grammar\)_. Overall quality shows noticeable deficiencies. |
+| **F** | **&lt;70** | **2.0** | \_**Unacceptable work at graduate level. **\_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
 
-**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
+**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
 Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.Other Designated Grades**
 
@@ -155,11 +155,5 @@ Unacceptable work at graduate level. Shows lack of understanding and/or competen
 
 **W** = **Withdrew**. This grade is assigned for students withdrawing during the first half of the course.
 
-**WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies. 
-
-
-
-
-
-
+**WP /WF** = **Withdrew passing / Withdrew failing**. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
 
