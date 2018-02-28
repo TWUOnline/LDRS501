@@ -10,11 +10,7 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
-## Overview
+* ## Overview
 
 #### Week 1
 
@@ -44,7 +40,7 @@ Assignment grading is awarded following peer review of the materials entered int
 
 _\(optional F2F interaction can be arranged for those living_
 
-_within driving distance to the university\)_The session is recorded and distributed for those unable to connect directly to the session.
+\_within driving distance to the university\)\_The session is recorded and distributed for those unable to connect directly to the session.
 
 | Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _\(ZOOM invitation will be sent the Saturday prior to the video conference\)_ |
 | :---: | :---: | :---: |
