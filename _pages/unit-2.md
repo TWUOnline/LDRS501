@@ -14,15 +14,35 @@ post_date: 2018-02-23T01:07:23.000Z
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development.
+1. Assess your Personal and Individual Strategic Development. \[link to PressBooks instruction here\]
+
+   \[link to PressBooks files for insertion of materials here\]
 
 2. Be submitted in the PressBooks environment as the First Chapter of the \_Discovering Strategic Leadership \_Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
-Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
+Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric. 
 
-### Reading Overview
+\[Link to Introductory Blog\]     
+
+\[Link to Introductory Blog rubric\]
+
+\[Link to PressBooks instruction here\]
+
+\[Link to PressBooks files for insertion of materials here\] 
+
+\[Link to Assignment 1 rubric\]
+
+\[
+
+Link to Assignment 1 rubric\]
+
+\[link to PressBooks instruction here\]
+
+\[link to PressBooks files for insertion of materials here\]
+
+#### Reading Overview
 
 | **Week 1- READ, ZOOM Video-conference ** |
 | :--- |
@@ -140,9 +160,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    * 1. Personal
      2. Professional
 5. Conclude the assignment:
-   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer 
-      &
-       Herholdt, pp. xiii-105\)
+   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
    3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 
@@ -154,12 +172,8 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 #### Assignment 1 Rubric - Example
 
-| NAME:  |
+| NAME: |
 | :--- |
-
-
-
-
 
 
 | Grading Criteria | Weight | Assessment % |
@@ -169,8 +183,8 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 | _**The Assignment provides a critical thinking and higher ordered analysis response to key strategic drivers helping YOU create significant impact for achieving your potential.**_ | **18%** | **%** |
 | _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
 | _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
-| _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%**	 | **%** |
-|  | **Total score/8:	** |  |
+| _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%** | **%** |
+|  | **Total score/8:    ** |  |
 
 \[Link to Assignment 1 rubric\]
 
