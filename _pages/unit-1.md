@@ -495,7 +495,8 @@ Critical thinking urges us and allows us to:
 
     * What additional information is needed?
 
-* Assess the evidence
+Learning Activity 1.3
+[Link to PressBooks instruction]* Assess the evidence
 
   * Is the information we reviewed accurate?
   * Does it stand up under scrutiny?
@@ -549,3 +550,6 @@ Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from[http://www.dictio
 
 Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
+
+Learning Activity 1.3
+[Link to PressBooks instruction]
