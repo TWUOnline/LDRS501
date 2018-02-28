@@ -66,11 +66,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading Resource
 
-Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey_. McKinsey Quarterly. _Chicago IL: McKinsey and Company. - https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey                               
-
-H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
-
-[https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
+Bradley, C ., Bryan, L. and Smit, S. \(July 2012\) Managing the strategy journey_. McKinsey Quarterly. _Chicago IL: McKinsey and Company. - https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey
 
 \*\*Personal research \*\* for Forum and Assignment completion.
 
