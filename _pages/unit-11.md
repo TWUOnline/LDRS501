@@ -9,8 +9,3 @@ permalink: >
 published: true
 post_date: 2018-02-28 23:11:08
 ---
-## Overview
-
-## Outcomes
-
-## Resources
