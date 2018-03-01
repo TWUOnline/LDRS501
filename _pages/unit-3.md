@@ -103,5 +103,19 @@ What career strategy are you going to follow to achieve them?
 
 ##### Learning Activity 3.1
 
+##### Appreciative Inquiry
+
+When it comes to Appreciative Inquiry, we change the conversation from the problems and solutions to the problems, to what we do well and what we can do better.
+
+In many ways, AI equates to seeking wisdom in all we do. Proceeding forward in the organization to develop the best possible outcomes and future focus available. The Bible suggests seeking wisdom, as associated with our discussion of AI, is like looking for silver and searching for it like hidden treasure. \(Proverbs 2: 4\) AI is a treasure for our working and organizational environments that has gone largely untapped or undiscovered in many of the environments we work within. Finding the treasure, applying the principles of AI, leads us to seeing things clearer and more in line with how God sees things. Not the failings of man, but the great potential of man as they align themselves with the future God plans for them and fulfill their potential by exploring the things they appreciate versus the problems they face.
+
+Similarly, the scripture notes we find what we seek. \(Proverbs 8: 17\) In the context, the search is for God, with a promise of finding Him as we seek Him. From the principle of AI viewpoint, when we seek something, we will find it. The focus requires us to know what we are looking for, however. Generally, people look for the problems they want to fix. If they seek them they definitely find them. From this AI perspective, we seek out things we do well and have success with. Seeking success with how we do the things we do well better, is a search worth engaging and following for the benefit of those we work with and the organizations we serve.
+
+Too many organizations fail to look beyond the problems and look to what they do well. In a world of fixers, every problem needs an answer. The better focus however, is to celebrate what we do well. To use discretion in our focus and guard what's important. Proverbs 2: 11, 12 tells us:
+
+
+
+##### Learning Activity 3.2
+
 \[Link to PressBooks instruction here\]
 
