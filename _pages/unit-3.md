@@ -67,9 +67,9 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 1. Appreciative Inquiry - [https://www.youtube.com/watch?v=QzW22wwh1J4](https://www.youtube.com/watch?v=QzW22wwh1J4)
 
-2. Appreciative Inquiry : a positive revolution approach in change - https://www.youtube.com/watch?v=z\_2nZu1nhlk
+2. Appreciative Inquiry : a positive revolution approach in change - [https://www.youtube.com/watch?v=z\_2nZu1nhlk](https://www.youtube.com/watch?v=z_2nZu1nhlk)
 
-3. Appreciative Inquiry Case Study - Louisiana School District - https://www.youtube.com/watch?v=RG8dW2RwwEc
+3. Appreciative Inquiry Case Study - Louisiana School District - [https://www.youtube.com/watch?v=RG8dW2RwwEc](https://www.youtube.com/watch?v=RG8dW2RwwEc)
 
 4. Appreciative Inquiry Resources @ aim2flourish.com - [http://aim2flourish.com/appreciative-inquiry-resources](http://aim2flourish.com/appreciative-inquiry-resources) - clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
 
@@ -107,6 +107,12 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 ##### Learning Activity 3.1
 
 ##### Appreciative Inquiry
+
+When it comes to Appreciative Inquiry, we change the conversation from the problems and solutions to the problems, to what we do well and what we can do better.
+
+In many ways, AI equates to seeking wisdom in all we do. Proceeding forward in the organization to develop the best possible outcomes and future focus available. The Bible suggests seeking wisdom, as associated with our discussion of AI, is like looking for silver and searching for it like hidden treasure. \(Proverbs 2: 4\) AI is a treasure for our working and organizational environments that has gone largely untapped or undiscovered in many of the environments we work within. Finding the treasure, applying the principles of AI, leads us to seeing things clearer and more in line with how God sees things. Not the failings of man, but the great potential of man as they align themselves with the future God plans for them and fulfill their potential by exploring the things they appreciate versus the problems they face.
+
+ 
 
 ##### Learning Activity 3.2
 
