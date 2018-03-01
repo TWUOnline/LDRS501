@@ -112,15 +112,37 @@ Similarly, the scripture notes we find what we seek \(Proverbs 8: 17\) In the co
 
 Too many organizations fail to look beyond the problems and look to what they do well. In a world of fixers, every problem needs an answer. The better focus however, is to celebrate what we do well. To use discretion in our focus and guard what's important. Proverbs 2: 11, 12 tells us:
 
-> Discretion will protect you, 
+> Discretion will protect you,
 >
-> and understanding will guard you. 
+> and understanding will guard you.
 >
 > Wisdom will save you from the ways of wicked men, from men whose words are perverse,
 
+In todays fast paced environment where many pressures face workers and organizations alike, AI is Leadership requirement. 
+
+##### Shifting Gears
+
+Quick question? How would you rate the culture of your organization?
+
+It's an important question as you assess the culture you exist in. What are the values, beliefs, traditions and symbols representative of your culture? When you see changes in the organization, do the values, beliefs, traditions and symbols break down or strengthen? Most can't identify the change without picking out the problems first.
+
+From a biblical perspective, church culture follows a set of values related to servanthood. \(Matthew 18:4; 20:16ff; 23:11–12; Mark 10:43–44; Luke 22:26–27\) Jesus taught it as the hallmark for leading in the generation he lived in, and the truth is still relevant today. If you want to be great; serve!
+
+The things we identify as important in our cultures \(national, organizational, regional, local, personal\) define us as we aim to create change and move things forward to the betterment of all concerned. I am unaware of anyone in any culture saying they wanted to act contrary to the values they espoused. They wanted to act outside of their beliefs or denounce their traditions wholesale. They wanted to expunge the symbols representative of their culture. Even the extremists around the world see themselves supporting their values, beliefs, traditions and symbols. Making them central to their activities and actions. 
+
+On the contrary. I see people wanting to change their cultural values, beliefs, traditions and symbols; updating them to represent a more modern interpretation of what they once represented. But leave it all behind; no!
 
 
 
+
+
+
+
+
+
+
+
+##### 
 
 
 
