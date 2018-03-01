@@ -118,7 +118,7 @@ Too many organizations fail to look beyond the problems and look to what they do
 >
 > Wisdom will save you from the ways of wicked men, from men whose words are perverse,
 
-In todays fast paced environment where many pressures face workers and organizations alike, AI is Leadership requirement. 
+In todays fast paced environment where many pressures face workers and organizations alike, AI is Leadership requirement.
 
 ##### Shifting Gears
 
@@ -128,23 +128,33 @@ It's an important question as you assess the culture you exist in. What are the 
 
 From a biblical perspective, church culture follows a set of values related to servanthood. \(Matthew 18:4; 20:16ff; 23:11–12; Mark 10:43–44; Luke 22:26–27\) Jesus taught it as the hallmark for leading in the generation he lived in, and the truth is still relevant today. If you want to be great; serve!
 
-The things we identify as important in our cultures \(national, organizational, regional, local, personal\) define us as we aim to create change and move things forward to the betterment of all concerned. I am unaware of anyone in any culture saying they wanted to act contrary to the values they espoused. They wanted to act outside of their beliefs or denounce their traditions wholesale. They wanted to expunge the symbols representative of their culture. Even the extremists around the world see themselves supporting their values, beliefs, traditions and symbols. Making them central to their activities and actions. 
+The things we identify as important in our cultures \(national, organizational, regional, local, personal\) define us as we aim to create change and move things forward to the betterment of all concerned. I am unaware of anyone in any culture saying they wanted to act contrary to the values they espoused. They wanted to act outside of their beliefs or denounce their traditions wholesale. They wanted to expunge the symbols representative of their culture. Even the extremists around the world see themselves supporting their values, beliefs, traditions and symbols. Making them central to their activities and actions.
 
 On the contrary. I see people wanting to change their cultural values, beliefs, traditions and symbols; updating them to represent a more modern interpretation of what they once represented. But leave it all behind; no!
 
+This is where AI comes in. It helps us look at our cultural practice, foundational values, relationships, organizational direction, systemic practices, performance, the things we excel at, our positive partnerships, community and ethics to ask the questions:
+
+*  Tell me about the best times that you have had with your organization.
+  * What are your best memories about our cultural practice?
+  * How did we represent what we believe best to you?
+  * What are the most memorable traditions we practice you believe we could practice better
+  * Where do see us excelling the most? etc.
+
+In the AI decision making system we consider how a systemic focus makes a difference. How we can help make organizational complexities easier to understand. What can we do well?
+
+
+
+Our complex environments challenge us every day. In the AI decision making system we consider how a systemic focus makes a difference. How we can help make organizational complexities easier to understand. What we can do well. But we must commit to the benefit of an AI approach to our organizations; systemically, strategically and wholeheartedly.
+
+
+
+For the Learning Activity in this section, you will conduct an AI interview with your team \(2-3 people\). As you review the directions below, 
 
 
 
 
 
-
-
-
-
-
-##### 
-
-
+###### 
 
 ##### Learning Activity 3.2
 
