@@ -22,9 +22,6 @@ This week also introduces YOU and understanding team dynamics as it relates to S
 
 2. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
 
-All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
-
-Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
 \[Link to BLOG 1\]
 
@@ -112,7 +109,11 @@ When it comes to Appreciative Inquiry, we change the conversation from the probl
 
 In many ways, AI equates to seeking wisdom in all we do. Proceeding forward in the organization to develop the best possible outcomes and future focus available. The Bible suggests seeking wisdom, as associated with our discussion of AI, is like looking for silver and searching for it like hidden treasure. \(Proverbs 2: 4\) AI is a treasure for our working and organizational environments that has gone largely untapped or undiscovered in many of the environments we work within. Finding the treasure, applying the principles of AI, leads us to seeing things clearer and more in line with how God sees things. Not the failings of man, but the great potential of man as they align themselves with the future God plans for them and fulfill their potential by exploring the things they appreciate versus the problems they face.
 
- 
+Similarly, the scripture notes we find what we seek (Proverbs 8: 17) In the context, the search is for God, with a promise of finding Him as we seek. From the principle viewpoint, when we seek something, we will find it. The focus however, requires us to know what we are looking for. Generally, people look for the problems they want to fix. If they seek them they will find them; and often do. From an AI perspective, we aim to seek out the things we do well and are successful with. Seeking our success and how we can do the things we do well better, is a search worth engaging and following through with for the benefit of the people we work with and the organization we serve.
+
+Too many organizations fail to look beyond the problems and look to what they do well. In a world of fixers, every problem needs an answer. The better focus however, is to celebrate what we do well. To use discretion in our focus and guard what's impoerttant. Proverbs 2: 11, 12 tells us:
+
+
 
 ##### Learning Activity 3.2
 
