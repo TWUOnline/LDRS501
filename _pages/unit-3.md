@@ -134,7 +134,7 @@ On the contrary. I see people wanting to change their cultural values, beliefs, 
 
 This is where AI comes in. It helps us look at our cultural practice, foundational values, relationships, organizational direction, systemic practices, performance, the things we excel at, our positive partnerships, community and ethics to ask the questions:
 
-*  Tell me about the best times that you have had with your organization.
+* Tell me about the best times that you have had with your organization.
   * What are your best memories about our cultural practice?
   * How did we represent what we believe best to you?
   * What are the most memorable traditions we practice you believe we could practice better
@@ -142,15 +142,34 @@ This is where AI comes in. It helps us look at our cultural practice, foundation
 
 In the AI decision making system we consider how a systemic focus makes a difference. How we can help make organizational complexities easier to understand. What can we do well?
 
-
-
 Our complex environments challenge us every day. In the AI decision making system we consider how a systemic focus makes a difference. How we can help make organizational complexities easier to understand. What we can do well. But we must commit to the benefit of an AI approach to our organizations; systemically, strategically and wholeheartedly.
 
+##### Learning Activity for Appreciative Inquiry \(AI\)
+
+For the Learning Activity in this section, you will conduct an AI interview with your team \(2-3 people\), following the instructions outlined below.
+
+* Gather together as a team \(via Skype, Zoom, Google Hangouts, FaceTime, etc.\) and ask each other the following questions. 
+  * Record your answers to one another to compare and discuss your answers afterwards.
+
+Suggested questions	for interviews _\(adapted from OESC Trustee Professional Development Program\)_:
+
+1. What motivated you to enter your present career?	
+   1. What do	you value most about being involved in your present career pursuits and	the larger mission this represents?
+2. Think back to your most significant leadership experience you have had in your career. 
+   1. A time when you felt really alive, engaged, and proud of yourself and your performance? Describe the experience. 
+   2. What       strengths surrounded you? 
+   3. What values were at play?
+   4. How has this experience influenced you in	your role today?
+3.  Think back to a successful project or	activity	that	was	particularly	satisfying	in	terms	of	teamwork
+   or	a	collective	achievement.	A	moment	or	period	where	you	felt	you	made	a	real	difference	because	of	
+   the	collaboration	among	the	group.	Describe	that	time.	What	are	the	one	or	two	reasons	you	felt	
+   engaged?	What	contributed	to	this	being	a	peak	experience?	What	made	the	team	effective?
+   What	do	you	think	was	your	own	most	valuable	contribution	to	the	team?	What	could	this	board	do	to	
+   promote	these	types	of	experiences?
 
 
-For the Learning Activity in this section, you will conduct an AI interview with your team \(2-3 people\). As you review the directions below, 
 
-
+	
 
 
 
