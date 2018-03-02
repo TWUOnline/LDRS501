@@ -10,7 +10,7 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-Overview
+## Overview
 
 ### Week 3 \(change before closing\)
 
@@ -40,7 +40,7 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
-| M. Ungerer, G. Ungerer & J. Herholdt | \*\* Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish\*\* | Chapters 6-7 \(pp. 277-364\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 6-7 \(pp. 277-364\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 \(pp. 149-216\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72 |
 
@@ -63,13 +63,53 @@ earners will begin development of the following outcomes in the unit. \(revise\)
 
 **Assignment:**BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
 
-BLOG 2:
+#### BLOG 2
 
-\[Link to BLOG 1 Discussion Thread\]
+##### BLOG 2 – Week 3: Strategic Leadership Teams 
+
+This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question \(all parts\). Please be as succinct as possible, but be complete. Please cite all references. \(Substantive/succinct/cited\) 
+
+Galbraith – Formal Groups pp. 90-106.; Hughes et al. – Chapter 5 – Strategic Leadership Teams; Lepsinger – Bridge 3 – pp. 14-16; M. Ungerer, G. Ungerer & J. Herholdt – Chapters 3-5 \(pp. 107-275\). 
+
+Assessing your present/previous team situation or course team environment \(see Hughes, et al., p. 213\), did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not? 
+
+As you work with teams in your present/previous work environment and your team in this course, how do you build a sense of ownership and involvement? 
+
+What are some of the limiting factors in the team systems you’ve worked with or work with presently? 
+
+How do you identify bottlenecks in your present/previous team situation or course team environment? How do you address those issues without shutting down team creativity, efficiency or cohesiveness? 
+
+Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course? 
+
+* How are they similar? 
+
+* How are they different? 
+
+* What do you see needing improvement in both to make them more effective? 
+
+
+
+How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences? 
+
+* How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you? 
+
+
+
+NOTE: 
+
+1. ALL BLOGs start with post leaders \(see posting instructions\). 
+2. ALL posts \(leaders and responders\) must answer substantively, succinctly and cited. 
+3. ALL posts must be started and completed in the time frames provided in posting instructions. 
+
+
+
+If you have questions, please do not hesitate to ask. We are learning together. Mastery comes from learning, not vice versa.
+
+\[Link to BLOG 2 Discussion Thread\]
 
 \[Link to MA LEAD LEADERSHIP MONOGRAPH 2018\]
 
-#### LDRS 501 – BLOG 1 Rubric \(5%\) - Example.
+#### LDRS 501 – BLOG 2 Rubric \(5%\) - Example.
 
 **DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade \(per week\):**
 
