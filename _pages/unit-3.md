@@ -83,7 +83,11 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 **Assignment:** BLOG 1 - due May 7-13, 2018 - Post in BLOG 1 Discussion Thread - _**5%**_.
 
+
+
 \[Link to BLOG 1 Discussion Thread\]
+
+\[Link to MA LEAD LEADERSHIP MONOGRAPH 2018\]
 
 #### LDRS 501 – BLOG 1 Rubric \(5%\) - Example.
 
