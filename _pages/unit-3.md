@@ -75,7 +75,7 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 7. Hunter Douglas - Appreciative Inquiry Case Study - [https://www.youtube.com/watch?v=eLOM4kxOO\_Q](https://www.youtube.com/watch?v=eLOM4kxOO_Q)
 
-#### Week 2 Assignments
+#### Week 2 Assignments 
 
 **Assignment:** BLOG 1 - due May 7-13, 2018 - Post in BLOG 1 Discussion Thread - _**5%**_.
 
@@ -151,7 +151,7 @@ For the Learning Activity in this section, you will conduct an AI interview with
 * Gather together as a team \(via Skype, Zoom, Google Hangouts, FaceTime, etc.\) and ask each other the following questions. 
   * Record your answers to one another to compare and discuss your answers afterwards.
 
-Suggested questions    for interviews _\(adapted from OESC Trustee Professional Development Program\)_:
+Suggested questions for interviews _\(adapted from OESC Trustee Professional Development Program\)_:
 
 1. What motivated you to enter your present career?    
    1. What do    you value most about being involved in your present career pursuits and    the larger mission this represents?
@@ -168,11 +168,23 @@ Suggested questions    for interviews _\(adapted from OESC Trustee Professional 
    5. What do you think was your own most valuable contribution to the team? 
    6. What does your present employer do to promote these types of experiences?
 4. If you could make three wishes you, the people you work with and your present employer to evolve to their full potential as a team, what would those wishes  be?
-5. What single small change could we make that would have the biggest impact in improving our	work as a board team right now?
+5. What single small change can you make to have the biggest impact in improving your work environment right now?
+
+**Whole Group Sharing and	Storytelling**
+
+After your group’s interviews are complete, share your responses with one another and make meaning out of what you've learned.	
+
+Follow up questions for discussion:
+
+1. What did you find most surprising in your interviews?
+2. What are your team’s greatest strengths \(as gleaned from your interviews with one another\)?
+3. What are some of the key factors for a successful team you possess together? \(List as many as you discover\)
+4. What values do you have in common? \(List at least three, but no more than 5\)
+5. What are the group’s aspirations for this team as a result of what you've learned about each other through the interview process?
+
+\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\)
 
 
-
-###### 
 
 ##### Learning Activity 3.2
 
