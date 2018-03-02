@@ -482,7 +482,7 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 | W7 BLOG | BLOG 5 | 5% |
 | W8 BLOG | BLOG 6 | 5% |
 
-**DQ Learner participation is assessed as follows in all Forum Posts for 5% of grade \(per week\):**
+**DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade \(per week\):**
 
 |  |  |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |
