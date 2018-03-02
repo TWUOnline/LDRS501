@@ -16,21 +16,7 @@ Overview
 
 TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
-This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
-
-#### 
-
-**Performance rating:**
-
-* _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
-
-* _**Acceptable Standard**_\*\* \*\*-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
-
-_**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier poiL
-
-DRS 501 – BLOG 1 Rubric \(5%\) - Example.
-
-**DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade \(pe**
+This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts forrn
 
 1. Appreciative Inquiry
 
