@@ -65,43 +65,37 @@ earners will begin development of the following outcomes in the unit. \(revise\)
 
 #### BLOG 2
 
-##### BLOG 2 – Week 3: Strategic Leadership Teams 
+##### BLOG 2 – Week 3: Strategic Leadership Teams
 
-This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question \(all parts\). Please be as succinct as possible, but be complete. Please cite all references. \(Substantive/succinct/cited\) 
+This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question \(all parts\). Please be as succinct as possible, but be complete. Please cite all references. \(Substantive/succinct/cited\)
 
-Galbraith – Formal Groups pp. 90-106.; Hughes et al. – Chapter 5 – Strategic Leadership Teams; Lepsinger – Bridge 3 – pp. 14-16; M. Ungerer, G. Ungerer & J. Herholdt – Chapters 3-5 \(pp. 107-275\). 
+Galbraith – Formal Groups pp. 90-106.; Hughes et al. – Chapter 5 – Strategic Leadership Teams; Lepsinger – Bridge 3 – pp. 14-16; M. Ungerer, G. Ungerer & J. Herholdt – Chapters 3-5 \(pp. 107-275\).
 
-Assessing your present/previous team situation or course team environment \(see Hughes, et al., p. 213\), did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not? 
+Assessing your present/previous team situation or course team environment \(see Hughes, et al., p. 213\), did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not?
 
-As you work with teams in your present/previous work environment and your team in this course, how do you build a sense of ownership and involvement? 
+As you work with teams in your present/previous work environment and your team in this course, how do you build a sense of ownership and involvement?
 
-What are some of the limiting factors in the team systems you’ve worked with or work with presently? 
+What are some of the limiting factors in the team systems you’ve worked with or work with presently?
 
-How do you identify bottlenecks in your present/previous team situation or course team environment? How do you address those issues without shutting down team creativity, efficiency or cohesiveness? 
+How do you identify bottlenecks in your present/previous team situation or course team environment? How do you address those issues without shutting down team creativity, efficiency or cohesiveness?
 
-Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course? 
+Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course?
 
-* How are they similar? 
+* How are they similar?
 
-* How are they different? 
+* How are they different?
 
-* What do you see needing improvement in both to make them more effective? 
+* What do you see needing improvement in both to make them more effective?
 
-
-
-How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences? 
+How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?
 
 * How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you? 
 
-
-
-NOTE: 
+NOTE:
 
 1. ALL BLOGs start with post leaders \(see posting instructions\). 
 2. ALL posts \(leaders and responders\) must answer substantively, succinctly and cited. 
 3. ALL posts must be started and completed in the time frames provided in posting instructions. 
-
-
 
 If you have questions, please do not hesitate to ask. We are learning together. Mastery comes from learning, not vice versa.
 
@@ -130,6 +124,76 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 * _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
 
 * _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
+
+#### Unit 4 Learning Activities
+
+##### Learning Activity 4.1
+
+##### Systems Thinking
+
+**A Systems Thinking Primer: **_**Seeing Organizations in Action**_
+
+Five Disciplines of a Learning Organization - Peter Senge
+
+_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved \[insert date\] from ToolsHero: https://www.toolshero.com/management/five-disciplines-learning-organizations/ for an effective summary of this seminal book related to Systems Thinking\)_
+
+Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
+
+In Senge's _The fifth discipline_, Senge outlines his fundamentals for systems thinking.
+
+1. _Today's problems come from yesterday’s solutions_
+
+Senge notes, 'we merely need to look at our own solutions to other problems in the past.' \(p. 57\)
+
+Explaining that problems arise from past actions.
+
+> A well-established firm may find that this quarter's sales are off sharply. Why? Because the highly successful rebate program last quarter led many customers to buy then rather than now. Or a new manager attacks chronically high inventory costs and "solves" the problem—except that the salesforce is now spending 20 percent more time responding to angry complaints from customers who are still waiting for late shipments, and the rest of its time trying to convince prospective customers that they can have "any color they want so long as it's black. \(Senge. pp. 57, 58\)
+
+2. The harder you push, the harder the systems push back
+
+Compensating feedback is when well-intentioned interventions offset the benefits of the intervention.\(p. 58\) Senge provides an example of this when he writes:
+
+> efforts to correct the U.S. trade imbalance by letting the value of the dollar fall in the mid-1980s were compensated for by foreign competitors who let prices of their goods fall in parallel \(for countries whose currency was "pegged to the dollar," their prices adjusted automatically\). \(p.59\)
+
+In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
+
+
+
+3. Behavior grows better before it grows worse
+
+
+
+The easy way out usually leads back in
+
+
+
+The cure can be worse than the disease
+
+Faster is slower
+
+Cause and effect are not closely related in time and space
+
+Small changes can produce large results
+
+You can have your cake and eat it too  but not all at once
+
+Dividing an elephant in half does not produce two small elephants
+
+ 
+
+
+
+Haines, S. \(2000\). _The systems thinking approach to strategic planning and management. _Washington DC: St. Lucie Press.
+
+Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
+
+Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from https://www.toolshero.com/management/five-disciplines-learning-organizations/
+
+
+
+
+
+
 
 
 
