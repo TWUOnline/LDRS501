@@ -75,7 +75,7 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 7. Hunter Douglas - Appreciative Inquiry Case Study - [https://www.youtube.com/watch?v=eLOM4kxOO\_Q](https://www.youtube.com/watch?v=eLOM4kxOO_Q)
 
-#### Week 2 Assignments 
+#### Week 2 Assignments
 
 **Assignment:** BLOG 1 - due May 7-13, 2018 - Post in BLOG 1 Discussion Thread - _**5%**_.
 
@@ -170,9 +170,9 @@ Suggested questions for interviews _\(adapted from OESC Trustee Professional Dev
 4. If you could make three wishes you, the people you work with and your present employer to evolve to their full potential as a team, what would those wishes  be?
 5. What single small change can you make to have the biggest impact in improving your work environment right now?
 
-**Whole Group Sharing and	Storytelling**
+**Whole Group Sharing and    Storytelling**
 
-After your group’s interviews are complete, share your responses with one another and make meaning out of what you've learned.	
+After your group’s interviews are complete, share your responses with one another and make meaning out of what you've learned.
 
 Follow up questions for discussion:
 
@@ -181,10 +181,11 @@ Follow up questions for discussion:
 3. What are some of the key factors for a successful team you possess together? \(List as many as you discover\)
 4. What values do you have in common? \(List at least three, but no more than 5\)
 5. What are the group’s aspirations for this team as a result of what you've learned about each other through the interview process?
+6. how will you incorporate what you've learned from this exercise into the team practices required to publish the Open Source Strategic Leadership Book required in completing this course?
 
-\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\)
+\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - [http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf\)\)
 
-
+Once you answer these questions, record them somewhere to refer to them throughout your work together and remind you of the important concepts and principles you've discovered in this process.
 
 ##### Learning Activity 3.2
 
