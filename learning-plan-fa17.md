@@ -145,7 +145,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
 | M. Ungerer, G. Ungerer $ J. Herholdt | **  Navigating Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 3-5 \(pp. 107-275\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Chapters 4-6 \(pp. 89-148\) |
-| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 2 \(pp. 25-49\) |
 
 #### **E resources**
 
@@ -482,7 +482,7 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 | W7 BLOG | BLOG 5 | 5% |
 | W8 BLOG | BLOG 6 | 5% |
 
-**DQ Learner participation is assessed as follows in all Forum Posts for 5% of grade \(per week\):**
+**DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade \(per week\):**
 
 |  |  |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |
