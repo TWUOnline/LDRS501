@@ -46,8 +46,6 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 ## Outcomes
 
-L
-
 earners will begin development of the following outcomes in the unit. \(revise\)
 
 1. **Evaluate**
@@ -65,15 +63,9 @@ earners will begin development of the following outcomes in the unit. \(revise\)
 
 **Assignment:**BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
 
-BLOG 2: 
-
-
+BLOG 2:
 
 \[Link to BLOG 1 Discussion Thread\]
 
 \[Link to MA LEAD LEADERSHIP MONOGRAPH 2018\]
-
-
-
-
 
