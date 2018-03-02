@@ -10,9 +10,9 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-Overview
+## Overview
 
-#### Week 2 \(update before closing\)
+#### Week 2
 
 TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
@@ -21,6 +21,10 @@ This week also introduces YOU and understanding team dynamics as it relates to S
 1. Appreciative Inquiry
 
 2. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+
+The Appreciative Inquiry concepts are an important framework for Strategic Leadership. Looking at things from a more positive light is a better framework for developing strategy than developing it to fix problems in the organization. When we become fixers we run into a never ending list of fixes to attend to. When we become dreamers, we see the future as an open book with dreams, wishes and opportunities laid before us to work toward and succeed at.
+
+The PressBooks material follows previous outlines for developing proficiency with the material. \(add new information below with an overview here\)
 
 \[Link to BLOG 1\]
 
@@ -183,7 +187,7 @@ Follow up questions for discussion:
 5. What are the group’s aspirations for this team as a result of what you've learned about each other through the interview process?
 6. how will you incorporate what you've learned from this exercise into the team practices required to publish the Open Source Strategic Leadership Book required in completing this course?
 
-\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - [http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf\)\)
+\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - [http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf%29\)
 
 Once you answer these questions, record them somewhere to refer to them throughout your work together and remind you of the important concepts and principles you've discovered in this process.
 
