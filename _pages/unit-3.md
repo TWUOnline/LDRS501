@@ -167,8 +167,10 @@ Suggested questions    for interviews _\(adapted from OESC Trustee Professional 
    4. What made the team effective? 
    5. What do you think was your own most valuable contribution to the team? 
    6. What does your present employer do to promote these types of experiences?
-4. If	you	could	make	three	wishes	come	through	in	order	for	your	board	to	evolve	to	its	full	potential	as	a	
-   team,	what	would	they	be?
+4. If you could make three wishes you, the people you work with and your present employer to evolve to their full potential as a team, what would those wishes  be?
+5. What single small change could we make that would have the biggest impact in improving our	work as a board team right now?
+
+
 
 ###### 
 
