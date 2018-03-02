@@ -151,27 +151,24 @@ For the Learning Activity in this section, you will conduct an AI interview with
 * Gather together as a team \(via Skype, Zoom, Google Hangouts, FaceTime, etc.\) and ask each other the following questions. 
   * Record your answers to one another to compare and discuss your answers afterwards.
 
-Suggested questions	for interviews _\(adapted from OESC Trustee Professional Development Program\)_:
+Suggested questions    for interviews _\(adapted from OESC Trustee Professional Development Program\)_:
 
-1. What motivated you to enter your present career?	
-   1. What do	you value most about being involved in your present career pursuits and	the larger mission this represents?
+1. What motivated you to enter your present career?    
+   1. What do    you value most about being involved in your present career pursuits and    the larger mission this represents?
 2. Think back to your most significant leadership experience you have had in your career. 
    1. A time when you felt really alive, engaged, and proud of yourself and your performance? Describe the experience. 
-   2. What       strengths surrounded you? 
+   2. What strengths surrounded you? 
    3. What values were at play?
-   4. How has this experience influenced you in	your role today?
-3.  Think back to a successful project or	activity	that	was	particularly	satisfying	in	terms	of	teamwork
-   or	a	collective	achievement.	A	moment	or	period	where	you	felt	you	made	a	real	difference	because	of	
-   the	collaboration	among	the	group.	Describe	that	time.	What	are	the	one	or	two	reasons	you	felt	
-   engaged?	What	contributed	to	this	being	a	peak	experience?	What	made	the	team	effective?
-   What	do	you	think	was	your	own	most	valuable	contribution	to	the	team?	What	could	this	board	do	to	
-   promote	these	types	of	experiences?
-
-
-
-	
-
-
+   4. How has this experience influenced you in    your role today?
+3. Think back to a successful project or activity that was particularly satisfying in terms of teamwork or a collective achievement. A moment or period where you felt you made a real difference because of the collaboration among the group. 
+   1. Describe that time. 
+   2. What are the one or two reasons you felt engaged? 
+   3. What contributed to this being a peak experience? 
+   4. What made the team effective? 
+   5. What do you think was your own most valuable contribution to the team? 
+   6. What does your present employer do to promote these types of experiences?
+4. If	you	could	make	three	wishes	come	through	in	order	for	your	board	to	evolve	to	its	full	potential	as	a	
+   team,	what	would	they	be?
 
 ###### 
 
