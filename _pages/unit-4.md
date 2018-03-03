@@ -141,7 +141,7 @@ Stephen Haines writes that a system is “a set of components that work together
 
 In Senge's _The fifth discipline_, Senge outlines his fundamentals for systems thinking.
 
-1. Today's problems come from yesterday’s solutions\_
+**Today's problems come from yesterday’s solutions**
 
 Senge notes, 'we merely need to look at our own solutions to other problems in the past.' \(p. 57\)
 
@@ -149,7 +149,7 @@ Explaining that problems arise from past actions.
 
 > A well-established firm may find that this quarter's sales are off sharply. Why? Because the highly successful rebate program last quarter led many customers to buy then rather than now. Or a new manager attacks chronically high inventory costs and "solves" the problem—except that the salesforce is now spending 20 percent more time responding to angry complaints from customers who are still waiting for late shipments, and the rest of its time trying to convince prospective customers that they can have "any color they want so long as it's black. \(Senge. pp. 57, 58\)
 
-2. The harder you push, the harder the systems push back
+**The harder you push, the harder the systems push back**
 
 Compensating feedback is when well-intentioned interventions offset the benefits of the intervention.\(p. 58\) Senge provides an example of this when he writes:
 
@@ -161,29 +161,37 @@ Compensating feedback is when well-intentioned interventions offset the benefits
 
 In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
 
-3. Behavior grows better before it grows worse
+**Behavior grows better before it grows worse**
 
-As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions 
+As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions
 
-is what makes political decision making so counterproductive." \(Senge p. 60\) 
+is what makes political decision making so counterproductive." \(Senge p. 60\)
 
-4. The easy way out usually leads back in
+**The easy way out usually leads back in**
 
-"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously. 
+"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
 
-5. The cure can be worse than the disease
+**The cure can be worse than the disease**
+
+"The long-term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution." \(Senge, p. 61\)
+
+The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens, \(p. 62\) take responsibility for finding the best solutions for the challenges before them.  A sentiment repeated in Galatians 6:4, 5 in the Bible.
+
+**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5 **for each one should carry their own load. \(Galatians 6: 4, 5 NIV\)
 
 
 
-Faster is slower
+**Faster is slower**
 
-Cause and effect are not closely related in time and space
 
-Small changes can produce large results
 
-You can have your cake and eat it too  but not all at once
+**Cause and effect are not closely related in time and space**
 
-Dividing an elephant in half does not produce two small elephants
+**Small changes can produce large results**
+
+**You can have your cake and eat it too  but not all at once**
+
+**Dividing an elephant in half does not produce two small elephants**
 
 Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
