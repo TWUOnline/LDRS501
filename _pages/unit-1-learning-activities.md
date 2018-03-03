@@ -60,7 +60,7 @@ Once you read this summary, answer the following questions to deepen your unders
 Looking at your area of personal worldview, responsibility, discipline, organization or area of study; respond to the questions below as they relate to critical thinking:
 
 1. What are the changes influencing your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to the changes affecting these areas of your life?
-1. Look at each area; review the basic assumptions you are dealing with _(i. e. the best way to travel across Canada is by bus)_ and list the changes influences these areas for you.
+1. Look at each area; review the basic assumptions you are dealing with _(i. e. the best way to travel across Canada is by bus)_ and list the changes influences these areas for you. <span style="color: #ff0000"> (Sorry, I don't understand what I'm supposed to list)</span>
 2. How can you think more critically about these changes?
 1. List the critical observations you make on a separate log for future review and discussion.
 3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?
