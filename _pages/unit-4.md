@@ -173,19 +173,26 @@ is what makes political decision making so counterproductive." \(Senge p. 60\)
 
 **The cure can be worse than the disease**
 
-"The long-term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution." \(Senge, p. 61\)
+"The long-term, most insidious consequence of applying nonsystemic  
+ solutions is increased need for more and more of the solution." \(Senge, p. 61\)
 
 The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens, \(p. 62\) take responsibility for finding the best solutions for the challenges before them.  A sentiment repeated in Galatians 6:4, 5 in the Bible.
 
 **4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5 **for each one should carry their own load. \(Galatians 6: 4, 5 NIV\)
 
-
-
 **Faster is slower**
 
+> When growth becomes excessive ... the system itself will seek to compensate by slowing down; perhaps putting the organization's survival at risk in the process. \(Senge, p. 62\)
 
+Taking the time in process, with well thought out answers to the organizational challenges experienced will help curtail excessive growth that can hinder the anticipated progress of the organization. We've seen many organizations experience growth and rapid success, only to fail shortly afterward because their success did not anticipate the effects growth would have on the organization as a whole.
+
+Target Canada is a perfect example of the law of 'faster is slower.'  They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the US growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. \(St. Louis, January 30, 2015\)
+
+> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores.\(St. Louis, January 30, 2015\)
 
 **Cause and effect are not closely related in time and space**
+
+
 
 **Small changes can produce large results**
 
@@ -196,6 +203,8 @@ The old saying about everything being a nail if you're a hammer applies here. Yo
 Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
+
+St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from https://www.visioncritical.com/target-canada/
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
