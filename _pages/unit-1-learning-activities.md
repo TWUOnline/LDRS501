@@ -63,7 +63,7 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 1. Look at each area; review the basic assumptions you are dealing with _(i. e. the best way to travel across Canada is by bus)_ and list the changes influences these areas for you. <span style="color: #ff0000"> (Sorry, I don't understand what I'm supposed to list)</span>
 2. How can you think more critically about these changes?
 1. List the critical observations you make on a separate log for future review and discussion.
-3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?
+3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice? <span style="color: #ff0000">(Does this review happen after a period of time?)</span>
 4. Once you review these questions and respond to them:
 1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
 2. Keep the proposal for future use in other participation activities throughout the course.
