@@ -80,4 +80,4 @@ Intellectual Responsibility (2018) If-I-Seek-Us. retrieved from [http://www.ifis
 
 #### Learning Activity 1.3
 
-[Link to PressBooks instruction]
+<span style="color: #ff0000">What is the description of this activity?</span> [Link to PressBooks instruction]
