@@ -38,6 +38,8 @@ Once you read this summary, answer the following questions to deepen your unders
 * So, what does leadership mean to you?
 * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
+<span style="color: #993300">Not sure what this is below is.... are students supposed to reflect on this comment and write down their responses to questions, or just think about it? As such, it seems like it is a new activity because it doesn't rely on the Goleman reading</span>
+
 **Leadership is something people grant you or don't grant you.**
 
 * Who in your life have you been granted leadership from? What were the circumstances? What were the outcomes? positive? Not so positive? A disaster?
