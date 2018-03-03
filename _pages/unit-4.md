@@ -141,7 +141,7 @@ Stephen Haines writes that a system is “a set of components that work together
 
 In Senge's _The fifth discipline_, Senge outlines his fundamentals for systems thinking.
 
-1. Today's problems come from yesterday’s solutions\_
+**Today's problems come from yesterday’s solutions**
 
 Senge notes, 'we merely need to look at our own solutions to other problems in the past.' \(p. 57\)
 
@@ -149,7 +149,7 @@ Explaining that problems arise from past actions.
 
 > A well-established firm may find that this quarter's sales are off sharply. Why? Because the highly successful rebate program last quarter led many customers to buy then rather than now. Or a new manager attacks chronically high inventory costs and "solves" the problem—except that the salesforce is now spending 20 percent more time responding to angry complaints from customers who are still waiting for late shipments, and the rest of its time trying to convince prospective customers that they can have "any color they want so long as it's black. \(Senge. pp. 57, 58\)
 
-2. The harder you push, the harder the systems push back
+**The harder you push, the harder the systems push back**
 
 Compensating feedback is when well-intentioned interventions offset the benefits of the intervention.\(p. 58\) Senge provides an example of this when he writes:
 
@@ -161,33 +161,65 @@ Compensating feedback is when well-intentioned interventions offset the benefits
 
 In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
 
-3. Behavior grows better before it grows worse
+**Behavior grows better before it grows worse**
 
-As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions 
+As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions
 
-is what makes political decision making so counterproductive." \(Senge p. 60\) 
+is what makes political decision making so counterproductive." \(Senge p. 60\)
 
-4. The easy way out usually leads back in
+**The easy way out usually leads back in**
 
-"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously. 
+"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
 
-5. The cure can be worse than the disease
+**The cure can be worse than the disease**
+
+"The long-term, most insidious consequence of applying nonsystemic  
+ solutions is increased need for more and more of the solution." \(Senge, p. 61\)
+
+The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens, \(p. 62\) take responsibility for finding the best solutions for the challenges before them. A sentiment repeated in Galatians 6:4, 5 in the Bible.
+
+**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, \*\*5 \*\*for each one should carry their own load. \(Galatians 6: 4, 5 NIV\)
+
+**Faster is slower**
+
+> When  
+>  growth becomes excessive ... the system itself will  
+>  seek to compensate by slowing down; perhaps putting the  
+>  organization's survival at risk in the process. \(Senge, p. 62\)
+
+Taking the time in process, with well thought out answers to the organizational challenges experienced will help curtail excessive growth that can hinder the anticipated progress of the organization. We've seen many organizations experience growth and rapid success, only to fail shortly afterward because their success did not anticipate the effects growth would have on the organization as a whole.
+
+Target Canada is a perfect example of the law of 'faster is slower.' They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the US growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. \(St. Louis, January 30, 2015\)
+
+> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores.\(St. Louis, January 30, 2015\)
+
+**Cause and effect are not closely related in time and space**
+
+> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are—most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
+
+What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. The chaos theory is part of
+
+> a scientific field blending mathematics, statistics, and philosophy that was developed to study systems that are highly complex, unstable, and resistant to exact prediction. Chaotic systems include weather patterns, neural networks, some social systems, and a variety of chemical and quantum phenomena. The study of chaotic systems began in the nineteenth century and developed into a distinct field during the 1980s. \(Chaotic Systems, 2013\)
+
+Small changes in initial conditions lead to drastic changes in results. \(Fractal Foundation\) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
+
+**Small changes can produce large results—but the areas of highest leverage are often the least obvious.**
 
 
 
-Faster is slower
+**You can have your cake and eat it too but not all at once**
 
-Cause and effect are not closely related in time and space
+**Dividing an elephant in half does not produce two small elephants**
 
-Small changes can produce large results
+Fractal Foundation \(2018\) What is chaos theory? Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
-You can have your cake and eat it too  but not all at once
+Haines, S. \(2000\). The systems thinking approach to strategic planning and management. Washington DC: St. Lucie Press.
 
-Dividing an elephant in half does not produce two small elephants
-
-Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
+Issitt, M. \(2013\). Chaotic systems. In \_Salem Press Encyclopedia of Science. \_
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
+
+St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from [https://www.visioncritical.com/target-canada/](https://www.visioncritical.com/target-canada/)
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
