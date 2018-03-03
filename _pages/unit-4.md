@@ -135,13 +135,13 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 
 Five Disciplines of a Learning Organization - Peter Senge
 
-_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved \[insert date\] from ToolsHero: https://www.toolshero.com/management/five-disciplines-learning-organizations/ for an effective summary of this seminal book related to Systems Thinking\)_
+_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved \[insert date\] from ToolsHero: _[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)_ for an effective summary of this seminal book related to Systems Thinking\)_
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
 In Senge's _The fifth discipline_, Senge outlines his fundamentals for systems thinking.
 
-1. _Today's problems come from yesterday’s solutions_
+1. Today's problems come from yesterday’s solutions\_
 
 Senge notes, 'we merely need to look at our own solutions to other problems in the past.' \(p. 57\)
 
@@ -153,21 +153,27 @@ Explaining that problems arise from past actions.
 
 Compensating feedback is when well-intentioned interventions offset the benefits of the intervention.\(p. 58\) Senge provides an example of this when he writes:
 
-> efforts to correct the U.S. trade imbalance by letting the value of the dollar fall in the mid-1980s were compensated for by foreign competitors who let prices of their goods fall in parallel \(for countries whose currency was "pegged to the dollar," their prices adjusted automatically\). \(p.59\)
+> efforts to correct the U.S. trade imbalance by letting the  
+>  value of the dollar fall in the mid-1980s were compensated for by  
+>  foreign competitors who let prices of their goods fall in parallel \(for  
+>  countries whose currency was "pegged to the dollar," their prices  
+>  adjusted automatically\). \(p.59\)
 
 In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
 
-
-
 3. Behavior grows better before it grows worse
 
+As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions 
+
+is what makes political decision making so counterproductive." \(Senge p. 60\) 
+
+4. The easy way out usually leads back in
+
+"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously. 
+
+5. The cure can be worse than the disease
 
 
-The easy way out usually leads back in
-
-
-
-The cure can be worse than the disease
 
 Faster is slower
 
@@ -179,21 +185,9 @@ You can have your cake and eat it too  but not all at once
 
 Dividing an elephant in half does not produce two small elephants
 
- 
-
-
-
-Haines, S. \(2000\). _The systems thinking approach to strategic planning and management. _Washington DC: St. Lucie Press.
+Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
-Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from https://www.toolshero.com/management/five-disciplines-learning-organizations/
-
-
-
-
-
-
-
-
+Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
