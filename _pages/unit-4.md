@@ -197,13 +197,13 @@ Target Canada is a perfect example of the law of 'faster is slower.'  They enter
 
 > Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are—most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
 
-What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. The chaos theory is part of 
+What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. The chaos theory is part of
 
 > a scientific field blending mathematics, statistics, and philosophy that was developed to study systems that are highly complex, unstable, and resistant to exact prediction. Chaotic systems include weather patterns, neural networks, some social systems, and a variety of chemical and quantum phenomena. The study of chaotic systems began in the nineteenth century and developed into a distinct field during the 1980s. \(Chaotic Systems, 2013\)
 
 Small changes in initial conditions lead to drastic changes in results. \(Fractal Foundation\) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
 
-**Small changes can produce large results**
+**Small changes can produce large results—but the areas of highest leverage are often the least obvious.**
 
 
 
@@ -211,7 +211,7 @@ Small changes in initial conditions lead to drastic changes in results. \(Fracta
 
 **Dividing an elephant in half does not produce two small elephants**
 
-Fractal Foundation \(2018\) What is chaos theory? Retrieved from https://fractalfoundation.org/resources/what-is-chaos-theory/
+Fractal Foundation \(2018\) What is chaos theory? Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
 Haines, S. \(2000\). The systems thinking approach to strategic planning and management. Washington DC: St. Lucie Press.
 
