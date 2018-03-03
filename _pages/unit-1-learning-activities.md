@@ -25,7 +25,7 @@ As you review the ideas of personal learning and leadership, it is important you
 
 ##### Readings
 
-Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
+Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #993300">This book is not listed in the Unit 1 Resources.</span>
 
 [link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
