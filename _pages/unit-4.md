@@ -203,9 +203,21 @@ What Senge is getting at is that cause and effect can occur between great distan
 
 Small changes in initial conditions lead to drastic changes in results. \(Fractal Foundation\) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
 
-**Small changes can produce large results—but the areas of highest leverage are often the least obvious.**
+**Small changes can produce large results—but the areas of highest leverage are often the least obvious.**
 
+> Tackling a difficult problem is often a matter of seeing where the high leverage lies, a change which—with a minimum of effort—would lead to lasting, significant improvement. \(Senge. p. 64\)
 
+Senge uses an illustration from Buckminster Fuller regarding the 'trim tab':
+
+> The trim tab—this very small device that has an enormous effect on the huge ship—does the same for the rudder. When it is turned to one side or the other, it compresses the water flowing around the rudder and creates a small pressure differential that "sucks the rudder" in the desired direction. But, if you want the rudder to turn to the left, what direction do you turn the trim tab?—to the right, naturally.
+>
+> The entire system—the ship, the rudder, and the trim tab—is marvellously engineered through the principle of leverage. Yet, its functioning is totally nonobvious if you do not understand the force of hydrodynamics.
+>
+> So, too, are the high-leverage changes in human systems nonobvious until we understand the forces at play in those systems. \(Senge, p. 65\)
+
+The bible speaks of another small high leverage device that creates high leverage changes; the tongue. Whether expressed directly or through written mediums like email or social media, the tongue can introduce small changes to personal or organizational perspectives that can affect/effect the entire outcome of corporate or personal relations; positively or negatively. \(James 3: 3-6\)
+
+It is therefore important to realize, every word spoken or written, every plan made, every communication released and every explanation given, must be carefully reviewed before being released for public dissemination. - the smallest changes can produce large results; to the positive or negative.
 
 **You can have your cake and eat it too  but not all at once**
 
