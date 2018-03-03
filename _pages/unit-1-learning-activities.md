@@ -25,7 +25,7 @@ As you review the ideas of personal learning and leadership, it is important you
 
 ##### Readings
 
-Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #993300">This book is not listed in the Unit 1 Resources.</span>
+Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #ff0000">This book is not listed in the Unit 1 Resources.</span>
 
 [link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
@@ -38,7 +38,7 @@ Once you read this summary, answer the following questions to deepen your unders
 * So, what does leadership mean to you?
 * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
-<span style="color: #993300">Not sure what this is below is.... are students supposed to reflect on this comment and write down their responses to questions, or just think about it? As such, it seems like it is a new activity because it doesn't rely on the Goleman reading</span>
+<span style="color: #ff0000">Not sure what this is below is.... are students supposed to reflect on this comment and write down their responses to questions, or just think about it? As such, it seems like it is a new activity because it doesn't rely on the Goleman reading</span>
 
 **Leadership is something people grant you or don't grant you.**
 
@@ -53,9 +53,9 @@ Once you read this summary, answer the following questions to deepen your unders
 
 ##### Evaluating Knowledge and Research
 
-<span style="color: #993300"> What is the activity students are asked to do? I moved all the information that was here to Activity 1.2 Notes pages</span>
+<span style="color: #ff0000"> What is the activity students are asked to do? I moved all the information that was here to Activity 1.2 Notes pages</span>
 
-#### Concluding Learning Activity Exercise
+#### Concluding Learning Activity Exercise <span style="color: #ff0000"> (Are these the activities for 1.2?)</span>
 
 Looking at your area of personal worldview, responsibility, discipline, organization or area of study; respond to the questions below as they relate to critical thinking:
 
