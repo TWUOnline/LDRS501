@@ -68,6 +68,8 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review. <span style="color: #ff0000">(This seems like a very bold thing to do. Maybe I'm misinterpreting the intent, but it seems like you want students to write down a critical evaluation of something within an organization and present ideas on how to correct it to their colleagues or supervisors?)</span>
 2. Keep the proposal for future use in other participation activities throughout the course.
 
+<span style="color: #ff0000">If these are resources to read prior to doing the activity, they should be listed above the activity with instructions to read them. Otherwise, we should just note them here as supplementary resources.</span>
+
 Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
 Critical Thinking. (n.d.). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking?s=t](http://www.dictionary.com/browse/critical-thinking?s=t)
