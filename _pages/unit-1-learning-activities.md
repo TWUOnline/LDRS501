@@ -65,7 +65,7 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 1. List the critical observations you make on a separate log for future review and discussion.
 3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice? <span style="color: #ff0000">(Does this review happen after a period of time?)</span>
 4. Once you review these questions and respond to them:
-1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
+1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review. <span style="color: #ff0000">(This seems like a very bold thing to do. Maybe I'm misinterpreting the intent, but it seems like you want students to write down a critical evaluation of something within an organization and present ideas on how to correct it to their colleagues or supervisors?)</span>
 2. Keep the proposal for future use in other participation activities throughout the course.
 
 Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
