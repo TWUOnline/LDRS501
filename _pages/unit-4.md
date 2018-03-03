@@ -182,7 +182,10 @@ The old saying about everything being a nail if you're a hammer applies here. Yo
 
 **Faster is slower**
 
-> When growth becomes excessive ... the system itself will seek to compensate by slowing down; perhaps putting the organization's survival at risk in the process. \(Senge, p. 62\)
+> When  
+>  growth becomes excessive ... the system itself will  
+>  seek to compensate by slowing down; perhaps putting the  
+>  organization's survival at risk in the process. \(Senge, p. 62\)
 
 Taking the time in process, with well thought out answers to the organizational challenges experienced will help curtail excessive growth that can hinder the anticipated progress of the organization. We've seen many organizations experience growth and rapid success, only to fail shortly afterward because their success did not anticipate the effects growth would have on the organization as a whole.
 
@@ -192,19 +195,31 @@ Target Canada is a perfect example of the law of 'faster is slower.'  They enter
 
 **Cause and effect are not closely related in time and space**
 
+> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are—most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
 
+What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. The chaos theory is part of 
+
+> a scientific field blending mathematics, statistics, and philosophy that was developed to study systems that are highly complex, unstable, and resistant to exact prediction. Chaotic systems include weather patterns, neural networks, some social systems, and a variety of chemical and quantum phenomena. The study of chaotic systems began in the nineteenth century and developed into a distinct field during the 1980s. \(Chaotic Systems, 2013\)
+
+Small changes in initial conditions lead to drastic changes in results. \(Fractal Foundation\) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
 
 **Small changes can produce large results**
+
+
 
 **You can have your cake and eat it too  but not all at once**
 
 **Dividing an elephant in half does not produce two small elephants**
 
-Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
+Fractal Foundation \(2018\) What is chaos theory? Retrieved from https://fractalfoundation.org/resources/what-is-chaos-theory/
+
+Haines, S. \(2000\). The systems thinking approach to strategic planning and management. Washington DC: St. Lucie Press.
+
+Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science. _
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
-St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from https://www.visioncritical.com/target-canada/
+St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from [https://www.visioncritical.com/target-canada/](https://www.visioncritical.com/target-canada/)
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
