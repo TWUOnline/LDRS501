@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-### Unit 1 Learning Activities
-
 #### Learning Activity 1.1
 
 #### **Personal Learning and Leadership**
