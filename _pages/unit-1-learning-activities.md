@@ -23,9 +23,9 @@ As you review the ideas of personal learning and leadership, it is important you
 * Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…
 
-##### Readings
+<span style="color: #ff0000">In my experience, learning outcomes are not associated with specific activities because the activities are there to satisfy Unit level learning activities. It seems like the outcomes above layer on a bunch of LO's on this specific activity which may or may not be pertinent to the Unit. This could get confusing.</span>
 
-Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #ff0000">This book is not listed in the Unit 1 Resources.</span>
+Read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #ff0000">This book is not listed in the Unit 1 Resources.</span>
 
 [link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
