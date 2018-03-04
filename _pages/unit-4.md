@@ -231,9 +231,17 @@ There is nothing wrong with success, but don't expect immediate results in every
 
 There are many issues and challenges facing an organization that do not require the attention of the whole. Enaggaing other aspects or interactive parts of the organization in isolation can help reviewers understand the issues affecting the greater whole. There is little need to engage every level, every department, when focusing on the interactive areas within the organization may bring the result desired. It is still part of the elephant; yes. But you don't need to involve the legs, back and tail to feed it and ensure its nutritional health.
 
-Fractal Foundation \(2018\) _What is chaos theory? _Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
+**There is no blame**
 
-Haines, S. \(2000\). _The systems thinking approach to strategic planning and management. _Washington DC: St. Lucie Press.
+> We tend to blame outside circumstances for our problems. "Someone else"—the competitors, the press, the changing mood of the marketplace, the government—did it to us. Systems thinkthat there is no outside; that you and the cause of your problems are part of a single system. The cure lies in your relationship with your "enemy." \(Senge, p. 65\)
+
+
+
+
+
+Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
+
+Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
 Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science. _
 
