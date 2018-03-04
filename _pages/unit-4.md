@@ -248,7 +248,7 @@ Now that we've reviewed Senge's laws, here are 5 more
 
 As the old African proverb states, 'it takes a village to raise a child,' so to does it take a team of people to understand and address the systems within an organization. In education, we have moved from the 'sage on the stage' where the professor was the all knowing expert waiting to dispense wisdom to all enrolled. Education, like many systems seeks collaborative learning from all engaged in the process; from learner to leader.
 
-**    
+**      
 **
 
 **No ones work is performed in isolation.**
@@ -273,27 +273,21 @@ Just because you have a system needing change, but not able to handle the pressu
 
 **A system’s behaviour depends on the total structure. Change the structure and the behavior changes.**
 
-Richard Lepsinger writes:****
+Richard Lepsinger writes:
 
 "Organizational structure and management systems must support and reinforce that behavior." \(p. 206\)
 
-
-
 Leanard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
-
-
 
 > to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
 
-
-
->
-
-
+In the same way, orchestrating the organizational and management systems to support and reinforce behaviour reuires a specific finesse to ensure the whole is not overpowered by subordinate parts to dominate the outcome of organizational vision and focus. Leadership is the central focus to make this balance happen.
 
 
 
 **There is a limit to how big a system can grow.**
+
+
 
 Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
@@ -302,6 +296,10 @@ GE Power and Water \(2012\) Handbook of industrial water treatment:  chapter 14 
 Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
 Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science. _
+
+Lepsinger  R. \(2010\). _Closing the Execution Gap._ San Francisco: Jossey-Bass.
+
+Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).  _Strategy bites back: it is far more, and less, than you ever imagined. _ Upper Saddle River: Pearson Prentice Hall.
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
