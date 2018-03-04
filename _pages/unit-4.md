@@ -277,7 +277,7 @@ Structure is not simply the design or the management structure put in place to r
 
 Leadership in the design and management structure is paramount to ensure the ongoing success of the organization. Changing the design, management structure of leadership focus of the organization changes the structure and in course, the behaviour of the organization and all its component parts. The process involves a great deal of commitment and focus to get it right.
 
-Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
+Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
 
 > to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
 
@@ -285,31 +285,41 @@ In the same way, orchestrating the organizational and management systems to supp
 
 **There is a limit to how big a system can grow.**
 
-No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand. David Walonick \(Organizational Theory and Behavior\), quoting Land and Jarman \(1992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
+No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand. 
 
-Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
+David Walonick \(http://www.statpac.org/walonick/organizational-theory.htm\), quoting Land and Jarman \(1992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
 
+> Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
 
-
-* Rapidly increasing internal and market place complexity in such areas a product proliferation and market divisions
-
-* Internal competition for resources
-
-* Increasing cost of manufacturing and sales
-
-* Diminishing returns
-
-* Declining share of the market
-
-* Decreasing productivity gains
-
-* Growing external pressures from regulators and influence groups
-
-* Increasing impact of new technologies
-
-* New and unexpected competitors
+* > Rapidly increasing internal and market place complexity in such areas a product proliferation and market divisions
+* > Internal competition for resources
+* > Increasing cost of manufacturing and sales
+* > Diminishing returns
+* > Declining share of the market
+* > Decreasing productivity gains
+* > Growing external pressures from regulators and influence groups
+* > Increasing impact of new technologies
+* > New and unexpected competitors
 
 Being ahead of the challenges and staying aware of the various factors affecting organizational growth will allow leaders to anticipate changes \(expected and unexpected\), while responding to the challenges they represent.
+
+##### Organizational Learning Disabilities
+
+* **I am my position **- when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.\(Senge, p. 18\) 
+
+* The enemy is out there
+
+* The illusion of taking charge
+
+* The fixation on \(short term\) events
+
+* The parable of the boiled frog
+
+* The delusion of learning from experience
+
+* The myth of the management team
+
+* The emotion demotion
 
 
 
@@ -329,7 +339,7 @@ Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
 St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from [https://www.visioncritical.com/target-canada/](https://www.visioncritical.com/target-canada/)
 
-Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from http://www.statpac.org/walonick/organizational-theory.htm
+Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from [http://www.statpac.org/walonick/organizational-theory.htm](http://www.statpac.org/walonick/organizational-theory.htm)
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
