@@ -241,15 +241,11 @@ Stepping up and taking responsibility for the things going well requires us to s
 
 **5 more laws to consider - just to expand the thought.**
 
-Now that we've reviewed Senge's laws, here are 5 more  
-:
+Now that we've reviewed Senge's laws, here are 5 more:
 
 **Systems cannot be fully perceived with one set of eyes**
 
 As the old African proverb states, 'it takes a village to raise a child,' so to does it take a team of people to understand and address the systems within an organization. In education, we have moved from the 'sage on the stage' where the professor was the all knowing expert waiting to dispense wisdom to all enrolled. Education, like many systems seeks collaborative learning from all engaged in the process; from learner to leader.
-
-**      
-**
 
 **No ones work is performed in isolation.**
 
@@ -277,15 +273,43 @@ Richard Lepsinger writes:
 
 "Organizational structure and management systems must support and reinforce that behavior." \(p. 206\)
 
-Leanard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
+Structure is not simply the design or the management structure put in place to run the organization. It is a 'both/and' proposition. Both design and management structure must work hand in hand to ensure the ongoing health of the organization. Design and management structure must reinforce the total structure together.
+
+Leadership in the design and management structure is paramount to ensure the ongoing success of the organization. Changing the design, management structure of leadership focus of the organization changes the structure and in course, the behaviour of the organization and all its component parts. The process involves a great deal of commitment and focus to get it right.
+
+Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
 
 > to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
 
 In the same way, orchestrating the organizational and management systems to support and reinforce behaviour reuires a specific finesse to ensure the whole is not overpowered by subordinate parts to dominate the outcome of organizational vision and focus. Leadership is the central focus to make this balance happen.
 
-
-
 **There is a limit to how big a system can grow.**
+
+No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand. David Walonick \(Organizational Theory and Behavior\), quoting Land and Jarman \(1992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
+
+Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
+
+
+
+* Rapidly increasing internal and market place complexity in such areas a product proliferation and market divisions
+
+* Internal competition for resources
+
+* Increasing cost of manufacturing and sales
+
+* Diminishing returns
+
+* Declining share of the market
+
+* Decreasing productivity gains
+
+* Growing external pressures from regulators and influence groups
+
+* Increasing impact of new technologies
+
+* New and unexpected competitors
+
+Being ahead of the challenges and staying aware of the various factors affecting organizational growth will allow leaders to anticipate changes \(expected and unexpected\), while responding to the challenges they represent.
 
 
 
@@ -304,6 +328,8 @@ Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).  _Strategy bites back: it i
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
 St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from [https://www.visioncritical.com/target-canada/](https://www.visioncritical.com/target-canada/)
+
+Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from http://www.statpac.org/walonick/organizational-theory.htm
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
