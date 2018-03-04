@@ -223,9 +223,11 @@ It is therefore important to realize, every word spoken or written, every plan m
 
 American manufacturers thought they had to choose between low cost and high quality. "Higher quality products cost more to manufacture," they thought. "They take longer to assemble, require more expensive materials and components, and entail more extensive quality controls." What they didn't consider was all the ways the increasing quality and lowering costs could go hand in hand, over time. What they didn't consider was how basic improvements in work processes could eliminate rework, eliminate quality inspectors, reduce customer complaints, lower warranty costs, increase customer loyalty, and reduce advertising and sales promotion costs. They didn't realize that they could have both goals, if they were willing to wait for one while they focused on the other. Investing time and money to develop new skills and methods of assembly, including new methods for involving everyone responsible for improving quality, is an up front "cost." Quality and costs may both go up in the ensuing months; although some cost savings \(like reduced rework\) may be achieved fairly quickly, the full range of cost savings may take several years to harvest. \(Senge, p. 65\)
 
-
+There is nothing wrong with success, but don't expect immediate results in everything you do. Some things take time and others tale less time while others take more time still. This is the place for dreamers to pause. Look at the long game and determine the results over increments of time in months, years and decades. Too much too soon can set an organization up for failing in their markets because they lose sight of the long term ends they hope to achieve. Pacing the results and returns into realistic reports and responsible projections can help organizations see the both/and nature of their business and reap the benefits as they prepare to eat their cake, one bite at a time.
 
 **Dividing an elephant in half does not produce two small elephants**
+
+
 
 Fractal Foundation \(2018\) What is chaos theory? Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
