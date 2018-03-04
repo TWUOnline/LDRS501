@@ -239,43 +239,55 @@ Take responsibility for your actions. Take responsibility for the risks you take
 
 Stepping up and taking responsibility for the things going well requires us to stand up and take responsibility for those things that don't go so well. In the sense that when failing belongs to us so does success. Look in the mirror, take responsibility, be the leader you need to be at the time you need to be.
 
-
-
 **5 more laws to consider - just to expand the thought.**
 
-Now that we've reviewed Senge's laws, here are 5 more:
+Now that we've reviewed Senge's laws, here are 5 more  
+:
 
 **Systems cannot be fully perceived with one set of eyes**
 
 As the old African proverb states, 'it takes a village to raise a child,' so to does it take a team of people to understand and address the systems within an organization. In education, we have moved from the 'sage on the stage' where the professor was the all knowing expert waiting to dispense wisdom to all enrolled. Education, like many systems seeks collaborative learning from all engaged in the process; from learner to leader.
 
-****
+**  
+**
 
 **No ones work is performed in isolation.**
 
 Whether it is science fiction, faith or being part of an organization, the truth is out there. We are not alone. And being that we are not alone, we should not believe we are alone in any challenge we face in the learning organizations we call home. Nothing we do is in isolation, unless we choose to isolate ourselves and be alone in our decision making or the challenges we face. Utilize the team, bring everyone together, review collectively and by all means make problem solving the group activity it is meant to be.
 
-
-
-**If you put a system under pressure long enough it can suddenly collapse.** 
+**If you put a system under pressure long enough it can suddenly collapse.**
 
 All systems work similarly. Organizational systems have clear lines of operation and responsibility. To that end, if the systems experience challenges or are overloaded in the process, it takes specific and directive action by those familiar with the systems under pressure to salvage the system due to excessive pressure applied to the various systems needed for effective operation.
-
-
 
 When equipment fails due to being under pressure for a long period of time, it is important the cause is correctly identified so corrective steps can prevent recurrence. An incorrect diagnosis of a failure can lead to improper corrective measures; thus, problems continue.
 
 General Electric \(GE\) describes the process for boiler failures this way:
 
-When equipment failures do occur, it is important that the cause of the problem be correctly identified so that proper corrective steps can be taken to prevent a recurrence. An incorrect diagnosis of a failure can lead to improper corrective measures; thus, problems continue. 
+> When equipment failures do occur, it is important that the cause of the problem be correctly identified so that proper corrective steps can be taken to prevent a recurrence. An incorrect diagnosis of a failure can lead to improper corrective measures; thus, problems continue. \(GE\)
 
 Use the system within the limits it was intended for. Add pressure to the systems so the system can adjust to the extra stressors placed on it and proceed with caution to accomplish the goals with the system as it was designed, not what was hoped it would handle.
+
+**Systems can suddenly change if you find the right combination of actions.**
+
+Just because you have a system needing change, but not able to handle the pressure of the changes desired, don't lose hope. As you apply different options and press forward with specific plans; change can occur. It just takes ongoing review of what has and has not worked and the attempt to change using a variety of applications and process to make the changes to the system the organization sees as necessary.
+
+**A system’s behaviour depends on the total structure. Change the structure and the behavior changes.**
+
+****
+
+**There is a limit to how big a system can grow.**
+
+
+
+
+
+
 
 
 
 Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
-GE Power and Water \(2012\) Handbook of industrial water treatment:  chapter 14 - boiler system failures. Boston MA:General Electric Company. Retrieved from https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp
+GE Power and Water \(2012\) Handbook of industrial water treatment:  chapter 14 - boiler system failures. Boston MA:General Electric Company. Retrieved from [https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp)
 
 Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
