@@ -3,6 +3,7 @@ post_title: 'Overview'
 layout: page
 published: true
 ---
+
 ### Leadership 501
 
 ### Strategic Leadership
@@ -13,7 +14,7 @@ Instructional Designer: Ken Monroe, MA
 
 ### Course Description
 
-**Course: **LDRS 501 - Strategic Leadership \(SU 018\)
+**Course:** LDRS 501 - Strategic Leadership \(SU 018\)
 
 Visioning and Strategic Leadership - LDRS 501 in the MA Lead and MAEL Program is about personal and corporate efforts to achieve a desired goal; determining and implementing desired strategies for you, your team and organization. Together we will discover, assess and develop strategic approaches to identify collective and individual strengths and weaknesses for you and your team while developing insight into strategies to move everyone successfully into the future they desire and plan for.
 
