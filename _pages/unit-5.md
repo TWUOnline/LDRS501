@@ -139,7 +139,7 @@ Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David D
 b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many  
  applicable sections of the process as are relevant for your team.
 
-4. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due
+4.Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due
 
 date.
 
