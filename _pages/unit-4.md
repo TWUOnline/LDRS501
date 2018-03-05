@@ -309,17 +309,13 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 * **The enemy is out there **- as stated earlier, we often look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways. Similarly, when we look for an enemy we can find one, but blaming them for outcomes limits our locus of control to things beyond our control affecting our organizational success. We may see challenges on the horizon, but the challenges are not the enemy. We are our own worst enemies and that enemy is usually from within. \(Senge, p. 20\)
 
+* **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. \(Senge, p. 20\)
 
+* **The fixation on **_**\(short term\) **_**events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
 
-* **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. \(
+* **The parable of the boiled frog** - "where we do not see gradual changes, much like a frog in a pot will relax into drowsiness as its water is slowly heated." \(Mister Ambiguous\)
 
-  Senge, p. 20\)
-
-* **The fixation on **_**\(short term\) **_**events** -
-
-* **The parable of the boiled frog** -
-
-* **The delusion of learning from experience** -
+* **The delusion of learning from experience** - "because some effects are beyond the current limits our awareness \(e.g., effects in time, non-linear effects\), we do not experience many of the effects of our actions." \(Mister Ambiguous\) This is reminiscent of Senge's law where "Cause and effect are not closely related in time and space."  \(p. 63\) Sometimes the results of our actions occur far past the time things are put in motion.
 
 * **The myth of the management team** -
 
@@ -336,6 +332,8 @@ Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science. _
 Lepsinger  R. \(2010\). _Closing the Execution Gap._ San Francisco: Jossey-Bass.
 
 Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).  _Strategy bites back: it is far more, and less, than you ever imagined. _ Upper Saddle River: Pearson Prentice Hall.
+
+Mister Ambiguous. \(February 2, 2002\). Senge’s 7 organizational learning disabilities. Retrieved from https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
