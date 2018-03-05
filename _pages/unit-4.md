@@ -73,8 +73,6 @@ Learners will have the opportunity to develop of the following learning outcomes
 
 ## Resources
 
-#### Reading Resource
-
 #### Week 3 Assignments
 
 **Assignment:**BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
