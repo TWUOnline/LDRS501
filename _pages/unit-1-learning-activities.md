@@ -29,7 +29,9 @@ Read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligen
 
 [link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
-Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
+<span style="color: #ff0000">Read: Activity 1.1 Notes.</span>
+
+Once you read these items, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
 * What did you like about the summary? Why?
 * What didn’t you like about it? Why?
