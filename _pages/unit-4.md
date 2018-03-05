@@ -14,6 +14,22 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ### Week 3
 
+This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
+
+1. Senge's Laws for System Thinking. This section outlines Senge's work from his book,_The Fifth Discipline_, \(2006\).
+
+2. 5 additional laws to consider to expand our thinking on the topic.
+
+3. Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
+
+4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+
+Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
+
+The PressBooks material follows previous outlines for developing proficiency with the material. \(add new information below with an overview here\)
+
+\[Link to BLOG 1\]
+
 TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
 This week also introduces YOU and understanding Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
@@ -26,11 +42,9 @@ This week also introduces YOU and understanding Systems Thinking dynamics as it 
 
 4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
 
-Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts. 
+Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
 The PressBooks material follows previous outlines for developing proficiency with the material. \(add new information below with an overview here\)
-
-\[Link to BLOG 1\]
 
 \[Link to BLOG 1 rubric\]
 
@@ -52,14 +66,26 @@ The readings listed below are for review and response to the materials covered f
 
 ## Outcomes
 
-Learners will begin development of the following outcomes in the unit. \(revise\)
+Learners will have the opportunity to develop of the following learning outcomes in this unit. 
 
-1. **Evaluate**
-   organizational effectiveness as it relates to strategic leadership principles and practice.
-2. **Integrate and synthesize**
-   a broad range of LDRS 501 course materials to demonstrate leadership application.
-3. **Examine key strategic leadership applications**
-   to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+1. **Analyze personal and corporate leadership effectiveness**
+
+   through the review and assessment of various leadership and management styles..
+
+2. **Evaluate**  
+    organizational effectiveness as it relates to strategic leadership principles and practice.
+
+3. **Integrate and synthesize**  
+    a broad range of LDRS 501 course materials to demonstrate leadership application.
+
+4. **Examine key strategic leadership applications**  
+    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+
+5. **Develop the necessary skills for systemic and systematic inquiry**  
+    of strategic leadership issues related to your personal leadership development.
+
+6. **Integrate strategic leadership practice**  
+    into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ## Resources
 
@@ -369,6 +395,10 @@ Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from [http
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
 ### - _As leaders you are on your life long learning journey as a systems thinker -_
+
+##### Learning Activity 4.2
+
+\[Link to PressBooks instruction here\]
 
 
 
