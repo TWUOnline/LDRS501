@@ -10,6 +10,8 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
+[link](www.twu.ca)
+
 ### Overview
 
 This section of study will provide you with a foundational overview on the general texts for the course, the outcomes we will focus on for the beginning stages of the pre-reading course preparations as well as. The Foundational Learning Activities for this section will introduce you to the concepts of Personal Learning and Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and be prepared for the coursework ahead.
@@ -40,9 +42,8 @@ Learners will begin development of the following outcomes in the unit:
 4. **Develop the necessary skills for systemic and systematic inquiry**  
     of strategic leadership issues related to your personal leadership development.
 
-5. **Integrate strategic leadership practice        
-   ** into your personal, corporate and career experience through the application of service improvement principles introduced.
-   * test
+5. **Integrate strategic leadership practice** 
+     into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ### Resources
 
