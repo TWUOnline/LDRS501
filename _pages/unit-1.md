@@ -49,8 +49,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\) The Strategic Plan is Dead. Long Live Strategy. \_Stanford Social Innovation Review. \_Stanford CA: Stanford Social Innovation Review. \([https://ssir.org/articles/entry/the\_strategic\_plan\_is\_dead.\_long\_live\_strategy\](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29\)
-
+O’Donovan & N Rimland Flower \(2013\) [The Strategic Plan is Dead. Long Live Strategy.](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29\) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review. 
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
