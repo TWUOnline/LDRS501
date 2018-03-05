@@ -38,7 +38,7 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 The readings listed below are for review and response to the materials covered for the coming week.
 
-| **Week 3- Forum** |
+| **Week 3- BLOG** |
 | :--- |
 
 
