@@ -285,9 +285,9 @@ In the same way, orchestrating the organizational and management systems to supp
 
 **There is a limit to how big a system can grow.**
 
-No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand. 
+No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand.
 
-David Walonick \(http://www.statpac.org/walonick/organizational-theory.htm\), quoting Land and Jarman \(1992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
+David Walonick \([http://www.statpac.org/walonick/organizational-theory.htm\](http://www.statpac.org/walonick/organizational-theory.htm\)\), quoting Land and Jarman \(1992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
 
 > Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
 
@@ -305,23 +305,21 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 ##### Organizational Learning Disabilities
 
-* **I am my position **- when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.\(Senge, p. 18\) 
+* **I am my position **- when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.\(Senge, p. 18\)
 
-* The enemy is out there
+* **The enemy is out there **- 
 
-* The illusion of taking charge
+* **The illusion of taking charge** - 
 
-* The fixation on \(short term\) events
+* **The fixation on **_**\(short term\) **_**events** - 
 
-* The parable of the boiled frog
+* **The parable of the boiled frog** - 
 
-* The delusion of learning from experience
+* **The delusion of learning from experience** - 
 
-* The myth of the management team
+* **The myth of the management team** - 
 
-* The emotion demotion
-
-
+* **The emotion demotion** - 
 
 Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
