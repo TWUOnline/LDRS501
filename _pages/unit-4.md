@@ -30,22 +30,6 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 \[Link to BLOG 1\]
 
-TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
-
-This week also introduces YOU and understanding Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
-
-1. Senge's Laws for System Thinking. This section outlines Senge's work from his book, _The Fifth Discipline_, \(2006\).
-
-2. 5 additional laws to consider to expand our thinking on the topic.
-
-3. Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
-
-4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
-
-Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
-
-The PressBooks material follows previous outlines for developing proficiency with the material. \(add new information below with an overview here\)
-
 \[Link to BLOG 1 rubric\]
 
 \[Link to PressBooks instruction here\]
@@ -66,7 +50,7 @@ The readings listed below are for review and response to the materials covered f
 
 ## Outcomes
 
-Learners will have the opportunity to develop of the following learning outcomes in this unit. 
+Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 1. **Analyze personal and corporate leadership effectiveness**
 
@@ -167,7 +151,7 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 
 Five Disciplines of a Learning Organization - Peter Senge
 
-_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved \[insert date\] from ToolsHero: _[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)_ for an effective summary of this seminal book related to Systems Thinking\)_
+_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from ToolsHero: _[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)_ for an effective summary of this seminal book related to Systems Thinking\)_
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
@@ -399,6 +383,4 @@ Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retri
 ##### Learning Activity 4.2
 
 \[Link to PressBooks instruction here\]
-
-
 
