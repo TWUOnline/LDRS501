@@ -32,7 +32,9 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 \[Link to PressBooks instruction here\]
 
-#### Reading Overview
+#### Reading Overview for Week 3
+
+The readings listed below are for review and response to the materials covered for the coming week.
 
 | **Week 3- Forum** |
 | :--- |
@@ -42,11 +44,11 @@ The PressBooks material follows previous outlines for developing proficiency wit
 | :--- | :--- | :--- |
 | M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 6-7 \(pp. 277-364\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 \(pp. 149-216\) |
-| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72 |
+| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 \(pp. 51-72\) |
 
 ## Outcomes
 
-earners will begin development of the following outcomes in the unit. \(revise\)
+Learners will begin development of the following outcomes in the unit. \(revise\)
 
 1. **Evaluate**
    organizational effectiveness as it relates to strategic leadership principles and practice.
@@ -318,6 +320,27 @@ Being ahead of the challenges and staying aware of the various factors affecting
 * **The delusion of learning from experience** - "because some effects are beyond the current limits our awareness \(e.g., effects in time, non-linear effects\), we do not experience many of the effects of our actions." \(Mister Ambiguous\) This is reminiscent of Senge's law where "Cause and effect are not closely related in time and space."  \(p. 63\) Sometimes the results of our actions occur far past the time things are put in motion.
 
 * **The myth of the management team** - Teams spend much of their time fighting for turf, avoiding anything making them look bad, while pretending everyone is behind team strategies. \(Senge, pp. 18-19\) Their energies are mis-focused. Instead of focusing on solutions to the challenges at hand, they are focused inwardly toward self-protection.
+
+##### Learning Activity 4. 1
+
+As you complete your reading of, _A Systems Thinking Primer: Seeing Organizations in Action _above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
+
+1. How does your organization, or the organization you previously served, practice Senge's fundamentals \(laws\) for systems thinking?
+   1. What are some of the positive outcomes from practicing these fundamentals \(laws\)?
+   2. What are some of the negative outcomes from practicing these fundamentals \(laws\)?
+   3. What one change would you introduce to the practice of these fundamentals \(laws\) to improve what your organization, or the organization you previously served, accomplishes through their systems practice? 
+2. How does your organization, or the organization you previously served stack up to the additional 5 laws listed above?
+   1. Reflect on the impact these additional laws have on your organization, or the organization you previously served?
+   2. Which of these 5 listed additional laws are most evident in your organizational practice? What are their impact?
+   3. What organizational changes would you introduce to mitigate the effect of a departure from these 5 additional laws in your organization or the organization your served previously?
+3. What organizational learning disabilities have you experienced in your career?
+   1. Have any of the organizations you worked with successfully navigated from disability to ability in their systemic practice?
+      a\) What is the most memorable success story for that change?
+   2. If you had the opportunity to speak into your organization to change the evident disabilities, what would you say and what processes would you suggest to turn the corner from disability to ability?
+
+As you complete these questions, you will have a better grasp on Systems Thinking practice and the development of Strategic Leadership principles going forward.
+
+**References**
 
 Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
