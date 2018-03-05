@@ -16,11 +16,11 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ##### Systems Thinking
 
-**A Systems Thinking Primer:**_**Seeing Organizations in Action**_
+#### **A Systems Thinking Primer: **_** Seeing Organizations in Action**_
 
 Five Disciplines of a Learning Organization - Peter Senge
 
-_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved \[insert date\] from ToolsHero:_[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.gitbook.com/book/twonline/ldrs501/edit#)_for an effective summary of this seminal book related to Systems Thinking\)_
+_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from ToolsHero:_[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.gitbook.com/book/twonline/ldrs501/edit#)_for an effective summary of this seminal book related to Systems Thinking\)_
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
@@ -225,17 +225,17 @@ Haines, S. \(2000\). \_The systems thinking approach to strategic planning and m
 
 Issitt, M. \(2013\). Chaotic systems. In_Salem Press Encyclopedia of Science._
 
-Lepsinger R. \(2010\)._Closing the Execution Gap._San Francisco: Jossey-Bass.
+Lepsinger R. \(2010\).\_Closing the Execution Gap.\_San Francisco: Jossey-Bass.
 
-Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\)._Strategy bites back: it is far more, and less, than you ever imagined._Upper Saddle River: Pearson Prentice Hall.
+Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).\_Strategy bites back: it is far more, and less, than you ever imagined.\_Upper Saddle River: Pearson Prentice Hall.
 
 Mister Ambiguous. \(February 2, 2002\). Senge’s 7 organizational learning disabilities. Retrieved from[https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
-Senge, P. \(2006\)._The fifth discipline._New York: Doubleday
+Senge, P. \(2006\).\_The fifth discipline.\_New York: Doubleday
 
 St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from[https://www.visioncritical.com/target-canada/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
-Walonick, D. \(1993\)_Organizational theory and behavior._Retrieved from[http://www.statpac.org/walonick/organizational-theory.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+Walonick, D. \(1993\)\_Organizational theory and behavior.\_Retrieved from[http://www.statpac.org/walonick/organizational-theory.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
@@ -244,8 +244,4 @@ Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retri
 ##### Learning Activity 4.2
 
 \[Link to PressBooks instruction here\]
-
-
-
-
 
