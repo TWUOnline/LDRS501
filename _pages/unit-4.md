@@ -12,17 +12,21 @@ post_date: 2018-02-23T01:07:23.000Z
 
 ## Overview
 
-### Week 3 \(change before closing\)
+### Week 3
 
 TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
-This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts forrn
+This week also introduces YOU and understanding Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
-1. Appreciative Inquiry
+1. Senge's Laws for System Thinking. This section outlines Senge's work from his book, _The Fifth Discipline_, \(2006\).
 
-2. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+2. 5 additional laws to consider to expand our thinking on the topic.
 
-The Appreciative Inquiry concepts are an important framework for Strategic Leadership. Looking at things from a more positive light is a better framework for developing strategy than developing it to fix problems in the organization. When we become fixers we run into a never ending list of fixes to attend to. When we become dreamers, we see the future as an open book with dreams, wishes and opportunities laid before us to work toward and succeed at.
+3. Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
+
+4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+
+Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts. 
 
 The PressBooks material follows previous outlines for developing proficiency with the material. \(add new information below with an overview here\)
 
@@ -141,7 +145,7 @@ _\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
-In Senge's _The fifth discipline_, Senge outlines his fundamentals for systems thinking.
+In Senge's _The fifth discipline_, Senge outlines his fundamentals \(laws\) for systems thinking.
 
 **Today's problems come from yesterday’s solutions**
 
@@ -323,7 +327,7 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 ##### Learning Activity 4. 1
 
-As you complete your reading of, _A Systems Thinking Primer: Seeing Organizations in Action _above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
+As you complete your reading of, \_A Systems Thinking Primer: Seeing Organizations in Action \_above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
 
 1. How does your organization, or the organization you previously served, practice Senge's fundamentals \(laws\) for systems thinking?
    1. What are some of the positive outcomes from practicing these fundamentals \(laws\)?
@@ -363,4 +367,8 @@ St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other c
 Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from [http://www.statpac.org/walonick/organizational-theory.htm](http://www.statpac.org/walonick/organizational-theory.htm)
 
 Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
+
+### - _As leaders you are on your life long learning journey as a systems thinker -_
+
+
 
