@@ -17,7 +17,7 @@ This section of study will provide you with a foundational overview on the gener
 #### Reading Overview
 
 | Reading Outline- LDRS 501 Strategic Leadership | Week 0: Pre COURSE READING \(start 4 weeks prior to course start\) | |
-| ---: | :--- | :--- |
+| :---: | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | **Becoming a Strategic Leader** | **All chapters** - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
 | M. Ungerer, G. Ungerer, & J. Herholdt | ***Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish** | **All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
