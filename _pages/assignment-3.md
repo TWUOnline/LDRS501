@@ -41,7 +41,7 @@ Brain swarming rejects gathering everyone in a room to force a solution in an en
 
 **Assignment Parameters**
 
-Using Lepsinger's 6 Bridge Building Principles in "Closing the Execution Gap (2010) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
+Using Lepsinger's 6 Bridge Building Principles in "Closing the Execution Gap" (2010) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
 
 Assess the suggested strategies developed for the organization reviewed in your SWOT analysis of the organization chosen to determine the anticipated success or failure of the changes suggested for the organization's future practice and suggested strategies determined for change in the organization.
 
@@ -62,7 +62,7 @@ The PressBooks material must include descriptive notes where the graphics do not
 4. Compile findings and results by the end of Week 6 _(June 10)_
 5. TEAM LEAD _(or a team agreed designate_) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _(June 17)_
 
-***NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
+***NOTE***: _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
 [link to PressBooks instruction here]
 
