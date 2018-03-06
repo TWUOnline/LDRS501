@@ -21,7 +21,7 @@ post_date: 2018-02-23 01:07:23
 
 This assignment is intended as an applied learning experience using SWOT in conjunction with either a _**‘brain storming’**_ process or the newer approach of **‘brain swarming’** to develop your information.
 
-SWOT analysis is a long standing strategic process used successfully by various and varying organizations for many years. (see [https://www.youtube.com/watch?v=NVwQNOIu808](https://www.youtube.com/watch?v=NVwQNOIu808))
+SWOT analysis is a long standing strategic process used successfully by various and varying organizations for many years. (see [link](https://www.youtube.com/watch?v=NVwQNOIu808))
 
 SWOT Analysis however, is in declining use as are **Brain storming** processes (see [https://www.youtube.com/watch?v=9K8W4ooygUU&list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v](https://www.youtube.com/watch?v=9K8W4ooygUU&list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v)) , and its underlying methodology often criticized as contributing to **group think**. (see [https://www.youtube.com/watch?v=dMKK17EWXks](https://www.youtube.com/watch?v=dMKK17EWXks))
 
