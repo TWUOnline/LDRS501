@@ -67,9 +67,7 @@ As you review the ideas of personal learning and leadership, it is important you
 
 ##### Readings
 
-Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
-
-[link](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)
+Take a moment to read: Goleman - [Primal Leadership: Learning to Lead with Emotional Intelligence](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS) Book Summary:
 
 Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
@@ -396,7 +394,7 @@ Vision is not a magic pill, when once framed is fulfilled and committed to by ev
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
-Fournier, G. \(2018\) _Locus of Control_. Newburyport MA: Psych Central. Retrieved from [https://psychcentral.com/encyclopedia/locus-of-control/](https://psychcentral.com/encyclopedia/locus-of-control/)
+Fournier, G. \(2018\) _[Locus of Control]_(https://psychcentral.com/encyclopedia/locus-of-control/). Newburyport MA: Psych Central. 
 
 Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
@@ -540,12 +538,12 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 
 Aveyard, H., Woolliams, M., & Sharp, P. \(2015\).\_A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.\_Maidenhead: McGraw-Hill Education.
 
-Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking?s=t](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) \(n.d.\). In Dictionary.com.
 
-Critical Thinking. \(n.d.\). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking](https://www.gitbook.com/book/twonline/ldrs501/edit#).
+[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) \(n.d.\). In Dictionary.com.
 
-Intellectual Responsibility \(2018\) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
-
+[Intellectual Responsibility](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+ \(2018\) If-I-Seek-Us. 
 
 #### Learning Activity 1.3
 
