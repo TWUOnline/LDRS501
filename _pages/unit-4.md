@@ -133,7 +133,7 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 
 * _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
 
-* _**Acceptable Standard**_\*\* \*\*-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
+* _**Acceptable Standard**_-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
 
 * _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
 
@@ -325,7 +325,7 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 * **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. \(Senge, p. 20\)
 
-* **The fixation on\(short term\)events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
+* **The fixation on \(short term\) events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
 
 * **The parable of the boiled frog** - "where we do not see gradual changes, much like a frog in a pot will relax into drowsiness as its water is slowly heated." \(Mister Ambiguous\)
 
@@ -354,9 +354,9 @@ As you complete these questions, you will have a better grasp on Systems Thinkin
 
 **References**
 
-Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from [https://fractalfoundation.org/resources/what-is-chaos-theory/](https://fractalfoundation.org/resources/what-is-chaos-theory/)
+Fractal Foundation \(2018\) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
-GE Power and Water \(2012\) Handbook of industrial water treatment:  chapter 14 - boiler system failures. Boston MA:General Electric Company. Retrieved from [https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp)
+GE Power and Water \(2012\) [Handbook of industrial water treatment:  chapter 14 - boiler system failures.](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp) Boston MA:General Electric Company.
 
 Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
 
@@ -366,16 +366,16 @@ Lepsinger  R. \(2010\). _Closing the Execution Gap._ San Francisco: Jossey-Bass.
 
 Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).  _Strategy bites back: it is far more, and less, than you ever imagined. _ Upper Saddle River: Pearson Prentice Hall.
 
-Mister Ambiguous. \(February 2, 2002\). Senge’s 7 organizational learning disabilities. Retrieved from [https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/)
+Mister Ambiguous. \(February 2, 2002\). [Senge’s 7 organizational learning disabilities.](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/) 
 
 Senge, P. \(2006\)._The fifth discipline._ New York: Doubleday
 
-St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from [https://www.visioncritical.com/target-canada/](https://www.visioncritical.com/target-canada/)
+St. Louis, D. \(January 30, 2015\) [Why Target failed in Canada, and what other companies can learn from it.](https://www.visioncritical.com/target-canada/) Visioncritical: Vancouver BC. 
 
-Walonick, D. \(1993\) _Organizational theory and behavior._ Retrieved from [http://www.statpac.org/walonick/organizational-theory.htm](http://www.statpac.org/walonick/organizational-theory.htm)
+Walonick, D. \(1993\) [_Organizational theory and behavior._](http://www.statpac.org/walonick/organizational-theory.htm) 
 
-Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from [https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
-
+Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organizations.](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
+ 
 ### - _As leaders you are on your life long learning journey as a systems thinker -_
 
 ##### Learning Activity 4.2
