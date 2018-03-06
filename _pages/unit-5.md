@@ -45,7 +45,7 @@ The readings listed below are for review and response to the materials covered f
 |  | **&** | **TEAM Assignment 1** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| M. Ungerer, G. Ungerer & J. Herholdt | **Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish** | Chapters 8-9 \(pp. 365-438\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 8-9 \(pp. 365-438\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 \(pp. 74-98\) |
 
@@ -104,7 +104,7 @@ Assignment: BLOG 2 - due May 21-27, 2018 - Post in BLOG 3 Discussion Thread -_**
 
 * _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
 
-**Assignment: _Week 4_ - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - **_10%_**
+**Assignment: _Week 4_** - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - **_10%_**
 
 **TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT \(15%\)**
 
