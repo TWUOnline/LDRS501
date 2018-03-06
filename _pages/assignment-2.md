@@ -59,7 +59,7 @@ date.
 
 4)The team will complete the PressBook materials for submission to the PressBooks environment. (May 21-27)
 
-***NOTE**: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
+**NOTE**: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
 
 [link to PressBooks instruction here]
 
