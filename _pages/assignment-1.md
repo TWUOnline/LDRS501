@@ -91,7 +91,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 </ol>
 </li>
 </ol>
-**NOTE**: Substantive, Succinct and Cited.
+**NOTE** : Substantive, Succinct and Cited.
 
 [link to PressBooks instruction here]
 
