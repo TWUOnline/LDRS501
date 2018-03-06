@@ -42,10 +42,10 @@ The readings listed below are for review and response to the materials covered f
 | :--- |
 
 
-|  | **&** | ** TEAM Assignment 1** |
+|  | **&** | **TEAM Assignment 1** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| M. Ungerer, G. Ungerer & J. Herholdt | \*\* Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish\*\* | Chapters 8-9 \(pp. 365-438\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | **Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish** | Chapters 8-9 \(pp. 365-438\) |
 | JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 \(pp. 217-300\) |
 | R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 \(pp. 74-98\) |
 
@@ -91,20 +91,20 @@ Assignment: BLOG 2 - due May 21-27, 2018 - Post in BLOG 3 Discussion Thread -_**
 | **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
 | **Quality of starter & summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
-| \*\*Quality of threaded discussion reply \*\* | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| \*\*Understanding of reading and outside source material \*\* | Does not respond to the question posted or with minimal effort \(i.e. "I agree with xxx"\). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
+| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort \(i.e. "I agree with xxx"\). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
 **Performance rating:**
 
 * _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
 
-* _**Acceptable Standard**_\*\* \*\*-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
+* _**Acceptable Standard**_-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
 
 * _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
 
 * _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
 
-**Assignment: \_**Week 4\_ - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - _** 10%**_
+**Assignment: _Week 4_ - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - **_10%_**
 
 **TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT \(15%\)**
 
@@ -118,7 +118,7 @@ As an adhoc team, placed together for the purposes of this course you will work 
 
 Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 285-302\):
 
-1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) \_Becoming a Strategic Leader. \_ Jossey-Bass. Second Edition. \(pp. 285-289\)  
+1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._Jossey-Bass. Second Edition. \(pp. 285-289\)  
     a. Where the instruction states to respond to the questions as they apply to the strategic leadership team you are part  
     of; focus on responding to the questions from the context of the strategic leadership team/organization you work  
     with regularly.
