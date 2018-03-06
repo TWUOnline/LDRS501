@@ -25,7 +25,7 @@ As an adhoc team, placed together for the purposes of this course you will work 
 
 Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) Becoming a Strategic Leader. Jossey-Bass. Second Edition. (pp. 285-302):
 
-1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader. _ Jossey-Bass. Second Edition. (pp. 285-289)  
+1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 285-289)  
        a. Where the instruction states to respond to the questions as they apply to the strategic leadership team you are part  
             of; focus on responding to the questions from the context of the strategic leadership team/organization you work  
             with regularly.
