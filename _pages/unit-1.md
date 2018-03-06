@@ -21,9 +21,9 @@ This section of study will provide you with a foundational overview on the gener
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | **Becoming a Strategic Leader** | **All chapters** - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
-| M. Ungerer, G. Ungerer, & J. Herholdt | ***Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish** | **All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
-| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters\*\* - 4 chapters per week - take notes for personal insight and important application ideas |
-| R Lepsinger | _**Closing the Execution Gap**_ | All chapters\*\* - 2 chapters per week - take notes for personal insight and important application ideas. |
+| M. Ungerer, G. Ungerer, & J. Herholdt | **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish** | **All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
+| J. R. Galbraith | **Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.** | **All chapters** - 4 chapters per week - take notes for personal insight and important application ideas |
+| R Lepsinger | **Closing the Execution Gap** | **All chapters** - 2 chapters per week - take notes for personal insight and important application ideas. |
 
 ### Outcomes
 
@@ -48,7 +48,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\) [The Strategic Plan is Dead. Long Live Strategy](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review.
+O’Donovan & N Rimland Flower \(2013\) [link](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review.
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
@@ -69,7 +69,7 @@ As you review the ideas of personal learning and leadership, it is important you
 
 Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
 
-\[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv\_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)\]
+[link](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)
 
 Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
@@ -87,7 +87,7 @@ Once you read this summary, answer the following questions to deepen your unders
 
 ##### Definitions of Leadership
 
-_The only definition of a leader is someone who has followers. _\(Drucker, P. \(1996\). Leader of the Future. San Francisco: Jossey-Bass.\)
+_The only definition of a leader is someone who has followers. _ \(Drucker, P. \(1996\). Leader of the Future. San Francisco: Jossey-Bass.\)
 
 _Leadership is influence - nothing more, nothing less_. \(Maxwell, J. \(1998\). The 21 Irrefutable Laws of Leadership.
 
