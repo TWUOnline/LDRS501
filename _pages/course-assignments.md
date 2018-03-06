@@ -23,9 +23,9 @@ The table below lists all assignments for this course. All assignments are manda
 
 | **Assignment** | **Due** | **Post** | **% of Grade** |
 | :---: | :---: | :---: | :---: |
-| **Introductory Blog** | May 1 @ 23:59  PDT | **Learner Introduction BLOG** | 5% |
+| **Introductory Blog** | **May 1 @ 23:59  PDT** | **Learner Introduction BLOG** | **5%** |
 | **Week 1 - Individual Assignment 1 - Strategic Assessment** | **May 6 @ 23:59  PDT** | **PressBooks Environment** | **10%** |
-| **Week 2 - BLOG posts** | **May 13 @ 23:59  PDT - **_**See Blogging Instructions for   Posting Order**_ | **BLOG 1** | **5%** |
+| **Week 2 - BLOG posts** | **May 13 @ 23:59  PDT** - _**See Blogging Instructions for   Posting Order**_ | **BLOG 1** | **5%** |
 | **Week 3 - BLOG posts** | **May 20 @ 23:59  PDT -  **_**See   Blogging Instructions for Posting Order**_ | **BLOG 2** | **5%** |
 | **Week 4 - BLOG posts** | **May 27 @ 23:59  PDT - **_**See    Blogging Instructions for Posting Order**_ | **BLOG 3** | **5%** |
 | **Week 4 - TEAM Assignment 1 - STRAT Assignment** | **May 27 @ 23:59  PDT** | **PressBooks Environment** | **15%** |
