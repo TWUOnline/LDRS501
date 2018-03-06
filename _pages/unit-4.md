@@ -75,7 +75,7 @@ Learners will have the opportunity to develop of the following learning outcomes
 
 #### Week 3 Assignments
 
-**Assignment:**BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
+**Assignment:** BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
 
 #### BLOG 2
 
@@ -126,8 +126,8 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 | **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
 | **Quality of starter & summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
-| \*\*Quality of threaded discussion reply \*\* | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| \*\*Understanding of reading and outside source material \*\* | Does not respond to the question posted or with minimal effort \(i.e. "I agree with xxx"\). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
+| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort \(i.e. "I agree with xxx"\). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
 **Performance rating:**
 
@@ -145,7 +145,7 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 
 ##### Systems Thinking
 
-**A Systems Thinking Primer: **_**Seeing Organizations in Action**_
+**A Systems Thinking Primer:** _**Seeing Organizations in Action**_
 
 Five Disciplines of a Learning Organization - Peter Senge
 
@@ -192,7 +192,7 @@ is what makes political decision making so counterproductive." \(Senge p. 60\)
 
 The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens, \(p. 62\) take responsibility for finding the best solutions for the challenges before them.  A sentiment repeated in Galatians 6:4, 5 in the Bible.
 
-**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5 **for each one should carry their own load. \(Galatians 6: 4, 5 NIV\)
+**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5** for each one should carry their own load. \(Galatians 6: 4, 5 NIV\)
 
 **Faster is slower**
 
@@ -301,7 +301,7 @@ In the same way, orchestrating the organizational and management systems to supp
 
 No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand.
 
-David Walonick \([http://www.statpac.org/walonick/organizational-theory.htm\](http://www.statpac.org/walonick/organizational-theory.htm%29%29, quoting Land and Jarman %281992\) suggests there are a number of reasons for upper growth limits that still have relevance today.
+[David Walonick](http://www.statpac.org/walonick/organizational-theory.htm) suggests there are a number of reasons for upper growth limits that still have relevance today.
 
 > Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
 
@@ -319,13 +319,13 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 ##### Organizational Learning Disabilities
 
-* **I am my position **- when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.\(Senge, p. 18\)
+* **I am my position**- when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.\(Senge, p. 18\)
 
-* **The enemy is out there **- as stated earlier, we often look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways. Similarly, when we look for an enemy we can find one, but blaming them for outcomes limits our locus of control to things beyond our control affecting our organizational success. We may see challenges on the horizon, but the challenges are not the enemy. We are our own worst enemies and that enemy is usually from within. \(Senge, p. 20\)
+* **The enemy is out there**- as stated earlier, we often look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways. Similarly, when we look for an enemy we can find one, but blaming them for outcomes limits our locus of control to things beyond our control affecting our organizational success. We may see challenges on the horizon, but the challenges are not the enemy. We are our own worst enemies and that enemy is usually from within. \(Senge, p. 20\)
 
 * **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. \(Senge, p. 20\)
 
-* **The fixation on **_**\(short term\) **_**events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
+* **The fixation on\(short term\)events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
 
 * **The parable of the boiled frog** - "where we do not see gradual changes, much like a frog in a pot will relax into drowsiness as its water is slowly heated." \(Mister Ambiguous\)
 
