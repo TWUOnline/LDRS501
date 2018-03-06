@@ -20,7 +20,7 @@ post_date: 2018-02-23T01:07:23.000Z
 
 Five Disciplines of a Learning Organization - Peter Senge
 
-_\(see Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from ToolsHero:_[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.gitbook.com/book/twonline/ldrs501/edit#)_for an effective summary of this seminal book related to Systems Thinking\)_
+_\(see Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organizations.](https://www.gitbook.com/book/twonline/ldrs501/edit#) for an effective summary of this seminal book related to Systems Thinking.
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
