@@ -10,7 +10,6 @@ published: true
 post_date: 2018-02-23T01:07:23.000Z
 ---
 
-[link](https://www.twu.ca)
 
 ### Overview
 
@@ -42,26 +41,26 @@ Learners will begin development of the following outcomes in the unit:
 4. **Develop the necessary skills for systemic and systematic inquiry**  
     of strategic leadership issues related to your personal leadership development.
 
-5. **Integrate strategic leadership practice** 
+5. **Integrate strategic leadership practice**
      into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ### Resources
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\) [The Strategic Plan is Dead. Long Live Strategy](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review. 
+O’Donovan & N Rimland Flower \(2013\) [The Strategic Plan is Dead. Long Live Strategy](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review.
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
 
-#### **Personal Learning and Leadership**
+#### Personal Learning and Leadership
 
 ##### Exploring the Theory & Practice of Leadership
 
 As you review the ideas of personal learning and leadership, it is important you focus on the basic materials leading you to your conclusions or outcomes. Some outcomes you will want to focus on in developing your understanding of personal…
 
 * Explore your ideas about what makes a good leader
-* Think about what the literature says 
+* Think about what the literature says
 * Explore leadership theory frames
 * Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…

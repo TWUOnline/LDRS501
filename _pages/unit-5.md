@@ -166,6 +166,3 @@ date.
 
 
 **Learning Activity 5.2**
-
-
-
