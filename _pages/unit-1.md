@@ -48,7 +48,7 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\) [link](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) _Stanford Social Innovation Review._ Stanford CA: Stanford Social Innovation Review.
+O’Donovan & N Rimland Flower \(2013\)[_Stanford Social Innovation Review._](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) Stanford CA: Stanford Social Innovation Review.
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
@@ -394,7 +394,7 @@ Vision is not a magic pill, when once framed is fulfilled and committed to by ev
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
-Fournier, G. \(2018\) _[Locus of Control]_(https://psychcentral.com/encyclopedia/locus-of-control/). Newburyport MA: Psych Central. 
+Fournier, G. \(2018\) [_Locus of Control_](https://psychcentral.com/encyclopedia/locus-of-control/). Newburyport MA: Psych Central. 
 
 Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
