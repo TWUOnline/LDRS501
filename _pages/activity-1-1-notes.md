@@ -11,7 +11,7 @@ post_date: 2018-02-23 01:07:23
 ---
 ##### Definitions of Leadership
 
-_The only definition of a leader is someone who has followers. _(Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+_The only definition of a leader is someone who has followers._ (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
 
 _Leadership is influence - nothing more, nothing less_. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
 
