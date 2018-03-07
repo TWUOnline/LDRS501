@@ -9,13 +9,14 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-##### Definitions of Leadership
+<h1>Heading 1</h1>
+<h2>h2</h2>
+<h5>Definitions of Leadership</h5>
+&gt;The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
 
->The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+&gt;Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
 
->Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
-
->The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
+&gt;The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
 
 #### Systemic Leadership
 
@@ -43,14 +44,14 @@ Strategic Leadership is about setting direction and aligning decisions with orga
 
 Evidence sets the course for future decision making beyond the plans and the theory. Evidnece he;lps us align decisions, assess progress and evaluate success in fulfiling the startegic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their startegy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
 
-In many areas: 
->"strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
+In many areas:
+&gt;"strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
 
 To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the establishe mission, vision and values the organization hold and protect it as it moves toward a future orientation of process, product and people.
 
 Startegic Leadership is the vehicle organizations can use to champion and orchestrate change by its commitment to the startegic processes adopted and the protections initiated.
 
-The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' (Najmaei, A., Quazi, Z., & Behnia, M. 2017) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
+The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' (Najmaei, A., Quazi, Z., &amp; Behnia, M. 2017) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
 
 #### Versatile Leadership
 
@@ -327,6 +328,6 @@ Liu, K. (1999) Systemic leadership development. _Leadership in Action._ Volume 1
 
 Montgomery, C. A. (2008) Putting leadership back into startegy. _Harvard Business Review_. Vol 86. No. 1. pp. 54-60. Boston MA: Harvard Business Publishing.
 
-Najmaei, A., Quazi, Z., & Behnia, M. (2017). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management & Organizational Learning, 336-344.
+Najmaei, A., Quazi, Z., &amp; Behnia, M. (2017). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management &amp; Organizational Learning, 336-344.
 
-Rezvani, A., Dong, L. & Khosravi, P. (2017). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
+Rezvani, A., Dong, L. &amp; Khosravi, P. (2017). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
