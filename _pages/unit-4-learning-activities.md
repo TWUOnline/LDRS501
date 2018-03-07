@@ -219,7 +219,7 @@ As you complete these questions, you will have a better grasp on Systems Thinkin
 
 Fractal Foundation \(2018\) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory) 
 
-GE Power and Water \(2012\) [Handbook of industrial water treatment: chapter 14 - boiler system failures(https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp) Boston MA:General Electric Company. 
+GE Power and Water \(2012\) [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp) Boston MA:General Electric Company. 
 
 Haines, S. \(2000\). _The systems thinking approach to strategic planning and management._ Washington DC: St. Lucie Press.
 
