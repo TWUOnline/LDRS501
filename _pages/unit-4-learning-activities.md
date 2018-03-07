@@ -164,7 +164,7 @@ In the same way, orchestrating the organizational and management systems to supp
 
 No matter what the business model, there is a limit to how big a system can grow before it becomes unmanageable and must break into subsystems or lesser systems to continue to grow and expand.
 
-David Walonick \([http://www.statpac.org/walonick/organizational-theory.htm\](https://www.gitbook.com/book/twonline/ldrs501/edit#)suggests there are a number of reasons for upper growth limits that still have relevance today.
+[David Walonick](http://www.statpac.org/walonick/organizational-theory.htm) suggests there are a number of reasons for upper growth limits that still have relevance today.
 
 > Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman \(1992, p. 258\) identify the most common reasons why organizations reach upper growth limits:
 
@@ -198,7 +198,7 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 ##### Learning Activity 4. 1
 
-As you complete your reading of, \_A Systems Thinking Primer: Seeing Organizations in Action \_above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
+As you complete your reading of, _A Systems Thinking Primer: Seeing Organizations in Action_ above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
 
 1. How does your organization, or the organization you previously served, practice Senge's fundamentals \(laws\) for systems thinking?
    1. What are some of the positive outcomes from practicing these fundamentals \(laws\)?
@@ -217,11 +217,11 @@ As you complete these questions, you will have a better grasp on Systems Thinkin
 
 **References**
 
-Fractal Foundation \(2018\) \_What is chaos theory? \_Retrieved from[https://fractalfoundation.org/resources/what-is-chaos-theory/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+Fractal Foundation \(2018\) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory) 
 
-GE Power and Water \(2012\) Handbook of industrial water treatment: chapter 14 - boiler system failures. Boston MA:General Electric Company. Retrieved from[https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+GE Power and Water \(2012\) [Handbook of industrial water treatment: chapter 14 - boiler system failures(https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp) Boston MA:General Electric Company. 
 
-Haines, S. \(2000\). \_The systems thinking approach to strategic planning and management. \_Washington DC: St. Lucie Press.
+Haines, S. \(2000\). _The systems thinking approach to strategic planning and management._ Washington DC: St. Lucie Press.
 
 Issitt, M. \(2013\). Chaotic systems. In_Salem Press Encyclopedia of Science._
 
@@ -229,15 +229,15 @@ Lepsinger R. \(2010\).\_Closing the Execution Gap.\_San Francisco: Jossey-Bass.
 
 Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).\_Strategy bites back: it is far more, and less, than you ever imagined.\_Upper Saddle River: Pearson Prentice Hall.
 
-Mister Ambiguous. \(February 2, 2002\). Senge’s 7 organizational learning disabilities. Retrieved from[https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+Mister Ambiguous. \(February 2, 2002\). [Senge’s 7 organizational learning disabilities.](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/) 
 
 Senge, P. \(2006\).\_The fifth discipline.\_New York: Doubleday
 
-St. Louis, D. \(January 30, 2015\) Why Target failed in Canada, and what other companies can learn from it. Visioncritical: Vancouver BC. Retrieved from[https://www.visioncritical.com/target-canada/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+St. Louis, D. \(January 30, 2015\) [Why Target failed in Canada, and what other companies can learn from it.](https://www.visioncritical.com/target-canada/) Visioncritical: Vancouver BC. 
 
-Walonick, D. \(1993\)\_Organizational theory and behavior.\_Retrieved from[http://www.statpac.org/walonick/organizational-theory.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+Walonick, D. \(1993\) [_Organizational theory and behavior._](http://www.statpac.org/walonick/organizational-theory.htm)
 
-Zeeman, A. \(2017\). Senge’s Five Disciplines of Learning Organizations. Retrieved from[https://www.toolshero.com/management/five-disciplines-learning-organizations/](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organizations.](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
 ### -_As leaders you are on your life long learning journey as a systems thinker -_
 
