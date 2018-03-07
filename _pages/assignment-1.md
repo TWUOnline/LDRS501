@@ -79,7 +79,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 </li>
  	<li>Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
 <ol>
- 	<li>Personal</li>
+ 	<li>*Personal</li>
  	<li>Professional</li>
 </ol>
 </li>
@@ -91,7 +91,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 </ol>
 </li>
 </ol>
-**NOTE** : Substantive, Succinct and Cited.
+**NOTE:** _Substantive, Succinct and Cited._
 
 [link to PressBooks instruction here]
 
