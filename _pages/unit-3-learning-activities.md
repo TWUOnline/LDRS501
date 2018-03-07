@@ -95,7 +95,7 @@ Follow up questions for discussion:
 5. What are the group’s aspirations for this team as a result of what you've learned about each other through the interview process?
 6. how will you incorporate what you've learned from this exercise into the team practices required to publish the Open Source Strategic Leadership Book required in completing this course?
 
-\(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program -[http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf\](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+\(adapted from Ontario Education Services Program - [Good governance for School Boards - Trustee Professional Development Program](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1\_en.pdf) 
 
 Once you answer these questions, record them somewhere to refer to them throughout your work together and remind you of the important concepts and principles you've discovered in this process.
 
