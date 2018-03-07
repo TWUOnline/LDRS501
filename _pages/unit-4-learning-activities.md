@@ -24,7 +24,7 @@ _\(see Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organization
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
-In Senge's_The fifth discipline_, Senge outlines his fundamentals \(laws\) for systems thinking.
+In Senge's _The fifth discipline,_ Senge outlines his fundamentals \(laws\) for systems thinking.
 
 **Today's problems come from yesterday’s solutions**
 
