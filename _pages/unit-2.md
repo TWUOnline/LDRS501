@@ -20,7 +20,7 @@ This week provides an introduction of YOU and your strategic leadership experien
 
    \[link to PressBooks files for insertion of materials here\]
 
-2. Be submitted in the PressBooks environment as the First Chapter of the \_Discovering Strategic Leadership \_Book Project completed for this course.
+2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership_ Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -38,9 +38,7 @@ Assignment grading is awarded following peer review of the materials entered int
 
 #### ZOOM Video Conference
 
-_\(optional F2F interaction can be arranged for those living_
-
-\_within driving distance to the university\)\_The session is recorded and distributed for those unable to connect directly to the session.
+_(optional F2F interaction can be arranged for those living within driving distance to the university)_ The session is recorded and distributed for those unable to connect directly to the session.
 
 | Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _\(ZOOM invitation will be sent the Saturday prior to the video conference\)_ |
 | :---: | :---: | :---: |
@@ -48,15 +46,15 @@ _\(optional F2F interaction can be arranged for those living_
 
 #### Reading Overview
 
-| **Week 1- READ, ZOOM Video-conference ** |
+| **Week 1- READ, ZOOM Video-conference** |
 | :--- |
 
 
-|  | **&** | ** Assignment 1** |
+|  | **&** | **Assignment 1** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 \(pp. 1-195\) |
-| M. Ungerer, G. Ungerer & J. Herholdt | \*\* Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish\*\* | Intro and chapters 1-2 \(pp. xiii-105\) |
+| M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish**_ | Intro and chapters 1-2 \(pp. xiii-105\) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 \(pp. 1-88\) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 \(pp. xvii-23\) |
 
@@ -72,26 +70,22 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading Resource
 
-Boston Consulting Group. \(2015\) _Strategy Palette Framework._
+Boston Consulting Group. \(2015\) [_Strategy Palette Framework._]http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+H Schachter \(2015\) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe & Mail_
 
-H Schachter \(2015\) Five Approaches to Using a Strategy Palette. _Globe & Mail_
-
-[https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
-
-**Personal research ** for Forum and Assignment completion.
+**Personal research** for Forum and Assignment completion.
 
 #### Week 1 Assignments
 
-**Assignment:** \_Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Assignment:** Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
 
   * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
   * Double down!
 
-* **Tell us about YOU the person. **
+* **Tell us about YOU the person.**
 
   * What are a few of your favourite things?
   * What are your goals, aspirations and future dreams?
@@ -135,7 +129,7 @@ All assignments will receive peer reviewed grading by other members of the class
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
-Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\).\_ Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish\_. Randburg: KR Publishing, \(pp. xiii-105\) you will:
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\). _Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, \(pp. xiii-105\) you will:
 
 **Assignment Parameters**
 
@@ -188,7 +182,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 | _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
 | _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
 | _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%** | **%** |
-|  | **Total score/8:    ** |  |
+|  | **Total score/8:** |  |
 
 \[Link to Assignment 1 rubric\]
 
@@ -211,11 +205,11 @@ Submit grading to the following link. \[link to grading for Assignment 1\]
 | **B+** | **80-84** | **3.3** | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
 | **B** | **75-79** | **3.0** | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
 | **B-** | **70-74** | **2.7\*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision  or  references and resources not taken fully into account  or  examples are basic or not completely convincing  or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _\(e.g., clarity, coherence, grammar\)_. Overall quality shows noticeable deficiencies. |
-| **F** | **&lt;70** | **2.0** | \_**Unacceptable work at graduate level. **\_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
+| **F** | **&lt;70** | **2.0** | _**Unacceptable work at graduate level.**_ Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
 
 **Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
-Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.Other Designated Grades**
+Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate. Other Designated Grades**
 
 **INC** = **Incomplete**. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrollment Services.
 
