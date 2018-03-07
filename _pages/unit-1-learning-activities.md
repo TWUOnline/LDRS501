@@ -25,7 +25,9 @@ As you review the ideas of personal learning and leadership, it is important you
 
 <span style="color: #ff0000">In my experience, learning outcomes are not associated with specific activities because the activities are there to satisfy Unit level learning activities. It seems like the outcomes above layer on a bunch of LO's on this specific activity which may or may not be pertinent to the Unit. This could get confusing.</span>
 
-Read: Goleman - [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS) Book Summary:  <span style="color: #ff0000">This book is not listed in the Unit 1 Resources.</span>
+Read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:  <span style="color: #ff0000">This book is not listed in the Unit 1 Resources.</span>
+
+[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
 <span style="color: #ff0000">Read: Activity 1.1 Notes.</span>
 
@@ -49,7 +51,7 @@ Once you read these items, answer the following questions to deepen your underst
 
 #### Learning Activity 1.2
 
-#### Critical Thinking
+#### Critical Thinking**
 
 ##### Evaluating Knowledge and Research
 
@@ -72,11 +74,11 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 
 Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
-[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking?s=t) (n.d.). In Dictionary.com.
+Critical Thinking. (n.d.). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking?s=t](http://www.dictionary.com/browse/critical-thinking?s=t)
 
-[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking) (n.d.). In Dictionary.com.
+Critical Thinking. (n.d.). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking](http://www.dictionary.com/browse/critical-thinking).
 
-[Intellectual Responsibility](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm) (2018) If-I-Seek-Us.
+Intellectual Responsibility (2018) If-I-Seek-Us. retrieved from [http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm)
 
 #### Learning Activity 1.3
 

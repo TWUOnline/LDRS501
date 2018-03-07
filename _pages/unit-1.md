@@ -2,28 +2,26 @@
 ID: 14
 post_title: Unit 1
 author: Colin Madland
-post_excerpt: ''
+post_excerpt: ""
 layout: page
-permalink: |
+permalink: >
   https://create.twu.ca/ldrs501-su18/unit-1/
 published: true
-post_date: 2018-02-23T01:07:23.000Z
+post_date: 2018-02-23 01:07:23
 ---
-
-
 ### Overview
 
 This section of study will provide you with a foundational overview on the general texts for the course, the outcomes we will focus on for the beginning stages of the pre-reading course preparations as well as. The Foundational Learning Activities for this section will introduce you to the concepts of Personal Learning and Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and be prepared for the coursework ahead.
 
 #### Reading Overview
 
-| Reading Outline- LDRS 501 Strategic Leadership | Week 0: Pre COURSE READING \(start 4 weeks prior to course start\) | |
+| Reading Outline- LDRS 501 Strategic Leadership | Week 0: Pre COURSE READING (start 4 weeks prior to course start) | |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Hughes, K Collarelli Beatty, D Dinwoodie | **Becoming a Strategic Leader** | **All chapters** - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
-| M. Ungerer, G. Ungerer, & J. Herholdt | **Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish** | **All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
-| J. R. Galbraith | **Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.** | **All chapters** - 4 chapters per week - take notes for personal insight and important application ideas |
-| R Lepsinger | **Closing the Execution Gap** | **All chapters** - 2 chapters per week - take notes for personal insight and important application ideas. |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | **Becoming a Strategic Leader** | All chapters** - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
+| M. Ungerer, G. Ungerer, & J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters** - 4 chapters per week - take notes for personal insight and important application ideas |
+| R Lepsinger | _**Closing the Execution Gap**_ | All chapters** - 2 chapters per week - take notes for personal insight and important application ideas. |
 
 ### Outcomes
 
@@ -41,33 +39,36 @@ Learners will begin development of the following outcomes in the unit:
 4. **Develop the necessary skills for systemic and systematic inquiry**  
     of strategic leadership issues related to your personal leadership development.
 
-5. **Integrate strategic leadership practice**
-     into your personal, corporate and career experience through the application of service improvement principles introduced.
+5. **Integrate strategic leadership practice        
+   ** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ### Resources
 
 #### Reading resource
 
-O’Donovan & N Rimland Flower \(2013\)[_Stanford Social Innovation Review._](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy) Stanford CA: Stanford Social Innovation Review.
+O’Donovan & N Rimland Flower (2013) The Strategic Plan is Dead. Long Live Strategy. _Stanford Social Innovation Review. _Stanford CA: Stanford Social Innovation Review. ([https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29)
+
 ### Unit 1 Learning Activities
 
 #### Learning Activity 1.1
 
-#### Personal Learning and Leadership
+#### **Personal Learning and Leadership**
 
 ##### Exploring the Theory & Practice of Leadership
 
 As you review the ideas of personal learning and leadership, it is important you focus on the basic materials leading you to your conclusions or outcomes. Some outcomes you will want to focus on in developing your understanding of personal…
 
 * Explore your ideas about what makes a good leader
-* Think about what the literature says
+* Think about what the literature says 
 * Explore leadership theory frames
 * Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…
 
 ##### Readings
 
-Take a moment to read: Goleman - [Primal Leadership: Learning to Lead with Emotional Intelligence](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS) Book Summary:
+Take a moment to read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Book Summary:
+
+[link: [https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS)]
 
 Once you read this summary, answer the following questions to deepen your understanding of the leadership principles contained in the summary.
 
@@ -85,11 +86,11 @@ Once you read this summary, answer the following questions to deepen your unders
 
 ##### Definitions of Leadership
 
-_The only definition of a leader is someone who has followers. _ \(Drucker, P. \(1996\). Leader of the Future. San Francisco: Jossey-Bass.\)
+_The only definition of a leader is someone who has followers. _(Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
 
-_Leadership is influence - nothing more, nothing less_. \(Maxwell, J. \(1998\). The 21 Irrefutable Laws of Leadership.
+_Leadership is influence - nothing more, nothing less_. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
 
-_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. \(1991\). The servant as leader. Indianapolis: The Greenleaf Center.
+_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?_ - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
 
 #### Systemic Leadership
 
@@ -97,7 +98,7 @@ _The servant-leader is servant first. It begins with the natural feeling that on
 
 #### Systemic Leadership
 
-In Systemic  Leadership Development \(1999\) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' \(p. 12\). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced approach using strategic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the  effectiveness of leadership development  in the organization.' \(p. 12\)
+In Systemic  Leadership Development (1999) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' (p. 12). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced approach using strategic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the  effectiveness of leadership development  in the organization.' (p. 12)
 
 #### Personal Leadership
 
@@ -113,17 +114,17 @@ Supervisory Leadership Practice also navigates the socio-political environments 
 
 #### Strategic Leadership
 
-Strategic Leadership is about setting direction and aligning decisions with organizational mission \(who you are\), vision \(where you are going\) and values \(how you are going to get there\). Additionally, strategic leadership focuses organizational structures and resources toward establishing evidence of organizational progress along the way. Intention, theory and planning go nowhere if evidence of progress doesn't accompany the process.
+Strategic Leadership is about setting direction and aligning decisions with organizational mission (who you are), vision (where you are going) and values (how you are going to get there). Additionally, strategic leadership focuses organizational structures and resources toward establishing evidence of organizational progress along the way. Intention, theory and planning go nowhere if evidence of progress doesn't accompany the process.
 
 Evidence sets the course for future decision making beyond the plans and the theory. Evidence helps us align decisions, assess progress and evaluate success in fulfilling the strategic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their strategy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
 
-In many areas: "strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" \(Montgomery, 2008\).
+In many areas: "strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
 
 To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the established mission, vision and values the organization hold and protect it as it moves toward a future orientation of process, product and people.
 
 Strategic Leadership is the vehicle organizations can use to champion and orchestrate change by its commitment to the strategic processes adopted and the protections initiated.
 
-The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' \(Najmaei, A., Quazi, Z., & Behnia, M. 2017\) Engaging the whole organization allows leaders to move from static leaders to strategic leaders as they engage and involve plans, processes and people to accomplish the strategies envisioned for a positive and dynamic organizational future.
+The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' (Najmaei, A., Quazi, Z., & Behnia, M. 2017) Engaging the whole organization allows leaders to move from static leaders to strategic leaders as they engage and involve plans, processes and people to accomplish the strategies envisioned for a positive and dynamic organizational future.
 
 #### Versatile Leadership
 
@@ -142,7 +143,7 @@ The chart below allows for a snapshot of your versatility as it relates to Strat
 
 #### Locus of Control
 
-When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' \(Fournier, 2018\) If a person or organization has an internal locus of control, they believe they \(personally or corporately\) 'can influence events and their outcomes.' \(Fournier, 2018\) A person or organization 'with an external locus of control blames outside forces for everything.' \(Fournier. 2018\) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect strategic planning and implementation on a broad scale.
+When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' (Fournier, 2018) If a person or organization has an internal locus of control, they believe they (personally or corporately) 'can influence events and their outcomes.' (Fournier, 2018) A person or organization 'with an external locus of control blames outside forces for everything.' (Fournier. 2018) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect strategic planning and implementation on a broad scale.
 
 This effects every part of the process from planning, through implementation and on through completion of strategic planning, process and outcomes since we only truly commit, to what has meaning for us personally and corporately. If an internal locus of control has personal and corporate meaning we will follow through to complete our plans to the greatest level of success because we believe we can influence all parts of the process and see the challenges within those processes to completion. We find our power, in that meaning.
 
@@ -394,15 +395,15 @@ Vision is not a magic pill, when once framed is fulfilled and committed to by ev
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
-Fournier, G. \(2018\) [_Locus of Control_](https://psychcentral.com/encyclopedia/locus-of-control/). Newburyport MA: Psych Central. 
+Fournier, G. (2018) _Locus of Control_. Newburyport MA: Psych Central. Retrieved from [https://psychcentral.com/encyclopedia/locus-of-control/](https://psychcentral.com/encyclopedia/locus-of-control/)
 
-Liu, K. \(1999\) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
+Liu, K. (1999) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
-Montgomery, C. A. \(2008\) Putting leadership back into strategy. _Harvard Business Review_. Vol 86. No. 1. pp. 54-60. Boston MA: Harvard Business Publishing.
+Montgomery, C. A. (2008) Putting leadership back into strategy. _Harvard Business Review_. Vol 86. No. 1. pp. 54-60. Boston MA: Harvard Business Publishing.
 
-Najmaei, A., Quazi, Z., & Behnia, M. \(2017\). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management & Organizational Learning, 336-344.
+Najmaei, A., Quazi, Z., & Behnia, M. (2017). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management & Organizational Learning, 336-344.
 
-Rezvani, A., Dong, L. & Khosravi, P. \(2017\). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
+Rezvani, A., Dong, L. & Khosravi, P. (2017). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
 
 #### Learning Activity 1.2
 
@@ -416,9 +417,9 @@ Critical thinking is a process by which we explore and analyze ideas and questio
 
 ##### Definitions
 
-_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence.**_\(Dictionary.com\)
+_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence.**_(Dictionary.com)
 
-_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion.**_\(Dictionary.com\)
+_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion.**_(Dictionary.com)
 
 #### Traits of a Critical Thinking Mind
 
@@ -435,7 +436,7 @@ _**The mental process of actively and skillfully conceptualizing, applying, anal
 
 When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more.
 
-> ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. \(Aveyard, Woolliams, & Sharp, p. 7\)
+> ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. (Aveyard, Woolliams, & Sharp, p. 7)
 
 Critical thinking involves clarifying the questions asked. What is the context? Is the information accurate? Are the sources biased or inaccurate in their reporting of fact?
 
@@ -443,13 +444,13 @@ When we ask the questions, we dig deeper into the clarity we seek in trying to a
 
 In addition to clarity, it is important to critically seek accuracy in reporting your findings in your research. Taking previous assumptions is not an acceptable practice when developing ideas your research or your report professionally. Take this learning activity. This is an older presentation I developed in 2008. I could repeat the information and cut and paste the previous information. But that is simply ineffective in providing the most up to date information on the topic designed to enhance your learning. Using older information to convey present truth is akin to suggesting the best way to get across Canada is by bus. The information is accurate for a bygone era, but not relevant to the present day of air travel and the development of low cost flight options. Gathering relevant data requires up to date relevancy of materials to provide the most accurate information available at the time of reporting.
 
-It is also part of the critical thinking to evaluate material regarding its precision as well. By identifying key assumptions \(i.e. bus travel is the best way to get across Canada\), we can address flaws in the accuracy of the information and update it with fresh understandings, statistics and report on the faulty assumptions related to the material presented. The more accurate your research, the better received and respected it will be. The critical thinker aims for the most accurate representation of their material to the intended audience.
+It is also part of the critical thinking to evaluate material regarding its precision as well. By identifying key assumptions (i.e. bus travel is the best way to get across Canada), we can address flaws in the accuracy of the information and update it with fresh understandings, statistics and report on the faulty assumptions related to the material presented. The more accurate your research, the better received and respected it will be. The critical thinker aims for the most accurate representation of their material to the intended audience.
 
 When we identify and wrestle with assumptions, follow through with clearly research ideas and understanding of the issues, the value of critical thinking and its benefit is clear.
 
-A further value of critical thinking is relevance. When we trace significant implications in material we review and/or research we have opportunity to test the validity of the material and discover its relevance for the present work in front of us; be it research or reporting \(which can be one and the same\). Accepting what we read without question \(often because we are pressed for time\)can cause us to miss alternative points of view or distort our findings so they bend to our view versus a clear and unbiased reflective view of relevant materials.
+A further value of critical thinking is relevance. When we trace significant implications in material we review and/or research we have opportunity to test the validity of the material and discover its relevance for the present work in front of us; be it research or reporting (which can be one and the same). Accepting what we read without question (often because we are pressed for time)can cause us to miss alternative points of view or distort our findings so they bend to our view versus a clear and unbiased reflective view of relevant materials.
 
-Critical thinking also values and practices logic in its approach. When we apply logical consideration to the materials we review, we can assess much of the material based on its logical outcomes. If the result doesn't make sense \(isn't logical\) we need to review the material and sources again to refine and confirm our conclusions before proceeding. When we apply logic and seek valid conclusions, the result of our critical thinking efforts bears fruit and becomes of greater benefit to all concerned.
+Critical thinking also values and practices logic in its approach. When we apply logical consideration to the materials we review, we can assess much of the material based on its logical outcomes. If the result doesn't make sense (isn't logical) we need to review the material and sources again to refine and confirm our conclusions before proceeding. When we apply logic and seek valid conclusions, the result of our critical thinking efforts bears fruit and becomes of greater benefit to all concerned.
 
 #### Critical Thinking Process
 
@@ -471,7 +472,7 @@ Invisible Components of critical thinking include:
 
 Taking the time to address the questions and seek the answer increases your critically thinking acumen and reveals what was previously hidden in your thinking and your conclusions.
 
-> Critical thinking generally incorporates active mental processes \(considering, reviewing, thinking\) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. \(Aveyard, Woolliams, & Sharp p. 114\)
+> Critical thinking generally incorporates active mental processes (considering, reviewing, thinking) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. (Aveyard, Woolliams, & Sharp p. 114)
 
 Critical thinking urges us and allows us to:
 
@@ -483,7 +484,7 @@ Critical thinking urges us and allows us to:
 
     * Is anything unclear or ambiguous?
 
-    * Are the description and qualities accurate? \(all, none, always, never\)
+    * Are the description and qualities accurate? (all, none, always, never)
 
     * Do the models, illustrations, charts, maps, illustrate the presenter’s point of view and add credence to his/her argument?
 
@@ -527,7 +528,7 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 
 1. What are the changes influencing your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to the changes affecting these areas of your life?
    1. Look at each area; review the basic assumptions you are dealing with
-      _\(i. e. the best way to travel across Canada is by bus\)_
+      _(i. e. the best way to travel across Canada is by bus)_
       and list the changes influences these areas for you.
 2. How can you think more critically about these changes?
    1. List the critical observations you make on a separate log for future review and discussion.
@@ -536,14 +537,14 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
    1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
    2. Keep the proposal for future use in other participation activities throughout the course.
 
-Aveyard, H., Woolliams, M., & Sharp, P. \(2015\).\_A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.\_Maidenhead: McGraw-Hill Education.
+Aveyard, H., Woolliams, M., & Sharp, P. (2015)._A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._Maidenhead: McGraw-Hill Education.
 
-[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) \(n.d.\). In Dictionary.com.
+Critical Thinking. (n.d.). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking?s=t](https://www.gitbook.com/book/twonline/ldrs501/edit#)
 
-[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) \(n.d.\). In Dictionary.com.
+Critical Thinking. (n.d.). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking](https://www.gitbook.com/book/twonline/ldrs501/edit#).
 
-[Intellectual Responsibility](https://www.gitbook.com/book/twonline/ldrs501/edit#)
- \(2018\) If-I-Seek-Us. 
+Intellectual Responsibility (2018) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+
 
 #### Learning Activity 1.3
 

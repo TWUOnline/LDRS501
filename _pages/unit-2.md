@@ -2,61 +2,62 @@
 ID: 32
 post_title: Unit 2
 author: Colin Madland
-post_excerpt: ''
+post_excerpt: ""
 layout: page
-permalink: |
+permalink: >
   https://create.twu.ca/ldrs501-su18/unit-2/
 published: true
-post_date: 2018-02-23T01:07:23.000Z
+post_date: 2018-02-23 01:07:23
 ---
-
 ## Overview
 
 #### Week 1
 
-This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog \(due on Day 1\) and then provide an introductory view of your startegic leadership experience. The Assignment will:
+This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. \[link to PressBooks instruction here\]
+1. Assess your Personal and Individual Strategic Development. [link to PressBooks instruction here]
 
-   \[link to PressBooks files for insertion of materials here\]
+   [link to PressBooks files for insertion of materials here]
 
-2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership_ Book Project completed for this course.
+2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
-\[Link to Introductory Blog\]
+[Link to Introductory Blog]
 
-\[Link to Introductory Blog rubric\]
+[Link to Introductory Blog rubric]
 
-\[Link to PressBooks instruction here\]
+[Link to PressBooks instruction here]
 
-\[Link to PressBooks files for insertion of materials here\]
+[Link to PressBooks files for insertion of materials here]
 
-\[Link to Assignment 1 rubric\]
+[Link to Assignment 1 rubric]
 
 #### ZOOM Video Conference
 
-_(optional F2F interaction can be arranged for those living within driving distance to the university)_ The session is recorded and distributed for those unable to connect directly to the session.
+_(optional F2F interaction can be arranged for those living_
 
-| Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _\(ZOOM invitation will be sent the Saturday prior to the video conference\)_ |
+_within driving distance to the university)_The session is recorded and distributed for those unable to connect directly to the session.
+
+| Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
 | :---: | :---: | :---: |
 
 
 #### Reading Overview
 
-| **Week 1- READ, ZOOM Video-conference** |
+| **Week 1- READ, ZOOM Video-conference ** |
 | :--- |
 
 
-|  | **&** | **Assignment 1** |
+|  | **&** | ** Assignment 1** |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 \(pp. 1-195\) |
-| M. Ungerer, G. Ungerer & J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish**_ | Intro and chapters 1-2 \(pp. xiii-105\) |
-| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 \(pp. 1-88\) |
-| R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 \(pp. xvii-23\) |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
+| M. Ungerer, G. Ungerer & J. Herholdt | ** Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish** | Intro and chapters 1-2 (pp. xiii-105) |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 (pp. 1-88) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 (pp. xvii-23) |
 
 ## Outcomes
 
@@ -70,22 +71,26 @@ Learners will begin development of the following outcomes in the unit:
 
 #### Reading Resource
 
-Boston Consulting Group. \(2015\) [_Strategy Palette Framework._](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+Boston Consulting Group. (2015) _Strategy Palette Framework._
 
-H Schachter \(2015\) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe & Mail_
+[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-**Personal research** for Forum and Assignment completion.
+H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail_
+
+[https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
+
+**Personal research ** for Forum and Assignment completion.
 
 #### Week 1 Assignments
 
-**Assignment:** Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Assignment:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
 
   * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
   * Double down!
 
-* **Tell us about YOU the person.**
+* **Tell us about YOU the person. **
 
   * What are a few of your favourite things?
   * What are your goals, aspirations and future dreams?
@@ -93,28 +98,28 @@ H Schachter \(2015\) [Five Approaches to Using a Strategy Palette.](https://www.
 
 * **Make it personal. Make it memorable. Make it YOU!**
 
-\[Link to Introductory Blog\]
+[Link to Introductory Blog]
 
-#### LDRS 501A – Introductory BLOG Rubric \(5%\) - Example.
+#### LDRS 501A – Introductory BLOG Rubric (5%) - Example.
 
 | NAME: |
 | :--- |
 
 
-| Grading Criteria | Weight | Assessment % _\(out of 100\)_ |
+| Grading Criteria | Weight | Assessment % _(out of 100)_ |
 | :---: | :---: | ---: |
 | **The Introduction contains a general introduction of YOU.** | **20%** | **%** |
 | **The Introduction contains a few of your favourite things.** | **20%** | **%** |
 | **The Introduction contains your goals, aspirations and future dreams.** | **20%** | **%** |
 | **The Introduction contains what career strategy you are going to follow to achieve them.** | **20%** | **%** |
 | **The Introduction is personal and memorable** | **20%** | **%** |
-| XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment \(Total/5\):** | **%** |
+| XXXXXXXXXXXXXXXXXXXXXXXXXXX | **Average Grade for Assignment (Total/5):** | **%** |
 
-\[Link to Introductory Blog rubric\]
+[Link to Introductory Blog rubric]
 
 **Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
-**ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT \(10%\)**
+**ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
 
 **PERSONAL STRATEGIC DEVELOPMENT**
 
@@ -129,7 +134,7 @@ All assignments will receive peer reviewed grading by other members of the class
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
-Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 21-51\) and Ungerer, M., Ungerer, G., & Herholdt, J. \(2016\). _Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, \(pp. xiii-105\) you will:
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 21-51) and Ungerer, M., Ungerer, G., & Herholdt, J. (2016)._ Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, (pp. xiii-105) you will:
 
 **Assignment Parameters**
 
@@ -158,15 +163,15 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    * 1. Personal
      2. Professional
 5. Conclude the assignment:
-   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
-   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
+   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer & Herholdt, pp. xiii-105)
+   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
    3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 
 **NOTE:**_Substantive, Succinct and Cited._
 
-\[Link to PressBooks instruction here\]
+[Link to PressBooks instruction here]
 
-\[Link to PressBooks files for insertion of materials here\]
+[Link to PressBooks files for insertion of materials here]
 
 #### Assignment 1 Rubric - Example
 
@@ -182,9 +187,9 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 | _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
 | _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
 | _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%** | **%** |
-|  | **Total score/8:** |  |
+|  | **Total score/8:    ** |  |
 
-\[Link to Assignment 1 rubric\]
+[Link to Assignment 1 rubric]
 
 Unit 2 Learning Activities
 
@@ -193,7 +198,7 @@ Learning Activity 2.1
 
 Assignment grading is awarded following peer review of the materials entered into the PressBooks environment and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric.
 
-Submit grading to the following link. \[link to grading for Assignment 1\]
+Submit grading to the following link. [link to grading for Assignment 1]
 
 #### MA LEAD/MAEL Assignment Grading Rubric  2.0
 
@@ -204,12 +209,12 @@ Submit grading to the following link. \[link to grading for Assignment 1\]
 | **A-** | **85-89** | **3.7** | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
 | **B+** | **80-84** | **3.3** | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
 | **B** | **75-79** | **3.0** | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
-| **B-** | **70-74** | **2.7\*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision  or  references and resources not taken fully into account  or  examples are basic or not completely convincing  or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _\(e.g., clarity, coherence, grammar\)_. Overall quality shows noticeable deficiencies. |
-| **F** | **&lt;70** | **2.0** | _**Unacceptable work at graduate level.**_ Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
+| **B-** | **70-74** | **2.7*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision  or  references and resources not taken fully into account  or  examples are basic or not completely convincing  or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _(e.g., clarity, coherence, grammar)_. Overall quality shows noticeable deficiencies. |
+| **F** | **&lt;70** | **2.0** | _**Unacceptable work at graduate level. **_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
 
-**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
+**Note: * a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
-Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.**Note: \* a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate. Other Designated Grades**
+Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.**Note: * a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.Other Designated Grades**
 
 **INC** = **Incomplete**. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrollment Services.
 

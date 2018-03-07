@@ -2,14 +2,13 @@
 ID: 36
 post_title: Unit 3 Notes
 author: Colin Madland
-post_excerpt: ''
+post_excerpt: ""
 layout: page
-permalink: |
+permalink: >
   https://create.twu.ca/ldrs501-su18/unit-3-notes/
 published: true
-post_date: 2018-02-23T01:07:23.000Z
+post_date: 2018-02-23 01:07:23
 ---
-
 ### Unit 3 Notes
 
 ### WHAT IS A SUBSTANTIVE RESPONSE?
@@ -24,9 +23,9 @@ post_date: 2018-02-23T01:07:23.000Z
   * Will, at times, lead to respectful challenging each other’s perceptions, ideas and assumptions. 
   * Provides rich dialogue in the learning process.
   * Provides the opportunity for building a supportive subculture of encouragement for one another through shared ideas and challenging discourse. 
-  * Allows participants to focus on addressing the questions at hand fully and completely. Disagreeing and challenging one another based on the material under review and investigation so as to stimulate and edifying one another through the pure pursuit of the best information within the best framework of discussion – BLOG discussion questions \(DQ\). 
+  * Allows participants to focus on addressing the questions at hand fully and completely. Disagreeing and challenging one another based on the material under review and investigation so as to stimulate and edifying one another through the pure pursuit of the best information within the best framework of discussion – BLOG discussion questions (DQ). 
 
-* ##### Substantive participation may include \(among other things\):
+* ##### Substantive participation may include (among other things):
 
   * Providing and developing a new thought, idea, or perspective.
   * Citing an experience or example of what we are learning and showing how it applies.
@@ -37,7 +36,7 @@ post_date: 2018-02-23T01:07:23.000Z
 * ##### Substantive Participation is NOT:
 
   * Very basic comments such as “I agree” or “I disagree.”
-  * Restating what has already been said \(unless there is a direct purpose in doing so\).
+  * Restating what has already been said (unless there is a direct purpose in doing so).
   * Disrespectfully disagreeing.
   * Pat answers that are not thought - provoking
 
@@ -55,6 +54,3 @@ Below are examples of how to stimulate your thinking and the thinking of others 
 * I'm wondering if...
 * Do you think...
 * Perhaps…
-
-
-
