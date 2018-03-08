@@ -15,11 +15,11 @@ post_date: 2018-02-23 01:07:23
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. [link to PressBooks instruction here]
+1. Assess your Personal and Individual Strategic Development. [PressBooks instruction here](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
 
-   [link to PressBooks files for insertion of materials here]
+   [Inserting PressBooks Files Instructions]
 
-2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
+2. Be submitted in the PressBooks environment as the first chapter of the _Discovering Strategic Leadership Book Project_ completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
