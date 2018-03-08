@@ -186,8 +186,6 @@ ii.Deductive
 
 if the premise is true the conclusion must also be true
 
-&nbsp;
-
 b.Left vs. right brain thinking
 
 c.Idioms: visual, kinesthetic, and auditor
@@ -200,13 +198,9 @@ b.Kinesthetic
 
 These are the "hands-on learners" or the "doers" who actually concentrate better and learn more easily when movement is involved.
 
-&nbsp;
-
 c.auditor
 
-üRemember quite accurately details of information they hear.
-
-&nbsp;
+Remember quite accurately details of information they hear.
 
 d.Subjectivity and intuition
 
@@ -311,8 +305,6 @@ g.Brilliant and complex strategizing precludes success
 
 h.Outside executives are needed to make needed change
 
-&nbsp;
-
 i.Most successful organizations seek to beat competition
 
 j.You can’t ‘have your cake and eat it too’
@@ -322,8 +314,6 @@ k.Organizations become visionary through vision statements
 By Collins &amp; Parras 2000
 
 EVALUATING STRATEGIC PLANS
-
-&nbsp;
 
 Strategic clarity
 
@@ -358,9 +348,6 @@ a.Faulty assumptions
  	<li>Balancing stability and change</li>
  	<li>Interest in vision-based outcomes</li>
  	<li>Blend plans with implementation</li>
-</ul>
-&nbsp;
-<ul>
  	<li>Value for money performance results</li>
  	<li>Serving customers well</li>
  	<li>Ensure organization has functional abilities</li>
