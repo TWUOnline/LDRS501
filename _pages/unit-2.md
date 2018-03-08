@@ -15,7 +15,7 @@ post_date: 2018-02-23 01:07:23
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your startegic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. [PressBooks instruction here](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
+1. Assess your Personal and Individual Strategic Development. [PressBooks Instruction here](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
 
    [Inserting PressBooks Files Instructions]
 
@@ -29,20 +29,18 @@ Assignment grading is awarded following peer review of the materials entered int
 
 [Link to Introductory Blog rubric]
 
-[Link to PressBooks instruction here]
+[Link to Assignment 1 rubric](https://create.twu.ca/ldrs501-su18/assignment-1/)
 
-[Link to PressBooks files for insertion of materials here]
 
-[Link to Assignment 1 rubric]
 
 #### ZOOM Video Conference
+_(Optional F2F interaction can be arranged for those living within driving distance to the university)_ 
 
-_(optional F2F interaction can be arranged for those living_
-
-_within driving distance to the university)_The session is recorded and distributed for those unable to connect directly to the session.
+The session is recorded and distributed for those unable to connect directly to the session.
 
 | Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
 | :---: | :---: | :---: |
+
 
 
 #### Reading Overview
