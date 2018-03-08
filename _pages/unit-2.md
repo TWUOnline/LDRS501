@@ -15,7 +15,7 @@ post_date: 2018-02-23 01:07:23
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your strategic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. [link to PressBooks instruction here]
+1. Assess your Personal and Individual Strategic Development. [PressBooks Instruction here](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
 
 [link to PressBooks files for insertion of materials here]
 
@@ -29,18 +29,19 @@ Assignment grading is awarded following peer review of the materials entered int
 
 [Link to Introductory Blog rubric]
 
-[Link to PressBooks instruction here]
+[Link to Assignment 1 rubric](https://create.twu.ca/ldrs501-su18/assignment-1/)
 
-[Link to PressBooks files for insertion of materials here]
 
-[Link to Assignment 1 rubric]
 
 #### ZOOM Video Conference
 _(optional F2F interaction can be arranged for those living within driving distance to the university)_
+
 The session is recorded and distributed for those unable to connect directly to the session.
 
 | Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&amp;A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm** - Assignment 1 Review - **6 pm - 6:30 pm** - Book Development Learning Activity plus Q&amp;A - **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
 | :---: | :---: | :---: |
+
+
 
 #### Reading Overview
 
@@ -65,11 +66,9 @@ Learners will begin development of the following outcomes in the unit:
 ## Resources
 #### Reading Resource
 
-Boston Consulting Group. (2015) _Strategy Palette Framework._
-[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+Boston Consulting Group. (2015) _Strategy Palette Framework._ [Link Here](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mail._
-[https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
+H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ [Link Here](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
 
 **Personal Research** for Forum and Assignment completion.
 
@@ -100,6 +99,7 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mai
 
 [Link to Introductory Blog rubric]
 
+
 **Assignment:** _Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - **10%**.
 
 **Submission Due: Sunday May 6 at 23:59 PDT**
@@ -118,38 +118,33 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 **Assignment Parameters**
 
 1. Assess YOU as a strategic leader.
-    1. What is your general response to the circumstances YOU presently face in your life?
-    2. How do YOU handle the stressors you face?
-                *Personal
-                *Professional
-    3. What are your wants and needs for changing or strengthening your responses?
-                a. Personal
-                b. Professional
-    4. What are your strengths and weakness with regard to the desired changes in your life?
-                a. Personal
-                b. Professional
-
+   1. What is your general response to the circumstances YOU presently face in your life?
+   2. How do YOU handle the stressors you face?
+      1. Personal
+      2. Professional
+   3. What are your wants and needs for changing or strengthening your responses?
+      1. Personal
+      2. Professional
+   4. What are your strengths and weakness with regard to the desired changes in your life?
+      1. Personal
+      2. Professional
 2. What personal mission, vision and values do you practice?
-1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
-1. Personal
-2. Professional
-3. Collectively
-
+   1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
+      1. Personal
+      2. Professional
+      3. Collectively
 3. What key strategic drivers will help YOU create significant impact for achieving your potential?
-1. What areas will YOU abandon for your future development?
-2. What areas will YOU excel in?
-1. Personal
-2. Professional
-
+   1. What areas will YOU abandon for your future development?
+   2. What areas will YOU excel in?
+      1. Personal
+      2. Professional
 4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
-1. Personal
-2. Professional
-
+   * 1. Personal
+     2. Professional
 5. Conclude the assignment:
-1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer &amp; Herholdt, pp. xiii-105)
-2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
-3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
-
+   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer & Herholdt, pp. xiii-105)
+   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
+   3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 **NOTE:** _Substantive, Succinct and Cited._
 
 [Link to PressBooks instruction here]
@@ -159,17 +154,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 #### Assignment 1 Rubric - Example
 
 | NAME: |
-| :--- |
-
-| Grading Criteria | Weight | Assessment % |
-| :---: | :---: | ---: |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to the assessment of YOU as a strategic leader.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to the personal mission, vision and values you practice.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to key strategic drivers helping YOU create significant impact for achieving your potential.**_ | **18%** | **%** |
-| _**The Assignment provides a critical thinking and higher ordered analysis response to explains the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.**_ | **18%** | **%** |
-| _**Assignment concludes by indicating your thoughts on your present strategic leadership development and what is needed to assist with your strategic leadership growth.**_ | **18%** | **%** |
-| _**Assignment is clearly written and grammatically correct in presentation of ideas and APA 6 compliant documentation with an acceptable reference page.**_ | **10%** | **%** |
-| | **Total score/8: ** | |
+[table id=3 /]
 
 [Link to Assignment 1 rubric]
 
@@ -183,16 +168,7 @@ Assignment grading is awarded following peer review of the materials entered int
 Submit grading to the following link. [link to grading for Assignment 1]
 
 #### MA LEAD/MAEL Assignment Grading Rubric 2.0
-
-| Letter Grade | % | Grade | **Meaning in Graduate Work **-** Note:** _For assignments meeting criteria in several categories, instructors will assign an average grade._ |
-| :---: | :---: | :---: | :---: |
-| **A+** | **95-100** | **4.3** | _**Exceptionally well-reasoned, compelling development of position.**_ Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
-| **A** | **90-94** | **4.0** | _**Well-argued and convincing development of position.**_ Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
-| **A-** | **85-89** | **3.7** | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
-| **B+** | **80-84** | **3.3** | _**Proficient development of position.**_ Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
-| **B** | **75-79** | **3.0** | _**Competent development of position, but possibly with some gaps and/or limitations.**_ Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
-| **B-** | **70-74** | **2.7*** | _**Unimpressive development of position.**_ Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses _(e.g., clarity, coherence, grammar)_. Overall quality shows noticeable deficiencies. |
-| **F** | **&lt;70** | **2.0** | _**Unacceptable work at graduate level. **_Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
+[table id=2 /]
 
 **Note: * A grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
