@@ -166,7 +166,7 @@ One of the important things as leaders is understanding our place of submission 
 
 <em>'autonomy does not imply a lack of accountability or a lack of hierarchy.'</em> (p. 288)
 
-&nbsp;
+Lack in leadership accountability is one of the most common criticisms of leadership over the years. Leaders who act as if followers are their personal minions to order around regardless of the respect level earned or ethical considerations for treating people fairly, cause great harm to understanding true accountable leadership for the betterment of the organization and the people they lead. To lead is to recognize the level or accountability and responsibility for the position and process.
 
 2.Special issues
 
