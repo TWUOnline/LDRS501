@@ -75,7 +75,7 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mai
 
 #### Week 1 Assignments
 
-**Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - **5%**_.
+**Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - **5%**.
 
 * **Take the time to introduce yourself.**
 
@@ -117,15 +117,15 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 **Assignment Parameters**
 
-*1. Assess YOU as a strategic leader.
-  *1. What is your general response to the circumstances YOU presently face in your life?
-  *2. How do YOU handle the stressors you face?
+1. Assess YOU as a strategic leader.
+  i. What is your general response to the circumstances YOU presently face in your life?
+  ii. How do YOU handle the stressors you face?
       1. Personal
       2. Professional
-  *3. What are your wants and needs for changing or strengthening your responses?
+  iii. What are your wants and needs for changing or strengthening your responses?
       1. Personal
       2. Professional
-  *4. What are your strengths and weakness with regard to the desired changes in your life?
+   iV. What are your strengths and weakness with regard to the desired changes in your life?
       1. Personal
       2. Professional
 
