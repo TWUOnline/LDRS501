@@ -147,4 +147,237 @@ date.
 [link to PressBooks files for insertion of materials here]
 <h4>Unit 5 Learning Activities</h4>
 <h4>Learning Activity 5.1</h4>
+<h5>Strategic Thinking(incomplete - adjust outline below)</h5>
+STRATEGIC LEADERSHIP
+
+Market Position Thinking &amp;
+
+Processes for Service Improvement
+
+A. INTRODUCTION
+
+<i>Seeing things the way God sees them</i>
+
+<u>Principle</u>: Submit to God
+
+Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,
+
+I Peter 2: 13
+
+Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.
+
+I Peter 2: 16
+
+<i>THINK about it</i>
+
+Never underestimate the power of your own thinking.
+
+<i>Luke de </i><i>Sadeleer</i><i> and Joseph </i><i>Sherren</i><i>, </i><i>2001</i>
+
+2.Special issues
+
+a.Inductive/deductive thinking
+
+i.Inductive
+
+From limited observation people form a theory to explain facts
+
+ii.Deductive
+
+if the premise is true the conclusion must also be true
+
+&nbsp;
+
+b.Left vs. right brain thinking
+
+c.Idioms: visual, kinesthetic, and auditor
+
+a.Visual
+
+Taking notes and making lists to read later.
+
+b.Kinesthetic
+
+These are the "hands-on learners" or the "doers" who actually concentrate better and learn more easily when movement is involved.
+
+&nbsp;
+
+c.auditor
+
+üRemember quite accurately details of information they hear.
+
+&nbsp;
+
+d.Subjectivity and intuition
+
+e.Inevitable bias and communication distrust
+
+f.Information organization &amp; strategies
+
+<u>Choice and Feelings</u>
+
+<i>  “The test of first-rate intelligence is the ability to hold two </i><i>opposed </i><i>ideas in the mind at the same time and still retain the ability to function.”</i>
+<ol>
+ 	<li>Scott Fitzgerald</li>
+</ol>
+Values, beliefs, traditions and symbols
+
+Educational Values
+<i>(5 minutes)</i>
+
+Using the EV Handout
+
+1.Rank the educational values according to what you think should be emphasized in public schools.
+
+2.This format will work with any list you make with regard to what you find worth emphasizing in your personal/organizational experiences.
+
+Issues, Leaders, Approaches, and Questions
+
+Uncertainty and change
+
+Strategic issue level
+
+Evaluating strategic plans
+
+Best practice questions
+
+Practice pitfalls and strategic IQ
+
+Researching for strategies
+
+STRATEGIC ISSUE LEVEL
+
+1.Long-term direction
+
+2.Programming policy
+
+3.Operations/delivery
+
+LEADING FOR RESULTS
+
+Leadership qualities
+
+Requirements for success
+
+Organizational leadership myths
+
+LEADING Effectively
+
+1.Leadership qualities
+
+a.Personality
+
+b.Styles
+
+nLEADING
+
+2.Requirements for success
+
+a.Establish long-term vision and change commitment
+
+b.Communicate vision often
+
+c.Develop clear performance objectives and targets
+
+d.Improve skills and habits of employees
+
+LEADING
+
+e.Integrate all systems and structures
+
+f.Communicate constantly and consistently
+
+g.Recognize and reward excellence
+
+h.Evaluate and improve continuously
+
+By Leslie Yerkes 2004
+
+3.Organizational leadership myths
+
+a.Takes great ideas to start great organizations
+
+b.Visionary organizations require charismatic leaders
+
+c.Visionary organizations share “correct” core values
+
+d.The only constant is change
+
+e.Blue-chip organizations play it safe
+
+f.Visionary organizations are great for every employee
+
+g.Brilliant and complex strategizing precludes success
+
+h.Outside executives are needed to make needed change
+
+&nbsp;
+
+i.Most successful organizations seek to beat competition
+
+j.You can’t ‘have your cake and eat it too’
+
+k.Organizations become visionary through vision statements
+
+By Collins &amp; Parras 2000
+
+EVALUATING STRATEGIC PLANS
+
+&nbsp;
+
+Strategic clarity
+
+Quality criteria
+
+RESEARCHING for STRATEGIES
+
+1.Current paradigm crisis
+
+2.Value deficiencies
+
+3.New critical thinking
+
+1.Current paradigm crisis
+
+a.Planned change: an oxymoron?
+
+b.Strategy change sequence
+
+c.Mapping change processes
+
+d.Comprehensive change challenge
+<ol>
+ 	<li>Religious organization experiences</li>
+</ol>
+2.Value deficiencies
+
+a.Faulty assumptions
+<ul>
+ 	<li>Comprehensive strategic awareness</li>
+ 	<li>Balanced response to stakeholders</li>
+ 	<li>Balancing stability and change</li>
+ 	<li>Interest in vision-based outcomes</li>
+ 	<li>Blend plans with implementation</li>
+</ul>
+&nbsp;
+<ul>
+ 	<li>Value for money performance results</li>
+ 	<li>Serving customers well</li>
+ 	<li>Ensure organization has functional abilities</li>
+ 	<li>Have high quality servant leaders</li>
+ 	<li>Committed ethical responsibility</li>
+</ul>
+b.Implementation challenges
+<ul>
+ 	<li>Planned change: an oxymoron?</li>
+ 	<li>Strategy change sequence</li>
+ 	<li>Mapping change processes</li>
+ 	<li>Comprehensive change challenge</li>
+ 	<li>Religious organization experiences</li>
+</ul>
+Thinking Stategically
+
+Leaders need to think strategically
+
+Leaders must know their strategic imperatives
 <h4>Learning Activity 5.2</h4>
