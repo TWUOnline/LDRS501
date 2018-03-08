@@ -156,17 +156,17 @@ date.
 
 <span style="text-decoration: underline"><strong>Principle:</strong></span> Submit to God
 
-One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes in his first epistle:
+One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes two thoughts in his first epistle:
 
 <em>Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,</em> - I Peter 2: 13
 
 <em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> - I Peter 2: 16
 
-<i>THINK about it</i>
+<i>THINK about it! Leadership accountability in a strategic environment allows everyone to excel and find protection through the process. Ungerer, et al., note:</i>
 
-Never underestimate the power of your own thinking.
+<em>'autonomy does not imply a lack of accountability or a lack of hierarchy.'</em> (p. 288)
 
-<i>Luke de </i><i>Sadeleer</i><i> and Joseph </i><i>Sherren</i><i>, </i><i>2001</i>
+&nbsp;
 
 2.Special issues
 
