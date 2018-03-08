@@ -19,7 +19,7 @@ This week provides an introduction of YOU and your strategic leadership experien
 
 [link to PressBooks files for insertion of materials here]
 
-2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
+2. To be submitted in the PressBooks environment as the first chapter of the _Discovering Strategic Leadership Book Project_ completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -36,10 +36,8 @@ Assignment grading is awarded following peer review of the materials entered int
 [Link to Assignment 1 rubric]
 
 #### ZOOM Video Conference
-
-_(optional F2F interaction can be arranged for those living_
-
-_within driving distance to the university)_The session is recorded and distributed for those unable to connect directly to the session.
+_(optional F2F interaction can be arranged for those living within driving distance to the university)_
+The session is recorded and distributed for those unable to connect directly to the session.
 
 | Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&amp;A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm** - Assignment 1 Review - **6 pm - 6:30 pm** - Book Development Learning Activity plus Q&amp;A - **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
 | :---: | :---: | :---: |
@@ -60,35 +58,31 @@ _within driving distance to the university)_The session is recorded and distribu
 ## Outcomes
 
 Learners will begin development of the following outcomes in the unit:
-
 1. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 2. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development
 3. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ## Resources
-
 #### Reading Resource
 
 Boston Consulting Group. (2015) _Strategy Palette Framework._
-
 [http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mail_
-
+H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mail._
 [https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
 
-**Personal research ** for Forum and Assignment completion.
+**Personal Research** for Forum and Assignment completion.
 
 #### Week 1 Assignments
 
-**Assignment:** _Introductory Blog post_- May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - **5%**_.
 
 * **Take the time to introduce yourself.**
 
 * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
 * Double down!
 
-* **Tell us about YOU the person. **
+* **Tell us about YOU the person.**
 
 * What are a few of your favourite things?
 * What are your goals, aspirations and future dreams?
@@ -106,7 +100,7 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe &amp; Mai
 
 [Link to Introductory Blog rubric]
 
-**Assignment:** _Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - _**10%**_.
+**Assignment:** _Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - **10%**.
 
 **Submission Due: Sunday May 6 at 23:59 PDT**
 
@@ -123,17 +117,17 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 **Assignment Parameters**
 
-1. Assess YOU as a strategic leader.
-1. What is your general response to the circumstances YOU presently face in your life?
-2. How do YOU handle the stressors you face?
-1. Personal
-2. Professional
-3. What are your wants and needs for changing or strengthening your responses?
-1. Personal
-2. Professional
-4. What are your strengths and weakness with regard to the desired changes in your life?
-1. Personal
-2. Professional
+*1. Assess YOU as a strategic leader.
+  *1. What is your general response to the circumstances YOU presently face in your life?
+  *2. How do YOU handle the stressors you face?
+      1. Personal
+      2. Professional
+  *3. What are your wants and needs for changing or strengthening your responses?
+      1. Personal
+      2. Professional
+  *4. What are your strengths and weakness with regard to the desired changes in your life?
+      1. Personal
+      2. Professional
 
 2. What personal mission, vision and values do you practice?
 1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
