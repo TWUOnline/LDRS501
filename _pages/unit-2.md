@@ -111,7 +111,8 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ 
 
 [Link to Introductory Blog rubric]
 
-**Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
+
+**Assignment: **_**Week 1** Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - _**10%**_.
 
 **ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
 
