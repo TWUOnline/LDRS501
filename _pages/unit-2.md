@@ -139,8 +139,8 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
       1. Personal
       2. Professional
 4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
-   * 1. Personal
-     2. Professional
+      1. Personal
+      2. Professional
 5. Conclude the assignment:
    1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer & Herholdt, pp. xiii-105)
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
