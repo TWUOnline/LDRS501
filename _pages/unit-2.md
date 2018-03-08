@@ -69,9 +69,9 @@ Learners will begin development of the following outcomes in the Unit:
 
 #### Reading Resource
 
-Boston Consulting Group. (2015) _Strategy Palette Framework._ *[http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+Boston Consulting Group. (2015) _Strategy Palette Framework._ [Link to Introduction to Strategy](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ [https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
+H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ [Strategy Palette Link](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
 
 **Personal Research** for Forum and Assignment completion.
 
