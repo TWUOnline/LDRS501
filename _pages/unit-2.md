@@ -93,7 +93,7 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ 
 
 #### LDRS 501A – Introductory BLOG Rubric (5%) - Example.
 
-| NAME: |
+NAME:
 
 [table id=1 /]
 
@@ -153,7 +153,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 #### Assignment 1 Rubric - Example
 
-| NAME: |
+NAME: 
 [table id=3 /]
 
 [Link to Assignment 1 rubric]
