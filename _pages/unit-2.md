@@ -59,7 +59,7 @@ The session is recorded and distributed for those unable to connect directly to 
 
 ## Outcomes
 
-Learners will begin development of the following outcomes in the unit:
+Learners will begin development of the following outcomes in the Unit:
 
 1. **Examine key strategic leadership applications**  to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 2. **Develop the necessary skills for systemic and systematic inquiry**  of strategic leadership issues related to your personal leadership development
@@ -70,25 +70,23 @@ Learners will begin development of the following outcomes in the unit:
 #### Reading Resource
 
 Boston Consulting Group. (2015) _Strategy Palette Framework._
-
 [http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
 H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail_
-
 [https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
 
-**Personal research ** for Forum and Assignment completion.
+**Personal Research** for Forum and Assignment completion.
 
 #### Week 1 Assignments
 
-**Assignment:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
 
   * Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
   * Double down!
 
-* **Tell us about YOU the person. **
+* **Tell us about YOU the person.**
 
   * What are a few of your favourite things?
   * What are your goals, aspirations and future dreams?
