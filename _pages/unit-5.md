@@ -148,25 +148,19 @@ date.
 <h4>Unit 5 Learning Activities</h4>
 <h4>Learning Activity 5.1</h4>
 <h5>Strategic Thinking(incomplete - adjust outline below)</h5>
-STRATEGIC LEADERSHIP
+<strong>Market Position Thinking &amp; Processes for Service Improvement</strong>
 
-Market Position Thinking &amp;
+<strong>INTRODUCTION</strong>
 
-Processes for Service Improvement
+<strong><i>Seeing things the way God sees them</i></strong>
 
-A. INTRODUCTION
+<span style="text-decoration: underline"><strong>Principle:</strong></span> Submit to God
 
-<i>Seeing things the way God sees them</i>
+One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes in his first epistle:
 
-<u>Principle</u>: Submit to God
+<em>Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,</em> - I Peter 2: 13
 
-Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,
-
-I Peter 2: 13
-
-Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.
-
-I Peter 2: 16
+<em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> - I Peter 2: 16
 
 <i>THINK about it</i>
 
