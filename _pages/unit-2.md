@@ -78,6 +78,7 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ 
 #### Week 1 Assignments
 
 **Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Submission Due: Tuesday May 1 at 23:59 PDT**
 
 * **Take the time to introduce yourself.**
 
@@ -112,18 +113,13 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ 
 [Link to Introductory Blog rubric]
 
 
-**Assignment:** _Week 1 Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - _**10%**_.
-
-**ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
-
-**PERSONAL STRATEGIC DEVELOPMENT**
-
+**Assignment:** _Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - _**10%**_.
 **Submission Due: Sunday May 6 at 23:59 PDT**
 
 **This assignment is:**
 
-1. An assessment of your Personal and Individual Strategic Development.
-2. Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course.
+ * An assessment of your Personal and Individual Strategic Development.
+ * Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
