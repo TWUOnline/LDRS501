@@ -1,7 +1,13 @@
 ---
+ID: 271
 post_title: Activity 1.3 Notes
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs501-su18/activity-1-3-notes/
 published: true
+post_date: 2018-03-09 12:04:40
 ---
 #### Concluding Learning Activity Exercise
 
