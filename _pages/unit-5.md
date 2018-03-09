@@ -168,13 +168,37 @@ One of the important things as leaders is understanding our place of submission 
 
 Lack in leadership accountability is one of the most common criticisms of leadership over the years. Leaders who act as if followers are their personal minions to order around regardless of the respect level earned or ethical considerations for treating people fairly, cause great harm to understanding true accountable leadership for the betterment of the organization and the people they lead. To lead is to recognize the level or accountability and responsibility for the position and process.
 
-2.Special issues
+Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
-a.Inductive/deductive thinking
+Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
+<h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4>
+(https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
-i.Inductive
+Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
-From limited observation people form a theory to explain facts
+Here are some examples to enhance your understanding of inductive reasoning. Read them over, and reflect on instances of inductive reasoning in your own professional experience.
+
+1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(the observation leads to the conclusion)</span></em>
+
+2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i>
+
+3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i>
+
+4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i>
+
+5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i>
+
+6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i>
+
+7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i>
+
+8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i>
+
+9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i>
+
+10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
+
+&nbsp;
 
 ii.Deductive
 
@@ -361,4 +385,6 @@ Thinking Stategically
 Leaders need to think strategically
 
 Leaders must know their strategic imperatives
+
+Doyle, A. (updated September 22, 2017). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Inductive Reasoning in the Workplace. New York: The Balance.</span>
 <h4>Learning Activity 5.2</h4>
