@@ -198,11 +198,7 @@ Here are some examples to enhance your understanding of inductive reasoning. Rea
 
 10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
 
-&nbsp;
-
-ii.Deductive
-
-if the premise is true the conclusion must also be true
+In deductive thinking, the general conclusion holds; if the premise is true the conclusion must also be true.
 
 b.Left vs. right brain thinking
 
