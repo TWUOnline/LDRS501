@@ -13,13 +13,13 @@ post_date: 2018-02-23 01:07:23
 
 #### Week 1
 
-This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your startegic leadership experience. The Assignment will:
+This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your strategic leadership experience. The Assignment will:
 
 1. Assess your Personal and Individual Strategic Development. [link to PressBooks instruction here]
 
    [link to PressBooks files for insertion of materials here]
 
-2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership _Book Project completed for this course.
+2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership_ Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -37,23 +37,24 @@ Assignment grading is awarded following peer review of the materials entered int
 
 #### ZOOM Video Conference
 
-_(optional F2F interaction can be arranged for those living_
+_(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
-_within driving distance to the university)_The session is recorded and distributed for those unable to connect directly to the session.
+ ### Week 1 - May 1-6
 
-| Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT**  - Learner Introductions -  **5 pm - 6 pm**  - Assignment 1 Review -  **6 pm - 6:30 pm**  - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
-| :---: | :---: | :---: |
+ ZOOM video-conference
+
+May 1, 2018 - 5 pm - 7 pm PDT  
+- Learner Introductions -  **5 pm - 6 pm**  
+- Assignment 1 Review -  **6 pm - 6:30 pm**  
+- Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**.
+
+
+NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
 
 
 #### Reading Overview
-
-| **Week 1- READ, ZOOM Video-conference ** |
-| :--- |
-
-
-|  | **&** | ** Assignment 1** |
-| :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| :--- | :--- | :--- |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
 | M. Ungerer, G. Ungerer & J. Herholdt | ** Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish** | Intro and chapters 1-2 (pp. xiii-105) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 (pp. 1-88) |
@@ -82,8 +83,10 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 **Personal research ** for Forum and Assignment completion.
 
 #### Week 1 Assignments
-
-**Assignment:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+```
+Move to Unit 1 Learning Activities
+```
+**Learning Activity 1.1:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
 
@@ -97,6 +100,12 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail_
   * What career strategy are you going to follow to achieve them?
 
 * **Make it personal. Make it memorable. Make it YOU!**
+
+
+##### Categories for this post:
+- ldrs501
+- Unit 1
+- Learning Activity 1.1
 
 [Link to Introductory Blog]
 
@@ -118,6 +127,10 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail_
 [Link to Introductory Blog rubric]
 
 **Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
+
+```
+Move to 'Assignment 1'
+```
 
 **ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
 
