@@ -232,19 +232,23 @@ The discussion of differing thinking styles also leads us to left vs. right brai
 
 As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
 
-c.Idioms: visual, kinesthetic, and auditor
+As important understanding inductive/deductive and left/right brain thinking are in understanding how strategic teams work, there is also a clear need to understand what type of learners your team represents. V<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">isual? Kinaesthetic? Auditor?</span>
 
-a.Visual
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">a. Visual</span>
 
-Taking notes and making lists to read later.
+Visual learners  think in pictures and learn best with the use of visual images as they learn. They depend on non-verbal cues (like expressions, illustrations, body language, etc.) to help them understand the world around them. They tend to fare better in learning environments where they can sit near the front. away from distractions from other stimuli, often taking notes and making lists to read later. (Gilakjani, pp. 105, 106)
 
-b.Kinesthetic
+b. Kinaesthetic
 
-These are the "hands-on learners" or the "doers" who actually concentrate better and learn more easily when movement is involved.
+Kinaesthetic learners, learn best with an active “hands-on” approach. They
+favour interaction with the physical world as they learn, but often have
+a difficult time staying on target and can become unfocused.
 
-c.auditor
+To address the lack of focus, create learning opportunities to help them concentrate better where movement is involved. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">(Gilakjani, p. 106)</span>
 
-Remember quite accurately details of information they hear.
+c. Auditor
+
+Auditory learners  r<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">emember details about information they hear quite accurately, often </span>discovering information through listening and interpreting pitch and emphasis on the topics or materials presented. They gain knowledge from reading out loud or hearing information read out loud and have challenges fully understanding detailed <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">written </span>information. (Gilakjani, p. 106)
 
 d.Subjectivity and intuition
 
@@ -414,7 +418,10 @@ Leaders must know their strategic imperatives
 
 Doyle, A. (updated January 23, 2018). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Learn why employers value deductive reasoning, and how you can show it</span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</span>
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Inductive reasoning in the workplace. </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block"><em>Inductive reasoning in the workplace.</em> </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</span>
 
-Milgram, J. (January 3, 2018). Left and right brain—the surprising truth [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
+Gilakjani, <span style="float: none;background-color: transparent;color: #333333;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">A. P. (2012). Visual, auditory, kinaesthetic learning styles and
+their impacts on English language teaching.  <em>Journal of Studies in Education</em>. Vol. 2. No. 1. Macrothink Institute: Las Vegas, NV.</span>
+
+Milgram, J. (January 3, 2018). <em>Left and right brain—the surprising truth</em> [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
 <h4>Learning Activity 5.2</h4>
