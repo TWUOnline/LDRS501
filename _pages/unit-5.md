@@ -198,8 +198,30 @@ Here are some examples to enhance your understanding of inductive reasoning. Rea
 
 10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
 
-In deductive thinking, the general conclusion holds; if the premise is true the conclusion must also be true.
+In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true. Some examples of what deductive reasoning appears below.
+<h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
+<em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
 
+1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product.
+<div id="native-placeholder_1-0" class="comp native-placeholder mntl-block"></div>
+2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview.
+
+3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews.
+
+4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy.
+
+5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts.
+
+6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths.
+
+7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves.
+
+8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night.
+
+9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum.
+
+10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging.
+<h1>START</h1>
 b.Left vs. right brain thinking
 
 c.Idioms: visual, kinesthetic, and auditor
