@@ -224,7 +224,9 @@ In <span style="text-decoration: underline">deductive thinking</span>, the gener
 
 10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
 
-The discussion of differing thinking styles also leads us to left vs. right brain thinking.
+The discussion of differing thinking styles also leads us to left vs. right brain thinking. The images below provide insight into how these differing functions work in our day to day life.
+
+&nbsp;
 
 c.Idioms: visual, kinesthetic, and auditor
 
