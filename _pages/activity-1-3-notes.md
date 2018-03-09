@@ -1,4 +1,3 @@
-
 ---
 post_title: Activity 1.3 Notes
 layout: page
