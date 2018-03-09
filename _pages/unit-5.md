@@ -168,15 +168,15 @@ One of the important things as leaders is understanding our place of submission 
 
 Lack in leadership accountability is one of the most common criticisms of leadership over the years. Leaders who act as if followers are their personal minions to order around regardless of the respect level earned or ethical considerations for treating people fairly, cause great harm to understanding true accountable leadership for the betterment of the organization and the people they lead. To lead is to recognize the level or accountability and responsibility for the position and process.
 
-Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
+Some special issues to consider when working with your collaborative teams are identification and understanding who your <span style="text-decoration: underline">inductive/deductive thinkers</span> are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
-Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
+Being an <span style="text-decoration: underline">inductive thinker</span> means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
 <h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4>
 (https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
-Here are some examples to enhance your understanding of inductive reasoning. Read them over, and reflect on instances of inductive reasoning in your own professional experience.
+Here are some examples to enhance your understanding of <span style="text-decoration: underline">inductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">inductive thinking</span> in your own professional experience.
 
 1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(the observation leads to the conclusion)</span></em>
 
@@ -198,31 +198,33 @@ Here are some examples to enhance your understanding of inductive reasoning. Rea
 
 10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
 
-In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true. Some examples of what deductive reasoning appears below.
+In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
 <em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
 
-1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product.
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Here are some examples to enhance your understanding of <span style="text-decoration: underline">deductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">deductive thinking</span> in your own professional experience.</span>
+
+1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(<span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">belief </span></em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">proves outcome</span>)
 <div id="native-placeholder_1-0" class="comp native-placeholder mntl-block"></div>
-2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview.
+2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i>
 
-3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews.
+3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i>
 
-4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy.
+4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b>
 
-5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts.
+5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i>
 
-6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths.
+6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i>
 
-7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves.
+7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i>
 
-8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night.
+8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i>
 
-9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum.
+9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i>
 
-10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging.
-<h1>START</h1>
-b.Left vs. right brain thinking
+10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
+
+The discussion of differing thinking styles also leads us to left vs. right brain thinking.
 
 c.Idioms: visual, kinesthetic, and auditor
 
@@ -404,5 +406,7 @@ Leaders need to think strategically
 
 Leaders must know their strategic imperatives
 
-Doyle, A. (updated September 22, 2017). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Inductive Reasoning in the Workplace. New York: The Balance.</span>
+Doyle, A. (updated January 23, 2018). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Learn why employers value deductive reasoning, and how you can show it</span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</span>
+
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Inductive reasoning in the workplace. </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</span>
 <h4>Learning Activity 5.2</h4>
