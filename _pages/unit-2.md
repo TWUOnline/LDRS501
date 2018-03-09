@@ -19,11 +19,7 @@ This week provides an introduction of YOU and your strategic leadership experien
 
 [link to PressBooks files for insertion of materials here]
 
-<<<<<<< HEAD
 2. Be submitted in the PressBooks environment as the First Chapter of the _Discovering Strategic Leadership_ Book Project completed for this course.
-=======
-2. To be submitted in the PressBooks environment as the first chapter of the _Discovering Strategic Leadership Book Project_ completed for this course.
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -40,39 +36,20 @@ Assignment grading is awarded following peer review of the materials entered int
 #### ZOOM Video Conference
 _(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
-<<<<<<< HEAD
-_(optional F2F interaction can be arranged for those living within driving distance to the university)_
-
  ### Week 1 - May 1-6
 
  ZOOM video-conference
-=======
-The session is recorded and distributed for those unable to connect directly to the session.
-
-| Week 1 - May 1-6 | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&amp;A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm** - Assignment 1 Review - **6 pm - 6:30 pm** - Book Development Learning Activity plus Q&amp;A - **6:30 pm - 7 pm**. NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_ |
-| :---: | :---: | :---: |
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 
 May 1, 2018 - 5 pm - 7 pm PDT  
 - Learner Introductions -  **5 pm - 6 pm**  
 - Assignment 1 Review -  **6 pm - 6:30 pm**  
 - Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**.
 
-<<<<<<< HEAD
-=======
-
-#### Reading Overview
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
 
-<<<<<<< HEAD
 
 #### Reading Overview
-=======
-| | **&amp;** | ** Assignment 1** |
-| :--- | :--- | :--- |
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
@@ -97,15 +74,10 @@ H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ 
 **Personal Research** for Forum and Assignment completion.
 
 #### Week 1 Assignments
-<<<<<<< HEAD
 ```
 Move to Unit 1 Learning Activities
 ```
 **Learning Activity 1.1:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
-=======
-
-**Assignment:** _Introductory Blog Post_ - May 1, 2018 - Post in Learner Introduction Blog - **5%**.
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 
 * **Take the time to introduce yourself.**
 
@@ -136,7 +108,6 @@ NAME:
 
 [Link to Introductory Blog rubric]
 
-<<<<<<< HEAD
 **Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
 ```
@@ -144,8 +115,6 @@ Move to 'Assignment 1'
 ```
 
 **ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
-=======
->>>>>>> 8095648c76e8760f8d35727c677a4e72f418b1eb
 
 **Assignment:** _Individual Assignment 1_ - May 6, 2018 - Strategic Assessment Drop Box - **10%**.
 
@@ -200,7 +169,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 #### Assignment 1 Rubric - Example
 
-NAME: 
+NAME:
 [table id=3 /]
 
 [Link to Assignment 1 rubric]
