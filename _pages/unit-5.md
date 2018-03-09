@@ -226,7 +226,11 @@ In <span style="text-decoration: underline">deductive thinking</span>, the gener
 
 The discussion of differing thinking styles also leads us to left vs. right brain thinking. The images below provide insight into how these differing functions work in our day to day life.
 
-&nbsp;
+<img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
+
+Image 1 &amp; 2: from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png
+
+As you review the items listed in the Images above, they bring out important nuances to working with people focusing on left or right brain thinking.
 
 c.Idioms: visual, kinesthetic, and auditor
 
@@ -411,4 +415,6 @@ Leaders must know their strategic imperatives
 Doyle, A. (updated January 23, 2018). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Learn why employers value deductive reasoning, and how you can show it</span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</span>
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Inductive reasoning in the workplace. </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</span>
+
+Milgram, J. (January 3, 2018). Left and right brain—the surprising truth [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
 <h4>Learning Activity 5.2</h4>
