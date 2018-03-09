@@ -224,13 +224,13 @@ In <span style="text-decoration: underline">deductive thinking</span>, the gener
 
 10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
 
-The discussion of differing thinking styles also leads us to left vs. right brain thinking. The images below provide insight into how these differing functions work in our day to day life.
+The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
-Image 1 &amp; 2: from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png
+<strong>Image 1 &amp; 2:</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png</em>
 
-As you review the items listed in the Images above, they bring out important nuances to working with people focusing on left or right brain thinking.
+As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
 
 c.Idioms: visual, kinesthetic, and auditor
 
