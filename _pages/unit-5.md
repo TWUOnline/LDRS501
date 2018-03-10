@@ -10,19 +10,19 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>## Overview</h2>
-### Week 4 (draft - adjust before closing)
+
+<h3>Week 4 (draft - adjust before closing)</h3>
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
-1. Senge's Laws for System Thinking. This section outlines Senge's work from his book,_The Fifth Discipline_, (2006).
+<ol>
+<li>Senge's Laws for System Thinking. This section outlines Senge's work from his book,<em>The Fifth Discipline</em>, (2006).</p></li>
+<li><p>5 additional laws to consider to expand our thinking on the topic.</p></li>
+<li><p>Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.</p></li>
+<li><p>More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.</p></li>
+</ol>
 
-2. 5 additional laws to consider to expand our thinking on the topic.
-
-3. Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
-
-4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
-
-Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
+<p>Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
 The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
 
@@ -32,20 +32,57 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 [Link to PressBooks instruction here]
 
-#### Reading Overview for Week 4
+<h4>Reading Overview for Week 4</h4>
 
 The readings listed below are for review and response to the materials covered for the coming week.
 
-| **Week 4 – BLOG** |
-| :--- |
+<table>
+<thead>
+<tr>
+  <th align="left"><strong>Week 4 – BLOG</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-| | **&amp;** | **TEAM Assignment 1** |
-| :--- | :--- | :--- |
-| **Author** | **Text or Article** | **Chapters/Pages/Links** |
-| M. Ungerer, G. Ungerer &amp; J. Herholdt | _**Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 8-9 (pp. 365-438) |
-| JR Galbraith | _**Designing Organizations**_ | Chapters 10-13 (pp. 217-300) |
-| R. Lepsinger | _**Closing in Execution Gap**_ | Chapter 4 (pp. 74-98) |
+<table>
+<thead>
+<tr>
+  <th align="left"></th>
+  <th align="left"><strong>&amp;</strong></th>
+  <th align="left"><strong>TEAM Assignment 1</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="left"><strong>Author</strong></td>
+  <td align="left"><strong>Text or Article</strong></td>
+  <td align="left"><strong>Chapters/Pages/Links</strong></td>
+</tr>
+<tr>
+  <td align="left">M. Ungerer, G. Ungerer &amp; J. Herholdt</td>
+  <td align="left"><em><strong>Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish</strong></em></td>
+  <td align="left">Chapters 8-9 (pp. 365-438)</td>
+</tr>
+<tr>
+  <td align="left">JR Galbraith</td>
+  <td align="left"><em><strong>Designing Organizations</strong></em></td>
+  <td align="left">Chapters 10-13 (pp. 217-300)</td>
+</tr>
+<tr>
+  <td align="left">R. Lepsinger</td>
+  <td align="left"><em><strong>Closing in Execution Gap</strong></em></td>
+  <td align="left">Chapter 4 (pp. 74-98)</td>
+</tr>
+</tbody>
+</table>
+
 <h2><strong>Outcomes</strong></h2>
+
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong>
@@ -66,54 +103,101 @@ of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong>
 into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 <h2><strong>Resources</strong></h2>
+
 <h4>Week 4 Assignments</h4>
+
 Assignment: BLOG 2 - due May 21-27, 2018 - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
 <h4>BLOG 3</h4>
+
 <h4>LDRS 501 – BLOG 3 Rubric (5%) - Example.</h4>
+
 <strong>DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):</strong>
 
-| | | NAME: | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
-| **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
-| **Quality of starter &amp; summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
-| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+<table>
+<thead>
+<tr>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left">NAME:</th>
+  <th align="left"><strong>MARK= /5</strong></th>
+  <th align="left"><strong>ONLINE Discussion Grading Criteria</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="left"><strong>Performance</strong></td>
+  <td align="left"><strong>BELOW</strong></td>
+  <td align="left"><strong>Acceptable</strong></td>
+  <td align="left"><strong>Well Developed</strong></td>
+  <td align="left"><strong>ABOVE</strong></td>
+</tr>
+<tr>
+  <td align="left"><strong>Marks</strong></td>
+  <td align="left"><strong>2.5 or less</strong></td>
+  <td align="left"><strong>3.0- 3.5</strong></td>
+  <td align="left"><strong>4.0- 4.5</strong></td>
+  <td align="left"><strong>5</strong></td>
+</tr>
+<tr>
+  <td align="left"><strong>Quality of starter &amp; summary posts</strong></td>
+  <td align="left">Less than required number of postings. The quality of work does not show critical thinking or analysis</td>
+  <td align="left">Postings reflect the reading but do not show outside sources. The post shows some critical thinking</td>
+  <td align="left">Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence</td>
+  <td align="left">Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application</td>
+</tr>
+<tr>
+  <td align="left"><strong>Quality of threaded discussion reply</strong></td>
+  <td align="left">Does not further the discussions topic or move the discussion forward</td>
+  <td align="left">Participates, but does not show higher ordered thinking. Limited use of evidence</td>
+  <td align="left">Strong posts that does show significant higher ordered thinking and effective use of evidence</td>
+  <td align="left">Response relevant to posting and supports position with factual information. The post shows excellent understanding and application.</td>
+</tr>
+<tr>
+  <td align="left"><strong>Understanding of reading and outside source material</strong></td>
+  <td align="left">Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx").</td>
+  <td align="left">Responds to the question posted but does not clearly synthesize the readings.</td>
+  <td align="left">Responds to the question posted but clearly synthesizes the readings and shows application.</td>
+  <td align="left">Responds to question and demonstrates strong application and understanding of evidence and properly cites information.</td>
+</tr>
+</tbody>
+</table>
 
-**Performance rating:**
+<strong>Performance rating:</strong>
 
-* _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
+<ul>
+<li><em><strong>Below Standard</strong></em>-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.</p></li>
+<li><p><em><strong>Acceptable Standard</strong></em>-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.</p></li>
+<li><p><em><strong>Well Developed Standard</strong></em>-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.</p></li>
+<li><p><em><strong>Above Standard</strong></em>-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.</p></li>
+</ul>
 
-* _**Acceptable Standard**_-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
+<p><strong>Assignment: <em>Week 4</em></strong> - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - <strong><em>10%</em></strong>
 
-* _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
+<strong>TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)</strong>
 
-* _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
+<strong>STRAT TEAM – Strategic Team Review and Action Tool</strong>
 
-**Assignment: _Week 4_** - Individual Assignment 1 - Strategic Assessment - May 27, 2018 - Drop Box - **_10%_**
+<strong>Submission Due: Sunday May 27 at 23:59 PDT</strong>
 
-**TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
-
-**STRAT TEAM – Strategic Team Review and Action Tool**
-
-**Submission Due: Sunday May 27 at 23:59 PDT**
-
-This assignment is an applied learning experience using the STRAT _(Strategic Team Review and Action Tool)_ in the Hughes, Colarelli-Beatty and Dinwoodie text to survey your team in determining its collective strength/weakness as a strategic team.
+This assignment is an applied learning experience using the STRAT <em>(Strategic Team Review and Action Tool)</em> in the Hughes, Colarelli-Beatty and Dinwoodie text to survey your team in determining its collective strength/weakness as a strategic team.
 
 As an adhoc team, placed together for the purposes of this course you will work together to determine your potential for strategic team effectiveness.
 
 Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) Becoming a Strategic Leader. Jossey-Bass. Second Edition. (pp. 285-302):
 
-1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._Jossey-Bass. Second Edition. (pp. 285-289)
+<ol>
+<li>Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._Jossey-Bass. Second Edition. (pp. 285-289)
 a. Where the instruction states to respond to the questions as they apply to the strategic leadership team you are part
 of; focus on responding to the questions from the context of the strategic leadership team/organization you work
-with regularly.
+with regularly.</p></li>
+<li><p>Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) Becoming a Strategic Leader. Jossey-Bass. Second Edition. (pp. 291-298) the team leader will lead the team through the exercise by accomplishing the following tasks:
+a. Work with the team to develop a team name.</p></li>
+</ol>
 
-2. Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) Becoming a Strategic Leader. Jossey-Bass. Second Edition. (pp. 291-298) the team leader will lead the team through the exercise by accomplishing the following tasks:
-a. Work with the team to develop a team name.
-
-b. Prepare and distribute the team tool to team members.
+<p>b. Prepare and distribute the team tool to team members.
 
 c. Score the results of the STRAT Assessment so the team can make sense of them.
 
@@ -130,7 +214,7 @@ applicable sections of the process as are relevant for your team.
 
 date.
 
-**THE TEAM WILL:**
+<strong>THE TEAM WILL:</strong>
 
 1) Connect as a TEAM during Week 1 of LDRS 501. (May 1-6)
 
@@ -140,14 +224,18 @@ date.
 
 4)The team will complete the PressBook materials for submission to the PressBooks environment. (May 21-27)
 
-***NOTE**: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
+*<strong>NOTE</strong>: If you have any challenges with the PressBook environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
 
 [link to PressBooks instruction here]
 
 [link to PressBooks files for insertion of materials here]
+
 <h4>Unit 5 Learning Activities</h4>
+
 <h4>Learning Activity 5.1</h4>
+
 <h5>Strategic Thinking(incomplete - adjust outline below)</h5>
+
 <strong>Market Position Thinking &amp; Processes for Service Improvement</strong>
 
 <strong>INTRODUCTION</strong>
@@ -171,60 +259,55 @@ Lack in leadership accountability is one of the most common criticisms of leader
 Some special issues to consider when working with your collaborative teams are identification and understanding who your <span style="text-decoration: underline">inductive/deductive thinkers</span> are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
 Being an <span style="text-decoration: underline">inductive thinker</span> means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
+
 <h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4>
+
 (https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
 Here are some examples to enhance your understanding of <span style="text-decoration: underline">inductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">inductive thinking</span> in your own professional experience.
 
-1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(the observation leads to the conclusion)</span></em>
+<ol>
+<li>A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(the observation leads to the conclusion)</span></em></p></li>
+<li><p>An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i></p></li>
+</ol>
 
-2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i>
+<p>In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 
-3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i>
-
-4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i>
-
-5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i>
-
-6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i>
-
-7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i>
-
-8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i>
-
-9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i>
-
-10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
-
-In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
+
 <em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Here are some examples to enhance your understanding of <span style="text-decoration: underline">deductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">deductive thinking</span> in your own professional experience.</span>
 
-1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(<span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">belief </span></em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">proves outcome</span>)
+<ol>
+<li>A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(<span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">belief </span></em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">proves outcome</span>)</li>
+</ol>
+
 <div id="native-placeholder_1-0" class="comp native-placeholder mntl-block"></div>
-2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i>
 
-3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i>
+<ol>
+<li>Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i></p></li>
+<li><p>Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i></p></li>
+<li><p>Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b></p></li>
+<li><p>A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i></p></li>
+<li><p>A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i></p></li>
+<li><p>A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i></p></li>
+<li><p>A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i></p></li>
+<li><p>Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i></p></li>
+<li><p>A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i></p></li>
+</ol>
 
-4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b>
-
-5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i>
-
-6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i>
-
-7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i>
-
-8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i>
-
-9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i>
-
-10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
-
-The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
+<p>The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
@@ -249,7 +332,9 @@ To address the lack of focus, create learning opportunities to help them concent
 c. Auditor
 
 Auditory learners  r<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">emember details about information they hear quite accurately, often </span>discovering information through listening and interpreting pitch and emphasis on the topics or materials presented. They gain knowledge from reading out loud or hearing information read out loud and have challenges fully understanding detailed <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">written </span>information. (Gilakjani, p. 106)
+
 <h4><strong><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;text-decoration: none;cursor: text;float: none;background-color: transparent">Subjectivity and Intuition</span></strong></h4>
+
 In addition to the learning styles and approaches just mentioned, there are more complex styles to consider. For example, learning can be subjective or intuitive.
 
 Subjective thinking has no objective standard guiding it and is subject to the interpretation of the individual with no objective reference to prove the thinking is logical or objective in nature. Thinking based on emotion and personal preference rather than rational logic. (http://complexitylabs.io/subjective-thinking/) To put it bluntly, the reasoning is all in their head. (JIBC, p. 1)
@@ -267,35 +352,46 @@ They continue to make the point that knowing which type of decision making is es
 The key action for the leader facing subjective or intuitive thinkers is listening. Listen, weigh the options and decide based on the best evidence. Your subjective and intuitive thinkers may just surprise everyone.
 
 No discussion on thinking and learning strategically is complete without a discussion on inevitable bias and communication distrust.
+
 <h4>Inevitable Bias</h4>
+
 We all live with some form of bias in any given situation. An inevitable bias leads toward inevitable outcomes based on predetermined bias, whether conscious or unconscious, in foresight or hindsight. The bias shapes the outcome, except it may not be planned as bias, simply unfolds as bias because of the opinions held by the person(s) investigating the facts or evidence set before them.
 
 Psychological bias leads people to downplay the probability and danger of change, and their role in it, while increasing their perceived incentives to maintain the status quo, and to blame problems on others. (Johnson and Levin, p. 1593)
 
 To determine how inevitable bias affects your perceptions and thinking take the Implicit Association test (IAT) @ https://implicit.harvard.edu/implicit/canada/. There are a variety of choices for you to make to test your biases toward a variety of topics. There is no expectation for you to share the results of the IAT, but only ex[pose you to possible biases you might hold and allow you to assess your own thinking in this regard.
+
 <h4>Communication Distrust</h4>
+
 Communication distrust rarely shows itself aggressively in a work environment. As Glenn Llopis outlines in his January 2011 Forbes Leadership article entitled <em>'How distrust, indifference and lack of integrity will destroy your business,' </em>
+
 <blockquote>Distrust will not show itself in obvious fashion because distrust knows it is not welcome. It will hide and only become visible to those with the skill to see beneath the obvious. The ability to spot the weed of distrust is not simple, but all weeds of this nature look alike. (Llopis)</blockquote>
+
 Communication distrust lies below the surface and only rears its head when it feels safe to do so and cause the greatest damage to organizational or relationship structures. Distrust plants its own seeds through every interaction. The only way to combat it is to act in the best interests of all concerned and create trusting environments through open dialogue and transparency throughout.
 
 To determine the climate you live in, l<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">ook beneath the details of your company meetings. A</span>ssess your environment using the following scale suggested by Llopis.
+
 <ul>
- 	<li>What political undercurrents exist? <span style="text-decoration: underline">Trust</span>      <span style="text-decoration: underline">Distrust</span>   Why do you say that? What evidence do you have?</li>
- 	<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
+    <li>What political undercurrents exist? <span style="text-decoration: underline">Trust</span>      <span style="text-decoration: underline">Distrust</span>   Why do you say that? What evidence do you have?</li>
+    <li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
 </ul>
+
 <ul>
- 	<li>Can the leaders be trusted and do they trust the workers? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
- 	<li><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Are the discussion topics in the meeting </span>objective and supported by observations from the workplace? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
+    <li>Can the leaders be trusted and do they trust the workers? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
+    <li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
+    <li><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Are the discussion topics in the meeting </span>objective and supported by observations from the workplace? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
 </ul>
+
 START Information organization &amp; strategies
 
 <u>Choice and Feelings</u>
 
 <i>  “The test of first-rate intelligence is the ability to hold two </i><i>opposed </i><i>ideas in the mind at the same time and still retain the ability to function.”</i>
+
 <ol>
- 	<li>Scott Fitzgerald</li>
+    <li>Scott Fitzgerald</li>
 </ol>
+
 Values, beliefs, traditions and symbols
 
 Educational Values
@@ -418,32 +514,38 @@ b.Strategy change sequence
 c.Mapping change processes
 
 d.Comprehensive change challenge
+
 <ol>
- 	<li>Religious organization experiences</li>
+    <li>Religious organization experiences</li>
 </ol>
+
 2.Value deficiencies
 
 a.Faulty assumptions
+
 <ul>
- 	<li>Comprehensive strategic awareness</li>
- 	<li>Balanced response to stakeholders</li>
- 	<li>Balancing stability and change</li>
- 	<li>Interest in vision-based outcomes</li>
- 	<li>Blend plans with implementation</li>
- 	<li>Value for money performance results</li>
- 	<li>Serving customers well</li>
- 	<li>Ensure organization has functional abilities</li>
- 	<li>Have high quality servant leaders</li>
- 	<li>Committed ethical responsibility</li>
+    <li>Comprehensive strategic awareness</li>
+    <li>Balanced response to stakeholders</li>
+    <li>Balancing stability and change</li>
+    <li>Interest in vision-based outcomes</li>
+    <li>Blend plans with implementation</li>
+    <li>Value for money performance results</li>
+    <li>Serving customers well</li>
+    <li>Ensure organization has functional abilities</li>
+    <li>Have high quality servant leaders</li>
+    <li>Committed ethical responsibility</li>
 </ul>
+
 b.Implementation challenges
+
 <ul>
- 	<li>Planned change: an oxymoron?</li>
- 	<li>Strategy change sequence</li>
- 	<li>Mapping change processes</li>
- 	<li>Comprehensive change challenge</li>
- 	<li>Religious organization experiences</li>
+    <li>Planned change: an oxymoron?</li>
+    <li>Strategy change sequence</li>
+    <li>Mapping change processes</li>
+    <li>Comprehensive change challenge</li>
+    <li>Religious organization experiences</li>
 </ul>
+
 Thinking Stategically
 
 Leaders need to think strategically
@@ -470,4 +572,5 @@ Llopis, G. (January 27, 2011). How distrust, indifference and lack of integrity 
 Milgram, J. (January 3, 2018). <em>Left and right brain—the surprising truth</em> [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Project Implicit. (2018) </span><em>Implicit Association Test.</em><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px"> Boston MA: </span>Harvard University. Retrieved from https://implicit.harvard.edu/implicit/canada/<b></b><i></i><u></u>
+
 <h4>Learning Activity 5.2</h4>
