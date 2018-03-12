@@ -15,7 +15,7 @@ post_date: 2018-02-23 01:07:23
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1) and then provide an introductory view of your strategic leadership experience. The Assignment will:
 
-1. Assess your Personal and Individual Strategic Development. [PressBooks Instruction here](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
+1. Assess your Personal and Individual Strategic Development. [PressBooks Instruction](https://chriscatcai.gitbooks.io/pressbook-resources/content/)
 
 [link to PressBooks files for insertion of materials here]
 
@@ -29,21 +29,20 @@ Assignment grading is awarded following peer review of the materials entered int
 
 [Link to Introductory Blog rubric]
 
-[Link to Assignment 1 rubric](https://create.twu.ca/ldrs501-su18/assignment-1/)
+[Assignment 1 rubric](https://create.twu.ca/ldrs501-su18/assignment-1/)
 
 
 
 #### ZOOM Video Conference
 _(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
- ### Week 1 - May 1-6
+ ### Week 1 
 
  ZOOM video-conference
 
-May 1, 2018 - 5 pm - 7 pm PDT  
-- Learner Introductions -  **5 pm - 6 pm**  
-- Assignment 1 Review -  **6 pm - 6:30 pm**  
-- Book Development Learning Activity plus Q&A -  **6:30 pm - 7 pm**.
+- Learner Introductions -  **TBD**  
+- Assignment 1 Review -  **TBD**  
+- Book Development Learning Activity plus Q&A -  **TBD**.
 
 
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
@@ -53,7 +52,7 @@ NOTE: The session is recorded and distributed for those unable to connect direct
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
-| M. Ungerer, G. Ungerer &amp; J. Herholdt | ** Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish** | Intro and chapters 1-2 (pp. xiii-105) |
+| M. Ungerer, G. Ungerer &amp; J. Herholdt | **Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish** | Intro and chapters 1-2 (pp. xiii-105) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 (pp. 1-88) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 (pp. xvii-23) |
 
@@ -67,9 +66,9 @@ Learners will begin development of the following outcomes in the unit:
 ## Resources
 #### Reading Resource
 
-Boston Consulting Group. (2015) _Strategy Palette Framework._ [Link Here](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+Boston Consulting Group. (2015) [_Strategy Palette Framework._](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-H Schachter (2015) Five Approaches to Using a Strategy Palette. _Globe & Mail._ [Link Here](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/)
+H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe & Mail._
 
 **Personal Research** for Forum and Assignment completion.
 
@@ -108,7 +107,7 @@ NAME:
 
 [Link to Introductory Blog rubric]
 
-**Assignment: **_** Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
+**Assignment:** _**Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
 ```
 Move to 'Assignment 1'
