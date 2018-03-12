@@ -76,7 +76,7 @@ H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.th
 ```
 Move to Unit 1 Learning Activities
 ```
-**Learning Activity 1.1:** _Introductory Blog post - May 1, 2018 - Post in Learner Introduction Blog - _**5%**_.
+**Learning Activity 1.1:** _Introductory Blog post_ - Post in Learner Introduction Blog - _**5%**_.
 
 * **Take the time to introduce yourself.**
 
