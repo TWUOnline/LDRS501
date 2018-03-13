@@ -10,7 +10,7 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>## Overview</h2>
-### Week 4 (draft - adjust before closing)
+## Week 4 (draft - adjust before closing)
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
