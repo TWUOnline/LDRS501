@@ -10,7 +10,7 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>## Overview</h2>
-## Week 4 (draft - adjust before closing)
+### Week 4 (draft - adjust before closing)
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
@@ -171,8 +171,7 @@ Lack in leadership accountability is one of the most common criticisms of leader
 Some special issues to consider when working with your collaborative teams are identification and understanding who your <span style="text-decoration: underline">inductive/deductive thinkers</span> are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
 Being an <span style="text-decoration: underline">inductive thinker</span> means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
-<h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4>
-(https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
+<h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4> [See Link](https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
@@ -199,8 +198,7 @@ Here are some examples to enhance your understanding of <span style="text-decora
 10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
 
 In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
-<h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
-<em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
+<h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4> [See Link] (https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749)
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Here are some examples to enhance your understanding of <span style="text-decoration: underline">deductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">deductive thinking</span> in your own professional experience.</span>
 
