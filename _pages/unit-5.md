@@ -172,6 +172,7 @@ Some special issues to consider when working with your collaborative teams are i
 
 Being an <span style="text-decoration: underline">inductive thinker</span> means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
 <h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4> 
+
 [See Link](https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 
@@ -231,7 +232,7 @@ The discussion of differing thinking styles also leads us to left vs. right brai
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
-<strong>Image 1 &amp; 2:</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png</em>
+<strong>[Image 1 &amp; 2:](https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png)</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) 
 
 As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
 
