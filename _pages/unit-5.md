@@ -201,6 +201,7 @@ Here are some examples to enhance your understanding of <span style="text-decora
 
 In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4> 
+
 [See Link](https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749)
 
 
