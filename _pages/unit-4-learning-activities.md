@@ -21,11 +21,11 @@ post_date: 2018-02-23T01:07:23.000Z
 
 Five Disciplines of a Learning Organization - Peter Senge
 
-_\(See Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organizations](https://www.gitbook.com/book/twonline/ldrs501/edit#) For an effective summary of this seminal book related to Systems Thinking.
+_\(See Zeeman, A. \(2017\)_. [Senge’s Five Disciplines of Learning Organizations](https://www.gitbook.com/book/twonline/ldrs501/edit#) For an effective summary of this seminal book related to Systems Thinking.
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
-In Senge's _The Fifth Discipline,_ Senge outlines his fundamentals \Laws\) for systems thinking.
+In Senge's _The Fifth Discipline,_ Senge outlines his fundamentals (\Laws\) for systems thinking.
 
 
 **Today's problems come from yesterday’s solutions.**
@@ -54,12 +54,12 @@ As in the illustration regarding solving homelessness, things do get better than
 
 **The cure can be worse than the disease.**
 
-"The long-term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution." \(Senge, p. 61\)
+"The long - term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution." \(Senge, p. 61\)
 
 The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens \(p. 62\), take responsibility for finding the best solutions for the challenges before them. 
 A sentiment repeated in Galatians 6:4, 5 in the Bible.
 
-**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else,**5** for each one should carry their own load \(Galatians 6: 4, 5 NIV\).
+**4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5** for each one should carry their own load \(Galatians 6: 4, 5 NIV\).
 
 **Faster is slower.**
 
@@ -69,11 +69,11 @@ Taking the time in process, with well thought out answers to the organizational 
 
 Target Canada is a perfect example of the law of 'faster is slower.' They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the US growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. \(St. Louis, January 30, 2015\)
 
-> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores.\(St. Louis, January 30, 2015\)
+> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores. \(St. Louis, January 30, 2015\)
 
 **Cause and effect are not closely related in time and space**
 
-> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are—most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
+> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are — most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
 
 What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. 
 The chaos theory is part of:
@@ -82,15 +82,15 @@ The chaos theory is part of:
 
 Small changes in initial conditions lead to drastic changes in results. \(Fractal Foundation\) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
 
-**Small changes can produce large results—but the areas of highest leverage are often the least obvious.**
+**Small changes can produce large results — but the areas of highest leverage are often the least obvious.**
 
-> Tackling a difficult problem is often a matter of seeing where the high leverage lies, a change which—with a minimum of effort—would lead to lasting, significant improvement. \(Senge. p. 64\)
+> Tackling a difficult problem is often a matter of seeing where the high leverage lies, a change which — with a minimum of effort — would lead to lasting, significant improvement. \(Senge. p. 64\)
 
 Senge uses an illustration from Buckminster Fuller regarding the _'trim tab'_:
 
 > The trim tab — this very small device that has an enormous effect on the huge ship — does the same for the rudder. When it is turned to one side or the other, it compresses the water flowing around the rudder and creates a small pressure differential that "sucks the rudder" in the desired direction. But, if you want the rudder to turn to the left, what direction do you turn the trim tab? — to the right, naturally.
 >
-> The entire system — the ship, the rudder, and the trim tab—is marvellously engineered through the principle of leverage. Yet, its functioning is totally nonobvious if you do not understand the force of hydrodynamics.
+> The entire system — the ship, the rudder, and the trim tab — is marvellously engineered through the principle of leverage. Yet, its functioning is totally nonobvious if you do not understand the force of hydrodynamics.
 >
 > So, too, are the high - leverage changes in human systems nonobvious until we understand the forces at play in those systems. \(Senge, p. 65\)
 
@@ -157,9 +157,7 @@ Structure is not simply the design or the management structure put in place to r
 
 Leadership in the design and management structure is paramount to ensure the ongoing success of the organization. Changing the design, management structure of leadership focus of the organization changes the structure and in course, the behaviour of the organization and all its component parts. The process involves a great deal of commitment and focus to get it right.
 
-Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour,
-
-> to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
+Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back \(p. 45\), notes leaders are like symphony conductors endeavour, to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
 
 In the same way, orchestrating the organizational and management systems to support and reinforce behaviour reuires a specific finesse to ensure the whole is not overpowered by subordinate parts to dominate the outcome of organizational vision and focus. Leadership is the central focus to make this balance happen.
 
