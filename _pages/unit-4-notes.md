@@ -47,7 +47,7 @@ As you complete these questions, you will have a better grasp on Systems Thinkin
 
 
 
-####**References**
+#### **References**
 
 Fractal Foundation \(2018\) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory) 
 
@@ -57,13 +57,13 @@ Haines, S. \(2000\). _The systems thinking approach to strategic planning and ma
 
 Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science._
 
-Lepsinger R. \(2010\).\_Closing the Execution Gap.\_ San Francisco: Jossey-Bass.
+Lepsinger R. \(2010\). _Closing the Execution Gap._ San Francisco: Jossey-Bass.
 
-Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\). \_Strategy bites back: it is far more, and less, than you ever imagined.\_Upper Saddle River: Pearson Prentice Hall.
+Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\). _Strategy bites back: it is far more, and less, than you ever imagined._ Upper Saddle River: Pearson Prentice Hall.
 
 Mister Ambiguous. \(February 2, 2002\). [Senge’s 7 organizational learning disabilities.](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/) 
 
-Senge, P. \(2006\).\_The fifth discipline.\_New York: Doubleday
+Senge, P. \(2006\). _The fifth discipline._ New York: Doubleday
 
 St. Louis, D. \(January 30, 2015\) [Why Target failed in Canada, and what other companies can learn from it.](https://www.visioncritical.com/target-canada/) Visioncritical: Vancouver BC. 
 
@@ -71,7 +71,7 @@ Walonick, D. \(1993\) [_Organizational theory and behavior._](http://www.statpac
 
 Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organizations.](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
-### -_As leaders you are on your life long learning journey as a systems thinker -_
+####-_As leaders you are on your life long learning journey as a systems thinker-_
 
 ##### Learning Activity 4.2
 
