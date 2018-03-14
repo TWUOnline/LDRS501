@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2>## Overview</h2>
+#### Overview
 ### Week 4
 
 This week introduces YOU to understanding various aspects of strategic team development and other strategic leadership concepts:
@@ -45,58 +45,54 @@ The readings listed below are for review and response to the materials covered f
 <h2><strong>Outcomes</strong></h2>
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
-<strong>1. Analyze personal and corporate leadership effectiveness</strong>
+<strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
 
-through the review and assessment of various leadership and management styles..
+<strong>2. Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.
 
-<strong>2. Evaluate</strong>
-organizational effectiveness as it relates to strategic leadership principles and practice.
+<strong>3. Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.
 
-<strong>3. Integrate and synthesize</strong>
-a broad range of LDRS 501 course materials to demonstrate leadership application.
+<strong>4. Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
-<strong>4. Examine key strategic leadership applications</strong>
-to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+<strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
-<strong>5. Develop the necessary skills for systemic and systematic inquiry</strong>
-of strategic leadership issues related to your personal leadership development.
+<strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
 
-<strong>6. Integrate strategic leadership practice</strong>
-into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 <h2><strong>Resources</strong></h2>
 <h4>Week 4 Assignments</h4>
-Assignment: BLOG 3 - due May 21-27, 2018 - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+Assignment: BLOG 3 - First day of Week 4 - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
 <h4>BLOG 3</h4>
 <strong>THERE ARE NO POST LEADERS FOR BLOG 3 - WEEK 4</strong>
 <em>(Please see posting structures instruction for BLOG 3 - Week 4)</em>
 
 [Link to BLOG 3 - WEEK 4 Posting structures here]
 
-This week I want to hear how the Strategic Leadership materials align with real time experience and practice. In essence, this is where your inner strategic consultant gets to engage the material. You know? The voice inside saying, ‘if I had the chance to make a difference in how we do things, I would …’
+This week I want to hear how the Strategic Leadership materials align with real time experience and practice. In essence, this is where your inner strategic consultant gets to engage the material. You know? The voice inside saying, _‘if I had the chance to make a difference in how we do things, I would…’_
 
 Here is your chance.
 
-Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:
+<strong>Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:<strong>
 
 1. Outline the best steps you envision for developing performance best practices across all areas of the organization where you work/worked previously; addressing the various components of the organization like:
-a. Human resources (policies and procedures)
-b. Corporate identity (public)
-c. Organizational culture (internal)
+    a. Human resources (policies and procedures)
+    b. Corporate identity (public)
+    c. Organizational culture (internal)
 
 2. Identify some of the negative organizational renewal, execution and design challenges in the organization where you work/worked previously to address:
-a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
-b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
+    a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
+    b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
 
 3. Three things you do (3+3+3 = 9 altogether):
-a. To promote the positive renewal, execution and organizational design principles in your career practice.
-b. To promote the negative practice of these principles.
-c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
+    a. To promote the positive renewal, execution and organizational design principles in your career practice.
+    b. To promote the negative practice of these principles.
+    c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
 
-<em>(See Galbraith, pp. 199-204; Lepsinger, pp. 56 – 72; Ungerer, et al., pp. 277-364 plus any other relevant resources you want to add to the discussion)</em>
+<em><strong>(See Galbraith, pp. 199-204; Lepsinger, pp. 56 – 72; Ungerer, et al., pp. 277-364 Plus any other relevant resources you want to add to the discussion)<strong></em>
+  
 <h4>LDRS 501 – BLOG 3 Rubric (5%) - Example.</h4>
 <strong>DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):</strong>
 
-| | | NAME: | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
+| NAME:| |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
