@@ -76,6 +76,8 @@ Learners will have the opportunity to develop of the following learning outcomes
 
 This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question \(all parts\). Please be as succinct as possible, but be complete. Please cite all references. \(Substantive/succinct/cited\)
 
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| :--- | :--- | :--- |
 Galbraith | Formal Groups | pp. 90-106
 Hughes et al. | Strategic Leadership Teams | Chapter 5
 Lepsinger | Bridge 3 | pp. 14-16
