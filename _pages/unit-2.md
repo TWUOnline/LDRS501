@@ -31,22 +31,18 @@ Assignment grading is awarded following peer review of the materials entered int
 
 [Assignment 1 rubric](https://create.twu.ca/ldrs501-su18/assignment-1/)
 
-
-
 #### ZOOM Video Conference
 _(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
- ### Week 1 
+### Week 1
 
- ZOOM video-conference
+ZOOM video-conference
 
-- Learner Introductions -  **TBD**  
-- Assignment 1 Review -  **TBD**  
-- Book Development Learning Activity plus Q&A -  **TBD**.
-
+- Learner Introductions - **TBD**
+- Assignment 1 Review - **TBD**
+- Book Development Learning Activity plus Q&amp;A - **TBD**.
 
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
-
 
 #### Reading Overview
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
@@ -68,7 +64,7 @@ Learners will begin development of the following outcomes in the unit:
 
 Boston Consulting Group. (2015) [_Strategy Palette Framework._](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
 
-H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe & Mail._
+H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe &amp; Mail._
 
 **Personal Research** for Forum and Assignment completion.
 
@@ -91,7 +87,6 @@ Move to Unit 1 Learning Activities
 
 * **Make it personal. Make it memorable. Make it YOU!**
 
-
 ##### Categories for this post:
 - ldrs501
 - Unit 1
@@ -110,7 +105,7 @@ NAME:
 **Assignment:** _**Week 1**_ - Individual Assignment 1 - Strategic Assessment - May 6, 2018 - Drop Box - _**10%**_.
 
 ```
-Move to 'Assignment 1'
+Move to &#039;Assignment 1&#039;
 ```
 
 **ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)**
@@ -121,8 +116,8 @@ Move to 'Assignment 1'
 
 **This assignment is:**
 
- * An assessment of your Personal and Individual Strategic Development.
- * Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course.
+* An assessment of your Personal and Individual Strategic Development.
+* Submitted in the PressBooks environment as the First Chapter of the Discovering Strategic Leadership Book Project completed for this course.
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class.
 
@@ -133,33 +128,33 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 **Assignment Parameters**
 
 1. Assess YOU as a strategic leader.
-   1. What is your general response to the circumstances YOU presently face in your life?
-   2. How do YOU handle the stressors you face?
-      1. Personal
-      2. Professional
-   3. What are your wants and needs for changing or strengthening your responses?
-      1. Personal
-      2. Professional
-   4. What are your strengths and weakness with regard to the desired changes in your life?
-      1. Personal
-      2. Professional
+1. What is your general response to the circumstances YOU presently face in your life?
+2. How do YOU handle the stressors you face?
+1. Personal
+2. Professional
+3. What are your wants and needs for changing or strengthening your responses?
+1. Personal
+2. Professional
+4. What are your strengths and weakness with regard to the desired changes in your life?
+1. Personal
+2. Professional
 2. What personal mission, vision and values do you practice?
-   1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
-      1. Personal
-      2. Professional
-      3. Collectively
+1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
+1. Personal
+2. Professional
+3. Collectively
 3. What key strategic drivers will help YOU create significant impact for achieving your potential?
-   1. What areas will YOU abandon for your future development?
-   2. What areas will YOU excel in?
-      1. Personal
-      2. Professional
+1. What areas will YOU abandon for your future development?
+2. What areas will YOU excel in?
+1. Personal
+2. Professional
 4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
-      1. Personal
-      2. Professional
+1. Personal
+2. Professional
 5. Conclude the assignment:
-   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer & Herholdt, pp. xiii-105)
-   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
-   3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
+1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer &amp; Herholdt, pp. xiii-105)
+2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
+3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 **NOTE:** _Substantive, Succinct and Cited._
 
 [Link to PressBooks instruction here]
