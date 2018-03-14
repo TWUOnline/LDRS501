@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-
+greatest
 <h5>Definitions of Leadership</h5>
 &gt;The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
 
