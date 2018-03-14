@@ -56,7 +56,7 @@ Learners will begin development of the following outcomes in the unit.
 
 #### Reading Resource
 
-1. Bradley, C ., Bryan, L. and Smit, S. (July 2012) Managing the strategy journey_. McKinsey Quarterly. _Chicago IL: McKinsey and Company. - [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey)
+1. Bradley, C ., Bryan, L. and Smit, S. (July 2012) [Managing the strategy journey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/managing-the-strategy-journey). McKinsey Quarterly. _Chicago IL: McKinsey and Company. 
 
 **Personal research ** for Forum and Assignment completion.
 
@@ -64,19 +64,19 @@ Learners will begin development of the following outcomes in the unit.
 
 In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 below, take the time to view the videos below. Be prepared to reflect on the materials in the Exercise as they relate to the video content listed below.
 
-1. Appreciative Inquiry - [https://www.youtube.com/watch?v=QzW22wwh1J4](https://www.youtube.com/watch?v=QzW22wwh1J4)
+1. [Appreciative Inquiry](https://www.youtube.com/watch?v=QzW22wwh1J4)
 
-2. Appreciative Inquiry : a positive revolution approach in change - [https://www.youtube.com/watch?v=z_2nZu1nhlk](https://www.youtube.com/watch?v=z_2nZu1nhlk)
+2. [Appreciative Inquiry : a positive revolution approach in change](https://www.youtube.com/watch?v=z_2nZu1nhlk) 
 
-3. Appreciative Inquiry Case Study - Louisiana School District - [https://www.youtube.com/watch?v=RG8dW2RwwEc](https://www.youtube.com/watch?v=RG8dW2RwwEc)
+3. [Appreciative Inquiry Case Study](https://www.youtube.com/watch?v=RG8dW2RwwEc) - Louisiana School District 
 
-4. Appreciative Inquiry Resources @ aim2flourish.com - [http://aim2flourish.com/appreciative-inquiry-resources](http://aim2flourish.com/appreciative-inquiry-resources) - clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
+4. [Appreciative Inquiry Resources](http://aim2flourish.com/appreciative-inquiry-resources) clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
 
-5. How to Do An Appreciative Inquiry Interview - [https://www.youtube.com/watch?v=8P2xVpH0uTI](https://www.youtube.com/watch?v=8P2xVpH0uTI)
+5. [How to Do An Appreciative Inquiry Interview](https://www.youtube.com/watch?v=8P2xVpH0uTI) 
 
-6. How to use Appreciative Inquiry at work - [https://www.youtube.com/watch?v=HQSLhUGZV6](https://www.youtube.com/watch?v=HQSLhUGZV6)
+6. [How to use Appreciative Inquiry at work](https://www.youtube.com/watch?v=HQSLhUGZV6) 
 
-7. Hunter Douglas - Appreciative Inquiry Case Study - [https://www.youtube.com/watch?v=eLOM4kxOO_Q](https://www.youtube.com/watch?v=eLOM4kxOO_Q)
+7. [Hunter Douglas - Appreciative Inquiry Case Study](https://www.youtube.com/watch?v=eLOM4kxOO_Q) 
 
 #### Week 2 Assignments
 
@@ -97,8 +97,8 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 | **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
 | **Quality of starter & summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
-| **Quality of threaded discussion reply ** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| **Understanding of reading and outside source material ** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
+| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
 **Performance rating:**
 
@@ -108,7 +108,7 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 low tier points.
 
 * _**Acceptable Standard**_
-  ** **-- postings meet the basic expectations stated in the outcomes. It will qualify for the
+  -- postings meet the basic expectations stated in the outcomes. It will qualify for the
 
 median tier points.
 
@@ -209,7 +209,7 @@ Follow up questions for discussion:
 5. What are the group’s aspirations for this team as a result of what you've learned about each other through the interview process?
 6. how will you incorporate what you've learned from this exercise into the team practices required to publish the Open Source Strategic Leadership Book required in completing this course?
 
-(adapted from Ontario Education Services Program - Good governance for School Boards - Trustee Professional Development Program - [http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf%29)
+(adapted from [Ontario Education Services Program](http://modules.ontarioschooltrustees.org/files/resources/en/doc4exercise1_en.pdf%29) - Good governance for School Boards - Trustee Professional Development Program 
 
 Once you answer these questions, record them somewhere to refer to them throughout your work together and remind you of the important concepts and principles you've discovered in this process.
 
