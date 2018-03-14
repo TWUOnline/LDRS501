@@ -14,12 +14,12 @@ post_date: 2018-02-23 01:07:23
 
 This week introduces YOU to understanding various aspects of strategic team development and other strategic leadership concepts:
 <ol>
- 	<li>Market Position Thinking &amp; Processes for Service Improvement</li>
- 	<li>Subjectivity and Intuition</li>
- 	<li>Organizational Information Strategies</li>
- 	<li>Other Issues, Leaders and Leadership, Approaches, and Questions</li>
- 	<li>Best practice questions</li>
- 	<li>More instruction around the PressBooks platform.</li>
+ 	<li> Market Position Thinking &amp; Processes for Service Improvement</li>
+ 	<li> Subjectivity and Intuition</li>
+ 	<li> Organizational Information Strategies</li>
+ 	<li> Other Issues, Leaders and Leadership, Approaches, and Questions</li>
+ 	<li> Best practice questions</li>
+ 	<li> More instruction around the PressBooks platform.</li>
 </ol>
 The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
 
@@ -74,18 +74,18 @@ Here is your chance.
 <strong>Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:<strong>
 
 1. Outline the best steps you envision for developing performance best practices across all areas of the organization where you work/worked previously; addressing the various components of the organization like:
-    a. Human resources (policies and procedures)
-    b. Corporate identity (public)
-    c. Organizational culture (internal)
+  a. Human resources (policies and procedures)
+  b. Corporate identity (public)
+  c. Organizational culture (internal)
 
 2. Identify some of the negative organizational renewal, execution and design challenges in the organization where you work/worked previously to address:
-    a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
-    b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
+  a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
+  b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
 
 3. Three things you do (3+3+3 = 9 altogether):
-    a. To promote the positive renewal, execution and organizational design principles in your career practice.
-    b. To promote the negative practice of these principles.
-    c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
+  a. To promote the positive renewal, execution and organizational design principles in your career practice.
+  b. To promote the negative practice of these principles.
+  c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
 
 <em><strong>(See Galbraith, pp. 199-204; Lepsinger, pp. 56 – 72; Ungerer, et al., pp. 277-364 Plus any other relevant resources you want to add to the discussion)<strong></em>
   
