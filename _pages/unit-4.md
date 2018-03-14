@@ -16,13 +16,13 @@ post_date: 2018-02-23T01:07:23.000Z
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
-1. Senge's Laws for System Thinking. This section outlines Senge's work from his book,_The Fifth Discipline_, \(2006\).
+  * Senge's Laws for System Thinking. This section outlines Senge's work from his book, _The Fifth Discipline_, \(2006\).
 
-2. 5 additional laws to consider to expand our thinking on the topic.
+  * 5 additional laws to consider to expand our thinking on the topic.
 
-3. Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
+  * Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
 
-4. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+  * More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
 
 Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
@@ -52,30 +52,23 @@ The readings listed below are for review and response to the materials covered f
 
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
-1. **Analyze personal and corporate leadership effectiveness**
+1. **Analyze personal and corporate leadership effectiveness** through the review and assessment of various leadership and management styles..
 
-   through the review and assessment of various leadership and management styles..
+2. **Evaluate** organizational effectiveness as it relates to strategic leadership principles and practice.
 
-2. **Evaluate**  
-    organizational effectiveness as it relates to strategic leadership principles and practice.
+3. **Integrate and synthesize** a broad range of LDRS 501 course materials to demonstrate leadership application.
 
-3. **Integrate and synthesize**  
-    a broad range of LDRS 501 course materials to demonstrate leadership application.
+4. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
-4. **Examine key strategic leadership applications**  
-    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+5. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development.
 
-5. **Develop the necessary skills for systemic and systematic inquiry**  
-    of strategic leadership issues related to your personal leadership development.
-
-6. **Integrate strategic leadership practice**  
-    into your personal, corporate and career experience through the application of service improvement principles introduced.
+6. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
 ## Resources
 
 #### Week 3 Assignments
 
-**Assignment:** BLOG 2 - due May 14-20, 2018 - Post in BLOG 2 Discussion Thread -_**5%**_.
+**Assignment:** BLOG 2 - Third Monday of Course - Post in BLOG 2 Discussion Thread -_**5%**_.
 
 #### BLOG 2
 
@@ -83,7 +76,7 @@ Learners will have the opportunity to develop of the following learning outcomes
 
 This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question \(all parts\). Please be as succinct as possible, but be complete. Please cite all references. \(Substantive/succinct/cited\)
 
-Galbraith – Formal Groups pp. 90-106.; Hughes et al. – Chapter 5 – Strategic Leadership Teams; Lepsinger – Bridge 3 – pp. 14-16; M. Ungerer, G. Ungerer & J. Herholdt – Chapters 3-5 \(pp. 107-275\).
+Galbraith – Formal Groups pp. 90-106.; Hughes et al. – Chapter 5 – Strategic Leadership Teams; Lepsinger – Bridge 3 – pp. 14-16; M. Ungerer, G. Ungerer & J. Herholdt – Chapters 3-5 - \(pp. 107-275\).
 
 Assessing your present/previous team situation or course team environment \(see Hughes, et al., p. 213\), did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not?
 
@@ -95,15 +88,15 @@ How do you identify bottlenecks in your present/previous team situation or cours
 
 Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course?
 
-* How are they similar?
+  * How are they similar?
 
-* How are they different?
+  * How are they different?
 
-* What do you see needing improvement in both to make them more effective?
+  * What do you see needing improvement in both to make them more effective?
 
 How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?
 
-* How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you? 
+  * How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you? 
 
 NOTE:
 
@@ -131,13 +124,13 @@ If you have questions, please do not hesitate to ask. We are learning together. 
 
 **Performance rating:**
 
-* _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
+* _**Below Standard**_ -- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
 
-* _**Acceptable Standard**_-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
+* _**Acceptable Standard**_ -- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
 
-* _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
+* _**Well Developed Standard**_ -- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
 
-* _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
+* _**Above Standard**_ -- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
 
 #### Unit 4 Learning Activities
 
@@ -153,7 +146,7 @@ _\(see Zeeman, A. \(2017\). [Senge’s Five Disciplines of Learning Organization
 
 Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” \(p. 17\)
 
-In Senge's _The fifth discipline_, Senge outlines his fundamentals \(laws\) for systems thinking.
+In Senge's _The Fifth Discipline_, Senge outlines his fundamentals \(laws\) for systems thinking.
 
 **Today's problems come from yesterday’s solutions**
 
@@ -163,9 +156,9 @@ Explaining that problems arise from past actions.
 
 > A well-established firm may find that this quarter's sales are off sharply. Why? Because the highly successful rebate program last quarter led many customers to buy then rather than now. Or a new manager attacks chronically high inventory costs and "solves" the problem—except that the salesforce is now spending 20 percent more time responding to angry complaints from customers who are still waiting for late shipments, and the rest of its time trying to convince prospective customers that they can have "any color they want so long as it's black. \(Senge. pp. 57, 58\)
 
-**The harder you push, the harder the systems push back**
+**The harder you push, the harder the systems push back.**
 
-Compensating feedback is when well-intentioned interventions offset the benefits of the intervention.\(p. 58\) Senge provides an example of this when he writes:
+Compensating feedback is when well-intentioned interventions offset the benefits of the intervention \(p. 58\). Senge provides an example of this when he writes:
 
 > efforts to correct the U.S. trade imbalance by letting the  
 >  value of the dollar fall in the mid-1980s were compensated for by  
@@ -175,20 +168,20 @@ Compensating feedback is when well-intentioned interventions offset the benefits
 
 In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
 
-**Behavior grows better before it grows worse**
+**Behavior grows better before it grows worse.**
 
-As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions
+> As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant   > game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to        > reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple,     > requiring other supports to prop it up. "The better before worse response to many management interventions is what makes      > political decision making so counterproductive." \(Senge p. 60\)
 
-is what makes political decision making so counterproductive." \(Senge p. 60\)
+**The easy way out usually leads back in.**
 
-**The easy way out usually leads back in**
+> "Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of    > nonsystemic thinking." \(Senge, p. 61\) 
 
-"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." \(Senge, p. 61\) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
+We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
 
-**The cure can be worse than the disease**
+**The cure can be worse than the disease.**
 
-"The long-term, most insidious consequence of applying nonsystemic  
- solutions is increased need for more and more of the solution." \(Senge, p. 61\)
+> "The long-term, most insidious consequence of applying nonsystemic  
+> solutions is increased need for more and more of the solution." \(Senge, p. 61\)
 
 The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens, \(p. 62\) take responsibility for finding the best solutions for the challenges before them.  A sentiment repeated in Galatians 6:4, 5 in the Bible.
 
@@ -196,8 +189,7 @@ The old saying about everything being a nail if you're a hammer applies here. Yo
 
 **Faster is slower**
 
-> When  
->  growth becomes excessive ... the system itself will  
+>  When growth becomes excessive... the system itself will  
 >  seek to compensate by slowing down; perhaps putting the  
 >  organization's survival at risk in the process. \(Senge, p. 62\)
 
@@ -205,13 +197,14 @@ Taking the time in process, with well thought out answers to the organizational 
 
 Target Canada is a perfect example of the law of 'faster is slower.'  They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the US growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. \(St. Louis, January 30, 2015\)
 
-> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores.\(St. Louis, January 30, 2015\)
+> The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores. \(St. Louis, January 30, 2015\)
 
-**Cause and effect are not closely related in time and space**
+**Cause and effect are not closely related in time and space.**
 
-> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are—most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
+> Underlying all of the above problems is a fundamental characteristic of complex human systems: "cause" and "effect" are not close in time and space. By "effects," I mean the obvious symptoms that indicate that there are problems—drug abuse, unemployment, starving children, falling orders, and sagging profits. By "cause" I mean the interaction of the underlying system that is most responsible for generating the symptoms, and which, if recognized, could lead to changes producing lasting improvement. Why is this a problem? Because most of us assume they are — most of us assume, most of the time, that cause and effect are close in time and space. \(Senge, p. 63\)
 
-What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. The chaos theory is part of
+What Senge is getting at is that cause and effect can occur between great distances of time and across great distances. The Butterfly Effect, made popular by movies, is part of the chaos theory. 
+The chaos theory is part of
 
 > a scientific field blending mathematics, statistics, and philosophy that was developed to study systems that are highly complex, unstable, and resistant to exact prediction. Chaotic systems include weather patterns, neural networks, some social systems, and a variety of chemical and quantum phenomena. The study of chaotic systems began in the nineteenth century and developed into a distinct field during the 1980s. \(Chaotic Systems, 2013\)
 
@@ -221,7 +214,7 @@ Small changes in initial conditions lead to drastic changes in results. \(Fracta
 
 > Tackling a difficult problem is often a matter of seeing where the high leverage lies, a change which—with a minimum of effort—would lead to lasting, significant improvement. \(Senge. p. 64\)
 
-Senge uses an illustration from Buckminster Fuller regarding the 'trim tab':
+Senge uses an illustration from Buckminster Fuller regarding the _\'trim tab':
 
 > The trim tab—this very small device that has an enormous effect on the huge ship—does the same for the rudder. When it is turned to one side or the other, it compresses the water flowing around the rudder and creates a small pressure differential that "sucks the rudder" in the desired direction. But, if you want the rudder to turn to the left, what direction do you turn the trim tab?—to the right, naturally.
 >
