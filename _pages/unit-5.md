@@ -257,7 +257,7 @@ Auditory learners  r<span style="float: none;background-color: transparent;colo
 <h4><strong><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;text-decoration: none;cursor: text;float: none;background-color: transparent">Subjectivity and Intuition</span></strong></h4>
 In addition to the learning styles and approaches mentioned in Lesson 5. 1, there are more complex styles to consider. For example, learning can be subjective or intuitive.
 
-Subjective thinking has no objective standard guiding it and is subject to the interpretation of the individual with no objective reference to prove the thinking is logical or objective in nature. Thinking based on emotion and personal preference rather than rational logic. (http://complexitylabs.io/subjective-thinking/) To put it bluntly, the reasoning is all in their head. (JIBC, p. 1)
+Subjective thinking has no objective standard guiding it and is subject to the interpretation of the individual with no objective reference to prove the thinking is logical or objective in nature. [Thinking based on emotion and personal preference rather than rational logic.](http://complexitylabs.io/subjective-thinking/) To put it bluntly, the reasoning is all in their head. (JIBC, p. 1)
 
 There is a place for subjective thinking. It is generally in the realm of books, movies, video games and art, where the subjective interpretation of the material under review affects/effects the speaker and reflects their preferences. When there is a need for a balanced view in making decisions and move teams toward strategic goals, objectivity is preferred.
 
@@ -277,7 +277,7 @@ We all live with some form of bias in any given situation. An inevitable bias le
 
 Psychological bias leads people to downplay the probability and danger of change, and their role in it, while increasing their perceived incentives to maintain the status quo, and to blame problems on others. (Johnson and Levin, p. 1593)
 
-To determine how inevitable bias affects your perceptions and thinking take the Implicit Association test (IAT) @ https://implicit.harvard.edu/implicit/canada/. There are a variety of choices for you to make to test your biases toward a variety of topics. There is no expectation for you to share the results of the IAT, but only ex[pose you to possible biases you might hold and allow you to assess your own thinking in this regard.
+To determine how inevitable bias affects your perceptions and thinking take the [Implicit Association test](https://implicit.harvard.edu/implicit/canada/) (IAT). There are a variety of choices for you to make to test your biases toward a variety of topics. There is no expectation for you to share the results of the IAT, but only ex[pose you to possible biases you might hold and allow you to assess your own thinking in this regard.
 <h4>Communication Distrust</h4>
 Communication distrust rarely shows itself aggressively in a work environment. As Glenn Llopis outlines in his January 2011 Forbes Leadership article entitled <em>'How distrust, indifference and lack of integrity will destroy your business,' </em>
 <blockquote>Distrust will not show itself in obvious fashion because distrust knows it is not welcome. It will hide and only become visible to those with the skill to see beneath the obvious. The ability to spot the weed of distrust is not simple, but all weeds of this nature look alike. (Llopis)</blockquote>
@@ -416,9 +416,9 @@ What was <span style="text-decoration: underline">your</span> outcome?
 <h4>Learning Activity 5.5</h4>
 <strong>Best practice questions</strong>
 
-Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. OnStrategy is a strategic planning consulting organization who 'believe strategic planning is more than simply achieving business goals. It creates confidence in the future.' (https://onstrategyhq.com/about-us/)
+Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. [OnStrategy](https://onstrategyhq.com/about-us/) is a strategic planning consulting organization who 'believe strategic planning is more than simply achieving business goals. It creates confidence in the future.' 
 
-Follow the link (https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/) to review Perkins <em>Top 10 Strategic Planning Best Practices</em>.
+Follow the [link](https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/) to review Perkins <em>Top 10 Strategic Planning Best Practices</em>.
 
 Once you review the Top 10 Best Practices ask the following questions about your present work team with your organization or an organization you previously worked with.
 <ol>
@@ -474,23 +474,23 @@ Increasing Strategic IQ ensures 'accurate and valid means of assessing your succ
 
 One final resource to recommend for  researching strategies for a variety of organizations is a resource found in our own library. The book by Baum and Lampel outlines a variety of strategy research to give you a well rounded understanding of the diversity represented in researching various strategies around the world. This is a small volume by comparison and is only mentioned for your benefit, should you choose to follow through with reading the material. It is not required for the course.
 
-Baum, J. C., &amp; Lampel, J. (2010). <em>The Globalization Of Strategy Research.</em> Bingley, UK: Emerald Group Publishing Limited.
+Baum, J. C., &amp; Lampel, J. (2010). <em>[The Globalization Of Strategy Research.](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=335519&amp;site=eds-live&amp;ebv=EB&amp;ppid=pp_Cover)</em> Bingley, UK: Emerald Group Publishing Limited.
 
-The permalink is: https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=335519&amp;site=eds-live&amp;ebv=EB&amp;ppid=pp_Cover
+
 <h4>Learning Activity 5.6</h4>
 [Link to PressBooks instruction here]
 <h3>Learning Activity References</h3>
 Baum, J. C., &amp; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
 
-Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
+Blanding, M. (2012). [Strategic intelligence: adapt or die.](https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die) <em>Working Knowledge.</em> Boston MA: Harvard.
 
-Complexity Labs. (<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">September 8, 2016).</span> Subjective Thinking. <em>Complexity Labs. </em>Barcelona: Complexity Labs. Retrieved from http://complexitylabs.io/subjective-thinking/
+Complexity Labs. (<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">September 8, 2016).</span> [Subjective Thinking.](http://complexitylabs.io/subjective-thinking/) <em>Complexity Labs. </em>Barcelona: Complexity Labs.
 
-Dalkir, K. (2016). Editorial: Why do organizations need to increase their strategic intelligence quotient (IQ)? <em>Information Science</em>.  45 (3). Brasilia BR: Brazilian Institute of Information in Science and Technology. Retrieved from http://revista.ibict.br/ciinf/article/viewFile/4065/3562
+Dalkir, K. (2016). [Editorial: Why do organizations need to increase their strategic intelligence quotient (IQ)?](http://revista.ibict.br/ciinf/article/viewFile/4065/3562) <em>Information Science</em>.  45 (3). Brasilia BR: Brazilian Institute of Information in Science and Technology. 
 
-Doyle, A. (updated January 23, 2018). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">Learn why employers value deductive reasoning, and how you can show it</span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</span>
+Doyle, A. (updated January 23, 2018). <span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">[Learn why employers value deductive reasoning, and how you can show it](https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749)</span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">. New York: The Balance.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block"><em>Inductive reasoning in the workplace.</em> </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">----- (updated September 22, 2017). </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block"><em>[Inductive reasoning in the workplace.](https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)</em> </span><span id="article-heading__highlight_2-0" class="comp article-heading__highlight mntl-text-block">New York: The Balance.
 
 Fitzgerald, F. S. (Spring 1936). The crack up. <em>Esquire.</em> New York: Hearst.
 
@@ -499,21 +499,21 @@ Galbraith, J. (1974). Organization design: an information processing view. <em>T
 Gilakjani, <span style="float: none;background-color: transparent;color: #333333;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">A. P. (2012). Visual, auditory, kinaesthetic learning styles and
 their impacts on English language teaching.  <em>Journal of Studies in Education</em>. 2(1). Macrothink Institute: Las Vegas, NV.</span>
 
-Higson, P., and Sturgess, A. (1999). Intuition and Decision Making. <em>The Happy Manager.</em> London: Apex Leadership. Retrieved from http://the-happy-manager.com/articles/intuition-and-decision-making/
+Higson, P., and Sturgess, A. (1999). [Intuition and Decision Making.](http://the-happy-manager.com/articles/intuition-and-decision-making/) <em>The Happy Manager.</em> London: Apex Leadership.
 
-Johnson, D., and Levin, S. (December 10, 2009). The tragedy of cognition: psychological biases and environmental inaction.  Current Science. 97(11). Bangalore, India: Current Science Association. Retrieved from http://dominicdpjohnson.com/publications/pdf/2009JohnsonLevinTheTragedyOfCognition.pdf
+Johnson, D., and Levin, S. (December 10, 2009). [The tragedy of cognition: psychological biases and environmental inaction.](http://dominicdpjohnson.com/publications/pdf/2009JohnsonLevinTheTragedyOfCognition.pdf)  Current Science. 97(11). Bangalore, India: Current Science Association.
 
-Justice Institute of BC. (April 8, 2013). Subjective vs. objective. <em>School of Community and Social Justice.</em> Vancouver BC: Centre for Leadership. Retrieved from  http://www.jibc.ca/sites/default/files/community_social_justice/pdf/cl/Objective_vs._Subjective.pdf
+Justice Institute of BC. (April 8, 2013). [Subjective vs. objective.](http://www.jibc.ca/sites/default/files/community_social_justice/pdf/cl/Objective_vs._Subjective.pdf) <em>School of Community and Social Justice.</em> Vancouver BC: Centre for Leadership. 
 
-Kaufman, R. (2014). Characteristics of Useful and Practical Organizational Strategic Plans. <em>Educational Technology</em>, 54(1), 37-39. Retrieved from http://www.jstor.org/stable/44430235
+Kaufman, R. (2014). [Characteristics of Useful and Practical Organizational Strategic Plans.](http://www.jstor.org/stable/44430235) <em>Educational Technology</em>, 54(1), 37-39. 
 
-King, W. R. (March 1978). Strategic planning for management information systems. MIS Quarterly. Minneapolis MN: University of Minnesota. Retrieved from https://pdfs.semanticscholar.org/3e9d/c86eec51d0e3444be59f2887c384e2ff0258.pdf
+King, W. R. (March 1978). [Strategic planning for management information systems.](https://pdfs.semanticscholar.org/3e9d/c86eec51d0e3444be59f2887c384e2ff0258.pdf) MIS Quarterly. Minneapolis MN: University of Minnesota. 
 
-Llopis, G. (January 27, 2011). How distrust, indifference and lack of integrity will destroy your business. Forbes. Jersey City NJ: Forbes.com. Retrieved from https://www.forbes.com/sites/glennllopis/2011/01/17/how-distrust-indifference-and-lack-of-integrity-will-destroy-your-business/#2e50b7a36a42
+Llopis, G. (January 27, 2011). [How distrust, indifference and lack of integrity will destroy your business.](https://www.forbes.com/sites/glennllopis/2011/01/17/how-distrust-indifference-and-lack-of-integrity-will-destroy-your-business/#2e50b7a36a42) Forbes. Jersey City NJ: Forbes.com. 
 
-Milgram, J. (January 3, 2018). <em>Left and right brain—the surprising truth</em> [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
+Milgram, J. (January 3, 2018). <em>[Left and right brain—the surprising truth](https://custom-writing.org/blog/left-vs-right-brain)</em> [INFOGRAPHIC]. London: Custom Writing. 
 
-OnStrategy. (2018). <em>About us.</em> Retrieved from https://onstrategyhq.com/about-us/
+[OnStrategy.](https://onstrategyhq.com/about-us/) (2018). <em>About us.</em> 
 
 Perkins, K. (2018). <em>The top 10 strategic planning best practices.</em> Reno NV: OnStrategy. Retrieved from https://onstrategyhq.<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">com/resources/the-top-10-strategic-planning-best-practices/</span>
 
