@@ -17,7 +17,7 @@ post_date: 2018-02-23 01:07:23
 
 * **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. \(Senge, p. 20\)
 
-* **The fixation on**_**\(short term\)**_**events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
+* **The fixation on** _**\(short term\)**_ **events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. \(Senge, p. 21\)
 
 * **The parable of the boiled frog** - "where we do not see gradual changes, much like a frog in a pot will relax into drowsiness as its water is slowly heated." \(Mister Ambiguous\)
 
@@ -25,7 +25,8 @@ post_date: 2018-02-23 01:07:23
 
 * **The myth of the management team** - Teams spend much of their time fighting for turf, avoiding anything making them look bad, while pretending everyone is behind team strategies. \(Senge, pp. 18-19\) Their energies are mis-focused. Instead of focusing on solutions to the challenges at hand, they are focused inwardly toward self-protection.
 
-##### Learning Activity 4. 1
+
+#### Learning Activity 4. 1
 
 As you complete your reading of, _A Systems Thinking Primer: Seeing Organizations in Action_ above, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
 
@@ -44,19 +45,21 @@ As you complete your reading of, _A Systems Thinking Primer: Seeing Organization
 
 As you complete these questions, you will have a better grasp on Systems Thinking practice and the development of Strategic Leadership principles going forward.
 
-**References**
+
+
+####**References**
 
 Fractal Foundation \(2018\) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory) 
 
-GE Power and Water \(2012\) [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp) Boston MA:General Electric Company. 
+GE Power and Water \(2012\) [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler\_water\_systems/ch\_14\_systemfailure.jsp). Boston MA:General Electric Company. 
 
 Haines, S. \(2000\). _The systems thinking approach to strategic planning and management._ Washington DC: St. Lucie Press.
 
-Issitt, M. \(2013\). Chaotic systems. In_Salem Press Encyclopedia of Science._
+Issitt, M. \(2013\). Chaotic systems. In _Salem Press Encyclopedia of Science._
 
-Lepsinger R. \(2010\).\_Closing the Execution Gap.\_San Francisco: Jossey-Bass.
+Lepsinger R. \(2010\).\_Closing the Execution Gap.\_ San Francisco: Jossey-Bass.
 
-Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\).\_Strategy bites back: it is far more, and less, than you ever imagined.\_Upper Saddle River: Pearson Prentice Hall.
+Mintzberg, H., Ahlstrand, B., & Lampel, J. \(2005\). \_Strategy bites back: it is far more, and less, than you ever imagined.\_Upper Saddle River: Pearson Prentice Hall.
 
 Mister Ambiguous. \(February 2, 2002\). [Senge’s 7 organizational learning disabilities.](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/) 
 
