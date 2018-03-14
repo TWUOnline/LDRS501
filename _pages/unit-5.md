@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-#### Overview
-### Week 4
+### Overview
+#### Week 4
 
 This week introduces YOU to understanding various aspects of strategic team development and other strategic leadership concepts:
 <ol>
@@ -33,10 +33,9 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 The readings listed below are for review and response to the materials covered for the coming week.
 
-| **Week 4 – BLOG** |
-| :--- |
+**Week 4 – BLOG**
 
-| | **&amp;** | **TEAM Assignment 1** |
+|**TEAM Assignment 1**  |  | |
 | :--- | :--- | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | M. Ungerer, G. Ungerer &amp; J. Herholdt | _**Naviagting Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 8-9 (pp. 365-438) |
@@ -71,7 +70,7 @@ This week I want to hear how the Strategic Leadership materials align with real 
 
 Here is your chance.
 
-<strong>Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:<strong>
+Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:
 
 1. Outline the best steps you envision for developing performance best practices across all areas of the organization where you work/worked previously; addressing the various components of the organization like:
   a. Human resources (policies and procedures)
@@ -116,7 +115,7 @@ Here is your chance.
 
 **STRAT TEAM – Strategic Team Review and Action Tool**
 
-**Submission Due: Sunday May 27 at 23:59 PDT**
+**Submission Due: Last day of Week 4 at 23:59 PDT**
 
 This assignment is an applied learning experience using the STRAT _(Strategic Team Review and Action Tool)_ in the Hughes, Colarelli-Beatty and Dinwoodie text to survey your team in determining its collective strength/weakness as a strategic team.
 
