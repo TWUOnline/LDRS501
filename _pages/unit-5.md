@@ -14,12 +14,12 @@ post_date: 2018-02-23 01:07:23
 
 This week introduces YOU to understanding various aspects of strategic team development and other strategic leadership concepts:
 <ol>
- 	<li> Market Position Thinking &amp; Processes for Service Improvement</li>
- 	<li> Subjectivity and Intuition</li>
- 	<li> Organizational Information Strategies</li>
- 	<li> Other Issues, Leaders and Leadership, Approaches, and Questions</li>
- 	<li> Best practice questions</li>
- 	<li> More instruction around the PressBooks platform.</li>
+ 	  <li> Market Position Thinking &amp; Processes for Service Improvement</li>
+ 	  <li> Subjectivity and Intuition</li>
+ 	  <li> Organizational Information Strategies</li>
+ 	  <li> Other Issues, Leaders and Leadership, Approaches, and Questions</li>
+ 	  <li> Best practice questions</li>
+   	<li> More instruction around the PressBooks platform.</li>
 </ol>
 The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
 
@@ -69,33 +69,37 @@ Assignment: BLOG 3 - **First day of Week 4** - Post in BLOG 3 Discussion Thread 
 This week I want to hear how the Strategic Leadership materials align with real time experience and practice. In essence, this is where your inner strategic consultant gets to engage the material. You know? The voice inside saying, _‘if I had the chance to make a difference in how we do things, I would…’_
 
 Here is your chance.
-
 Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:
 
 **1. Outline the best steps you envision for developing performance best practices across all areas of the organization where you work/worked previously; addressing the various components of the organization like:**
-  a. Human resources (policies and procedures)
-  b. Corporate identity (public)
-  c. Organizational culture (internal)
+    a. Human resources (policies and procedures)
+    
+    b. Corporate identity (public)
+    
+    c. Organizational culture (internal)
 
 **2. Identify some of the negative organizational renewal, execution and design challenges in the organization where you work/worked previously to address:**
-  a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
-  b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
+    a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
+    
+    b. Three to five steps necessary to shift the negative impacts and help the organization where you work/worked previously refocus to reclaim organizational purpose, practise and procedures to a healthy level so they can move more effectively into the future.
 
 **3. Three things you do (3+3+3 = 9 altogether):**
-  a. To promote the positive renewal, execution and organizational design principles in your career practice.
-  b. To promote the negative practice of these principles.
-  c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
+    a. To promote the positive renewal, execution and organizational design principles in your career practice.
+    
+    b. To promote the negative practice of these principles.
+    
+    c. To correct behaviours not conducive to your career health and the principles required to promote healthy strategic practice.
 
-<em><strong>(See Galbraith, pp. 199-204; Lepsinger, pp. 56 – 72; Ungerer, et al., pp. 277-364 Plus any other relevant resources you want to add to the discussion)<strong></em>
+<strong>(See Galbraith, pp. 199-204; Lepsinger, pp. 56 – 72; Ungerer, et al., pp. 277-364 Plus any other relevant resources you want to add to the discussion)<strong>
   
-<h4>LDRS 501 – BLOG 3 Rubric (5%) - Example.</h4>
-<strong>DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):</strong>
+#### LDRS 501 – BLOG 3 Rubric (5%) - Example.
+<strong>DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):<strong>
 
 | **NAME:**| |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
-| **Quality of starter &amp; summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
+| **Quality of starter & summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
 | **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
 | **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
@@ -109,7 +113,7 @@ Use strategy renewal, execution and organizational design principles (from assig
 
 * _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
 
-**Assignment: _Week 4_** - Individual Assignment 1 - Strategic Assessment - Last day of Week 4 - Drop Box - **_10%_**
+Assignment: _Week 4_ - Individual Assignment 1 - Strategic Assessment - **Last day of Week 4** - Drop Box - **_10%_**
 
 
 **TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
@@ -179,9 +183,9 @@ date.
 
 One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes two thoughts in his first epistle:
 
-<em>Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,</em> - 1 Peter 2: 13
+<em>Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority,</em> - 1 Peter 2:13
 
-<em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> - 1 Peter 2: 16
+<em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> - 1 Peter 2:16
 
 <i>THINK About It! Leadership accountability in a strategic environment allows everyone to excel and find protection through the process. 
 
@@ -201,7 +205,7 @@ Employers value workers who think logically as they solve problems and carry out
 
 Here are some examples to enhance your understanding of <span style="text-decoration: underline">inductive thinking</span>. Read them over, and reflect on instances of <span style="text-decoration: underline">inductive thinking</span> in your own professional experience.
 
-1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(the observation leads to the conclusion)</span></em>
+1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em><span style="text-align: left;color: #333333;text-indent: 0px;letter-spacing: normal;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-variant: normal;font-weight: 400;text-decoration: none;cursor: text;float: none;background-color: transparent">(The observation leads to the conclusion)</span></em>
 
 2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(The observation leads to the conclusion.)</i>
 
@@ -220,6 +224,7 @@ Here are some examples to enhance your understanding of <span style="text-decora
 9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(The observation leads to the conclusion.)</i>
 
 10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(The observation leads to the conclusion.)</i>
+
 
 In <span style="text-decoration: underline">deductive thinking</span>, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
@@ -260,21 +265,19 @@ As you review the items listed in the Images above, they bring out important nua
 
 As important understanding inductive/deductive and left/right brain thinking are in understanding how strategic teams work, there is also a clear need to understand what type of learners your team represents. V<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">isual? Kinaesthetic? Auditor?</span>
 
-**a. Visual**
-
+  **a. Visual**
 Visual learners  think in pictures and learn best with the use of visual images as they learn. They depend on non-verbal cues (like expressions, illustrations, body language, etc.) to help them understand the world around them. They tend to fare better in learning environments where they can sit near the front. away from distractions from other stimuli, often taking notes and making lists to read later. (Gilakjani, pp. 105, 106)
 
-**b. Kinaesthetic**
-
+  **b. Kinaesthetic**
 Kinaesthetic learners, learn best with an active “hands-on” approach. They
 favour interaction with the physical world as they learn, but often have
 a difficult time staying on target and can become unfocused.
 
 To address the lack of focus, create learning opportunities to help them concentrate better where movement is involved. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">(Gilakjani, p. 106)</span>
 
-**c. Auditor**
-
+  **c. Auditor**
 Auditory learners  r<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">emember details about information they hear quite accurately, often </span>discovering information through listening and interpreting pitch and emphasis on the topics or materials presented. They gain knowledge from reading out loud or hearing information read out loud and have challenges fully understanding detailed <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: 'Libre Franklin','Helvetica Neue',helvetica,arial,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">written </span>information. (Gilakjani, p. 106)
+
 
 
 #### Learning Activity 5.2
@@ -287,8 +290,9 @@ There is a place for subjective thinking. It is generally in the realm of books,
 
 For the subjective thinker, leaders need to ask questions regarding the objectivity of what is shared. Is there an objective proof behind what is said, or why they believe what they say they believe. A strong subjective thinker can derail teams with very little effort, for what they lack in objective reasoning they more than make up in passion.
 
-According to Higson and Sturgess (2018), 'approaches to decision making can be quite diverse, ranging from classical, rationalistic, decision making processes to a less structured, intuitive, decision making style.' Additionally, they note:
+According to Higson and Sturgess (2018), 'approaches to decision making can be quite diverse, ranging from classical, rationalistic, decision making processes to a less structured, intuitive, decision making style.' 
 
+Additionally, they note:
 '<span style="text-decoration: underline">Rational decision making</span> processes consist of a sequence of steps designed to rationally develop a desired solution. <span style="text-decoration: underline">Intuitive decision making</span> is almost the opposite, being more instinctive, subjective and subconscious in nature.' (the-happy-manager.com)
 
 They continue to make the point that knowing which type of decision making is essential for effective decision making is an important part of the team development process. They state however, the importance of knowing how and when to combine rational and intuitive approaches as an essential part of leading strategically. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">(the-happy-manager.com)</span> The central focus for all leaders is to know when to listen and when to decide on objective support for ideas over subjective intuition.
@@ -302,19 +306,23 @@ We all live with some form of bias in any given situation. An inevitable bias le
 Psychological bias leads people to downplay the probability and danger of change, and their role in it, while increasing their perceived incentives to maintain the status quo, and to blame problems on others. (Johnson and Levin, p. 1593)
 
 To determine how inevitable bias affects your perceptions and thinking take the Implicit Association test (IAT) @ https://implicit.harvard.edu/implicit/canada/. There are a variety of choices for you to make to test your biases toward a variety of topics. There is no expectation for you to share the results of the IAT, but only ex[pose you to possible biases you might hold and allow you to assess your own thinking in this regard.
+
+
 <h4>Communication Distrust</h4>
 Communication distrust rarely shows itself aggressively in a work environment. As Glenn Llopis outlines in his January 2011 Forbes Leadership article entitled <em>'How distrust, indifference and lack of integrity will destroy your business,' </em>
 <blockquote>Distrust will not show itself in obvious fashion because distrust knows it is not welcome. It will hide and only become visible to those with the skill to see beneath the obvious. The ability to spot the weed of distrust is not simple, but all weeds of this nature look alike. (Llopis)</blockquote>
 Communication distrust lies below the surface and only rears its head when it feels safe to do so and cause the greatest damage to organizational or relationship structures. Distrust plants its own seeds through every interaction. The only way to combat it is to act in the best interests of all concerned and create trusting environments through open dialogue and transparency throughout.
 
-To determine the climate you live in, l<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">ook beneath the details of your company meetings. A</span>ssess your environment using the following scale suggested by Llopis.
-<ul>
- 	<li>What political undercurrents exist? <span style="text-decoration: underline">Trust</span>      <span style="text-decoration: underline">Distrust</span>   Why do you say that? What evidence do you have?</li>
- 	<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
- 	<li>Can the leaders be trusted and do they trust the workers? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
- 	<li><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Are the discussion topics in the meeting </span>objective and supported by observations from the workplace? <span style="text-decoration: underline">Yes</span>   <span style="text-decoration: underline">No</span>   Why do you say that? What evidence do you have?</li>
-</ul>
+To determine the climate you live in, look beneath the details of your company meetings. Assess your environment using the following scale suggested by Llopis.
+
+<li>What political undercurrents exist? **Trust**  **Distrust**   Why do you say that? What evidence do you have?<li>
+<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? **Yes**  **No**    Why do you say that? What evidence do you have?</li>
+ 	<li>Can the leaders be trusted and do they trust the workers? **Yes**  **No**  Why do you say that? What evidence do you have?</li>
+ 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? **Yes**  **No**   Why do you say that? What evidence do you have?</li>
+ 	<li>Are the discussion topics in the meeting objective and supported by observations from the workplace? **Yes** **No**   Why do you say that? What evidence do you have?</li>
+
+
+
 <h4>Learning Activity 5.3</h4>
 <h4>Organizational <strong><span style="text-align: left;color: #333333;line-height: 22.4px;text-indent: 0px;letter-spacing: normal;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;text-decoration: none;float: none;background-color: transparent">Information </span></strong>Strategies</h4>
 Once you understand the various thinking models and habits of your teams, there is the development of effective communication strategies to assist in communicating to the diverse thinking styles represented by the teams within the organizational framework; from the Board and Executive Leadership, on through the grassroots members of your most ad hoc teams. Clear communication of strategic goals and plans is imperative for the success of any organization wanting to fulfill its strategic imperatives.
