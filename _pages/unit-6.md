@@ -9,8 +9,68 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-## Overview
+<h2>Overview</h2>
 
-## Outcomes
+&nbsp;
 
-## Resource
+<h2>Outcomes</h2>
+
+&nbsp;
+
+<h2>Resource</h2>
+
+<em><strong>Reading Resources </strong></em>
+
+<ol>
+    <li>20 Questions Directors Should Ask about Strategy, 3rd Edition Chartered Accountants of Canada. (http://hoacorp.ca/wp-content/uploads/2017/03/20q-strategy.pdf)</li>
+    <li>SWOT Application Strategy Matrix  - optional resource(http://amces.com/web/default/files/users/christina@amces.com/Tools/SSWOTMT.pdf)</li>
+    <li>Montgomery, C. (July 2012). How Strategists Lead. <em>McKinsey Quarterly</em>. New York: McKinsey and Company. (https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-strategists-lead)</li>
+    <li>Lovallo, D. and Sibony, O. (March 2010) The case of behavioral strategy. <em>McKinsey Quarterly</em>. New York: McKinsey and Company. (https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-case-for-behavioral-strategy)</li>
+</ol>
+
+<em><strong>The Wave of Change Graphic</strong></em>
+
+One way at looking at the change process. This is for reference only. No requirements for Assignments or inclusion with BLOG discussions.
+
+<img class="alignnone size-medium wp-image-407" src="http://create.twu.ca/ldrs501-su18/files/2018/03/The-Wave-of-Change-300x232.png" alt="" width="300" height="232" />     <img class="alignnone size-medium wp-image-406" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Surfing-the-Wave-of-Change-300x231.png" alt="" width="300" height="231" />
+
+<h4>IMPLICATIONS AND CHALLENGES IN STRATEGIC LEADERSHIP</h4>
+
+<strong>Leading Strategically</strong>
+
+<em>“Seeing things the way God sees them”</em>
+
+<strong>Principle:</strong> Hope for future
+
+Many are the plans in a man's heart, but it is the LORD's purpose that prevails. Proverbs 19: 21
+
+&nbsp;
+
+<em><strong>EMPOWERING PUBLIC CULTURE</strong></em>
+
+Resistance to Organizational democratization
+Priority consideration to justice and citizenship needs
+The citizen is entitled to shape the future
+Satisfying public interest is the litmus test
+(cont’d)
+
+Structuring government for a learning society
+Services shaped at point of consumption
+Develop an ethical citizenship culture
+CHALLENGE
+“Would you tell me, please, which way I ought to go from here?”
+“That depends a good deal on where you want to get to.” said the Cat.
+“I don’t much care where.” said Alice.
+“Then it doesn’t matter which way you go.” said the Cat.
+(cont’d)
+CHALLENGE
+“So long as I get somewhere.” Alice added as an explanation.
+“Oh, you’re sure to do that.” said the Cat, “if you only walk long enough.”
+Lewis Carroll, Alice in Wonderland
+Finding your way as leader
+“For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future. Then you will call upon me and come and pray to me, and I will listen to you. You will seek me and find me when you seek me with all your heart. Jeremiah 19: 11- 13
+Serenity Prayer
+
+God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
+Strategic Leadership
+Leading…
