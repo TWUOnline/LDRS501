@@ -315,11 +315,30 @@ Communication distrust lies below the surface and only rears its head when it fe
 
 To determine the climate you live in, look beneath the details of your company meetings. Assess your environment using the following scale suggested by Llopis.
 
-<li>What political undercurrents exist? **Trust**  **Distrust**   Why do you say that? What evidence do you have?<li>
-<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? **Yes**  **No**    Why do you say that? What evidence do you have?</li>
- 	<li>Can the leaders be trusted and do they trust the workers? **Yes**  **No**  Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? **Yes**  **No**   Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting objective and supported by observations from the workplace? **Yes** **No**   Why do you say that? What evidence do you have?</li>
+<li>What political undercurrents exist? 
+  **Trust**  
+  **Distrust**   
+  Why do you say that? What evidence do you have?<li>
+    
+<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? 
+  **Yes**  
+  **No**    
+  Why do you say that? What evidence do you have?</li>
+  
+ 	<li>Can the leaders be trusted and do they trust the workers? 
+  **Yes**
+  **No**
+  Why do you say that? What evidence do you have?</li>
+  
+ 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? 
+  **Yes**
+  **No**
+  Why do you say that? What evidence do you have?</li>
+  
+ 	<li>Are the discussion topics in the meeting objective and supported by observations from the workplace? 
+  **Yes**
+  **No**
+  Why do you say that? What evidence do you have?</li>
 
 
 
