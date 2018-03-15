@@ -73,9 +73,9 @@ Here is your chance.
 Use strategy renewal, execution and organizational design principles (from assigned readings so far) as a focus:
 
 1. Outline the best steps you envision for developing performance best practices across all areas of the organization where you work/worked previously; addressing the various components of the organization like:
-  a. Human resources (policies and procedures)
-  b. Corporate identity (public)
-  c. Organizational culture (internal)
+   a. Human resources (policies and procedures)
+   b. Corporate identity (public)
+   c. Organizational culture (internal)
 
 2. Identify some of the negative organizational renewal, execution and design challenges in the organization where you work/worked previously to address:
   a. The biggest impact these principles have/had on the organization where you work/worked previously. (If you work in an organization without any challenges, identify some potential areas you identify/identified in the organization you work/worked previously)
