@@ -10,17 +10,23 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Overview</h2>
+
 <h3>Week 6</h3>
+
 ZOOM video-conference
 
-- Learner Introductions - **TBD**
+<ul>
+<li>Learner Introductions - <strong>TBD</strong></p></li>
+<li><p>Assignment 1 Review - <strong>TBD</strong></p></li>
+<li><p>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</p></li>
+</ul>
 
-- Assignment 1 Review - **TBD**
+<p>NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
 
-- Book Development Learning Activity plus Q&amp;A - **TBD**.
-
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
 <h2>Outcomes</h2>
+
 &nbsp;
+
 <h2>Resources</h2>
+
 &nbsp;
