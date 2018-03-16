@@ -9,20 +9,21 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2>Overview</h2>
+## Overview
 
-<h3>Week 3</h3>
+### Week 3
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
-<ul>
-<li>Senge's Laws for System Thinking. This section outlines Senge's work from his book, <strong><em>The Fifth Discipline</em></strong>, (2006).</p></li>
-<li><p>5 additional laws to consider to expand our thinking on the topic.</p></li>
-<li><p>Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.</p></li>
-<li><p>More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.</p></li>
-</ul>
+* Senge's Laws for System Thinking. This section outlines Senge's work from his book, **_The Fifth Discipline_**, (2006).
 
-<p>Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
+* 5 additional laws to consider to expand our thinking on the topic.
+
+* Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
+
+* More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+
+Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
 The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
 
@@ -32,83 +33,55 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 [Link to PressBooks instruction here]
 
-<h4>Reading Overview for Week 3</h4>
+#### Reading Overview for Week 3
 
 The readings listed below are for review and response to the materials covered for the coming week.
 
-<table>
-<thead>
-<tr>
-  <th align="left"><strong>Week 3- BLOG</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left"></td>
-</tr>
-</tbody>
-</table>
+| **Week 3- BLOG** |
+| :--- |
 
-<table>
-<thead>
-<tr>
-  <th align="left"><strong>Author</strong></th>
-  <th align="left"><strong>Text or Article</strong></th>
-  <th align="left"><strong>Chapters/Pages/Links</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left">M. Ungerer, G. Ungerer &amp; J. Herholdt</td>
-  <td align="left"><em><strong>Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish</strong></em></td>
-  <td align="left">Chapters 6-7 (pp. 277-364)</td>
-</tr>
-<tr>
-  <td align="left">JR Galbraith</td>
-  <td align="left"><em><strong>Designing Organizations</strong></em></td>
-  <td align="left">Chapters 7-9 (pp. 149-216)</td>
-</tr>
-<tr>
-  <td align="left">R Lepsinger</td>
-  <td align="left"><em><strong>Closing the Execution Gap</strong></em></td>
-  <td align="left">Chapter 3 (pp. 51-72)</td>
-</tr>
-</tbody>
-</table>
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| :--- | :--- | :--- |
+| M. Ungerer, G. Ungerer &amp; J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices to Flourish**_ | Chapters 6-7 (pp. 277-364) |
+| JR Galbraith | _**Designing Organizations**_ | Chapters 7-9 (pp. 149-216) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Chapter 3 (pp. 51-72) |
 
-<h2>Outcomes</h2>
+## Outcomes
 
 Learners will have the opportunity to develop of the following learning outcomes in this unit:
 
-<ol>
-<li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</p></li>
-<li><p><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</p></li>
-<li><p><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</p></li>
-<li><p><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</p></li>
-<li><p><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</p></li>
-<li><p><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</p></li>
-</ol>
+1. **Analyze personal and corporate leadership effectiveness** through the review and assessment of various leadership and management styles.
 
-<h2>Resources</h2>
+2. **Evaluate** organizational effectiveness as it relates to strategic leadership principles and practice.
 
-<h4>Week 3 Assignments</h4>
+3. **Integrate and synthesize** a broad range of LDRS 501 course materials to demonstrate leadership application.
 
-<p><strong>Assignment:</strong> BLOG 2 - <strong>First day of Week 3</strong> - Post in BLOG 2 Discussion Thread -<em><strong>5%</strong></em>.
+4. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
-<h4>BLOG 2</h4>
+5. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development.
 
-<h5>BLOG 2 – Week 3: Strategic Leadership Teams</h5>
+6. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
+
+## Resources
+
+#### Week 3 Assignments
+
+**Assignment:** BLOG 2 - **Day 1-6 of Week 3** - Post in BLOG 2 Discussion Thread -_**5%**_.
+
+#### BLOG 2
+
+##### BLOG 2 – Week 3: Strategic Leadership Teams
 
 This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question (all parts). Please be as succinct as possible, but be complete. Please cite all references. (Substantive/succinct/cited)
 
-| <strong>Author</strong> | <strong>Text or Article</strong> | <strong>Chapters/Pages/Links</strong> |
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
 Galbraith | Formal Groups | pp. 90-106
 Hughes et al. | Strategic Leadership Teams | Chapter 5
 Lepsinger | Bridge 3 | pp. 14-16
 M. Ungerer, G. Ungerer &amp; J. Herholdt | Chapters 3 - 5 | pp. 107-275
 
-Assessing your present/previous team situation or course team environment <strong>(see Hughes, et al., p. 213)</strong>, did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not?
+Assessing your present/previous team situation or course team environment **(see Hughes, et al., p. 213)**, did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not?
 
 As you work with teams in your present/previous work environment and your team in this course, how do you build a sense of ownership and involvement?
 
@@ -118,88 +91,48 @@ How do you identify bottlenecks in your present/previous team situation or cours
 
 Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course?
 
-<ul>
-<li>How are they similar?</p></li>
-<li><p>How are they different?</p></li>
-<li><p>What do you see needing improvement in both to make them more effective?</p></li>
-<li><p>How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?</p></li>
-<li><p>How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you?</p></li>
-</ul>
+* How are they similar?
 
-<p>NOTE:
+* How are they different?
 
-<ol>
-<li>ALL BLOGs start with post leaders (see posting instructions). </li>
-<li>ALL posts (leaders and responders) must answer substantively, succinctly and cited. </li>
-<li>ALL posts must be started and completed in the time frames provided in posting instructions. </li>
-</ol>
+* What do you see needing improvement in both to make them more effective?
 
-If you have questions, please do not hesitate to ask. 
-We are learning together. 
+* How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?
+
+* How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you?
+
+NOTE:
+
+1. ALL BLOGs start with post leaders (see posting instructions).
+2. ALL posts (leaders and responders) must answer substantively, succinctly and cited.
+3. ALL posts must be started and completed in the time frames provided in posting instructions.
+
+If you have questions, please do not hesitate to ask.
+We are learning together.
 Mastery comes from learning, not vice versa.
 
 [Link to BLOG 2 Discussion Thread]
 
 [Link to MA LEAD LEADERSHIP MONOGRAPH 2018]
 
-<h4>LDRS 501 – BLOG 2 Rubric (5%) - Example.</h4>
+#### LDRS 501 – BLOG 2 Rubric (5%) - Example.
 
-<strong>DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):</strong>
+**DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade (per week):**
 
-<table>
-<thead>
-<tr>
-  <th align="left">NAME:</th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"><strong>MARK= /5</strong></th>
-  <th align="left"><strong>ONLINE Discussion Grading Criteria</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left"><strong>Performance</strong></td>
-  <td align="left"><strong>BELOW</strong></td>
-  <td align="left"><strong>Acceptable</strong></td>
-  <td align="left"><strong>Well Developed</strong></td>
-  <td align="left"><strong>ABOVE</strong></td>
-</tr>
-<tr>
-  <td align="left"><strong>Marks</strong></td>
-  <td align="left"><strong>2.5 or less</strong></td>
-  <td align="left"><strong>3.0- 3.5</strong></td>
-  <td align="left"><strong>4.0- 4.5</strong></td>
-  <td align="left"><strong>5</strong></td>
-</tr>
-<tr>
-  <td align="left"><strong>Quality of starter &amp; summary posts</strong></td>
-  <td align="left">Less than required number of postings. The quality of work does not show critical thinking or analysis</td>
-  <td align="left">Postings reflect the reading but do not show outside sources. The post shows some critical thinking</td>
-  <td align="left">Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence</td>
-  <td align="left">Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application</td>
-</tr>
-<tr>
-  <td align="left"><strong>Quality of threaded discussion reply</strong></td>
-  <td align="left">Does not further the discussions topic or move the discussion forward</td>
-  <td align="left">Participates, but does not show higher ordered thinking. Limited use of evidence</td>
-  <td align="left">Strong posts that does show significant higher ordered thinking and effective use of evidence</td>
-  <td align="left">Response relevant to posting and supports position with factual information. The post shows excellent understanding and application.</td>
-</tr>
-<tr>
-  <td align="left"><strong>Understanding of reading and outside source material</strong></td>
-  <td align="left">Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx").</td>
-  <td align="left">Responds to the question posted but does not clearly synthesize the readings.</td>
-  <td align="left">Responds to the question posted but clearly synthesizes the readings and shows application.</td>
-  <td align="left">Responds to question and demonstrates strong application and understanding of evidence and properly cites information.</td>
-</tr>
-</tbody>
-</table>
+| NAME: | | | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
+| **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
+| **Quality of starter &amp; summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
+| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
+| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
 
-<strong>Performance rating:</strong>
+**Performance rating:**
 
-<ul>
-<li><p><em><strong>Below Standard</strong></em> -- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.</p></li>
-<li><p><em><strong>Acceptable Standard</strong></em> -- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.</p></li>
-<li><p><em><strong>Well Developed Standard</strong></em> -- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.</p></li>
-<li><p><em><strong>Above Standard</strong></em> -- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.</p></li>
-</ul>
+* _**Below Standard**_ -- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
+
+* _**Acceptable Standard**_ -- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
+
+* _**Well Developed Standard**_ -- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
+
+* _**Above Standard**_ -- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
