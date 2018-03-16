@@ -10,20 +10,27 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Overview</h2>
+
 <h3>Week 6</h3>
+
 ZOOM video-conference
 
-- Learner Introductions - **TBD**
+<ul>
+<li>Learner Introductions - <strong>TBD</strong></p></li>
+<li><p>Assignment 1 Review - <strong>TBD</strong></p></li>
+<li><p>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</p></li>
+</ul>
 
-- Assignment 1 Review - **TBD**
+<p>NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
 
-- Book Development Learning Activity plus Q&amp;A - **TBD**.
-
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
 <h2>Outcomes</h2>
+
 &nbsp;
+
 <h2>Resources</h2>
+
 <h1><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">SWOT </span></h1>
+
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">SWOT </span>analysis is a long standing strategic process used successfully by various and varying organizations for many years. (see https://www.youtube.com/watch?v=NVwQNOIu808)
 SWOT Analysis and Brain storming processes are in declining use around the world (see https://www.youtube.com/watch?v=9K8W4ooygUU&amp;list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v) , and its underlying methodology often criticized as contributing to group think. (see https://www.youtube.com/watch?v=dMKK17EWXks)
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
