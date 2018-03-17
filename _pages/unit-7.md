@@ -10,18 +10,23 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Overview</h2>
+
 <h3>Week 6</h3>
+
 <h4>Day 1</h4>
+
 ZOOM video-conference
 
-- Learner Questions and Process Review - **TBD**
+<ul>
+<li>Learner Questions and Process Review - <strong>TBD</strong></p></li>
+<li><p>TEAM Assignment Progress Review - <strong>TBD</strong></p></li>
+<li><p>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</p></li>
+</ul>
 
-- TEAM Assignment Progress Review - **TBD**
+<p>NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
 
-- Book Development Learning Activity plus Q&amp;A - **TBD**.
-
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
 <h4>This week (draft)</h4>
+
 This week introduces YOU to TEAM BLOGging.
 
 This is where your and your TEAM will take an assigned position and prove it throughout the week. You may or may not agree with the position you are assigned to defend, but will need to create and defend the position for the other TEAM(S) to respond to. Instruction for the TEAM BLOG activity and  the PressBooks material appear below.
@@ -37,7 +42,9 @@ You will find a wider variety of Learning Activities (6) this week as well. The 
 [Link to PressBooks instruction here]
 
 &nbsp;
+
 <h2><strong>Outcomes</strong></h2>
+
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -51,23 +58,31 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 <h2><strong>Resources</strong></h2>
+
 <h4>Week 4 Assignments</h4>
-Assignment: BLOG 4 - **Day 1-6 of Week 4** - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
+Assignment: BLOG 4 - <strong>Day 1-6 of Week 4</strong> - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
 <h4>BLOG 4 (TEAM BLOG)</h4>
+
 <h4><em>(Please see posting structures instruction for BLOG 4 - Week 6)</em></h4>
+
 [Link to BLOG 4 - WEEK 6 Posting structures here]
 
 Here we are at the start of Week 6.
 
 To date:
+
 <ol>
- 	<li>You assessed yourself as a Strategic Leader. (Assignment 1)</li>
- 	<li>You discussed the tools and thinking associated with servant and strategic leadership for organizational development. (BLOG 1)</li>
- 	<li>You are presently discussing Strategic Leadership Teams and how to build them and respond to the challenges they represent. (BLOG 2)</li>
- 	<li>You also measured and responded to strategy renewal, execution and organizational design principles in your organizational and personal practice.</li>
- 	<li>Your first TEAM Assignment is already received. <em>(It should be graded and returned by now.)</em></li>
+    <li>You assessed yourself as a Strategic Leader. (Assignment 1)</li>
+    <li>You discussed the tools and thinking associated with servant and strategic leadership for organizational development. (BLOG 1)</li>
+    <li>You are presently discussing Strategic Leadership Teams and how to build them and respond to the challenges they represent. (BLOG 2)</li>
+    <li>You also measured and responded to strategy renewal, execution and organizational design principles in your organizational and personal practice.</li>
+    <li>Your first TEAM Assignment is already received. <em>(It should be graded and returned by now.)</em></li>
 </ol>
+
 As we enter Week 6, I want to travel on a favourably oppositional safari.
 
 Using your texts, your experiences and your well honed academic prowess, you will approach this week’s BLOG (BLOG 4 – Week 6) by providing favourable/oppositional views to the questions posed, substantively, succinctly and with citations from relevant supportive referencing to the view you present.
@@ -77,65 +92,122 @@ Using your texts, your experiences and your well honed academic prowess, you wil
 <span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 4 - WEEK 6 Posting structures here]</span>
+
 <ul>
- 	<li>Teams will post in ‘favour’ or ‘opposition’ to the premise of the question presented.</li>
- 	<li>You can post anytime between Day 1 @ 06:00 and Day 6 @ 23:59:59.</li>
- 	<li>The instructor will assign the team focus (‘favour’ or ‘opposition’) for all posts in the BLOG.</li>
+    <li>Teams will post in ‘favour’ or ‘opposition’ to the premise of the question presented.</li>
+    <li>You can post anytime between Day 1 @ 06:00 and Day 6 @ 23:59:59.</li>
+    <li>The instructor will assign the team focus (‘favour’ or ‘opposition’) for all posts in the BLOG.</li>
 </ul>
+
 One TEAM member will speak in ‘favour,’ to support the question, the TEAM member from the opposite team will speak in ‘opposition’ to the question to disprove it.
+
 <ul>
- 	<li>‘Favour’ teams will respond in ‘favour’ of the practices and premise laid out in the question and the texts substantively, succinctly and with citation of source materials.</li>
- 	<li>‘Opposition’ teams will ‘oppose’ the practices and premise laid out in the question and presented by the texts substantively, succinctly and with citation of source materials.</li>
+    <li>‘Favour’ teams will respond in ‘favour’ of the practices and premise laid out in the question and the texts substantively, succinctly and with citation of source materials.</li>
+    <li>‘Opposition’ teams will ‘oppose’ the practices and premise laid out in the question and presented by the texts substantively, succinctly and with citation of source materials.</li>
 </ul>
+
 The parameters remain the same for all BLOGS.
+
 <ul>
- 	<li>There are no individual posts.</li>
- 	<li>You will submit three (3) posts per team for the week.</li>
- 	<li>They will be substantive, succinct and cited.</li>
+    <li>There are no individual posts.</li>
+    <li>You will submit three (3) posts per team for the week.</li>
+    <li>They will be substantive, succinct and cited.</li>
 </ul>
+
 The team assignments for this week will be assigned by the Saturday prior to the beginning of Week 6:
 
 The question you will respond to in this week's TEAM BLOG is as follows:.
+
 <ul>
- 	<li>Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).</li>
+    <li>Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).</li>
 </ul>
+
 Your answers will include materials from the Lepsinger text and at least two (2) other course texts and at least one (1) outside source not listed in course materials.
+
 <h4>Team Posts</h4>
+
 <ul>
- 	<li><strong>For your first TEAM post</strong>, you will choose one of the sections from Chapter 5 above and write in favour/opposition of the principle you focus on. The principle must be fully addressed by stating why the principles reviewed are important factors for the section you review. (i.e. if there are 4 points to the section you focus on, every point must receive a favourable/oppositional review on how it helps/hinders organizational change)</li>
- 	<li><strong>Your second TEAM post</strong> will respond favourably/opposed to the first post by Team(s) addressing their favour/opposition to the section in chapter 5 they responded to.</li>
- 	<li><strong>Your third TEAM post</strong> will review all post materials from the week and provide a summary of your favour/opposition for all sections reviewed in previous posts and the Team favour/opposition position for all sections reviewed in previous posts.</li>
+    <li><strong>For your first TEAM post</strong>, you will choose one of the sections from Chapter 5 above and write in favour/opposition of the principle you focus on. The principle must be fully addressed by stating why the principles reviewed are important factors for the section you review. (i.e. if there are 4 points to the section you focus on, every point must receive a favourable/oppositional review on how it helps/hinders organizational change)</li>
+    <li><strong>Your second TEAM post</strong> will respond favourably/opposed to the first post by Team(s) addressing their favour/opposition to the section in chapter 5 they responded to.</li>
+    <li><strong>Your third TEAM post</strong> will review all post materials from the week and provide a summary of your favour/opposition for all sections reviewed in previous posts and the Team favour/opposition position for all sections reviewed in previous posts.</li>
 </ul>
+
 Once you summarize your position, make one final summary paragraph listing the top three reasons you believe your assigned position proves/disproves the principles reviewed.
 
 Substantive, Succinct and Cited
 
 &nbsp;
 
-#### LDRS 501 – BLOG 4 Rubric (5%) - Example.
+<h4>LDRS 501 – BLOG 4 Rubric (5%) - Example.</h4>
+
 <strong>BLOG TEAM participation is assessed as follows in all BLOG Posts for 5% of grade:</strong>
 
-| **NAME:**| | | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
-| **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
-| **Quality of starter &amp; summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
-| **Quality of threaded discussion reply** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
-| **Understanding of reading and outside source material** | Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx"). | Responds to the question posted but does not clearly synthesize the readings. | Responds to the question posted but clearly synthesizes the readings and shows application. | Responds to question and demonstrates strong application and understanding of evidence and properly cites information. |
+<table>
+<thead>
+<tr>
+  <th align="left"><strong>NAME:</strong></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"><strong>MARK= /5</strong></th>
+  <th align="left"><strong>ONLINE Discussion Grading Criteria</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="left"><strong>Performance</strong></td>
+  <td align="left"><strong>BELOW</strong></td>
+  <td align="left"><strong>Acceptable</strong></td>
+  <td align="left"><strong>Well Developed</strong></td>
+  <td align="left"><strong>ABOVE</strong></td>
+</tr>
+<tr>
+  <td align="left"><strong>Marks</strong></td>
+  <td align="left"><strong>2.5 or less</strong></td>
+  <td align="left"><strong>3.0- 3.5</strong></td>
+  <td align="left"><strong>4.0- 4.5</strong></td>
+  <td align="left"><strong>5</strong></td>
+</tr>
+<tr>
+  <td align="left"><strong>Quality of starter &amp; summary posts</strong></td>
+  <td align="left">Less than required number of postings. The quality of work does not show critical thinking or analysis</td>
+  <td align="left">Postings reflect the reading but do not show outside sources. The post shows some critical thinking</td>
+  <td align="left">Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence</td>
+  <td align="left">Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application</td>
+</tr>
+<tr>
+  <td align="left"><strong>Quality of threaded discussion reply</strong></td>
+  <td align="left">Does not further the discussions topic or move the discussion forward</td>
+  <td align="left">Participates, but does not show higher ordered thinking. Limited use of evidence</td>
+  <td align="left">Strong posts that does show significant higher ordered thinking and effective use of evidence</td>
+  <td align="left">Response relevant to posting and supports position with factual information. The post shows excellent understanding and application.</td>
+</tr>
+<tr>
+  <td align="left"><strong>Understanding of reading and outside source material</strong></td>
+  <td align="left">Does not respond to the question posted or with minimal effort (i.e. "I agree with xxx").</td>
+  <td align="left">Responds to the question posted but does not clearly synthesize the readings.</td>
+  <td align="left">Responds to the question posted but clearly synthesizes the readings and shows application.</td>
+  <td align="left">Responds to question and demonstrates strong application and understanding of evidence and properly cites information.</td>
+</tr>
+</tbody>
+</table>
 
-**Performance rating:**
+<strong>Performance rating:</strong>
 
-* _**Below Standard**_-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.
+<ul>
+<li><em><strong>Below Standard</strong></em>-- postings do not meet the expectations stated in the outcomes. It will qualify for th low tier points.</p></li>
+<li><p><em><strong>Acceptable Standard</strong></em>-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.</p></li>
+<li><p><em><strong>Well Developed Standard</strong></em>-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.</p></li>
+<li><p><em><strong>Above Standard</strong></em>-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.</p></li>
+</ul>
 
-* _**Acceptable Standard**_-- postings meet the basic expectations stated in the outcomes. It will qualify for the median tier points.
-
-* _**Well Developed Standard**_-- postings meet the higher level integration and synthesis expectations stated in the outcomes. It will qualify for the higher tier points.
-
-* _**Above Standard**_-- posting is above the higher level integration and synthesis’ expectations stated in the outcomes. It will qualify for the highest tier points.
 <h2>Resources</h2>
+
 <h4>For TEAM Assignment 2</h4>
-Please see Week 3 (Unit 4) Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
+
+<p>Please see Week 3 (Unit 4) Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 
 [Link to Week 3 (Unit 4) Notes here]
+
 <h4>Learning Activity 7.1</h4>
+
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to PressBooks instruction here]</span>
