@@ -10,8 +10,11 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Overview (draft)</h2>
+
 <h3>Week 7</h3>
+
 <h4>This week</h4>
+
 This week introduces YOU to the topic of Conflict and Cooperation in our BLOG Forum &amp; the completion of your Strategic Applications Team Assignment.
 
 This is another opportunity to interact in real time responses as we discuss how conflict and cooperation demonstrate a delicate balance in life and for developing organizational strategies. A poorly framed idea here, a flippant response to someone on the wrong day or wrong time and all cooperation and good will disappears quickly. Cooperation can help corporate strategies soar and achieve projections at unparalleled levels, while conflict can destroy any momentum an organization hopes to accomplish.
@@ -32,7 +35,9 @@ The PressBooks material follows previous outlines for developing proficiency wit
 [Link to BLOG 5 rubric]
 
 [Link to PressBooks instruction here]
+
 <h2>Outcomes</h2>
+
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -46,36 +51,54 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
+
 <h2>Resource</h2>
+
 <h4>Week 4 Assignments</h4>
-Assignment: BLOG 5 - **Day 1-6 of Week 7** - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
+Assignment: BLOG 5 - <strong>Day 1-6 of Week 7</strong> - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
 <h4>BLOG 5</h4>
+
 <h4><em>(Please see posting structures instruction for BLOG 5 - Week 7)</em></h4>
+
 <h4>Conflict and cooperation</h4>
+
 &nbsp;
 
 <strong><em>This Week’s Question</em></strong>
 
 For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 167-204).
+
 <ol>
- 	<li>What are some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and in the organization as a whole?</li>
+    <li>What are some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and in the organization as a whole?</li>
 </ol>
+
 <ul>
- 	<li>How did your organization develop its communication policies within your missional environments?</li>
- 	<li>What expectations for transparency did they intend to enhance corporate working environments?</li>
- 	<li>Did they define how the organization would cooperate in fulfilling corporate goals through agreement, policy, etc.?</li>
- 	<li>What is/has your organization doing/done to align interests and establish common ground for fulfilling their envisioned practice of mission, vision and values and create healthy communication and productivity within corporate work environments?</li>
+    <li>How did your organization develop its communication policies within your missional environments?</li>
+    <li>What expectations for transparency did they intend to enhance corporate working environments?</li>
+    <li>Did they define how the organization would cooperate in fulfilling corporate goals through agreement, policy, etc.?</li>
+    <li>What is/has your organization doing/done to align interests and establish common ground for fulfilling their envisioned practice of mission, vision and values and create healthy communication and productivity within corporate work environments?</li>
 </ul>
-2. How has conflict affected the intended corporate practices within the organization and what is/was the impact to your experience within the organization or to the organization as a whole? (please do not use real names) 
+
+<ol>
+<li>How has conflict affected the intended corporate practices within the organization and what is/was the impact to your experience within the organization or to the organization as a whole? (please do not use real names) </li>
+</ol>
+
 <ul>
- 	<li>What conflict affected/effected the forward momentum of your team/organization?</li>
- 	<li>What steps did team/organization (or both) take to correct the results of the conflict experienced within team/organization?</li>
- 	<li>How would you direct your team/organization to resolve experienced conflict and the effects of conflict within the team/organization?</li>
+    <li>What conflict affected/effected the forward momentum of your team/organization?</li>
+    <li>What steps did team/organization (or both) take to correct the results of the conflict experienced within team/organization?</li>
+    <li>How would you direct your team/organization to resolve experienced conflict and the effects of conflict within the team/organization?</li>
 </ul>
-3. All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.
+
+<ol>
+<li>All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.</li>
+</ol>
 
 [Link to BLOG 5 - WEEK 7 Posting structures here]
+
 <h4>WEEK 7– TEAM ASSIGNMENT 2 - STRATEGIC LEADERSHIP TEAM PROJECT (15%)</h4>
+
 <strong>STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate</strong>
 
 <em><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></em>
@@ -95,22 +118,26 @@ Brain swarming rejects gathering everyone in a room to force a solution in an en
 <em><strong>Why do we need to talk in the first place?</strong></em>
 
 How Brain Swarming works:
+
 <ul>
- 	<li>Learning outcomes are defined, then refined into cluster groups.</li>
- 	<li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
- 	<li>Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)</li>
+    <li>Learning outcomes are defined, then refined into cluster groups.</li>
+    <li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
+    <li>Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)</li>
 </ul>
+
 <em><strong>Assignment Parameters</strong></em>
 
 Using Lepsinger's 6 Bridge Building Principles in 'Closing the Execution Gap (2010) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
+
 <ul>
- 	<li>Assess the suggested strategies developed for the organization reviewed in your SWOT analysis to determine the anticipated success or failure of the changes suggested for the organization's future practice and suggested strategies determined for change in the organization.</li>
- 	<li>You can use a brainstorming or brain swarming approaches for reviewing the questions in the SWOT analysis. (Whichever tool your team uses is acceptable as long as the team is comfortable with the tool chosen – both are supplied for your review – direct any questions to the instructor in the Q &amp; A section of the course page if you experience any challenges with process.)</li>
- 	<li>Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above.</li>
- 	<li>The analysis will use Lepsinger’s (2010) 6 Bridge Builders (pp. 25-203) and the questions contained in Hughes, Beatty and Dinwoodie (2014) - Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.</li>
- 	<li>The TEAM LEAD (or a team agreed designate) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.</li>
- 	<li>The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.</li>
+    <li>Assess the suggested strategies developed for the organization reviewed in your SWOT analysis to determine the anticipated success or failure of the changes suggested for the organization's future practice and suggested strategies determined for change in the organization.</li>
+    <li>You can use a brainstorming or brain swarming approaches for reviewing the questions in the SWOT analysis. (Whichever tool your team uses is acceptable as long as the team is comfortable with the tool chosen – both are supplied for your review – direct any questions to the instructor in the Q &amp; A section of the course page if you experience any challenges with process.)</li>
+    <li>Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above.</li>
+    <li>The analysis will use Lepsinger’s (2010) 6 Bridge Builders (pp. 25-203) and the questions contained in Hughes, Beatty and Dinwoodie (2014) - Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.</li>
+    <li>The TEAM LEAD (or a team agreed designate) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.</li>
+    <li>The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.</li>
 </ul>
+
 THE TEAM WILL:
 
 1) <em><strong>Select</strong> </em>an organization to review using a SWOT analysis. (The organization can be fictional or actual.)
@@ -125,7 +152,9 @@ a. For the purpose of time the choice and identity of the organization needs com
 5) TEAM LEAD will <em><strong>post</strong> </em>PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date (Day 7)
 
 *NOTE: If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
+
 <h4>For TEAM Assignment 2</h4>
+
 Please see Week 3 (Unit 4) Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 
 [Link to Week 3 (Unit 4) Notes here]
