@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-### Unit 7 Learning Activities
+<h3>Unit 7 Learning Activities</h3>
 
-##### Learning Activity 7.1
+<h5>Learning Activity 7.1</h5>
 
-##### Learning Activity 7.2
+<h5>Learning Activity 7.2</h5>
