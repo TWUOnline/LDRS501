@@ -9,9 +9,12 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-## Overview
+<h2>Overview</h2>
 
-## Outcomes
+<h2>Outcomes</h2>
+
 <h2>Resources</h2>
+
 <h4>Learning Activity 10.1</h4>
+
 [Link to PressBooks instruction here]
