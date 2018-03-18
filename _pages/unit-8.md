@@ -129,3 +129,5 @@ a. For the purpose of time the choice and identity of the organization needs com
 Please see Week 3 (Unit 4) Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 
 [Link to Week 3 (Unit 4) Notes here]
+<h4>Learning Activity 8.1</h4>
+[Link to PressBooks instruction here]
