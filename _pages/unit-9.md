@@ -11,22 +11,22 @@ post_date: 2018-02-23 01:07:23
 ---
 <h2>Overview</h2>
 <h3>Week 8</h3>
-<h4>This week (draft)</h4>
+<h4>This week</h4>
 Over the last several weeks we reviewed many aspects of strategic leadership.
 
-In the Week 2 BLOG the discussion centered on how Transformational Servant Leadership affects/effects the development of strategic leadership directions, the benefits of keeping servant leadership as a central focus in strategic leadership principles and how the principles of critical thinking and transformational servant leadership principles affect organizational strategies.
+In the <em><strong>Week 2 BLOG</strong></em> the discussion centered on how Transformational Servant Leadership affects/effects the development of strategic leadership directions, the benefits of keeping servant leadership as a central focus in strategic leadership principles and how the principles of critical thinking and transformational servant leadership principles affect organizational strategies.
 
-The Week 3 BLOG dealt with Strategic Leadership Teams. The discussion focused on building a sense of ownership and involvement, limiting factors in team systems, identifying bottlenecks, the design choices in your present/previous working environment, your suggestions for building an effective Strategic Leadership team and the struggles an SLT can face as it develops and takes on challenges in working environments.
+The <em><strong>Week 3 BLOG</strong></em> dealt with Strategic Leadership Teams. The discussion focused on building a sense of ownership and involvement, limiting factors in team systems, identifying bottlenecks, the design choices in your present/previous working environment, your suggestions for building an effective Strategic Leadership team and the struggles an SLT can face as it develops and takes on challenges in working environments.
 
-The Week 4 BLOG focused on the effects of strategy renewal, execution and design principles in organizational experiences, while the Week 6 BLOG focused on Team Postings in ‘favour’ or ‘opposition’ to the principles presented in Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166).
+The <em><strong>Week 4 BLOG</strong> </em>focused on the effects of strategy renewal, execution and design principles in organizational experiences, while the <em><strong>Week 6 BLOG</strong></em> focused on Team Postings in ‘favour’ or ‘opposition’ to the principles presented in Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166).
 
-Last week’s BLOG (Week 7) focused us toward some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and the organization and, conflict affecting intended corporate practices.
+Last week’s <em><strong>BLOG (Week 7)</strong> </em>focused us toward some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and the organization and, conflict affecting intended corporate practices.
 
-This week we wrap up the BLOG sessions for LDRS 501 in Week 8.
+This week we wrap up the <em><strong>BLOG</strong> </em>sessions for LDRS 501 in Week 8.
 
-Instruction for the TEAM BLOG activity and  the PressBooks material appear below.
+Instruction for the TEAM BLOG activity and  the link to the PressBooks material appears below.
 
-The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
+The PressBooks material follows previous outlines for developing proficiency and implementing the material within the online environment. (add new information below with an overview here)
 
 [Link to BLOG 6]
 
@@ -79,5 +79,5 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 <strong>For posting responses</strong>, you are free to ‘agree’ or ‘challenge’ observations made in all posts.
 
 [Link to BLOG 6 - WEEK 8 Posting structures here]
-
-&nbsp;
+<h4>Learning Activity 9.1</h4>
+[Link to PressBooks instruction here]
