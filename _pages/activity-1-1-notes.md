@@ -318,7 +318,7 @@ Vision is not a magic pill, when once framed is fulfilled and committed to by ev
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
-Fournier, G. (2018) _Locus of Control_. Newburyport MA: Psych Central. Retrieved from [https://psychcentral.com/encyclopedia/locus-of-control/](https://psychcentral.com/encyclopedia/locus-of-control/)
+Fournier, G. (2018) [_Locus of Control_.](https://psychcentral.com/encyclopedia/locus-of-control/) Newburyport MA: Psych Central. 
 
 Liu, K. (1999) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
