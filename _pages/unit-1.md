@@ -64,7 +64,7 @@ As you review the ideas of personal learning and leadership, it is important you
 * Start to think about the question: “so how do you do this leadership thing anyway…”
 * Leadership includes learning and unlearning…
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">#### Learning Activity 1.2</span>
+#### Learning Activity 1.2
 
 Take a moment to read: Goleman - [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://drive.google.com/open?id=17Pz8cc0XNLWYMyB6gS2rS5LKbKYvv_KS) Book Summary
 
