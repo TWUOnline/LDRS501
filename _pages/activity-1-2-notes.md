@@ -10,7 +10,7 @@ published: true
 post_date: 2018-03-03 21:23:01
 ---
 <h4>Critical Thinking</h4>
-Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. -_**Daniel Levitin**_
+Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. - **_Daniel Levitin_**
 
 Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
 
