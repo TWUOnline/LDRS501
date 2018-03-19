@@ -26,8 +26,8 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 
 Aveyard, H., Woolliams, M., & Sharp, P. (2015)._A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._Maidenhead: McGraw-Hill Education.
 
-Critical Thinking. (n.d.). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking?s=t](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) (n.d.). In Dictionary.com
 
-Critical Thinking. (n.d.). In Dictionary.com, Retrieved from[http://www.dictionary.com/browse/critical-thinking](https://www.gitbook.com/book/twonline/ldrs501/edit#).
+[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#). (n.d.). In Dictionary.com, 
 
-Intellectual Responsibility (2018) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](https://www.gitbook.com/book/twonline/ldrs501/edit#)
+[Intellectual Responsibility](https://www.gitbook.com/book/twonline/ldrs501/edit#) (2018) If-I-Seek-Us. retrieved from[http://www.ifiseeu.com/Misc/intellectual-responsibility.htm]
