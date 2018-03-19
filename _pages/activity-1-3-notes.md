@@ -28,6 +28,6 @@ Aveyard, H., Woolliams, M., & Sharp, P. (2015)._A Beginner's Guide to Critical T
 
 [Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) (n.d.). In Dictionary.com
 
-[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#). (n.d.). In Dictionary.com
+[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) (n.d.). In Dictionary.com
 
 [Intellectual Responsibility](https://www.gitbook.com/book/twonline/ldrs501/edit#) (2018) If-I-Seek-Us. 
