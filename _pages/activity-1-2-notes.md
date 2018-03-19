@@ -10,6 +10,7 @@ published: true
 post_date: 2018-03-03 21:23:01
 ---
 <h4>Critical Thinking</h4>
+
 Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made.**Daniel Levitin**
 
 
