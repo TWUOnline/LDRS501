@@ -16,9 +16,9 @@ Critical thinking is a process by which we explore and analyze ideas and questio
 
 ##### Definitions
 
-_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence. **_(Dictionary.com)
+_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence.**_(Dictionary.com)
 
-_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion. **_(Dictionary.com)
+_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion.**_(Dictionary.com)
 
 #### Traits of a Critical Thinking Mind
 
