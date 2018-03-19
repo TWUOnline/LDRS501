@@ -9,25 +9,36 @@ permalink: >
 published: true
 post_date: 2018-03-09 12:04:40
 ---
-#### Concluding Learning Activity Exercise
+<h4>Concluding Learning Activity Exercise</h4>
 
 Looking at your area of personal worldview, responsibility, discipline, organization or area of study; respond to the questions below as they relate to critical thinking:
 
-1. What are the changes influencing your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to the changes affecting these areas of your life?
-   1. Look at each area; review the basic assumptions you are dealing with
-      _(i. e. the best way to travel across Canada is by bus)_
-      and list the changes influences these areas for you.
-2. How can you think more critically about these changes?
-   1. List the critical observations you make on a separate log for future review and discussion.
-3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?
-4. Once you review these questions and respond to them:
-   1. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
-   2. Keep the proposal for future use in other participation activities throughout the course.
+<ol>
+<li>What are the changes influencing your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to the changes affecting these areas of your life?
 
-Aveyard, H., Woolliams, M., & Sharp, P. (2015)._A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._Maidenhead: McGraw-Hill Education.
+<ol>
+<li>Look at each area; review the basic assumptions you are dealing with
+<em>(i. e. the best way to travel across Canada is by bus)</em>
+and list the changes influences these areas for you.</li>
+</ol></li>
+<li>How can you think more critically about these changes?
 
-[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) (n.d.). In Dictionary.com
+<ol>
+<li>List the critical observations you make on a separate log for future review and discussion.</li>
+</ol></li>
+<li>Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?</li>
+<li>Once you review these questions and respond to them:
 
-[Critical Thinking.](https://www.gitbook.com/book/twonline/ldrs501/edit#) (n.d.). In Dictionary.com
+<ol>
+<li>Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.</li>
+<li>Keep the proposal for future use in other participation activities throughout the course.</li>
+</ol></li>
+</ol>
 
-[Intellectual Responsibility](https://www.gitbook.com/book/twonline/ldrs501/edit#) (2018) If-I-Seek-Us. 
+Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015)._A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._Maidenhead: McGraw-Hill Education.
+
+<a href="https://www.gitbook.com/book/twonline/ldrs501/edit#">Critical Thinking.</a> (n.d.). In Dictionary.com
+
+<a href="https://www.gitbook.com/book/twonline/ldrs501/edit#">Critical Thinking.</a> (n.d.). In Dictionary.com
+
+<a href="https://www.gitbook.com/book/twonline/ldrs501/edit#">Intellectual Responsibility</a> (2018) If-I-Seek-Us.
