@@ -48,7 +48,9 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
 <h2>Resource</h2>
 <h4>Week 4 Assignments</h4>
+
 Assignment: BLOG 5 - **Day 1-6 of Week 7** - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
+
 <h4>BLOG 5</h4>
 <h4><em>(Please see posting structures instruction for BLOG 5 - Week 7)</em></h4>
 <h4>Conflict and cooperation</h4>
@@ -82,13 +84,13 @@ For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 16
 
 This assignment is intended as an applied learning experience using SWOT in conjunction with either a ‘brain storming’ process or the ‘brain swarming’ to develop your information.
 
-SWOT analysis is a long standing strategic process used successfully by various and varying organizations for many years. (see https://www.youtube.com/watch?v=NVwQNOIu808)
+[SWOT analysis](https://www.youtube.com/watch?v=NVwQNOIu808) is a long standing strategic process used successfully by various and varying organizations for many years.
 
-SWOT Analysis and Brain storming processes are in declining use around the world (see https://www.youtube.com/watch?v=9K8W4ooygUU&amp;list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v) , and its underlying methodology often criticized as contributing to group think. (see https://www.youtube.com/watch?v==CWEvJciU0Zc&amp;t=13s and https://www.youtube.com/watch?v=2AXOSQT5yVQ)
+[SWOT Analysis and Brain storming processes](https://www.youtube.com/watch?v=9K8W4ooygUU&amp;list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v) are in declining use around the world, and its underlying methodology often criticized as contributing to group think. See [video 1](https://www.youtube.com/watch?v==CWEvJciU0Zc&amp;t=13s) and [video 2](https://www.youtube.com/watch?v=2AXOSQT5yVQ).
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
-A newer process of Brain Swarming focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in Brain Swarming and represents a different approach to the discipline of strategic thinking. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)
+A newer process of [Brain Swarming](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in Brain Swarming and represents a different approach to the discipline of strategic thinking. 
 
 Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While Brain Storming is the practice of sharing ideas while withholding judgment, Brain Swarming asks:
 
@@ -98,7 +100,7 @@ How Brain Swarming works:
 <ul>
  	<li>Learning outcomes are defined, then refined into cluster groups.</li>
  	<li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
- 	<li>Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)</li>
+ 	<li>[Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort.](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) </li>
 </ul>
 <em><strong>Assignment Parameters</strong></em>
 
