@@ -100,7 +100,7 @@ How Brain Swarming works:
 <ul>
  	<li>Learning outcomes are defined, then refined into cluster groups.</li>
  	<li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
- 	<li> [Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort.](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) </li>
+ 	<li>Your input becomes pieces to a puzzle joining various contributions into [strategic perspectives](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) the team can sort.
 
 
 <em><strong>Assignment Parameters</strong></em>
