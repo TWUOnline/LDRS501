@@ -49,7 +49,9 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
 <h2>Resource</h2>
 <h4>Week 8 Assignments</h4>
-Assignment: BLOG 6 - **Day 1-6 of Week 8** - Post in BLOG 6 Discussion Thread - <strong>5%</strong>.
+
+Assignment: BLOG 6 - **Day 1-6 of Week 8** - Post in BLOG 6 Discussion Thread - 5%.
+
 <h4>BLOG 6</h4>
 <h4><em>(Please see posting structures instruction for BLOG 6 - Week 8)</em></h4>
 <h4>Strategic Leadership Competencies</h4>
