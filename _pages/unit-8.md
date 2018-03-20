@@ -100,8 +100,9 @@ How Brain Swarming works:
 <ul>
  	<li>Learning outcomes are defined, then refined into cluster groups.</li>
  	<li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
- 	<li>[Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort.](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) </li>
-</ul>
+ 	<li> [Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort.](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work) </li>
+
+
 <em><strong>Assignment Parameters</strong></em>
 
 Using Lepsinger's 6 Bridge Building Principles in 'Closing the Execution Gap (2010) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader (2014) from Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134;
