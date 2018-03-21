@@ -127,3 +127,4 @@ Ranson, S. (1998). <em>Inside the learning society.</em> London: Continuum.
 <div class="contrib">Ranson, S., Martin, J., Nixon, J. and McKeown, P. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">(March 1996)</span>. <cite>British Journal of Educational Studies. </cite>Vol. 44, No. 1, pp. 9-26. Oxfordshire: Taylor and Francis.</div>
 <div></div>
 <div class="contrib">Stiglitz, J. E., &amp; Greenwald, B. C. (2014). <i>Creating a Learning Society : A New Approach to Growth, Development, and Social Progress</i>. New York: Columbia University Press.</div>
+
