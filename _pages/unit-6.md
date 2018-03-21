@@ -17,7 +17,7 @@ This is your opportunity to catch up on your reading, assignments, PressBooks ma
 
 I listed a few items for <em>optional</em> reading and review below to have a deeper understanding of Strategic Leadership concepts. I also included a <em>video</em> featuring <a href="http://(https://www.youtube.com/watch?v=UZrTl16hZdk)" target="_blank" rel="noopener">Richard Rumelt</a>, a renowned scholar on strategy concepts, for your viewing. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">(https://www.youtube.com/watch?v=UZrTl16hZdk)</span> The <em>video</em> runs about 1 hour and 34 minutes, but has many insights you might enjoy as you traverse the wilds of Strategic Leadership.
 
-If you want to make an appointment with me during this week to discuss anything related to your course work or progression, please feel free to connect with me and we will make a time to get together, in person, on Skype, ZOOM or by phone.
+If you want to make an appointment this week to discuss your course work or progression, feel free to connect and make a time to get together, in person, on Skype, ZOOM or by phone.
 
 Enjoy your reading week.
 <h2>Resource</h2>
