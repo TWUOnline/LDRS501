@@ -58,7 +58,6 @@ By the end of this LDRS 501 course, learners will be able to:
 
 3. **Integrate and synthesize**  
    a broad range of LDRS 501 course materials to demonstrate leadership application.
-
 4. **Examine key strategic leadership applications**  
    to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
@@ -85,7 +84,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 4 - May 21-27** | Learning Activity 4 | Book Development Instruction | Available** May 22, 2018** |
 | **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- BLOG 3 | Due **MAY 27 @ 23:59** |
 | **Week 4 - May 21-27** | STRAT Assignment | TEAM Assignment 1 | Due **MAY 27 @ 23:59** |
-| **READING WEEK – MAY 28-JUNE 3** | **Reading and Catch up**  | **on reading ** | **& Assignments** |
+| **READING WEEK – MAY 28-JUNE 3** | **Reading and Catch up**  | **on reading** | **& Assignments** |
 | **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to TEAM BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to TEAM BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- BLOG 4 | Due **JUNE 10 @ 23:59** |
 | **Week 7 - June 11-17** | Learning Activity 6 | Book Development Instruction and Review | Available **June 11, 2018** |
