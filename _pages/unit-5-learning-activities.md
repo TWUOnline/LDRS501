@@ -10,10 +10,15 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h4>Unit 5 Learning Activities</h4>
+
 <h4>Learning Activity 5.1</h4>
+
 <h4>Strategic Thinking</h4>
+
 <strong>Market Position Thinking &amp; Processes for Service Improvement</strong>
+
 <h4><em>Read and Respond Activities</em></h4>
+
 Follow the instructions for each learning activity to gain understanding and interact with the material review for each learning activity during Week 4 of LDRS 501.
 
 <strong>INTRODUCTION</strong>
@@ -37,60 +42,50 @@ Lack in leadership accountability is one of the most common criticisms of leader
 Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
 Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
+
 <h4>Inductive Reasoning in the Workplace <strong><em>(edited)</em></strong></h4>
+
 (https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
 Here are some examples to enhance your understanding of inductive thinking. Read them over, and reflect on instances of inductive thinking in your own professional experience.
 
-1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em>
+<ol>
+<li>A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em></p></li>
+<li><p>An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i></p></li>
+<li><p>A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i></p></li>
+</ol>
 
-2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i>
+<p>In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 
-3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i>
-
-4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i>
-
-5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i>
-
-6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i>
-
-7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i>
-
-8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i>
-
-9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i>
-
-10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
-
-In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills <em>(edited) </em></h4>
+
 <em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
 
 Here are some examples to enhance your understanding of deductive thinking. Read them over, and reflect on instances of deductive thinking in your own professional experience.
 
-1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(belief </em>proves outcome)
+<ol>
+<li>A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(belief </em>proves outcome)</p></li>
+<li><p>Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i></p></li>
+<li><p>Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i></p></li>
+<li><p>Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b></p></li>
+<li><p>A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i></p></li>
+<li><p>A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i></p></li>
+<li><p>A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i></p></li>
+<li><p>A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i></p></li>
+<li><p>Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i></p></li>
+<li><p>A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i></p></li>
+</ol>
 
-2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i>
-
-3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i>
-
-4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b>
-
-5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i>
-
-6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i>
-
-7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i>
-
-8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i>
-
-9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i>
-
-10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
-
-The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
+<p>The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
@@ -115,14 +110,19 @@ To address the lack of focus, create learning opportunities to help them concent
 c. Auditor
 
 Auditory learners  remember details about information they hear quite accurately, often discovering information through listening and interpreting pitch and emphasis on the topics or materials presented. They gain knowledge from reading out loud or hearing information read out loud and have challenges fully understanding detailed written information. (Gilakjani, p. 106)
+
 <h4>Reflective Questions and Activity.</h4>
+
 <ol>
- 	<li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li>
- 	<li>Make a private list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li>
- 	<li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li>
+    <li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li>
+    <li>Make a private list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li>
+    <li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li>
 </ol>
+
 <h4>Learning Activity 5.2</h4>
+
 <h4><strong>Subjectivity and Intuition</strong></h4>
+
 In addition to the learning styles and approaches mentioned in Lesson 5. 1, there are more complex styles to consider. For example, learning can be subjective or intuitive.
 
 Subjective thinking has no objective standard guiding it and is subject to the interpretation of the individual with no objective reference to prove the thinking is logical or objective in nature. Thinking based on emotion and personal preference rather than rational logic. (http://complexitylabs.io/subjective-thinking/) To put it bluntly, the reasoning is all in their head. (JIBC, p. 1)
@@ -140,41 +140,59 @@ They continue to make the point that knowing which type of decision making is es
 The key action for the leader facing subjective or intuitive thinkers is listening. Listen, weigh the options and decide based on the best evidence. Your subjective and intuitive thinkers may just surprise everyone.
 
 No discussion on thinking and learning strategically is complete without a discussion on inevitable bias and communication distrust.
+
 <h4>Inevitable Bias</h4>
+
 We all live with some form of bias in any given situation. An inevitable bias leads toward inevitable outcomes based on predetermined bias, whether conscious or unconscious, in foresight or hindsight. The bias shapes the outcome, except it may not be planned as bias, simply unfolds as bias because of the opinions held by the person(s) investigating the facts or evidence set before them.
 
 Psychological bias leads people to downplay the probability and danger of change, and their role in it, while increasing their perceived incentives to maintain the status quo, and to blame problems on others. (Johnson and Levin, p. 1593)
 
 To determine how inevitable bias affects your perceptions and thinking take the Implicit Association test (IAT) @ https://implicit.harvard.edu/implicit/canada/. There are a variety of choices for you to make to test your biases toward a variety of topics. There is no expectation for you to share the results of the IAT, but only ex[pose you to possible biases you might hold and allow you to assess your own thinking in this regard.
+
 <h4>Communication Distrust</h4>
+
 Communication distrust rarely shows itself aggressively in a work environment. As Glenn Llopis outlines in his January 2011 Forbes Leadership article entitled <em>'How distrust, indifference and lack of integrity will destroy your business,' </em>
+
 <blockquote>Distrust will not show itself in obvious fashion because distrust knows it is not welcome. It will hide and only become visible to those with the skill to see beneath the obvious. The ability to spot the weed of distrust is not simple, but all weeds of this nature look alike. (Llopis)</blockquote>
+
 Communication distrust lies below the surface and only rears its head when it feels safe to do so and cause the greatest damage to organizational or relationship structures. Distrust plants its own seeds through every interaction. The only way to combat it is to act in the best interests of all concerned and create trusting environments through open dialogue and transparency throughout.
+
 <h4>Reflective Questions and Activity.</h4>
+
 To determine the climate you live in, look beneath the details of your company meetings. Personally assess your environment using the following scale suggested by Llopis.
+
 <ul>
- 	<li>What political undercurrents exist? Trust      Distrust   Why do you say that? What evidence do you have?</li>
- 	<li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? Yes   No   Why do you say that? What evidence do you have?</li>
- 	<li>Can the leaders be trusted and do they trust the workers? Yes   No   Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? Yes   No   Why do you say that? What evidence do you have?</li>
- 	<li>Are the discussion topics in the meeting objective and supported by observations from the workplace? Yes   No   Why do you say that? What evidence do you have?</li>
+    <li>What political undercurrents exist? Trust      Distrust   Why do you say that? What evidence do you have?</li>
+    <li>Do your leaders merely make expected power plays, puffing themselves up and blowing smoke to cover up the truth? Yes   No   Why do you say that? What evidence do you have?</li>
+    <li>Can the leaders be trusted and do they trust the workers? Yes   No   Why do you say that? What evidence do you have?</li>
+    <li>Are the discussion topics in the meeting subjective, vague, and seasoned with optimism? Yes   No   Why do you say that? What evidence do you have?</li>
+    <li>Are the discussion topics in the meeting objective and supported by observations from the workplace? Yes   No   Why do you say that? What evidence do you have?</li>
 </ul>
+
 <h4>Learning Activity 5.3</h4>
+
 <h4>Organizational <strong>Information </strong>Strategies</h4>
+
 Once you understand the various thinking models and habits of your teams, there is the development of effective communication strategies to assist in communicating to the diverse thinking styles represented by the teams within the organizational framework; from the Board and Executive Leadership, on through the grassroots members of your most ad hoc teams. Clear communication of strategic goals and plans is imperative for the success of any organization wanting to fulfill its strategic imperatives.
+
 <blockquote>... the greater the uncertainty of the task, the greater the amount of information that has to be processed between decision makers during the execution of the task. (Galbraith, p. 28)</blockquote>
+
 Jay Galbraith, as early as 1974, identified the importance of informational strategies across organizations to ensure the message did not get lost in the diversity of the teams represented within the organizational framework. He outlines the following information strategies for organizations, still effective for use in today's rapidly changing and strongly challenging strategy driven corporate environments. His suggestions include:
+
 <ol>
- 	<li><strong>Increasing the ability of teams to preplan before going forward.</strong> Allowing teams the ability to preplan provides the opportunity to assign various and varying team members to tasks they are best suited to participate in. Taking into consideration their strengths, weaknesses, thinking styles and schedules for completion, can allow a team to be the most effective with the tools at hand.</li>
- 	<li><strong>Increase their flexibility to adapt to their inability to preplan</strong> by providing more explanation and investigation time to put it all together. Taking into account the various thinking styles, addressing bias and allowing issues of distrust to be explored and responded to can help remove barriers to preplanning by responding to concerns or challenges within the corporate environment.</li>
- 	<li><strong>Work with what you've got</strong>, not what you wish you had. "Decrease the level of performance required for continued viability." (p. 28) We all want a dream team, but the reality is most organizations simply have great teams that can work phenomenally at a level of equality focused on moving the goals forward and accomplishing the tasks within their ability levels and understanding of the goals. Communicating clear goals to a team you have confidence in, versus adding the undue pressure of heightened expectations they may not be able to achieve within the time frames assigned will allow everyone and every goal to have the best opportunity for fulfillment and support of the strategies enlisted for successful organizational growth.</li>
+    <li><strong>Increasing the ability of teams to preplan before going forward.</strong> Allowing teams the ability to preplan provides the opportunity to assign various and varying team members to tasks they are best suited to participate in. Taking into consideration their strengths, weaknesses, thinking styles and schedules for completion, can allow a team to be the most effective with the tools at hand.</li>
+    <li><strong>Increase their flexibility to adapt to their inability to preplan</strong> by providing more explanation and investigation time to put it all together. Taking into account the various thinking styles, addressing bias and allowing issues of distrust to be explored and responded to can help remove barriers to preplanning by responding to concerns or challenges within the corporate environment.</li>
+    <li><strong>Work with what you've got</strong>, not what you wish you had. "Decrease the level of performance required for continued viability." (p. 28) We all want a dream team, but the reality is most organizations simply have great teams that can work phenomenally at a level of equality focused on moving the goals forward and accomplishing the tasks within their ability levels and understanding of the goals. Communicating clear goals to a team you have confidence in, versus adding the undue pressure of heightened expectations they may not be able to achieve within the time frames assigned will allow everyone and every goal to have the best opportunity for fulfillment and support of the strategies enlisted for successful organizational growth.</li>
 </ol>
+
 To accomplish these goals, Galbraith suggests using a mechanistic model to address the nuances representative of complex teams, whether due to numbers of teams and component member parts or thinking styles, biases, distrust issues or other variables arising in the process. He suggests 'integrating mechanisms which increase its information processing capabilities.' (p. 29)
+
 <ol>
- 	<li><strong>Coordination by Rules or Programs.</strong> Rules or programs coordinate behaviour between interdependent groups and responsibilities within teams and organizational structures. Each role executes the appropriate decision or behaviour appropriate to the assigned task or responsibility.</li>
- 	<li><strong>Hierarchy.</strong> As the organization faces situations where no rules are set for the situation, good hierarchy can provide direction and focus to the teams to allay any uncertainties or a stoppage in momentum. Used sparingly and only as necessary, this can be a useful tool in assisting the forward momentum of strategic goals.</li>
- 	<li><strong>Coordination by Targets or Goals.</strong> As uncertainty increases, coordination must also increasing to specify goals and targets related to the various team responsibilities within the strategic process. The organization highlights processes to help teams achieve goals to allow employees to select behaviours conducive to accomplishing the intended organizational goals.</li>
+    <li><strong>Coordination by Rules or Programs.</strong> Rules or programs coordinate behaviour between interdependent groups and responsibilities within teams and organizational structures. Each role executes the appropriate decision or behaviour appropriate to the assigned task or responsibility.</li>
+    <li><strong>Hierarchy.</strong> As the organization faces situations where no rules are set for the situation, good hierarchy can provide direction and focus to the teams to allay any uncertainties or a stoppage in momentum. Used sparingly and only as necessary, this can be a useful tool in assisting the forward momentum of strategic goals.</li>
+    <li><strong>Coordination by Targets or Goals.</strong> As uncertainty increases, coordination must also increasing to specify goals and targets related to the various team responsibilities within the strategic process. The organization highlights processes to help teams achieve goals to allow employees to select behaviours conducive to accomplishing the intended organizational goals.</li>
 </ol>
+
 Regardless of your process, you do need one, it must take into account the nuances in thinking, the relationships with and within the organization and understand the levels of ability the teams have in meeting goals and making strategic initiatives successful. Leaders must provide leadership to allow leaders within the organization to lead. Taking shortcuts, placing expectations too high or simply leaving outcomes to chance are not options leaders can afford when dealing with the future and health of the organizations they serve.
 
 <u>Choice and Feelings</u>
@@ -188,34 +206,40 @@ As we move to how values beliefs and symbols affect/effect strategy and the succ
 <strong>Educational Values<i></i><u></u></strong>
 
 Using the Q-Sort Sheet below, rank the following educational values according to what you think should be empahsized in public schools.
+
 <ol>
- 	<li>competing with others</li>
- 	<li>Fostering creativity</li>
- 	<li>Developing intellectual potential</li>
- 	<li>Cooperating through teamwork</li>
- 	<li>Stressing individual development</li>
- 	<li>Developing positive social relationships</li>
- 	<li>Ensuring a well-organized, orderly environment</li>
- 	<li>Developing student emotional stability</li>
- 	<li>Preparing career skills</li>
+    <li>competing with others</li>
+    <li>Fostering creativity</li>
+    <li>Developing intellectual potential</li>
+    <li>Cooperating through teamwork</li>
+    <li>Stressing individual development</li>
+    <li>Developing positive social relationships</li>
+    <li>Ensuring a well-organized, orderly environment</li>
+    <li>Developing student emotional stability</li>
+    <li>Preparing career skills</li>
 </ol>
+
 <img class="alignnone size-medium wp-image-295" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Educational-Values-Exercise_edited-2-300x244.jpg" alt="" width="300" height="244" />
 
 To make it interesting, ask three friends, family members, coworkers, or for the adventurous, three strangers to complete the exercise, then compare responses.
+
 <ol>
- 	<li>What is the same?</li>
- 	<li>What's different?</li>
- 	<li>Where do you agree?</li>
- 	<li>Where do you differ?</li>
- 	<li>What do the results tell you about the people who filled out the form?</li>
- 	<li>What are their values?</li>
- 	<li>What is their view on education?</li>
- 	<li>Any other question you want to analyze from the data.</li>
+    <li>What is the same?</li>
+    <li>What's different?</li>
+    <li>Where do you agree?</li>
+    <li>Where do you differ?</li>
+    <li>What do the results tell you about the people who filled out the form?</li>
+    <li>What are their values?</li>
+    <li>What is their view on education?</li>
+    <li>Any other question you want to analyze from the data.</li>
 </ol>
+
 Regardless of the outcome. the exercise can tell you a lot about what you value and what the people around you value. The differences are not areas of dissension, simply areas of awareness. People who do not hold your specific values exist. They are within your scope of friendships, family and acquaintance. How does that affect the way you proceeded on issues where values differ?
 
 <strong>The Q sort sheet</strong> can be applied to a wide variety of issues and provides an informal snapshot for  a variety of issues you may face in your day to day operations in almost any organization; big or small.
+
 <h4>Learning Activity 5.4</h4>
+
 <strong>Issues, Leaders, Approaches, and Questions </strong>
 
 <strong>Uncertainty and Change</strong>
@@ -231,43 +255,47 @@ In the context of a Strengths, Weaknesses. Opportunities and Threat Analysis (SW
 Strategic issue levels related to Opportunities, outline how the organization will strategically address the opportunities they see and capitalize on them to maximize the opportunities presented. The strategies coming from this discussion and developed by various organizational teams, provides the framework and the strategic issue levels the organization will address.
 
 One of the simpler approaches is to take your established SWOT and break off into teams to review the strategic issues represented in your identified opportunities and threats. The process below describes an option for addressing strategic issues.
+
 <ol>
- 	<li>
+    <li>
 <blockquote>Place the list of Opportunities and Threats in front of you.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Review each opportunity and each threat. List them one by one under each heading.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Describe each opportunity and each threat in detail as it relates to the organization's future. Write down a summary for each.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Ask the team what the best possible outcome is for each opportunity and each threat. Write it down.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Ask the team what could possibly go wrong in the opportunity and threat strategies listed. Discuss and make a summary of your discussion.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote> Review the opportunities and threats again.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Ask the team what your team will do if the strategic process fails in solving issues related to the opportunities and threat strategies.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Make plans to address the issues you foresee.</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>If the plans do not address the issue, start at number 1 and repeat until the strategic issues are resolved and addressed.</blockquote>
 </li>
 </ol>
+
 <strong>Evaluating strategic plans</strong>
 
 William R. King (1978) in his thorough observation of strategic plans outlines several important facets for evaluating strategic planning activities. He suggests:
+
 <ol>
- 	<li>Any strategic planning requires attention to the organizational mission.</li>
- 	<li>It must stay true to the organization's strategic directives <em>(chosen organizational direction to achieve its goals)</em>.</li>
- 	<li>Take into account miscellaneous categories of engagement that may not be outlined in the main mission and organizational strategic objectives <em>(taking a fluid look at all issues affecting planning)</em>.</li>
+    <li>Any strategic planning requires attention to the organizational mission.</li>
+    <li>It must stay true to the organization's strategic directives <em>(chosen organizational direction to achieve its goals)</em>.</li>
+    <li>Take into account miscellaneous categories of engagement that may not be outlined in the main mission and organizational strategic objectives <em>(taking a fluid look at all issues affecting planning)</em>.</li>
 </ol>
+
 He goes on to outline how to evaluate system objectives in the evaluation process to determine the specific focus for the organization and define objectives in more concise and clearer language. (p. 30) He also takes a clear view toward systemic constraints and design strategies, to assist in the development and progression of the strategic plan and design. (pp. 30, 31) Outlining important evaluative processes to ensure the strategic planning organizations engage provides the best result possible for the organization and the future strategic plans it envisions.
 
 While King's article does not deal with every eventuality effectively, it does 'provide a basis for explicating individual systems in a fashion which facilitates choice and priority setting.' (p. 37) The message overall however, is the importance to evaluate strategic plans before, during and after implementation to ensure the trajectory of the plan, the pathway taken and the outcomes align with organizational objectives and to better ensure the success of the strategic plans envisioned, enacted and engaged.
@@ -281,7 +309,9 @@ Does your organization have a process of evaluation to ensure the plan is effect
 Review your most recent strategic plan and evaluate its overall effectiveness using the few questions cited above.
 
 What was your outcome?
+
 <h4>Learning Activity 5.5</h4>
+
 <strong>Best practice questions</strong>
 
 Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. OnStrategy is a strategic planning consulting organization who 'believe strategic planning is more than simply achieving business goals. It creates confidence in the future.' (https://onstrategyhq.com/about-us/)
@@ -289,45 +319,49 @@ Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practic
 Follow the link (https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/) to review Perkins <em>Top 10 Strategic Planning Best Practices</em>.
 
 Once you review the Top 10 Best Practices ask the following questions about your present work team with your organization or an organization you previously worked with.
+
 <ol>
- 	<li>
+    <li>
 <blockquote>Does our team seek diversity in putting together our planning teams? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Are our strategic planning teams firefighters or skydivers? Yes      No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Is our team a lone ranger hierarchy where one person does all the work and everyone else waits until they are told what to do? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Is our team a collaborative visionary team where everyone pulls together to see the plans fulfilled?  Yes    No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Our Senior Leadership runs all the planning meetings with little input from others around the table. Yes   No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Does the team understand how the plan unfolds and what execution steps are required for success? Yes  No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Do we have a third party facilitator to help us through the process? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>was the plan actionable? Did the plan clearly articulate goals, action steps, responsibilities, accountability, and specific deadlines, and did everyone understand the plan and their role in it? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Is there pressure to meet our strategic targets exactly as stated without flexible wiggle room for adjustments to the process? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Did you know the next steps of your plan before you were expected to implement them? Yes     No</blockquote>
 </li>
- 	<li>
+    <li>
 <blockquote>Did you review your strategic plan regularly? (weekly, monthly, quarterly) Yes     No</blockquote>
 </li>
 </ol>
+
 Once you answer the questions above, review them once more and list what actions you believe could change the process and make them into a list of recommendations you could present to your present leadership or the leadership of the organization you recently worked for.
 
 <strong>Strategic IQ</strong>
+
 <blockquote>'Strategic intelligence is the capacity to adapt to changing circumstances, as opposed to blindly continuing on a path when all the signals in your competitive environment suggest you need to change course.' - John R. Wells</blockquote>
+
 Wells, in an interview with Michael Blanding (2012), suggests Strategic IQ is established in an organization when 'the people in a company are intrinsically motivated to develop and execute good strategy.'
 
 Wells outlines ways of developing Strategic IQ, as well as critical success factors required for companies to excel in their strategies. The first, and in many instances the most important critical success factor, is 'the capacity to tolerate and learn from failure.' (Dalkir, 2016) The second critical success factor is 'the need to constantly adapt to the changing competitive environment.' (Dalkir)
@@ -345,9 +379,13 @@ One final resource to recommend for  researching strategies for a variety of or
 Baum, J. C., &amp; Lampel, J. (2010). <em>The Globalization Of Strategy Research.</em> Bingley, UK: Emerald Group Publishing Limited.
 
 The permalink is: https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=335519&amp;site=eds-live&amp;ebv=EB&amp;ppid=pp_Cover
+
 <h4>Learning Activity 5.6</h4>
+
 [Link to PressBooks instruction here]
+
 <h3>Learning Activity References</h3>
+
 Baum, J. C., &amp; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
 
 Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
