@@ -9,54 +9,55 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-### Unit 4 Learning Activities
+<h3>Unit 4 Learning Activities</h3>
 
-#### Learning Activity 4. 1
+<h4>Learning Activity 4. 1</h4>
 
 This week
 
-As you complete your reading of, _A Systems Thinking Primer: Seeing Organizations in Action_, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
+As you complete your reading of, <em>A Systems Thinking Primer: Seeing Organizations in Action</em>, reflect on the following questions to help you understand your System Thinking practice in the organization you presently serve or recently served.
 
-1. How does your organization, or the organization you previously served, practice Senge's fundamentals (laws) for systems thinking?
-1. What are some of the positive outcomes from practicing these fundamentals (laws)?
-2. What are some of the negative outcomes from practicing these fundamentals (laws)?
-3. What one change would you introduce to the practice of these fundamentals (laws) to improve what your organization, or the organization you previously served, accomplishes through their systems practice?
-2. How does your organization, or the organization you previously served stack up to the additional 5 laws listed above?
-1. Reflect on the impact these additional laws have on your organization, or the organization you previously served?
-2. Which of these 5 listed additional laws are most evident in your organizational practice? What are their impact?
-3. What organizational changes would you introduce to mitigate the effect of a departure from these 5 additional laws in your organization or the organization your served previously?
-3. What organizational learning disabilities have you experienced in your career?
-1. Have any of the organizations you worked with successfully navigated from disability to ability in their systemic practice?
-a) What is the most memorable success story for that change?
-2. If you had the opportunity to speak into your organization to change the evident disabilities, what would you say and what processes would you suggest to turn the corner from disability to ability?
+<ol>
+<li>How does your organization, or the organization you previously served, practice Senge's fundamentals (laws) for systems thinking?</li>
+<li>What are some of the positive outcomes from practicing these fundamentals (laws)?</li>
+<li>What are some of the negative outcomes from practicing these fundamentals (laws)?</li>
+<li>What one change would you introduce to the practice of these fundamentals (laws) to improve what your organization, or the organization you previously served, accomplishes through their systems practice?</li>
+<li>How does your organization, or the organization you previously served stack up to the additional 5 laws listed above?</li>
+<li>Reflect on the impact these additional laws have on your organization, or the organization you previously served?</li>
+<li>Which of these 5 listed additional laws are most evident in your organizational practice? What are their impact?</li>
+<li>What organizational changes would you introduce to mitigate the effect of a departure from these 5 additional laws in your organization or the organization your served previously?</li>
+<li>What organizational learning disabilities have you experienced in your career?</li>
+<li>Have any of the organizations you worked with successfully navigated from disability to ability in their systemic practice?
+a) What is the most memorable success story for that change?</li>
+<li>If you had the opportunity to speak into your organization to change the evident disabilities, what would you say and what processes would you suggest to turn the corner from disability to ability?</li>
+</ol>
 
 As you complete these questions, you will have a better grasp on Systems Thinking practice and the development of Strategic Leadership principles going forward.
 
+Fractal Foundation (2018) <a href="https://fractalfoundation.org/resources/what-is-chaos-theory"><em>What is chaos theory?</em></a>
 
-Fractal Foundation (2018) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory)
+GE Power and Water (2012) <a href="https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp">Handbook of industrial water treatment: chapter 14 - boiler system failures</a>. Boston MA:General Electric Company.
 
-GE Power and Water (2012) [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp). Boston MA:General Electric Company.
+Haines, S. (2000). <em>The systems thinking approach to strategic planning and management.</em> Washington DC: St. Lucie Press.
 
-Haines, S. (2000). _The systems thinking approach to strategic planning and management._ Washington DC: St. Lucie Press.
+Issitt, M. (2013). Chaotic systems. In <em>Salem Press Encyclopedia of Science.</em>
 
-Issitt, M. (2013). Chaotic systems. In _Salem Press Encyclopedia of Science._
+Lepsinger R. (2010). <em>Closing the Execution Gap.</em> San Francisco: Jossey-Bass.
 
-Lepsinger R. (2010). _Closing the Execution Gap._ San Francisco: Jossey-Bass.
+Mintzberg, H., Ahlstrand, B., &amp; Lampel, J. (2005). <em>Strategy bites back: it is far more, and less, than you ever imagined.</em> Upper Saddle River: Pearson Prentice Hall.
 
-Mintzberg, H., Ahlstrand, B., &amp; Lampel, J. (2005). _Strategy bites back: it is far more, and less, than you ever imagined._ Upper Saddle River: Pearson Prentice Hall.
+Mister Ambiguous. (February 2, 2002). <a href="https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/">Senge’s 7 organizational learning disabilities.</a>
 
-Mister Ambiguous. (February 2, 2002). [Senge’s 7 organizational learning disabilities.](https://misterambiguous.wordpress.com/2011/02/02/senges-7-organizational-learning-disabilities/)
+Senge, P. (2006). <em>The fifth discipline.</em> New York: Doubleday
 
-Senge, P. (2006). _The fifth discipline._ New York: Doubleday
+St. Louis, D. (January 30, 2015) <a href="https://www.visioncritical.com/target-canada/">Why Target failed in Canada, and what other companies can learn from it.</a> Visioncritical: Vancouver BC.
 
-St. Louis, D. (January 30, 2015) [Why Target failed in Canada, and what other companies can learn from it.](https://www.visioncritical.com/target-canada/) Visioncritical: Vancouver BC.
+Walonick, D. (1993) <a href="http://www.statpac.org/walonick/organizational-theory.htm"><em>Organizational theory and behavior.</em></a>
 
-Walonick, D. (1993) [_Organizational theory and behavior._](http://www.statpac.org/walonick/organizational-theory.htm)
+Zeeman, A. (2017). <a href="https://www.toolshero.com/management/five-disciplines-learning-organizations/">Senge’s Five Disciplines of Learning Organizations.</a>
 
-Zeeman, A. (2017). [Senge’s Five Disciplines of Learning Organizations.](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
+<h4>-<em>As leaders you are on your life long learning journey as a systems thinker-</em></h4>
 
-#### -_As leaders you are on your life long learning journey as a systems thinker-_
-
-##### Learning Activity 4.2
+<h5>Learning Activity 4.2</h5>
 
 [Link to PressBooks instruction here]
