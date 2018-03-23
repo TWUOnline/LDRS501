@@ -1,6 +1,6 @@
 ---
 ID: 637
-post_title: 'LDRS 501 – BLOG Rubric (5%) &#8211; Example'
+post_title: 'LDRS 501 – BLOG Rubric (5%)'
 author: datha
 post_excerpt: ""
 layout: page
