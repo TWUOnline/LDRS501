@@ -44,7 +44,7 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
  	<li>Write the article so:_
 * It tells the story of the organization’s success.
 * It evokes feelings of pride when you read it.
-* It conveys the kind of organization _they are and what they've accomplished.
+* It conveys the kind of organization they are and what they've accomplished.
 * You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories.
 * Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan the organization you interviewed in TEAM Assignment 2.</li>
 </ul>
@@ -66,9 +66,9 @@ terms of another suggested design for operating.</li>
 
 6. _The TEAM LEAD (or the TEAM approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by the Week 10 due date (July 6)_
 
-_**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
+**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.
 
-Substantive, Succinct and Cited._
+Substantive, Succinct and Cited.
 <h2>Resources</h2>
 <h4>Learning Activity 11.1</h4>
 [Link to PressBooks instruction here]
