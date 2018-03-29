@@ -97,8 +97,6 @@ c. To correct behaviours not conducive to your career health and the principles 
 
 [Link to BLOG Grading Rubric (5%)]
 
-&nbsp;
-
 Assignment: _Week 4_ - Individual Assignment 1 - Strategic Assessment - **Last day of Week 4** - Drop Box - **_10%_**
 
 **TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
