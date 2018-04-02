@@ -83,6 +83,8 @@ into your personal, corporate and career experience through the application of s
 
 <h5>Exploring the Theory &amp; Practice of Leadership</h5>
 
+[Link to Learning Activity 1.1 Learning Notes]
+
 [Link to Learning Activity 1.1]
 
 <h4>Learning Activity 1.2</h4>
