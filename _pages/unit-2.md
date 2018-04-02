@@ -67,41 +67,7 @@ Boston Consulting Group. (2015) [_Strategy Palette Framework._](http://media-pub
 H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe &amp; Mail._
 
 **Personal Research** for Forum and Assignment completion.
-<h4>Week 1 Assignments
-```
-Move to Unit 2 Learning Activities
-```
-_Introductory Blog post_ - Post in Learner Introduction Blog - _**5%**_.</h4>
-[Link to Unit 2 Notes]
-
-* **Take the time to introduce yourself.**
-
-* Don't bore anyone with stats they can find by doing a google search or looking at a student profile.
-* Double down!
-
-* **Tell us about YOU the person.**
-
-* What are a few of your favourite things?
-* What are your goals, aspirations and future dreams?
-* What career strategy are you going to follow to achieve them?
-
-* **Make it personal. Make it memorable. Make it YOU!**
-
-##### Categories for this post:
-- ldrs501
-- Unit 1
-- Learning Activity 1.1
-
-[Link to Introductory Blog]
-
-#### LDRS 501A – Introductory BLOG Rubric (5%) - Example.
-
-NAME:
-
-[table id=1 /]
-
-[Link to Introductory Blog rubric]
-
+<h4>Week 1 Assignments</h4>
 # Assignment 1
 
 ## **Week 1**
@@ -125,7 +91,7 @@ NAME:
 
 #### Unit 2 Learning Activities
 
-Learning Activity 2.2
+Learning Activity 2.1
 
 Using the rubric above, assess the grade you believe each learner should receive based on the rubric provided.
 
@@ -133,6 +99,6 @@ Assignment grading is awarded following peer review of the materials entered int
 
 Submit grading to the following link. [link to grading for Assignment 1]
 
-##### Learning Activity 2.3
+##### Learning Activity 2.2
 
 [Link to PressBooks instruction here]
