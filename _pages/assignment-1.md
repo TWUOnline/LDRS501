@@ -17,7 +17,7 @@ post_date: 2018-02-23 01:07:23
 
 <h3><strong>PERSONAL STRATEGIC DEVELOPMENT</strong></h3>
 
-<h4><strong>Submission Due:Sunday May 6 at 23:59 PDT</strong></h4>
+<h4><strong>Submission Due: Week 1 - Day 7 at 23:59 PDT</strong></h4>
 
 <strong>This assignment is:</strong>
 
