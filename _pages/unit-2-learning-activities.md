@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h3>Unit 2 Learning Activities</h3>
-
-<h4>Learning Activity 2.1</h4>
-
+### Unit 2 Learning Activities
+<h4>Learning Activity 2.2</h4>
+&nbsp;
+<h4>Learning Activity 2.3</h4>
 [Link to PressBooks instruction here]
