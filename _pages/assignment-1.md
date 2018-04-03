@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
+&nbsp;
+
 # Assignment 1
 
 ## **Week 1**
