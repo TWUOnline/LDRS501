@@ -9,7 +9,26 @@ permalink: >
 published: true
 post_date: 2018-04-03 10:17:33
 ---
-<strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501 OL
+<strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501
 </strong>
-
+<table>
+<tbody>
+<tr>
+<td width="113"><strong>Course Title</strong></td>
+<td width="445"> Strategic Leadership</td>
+</tr>
+<tr>
+<td width="113"><strong>Stream</strong></td>
+<td width="445">Common Core course for all streams/learners in MA in Leadership/MA in Educational Leadership</td>
+</tr>
+<tr>
+<td width="113">Semester</td>
+<td width="445">SUMMER 2018</td>
+</tr>
+<tr>
+<td width="113">Semester hrs</td>
+<td width="445">Three (3)</td>
+</tr>
+</tbody>
+</table>
 &nbsp;
