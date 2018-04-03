@@ -11,6 +11,7 @@ post_date: 2018-04-03 10:17:33
 ---
 <strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501
 </strong>
+
 <table>
 <tbody>
 <tr>
@@ -31,4 +32,5 @@ post_date: 2018-04-03 10:17:33
 </tr>
 </tbody>
 </table>
+
 &nbsp;
