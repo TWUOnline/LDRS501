@@ -11,7 +11,6 @@ post_date: 2018-04-03 10:17:33
 ---
 <strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501
 </strong>
-
 <table>
 <tbody>
 <tr>
@@ -32,7 +31,6 @@ post_date: 2018-04-03 10:17:33
 </tr>
 </tbody>
 </table>
-
 <strong>Instructor:</strong><strong> Dr. D.L. (Doug) Atha                             </strong>
 
 <strong>Course Time:</strong><strong>  </strong><strong>May 1, 2018 to July 6, 2018 (Online)
@@ -45,16 +43,14 @@ post_date: 2018-04-03 10:17:33
 <strong>COURSE LEARNING OBJECTIVES</strong>
 
 By the end of LDRS 501, learners will be able to:
-
 <ol>
-    <li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
-    <li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
-    <li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
-    <li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
-    <li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
-    <li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
+ 	<li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
+ 	<li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
+ 	<li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
+ 	<li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
+ 	<li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
+ 	<li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
 </ol>
-
 <strong>REQUIRED TEXT(S):</strong>
 
 Galbraith, J. R. (2014) <em>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</em> San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
@@ -217,17 +213,23 @@ There are no final examinations for this course. Grading is assigned through the
 <strong>GRADING SYSTEM</strong>
 
 In an effort to ensure consistency in the MA Lead/MAEL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
-
 <p style="text-align: center">Note: * a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.</p>
+<strong>Other Designated Grades</strong>
 
-Other Designated GradesINC = Incomplete. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form f
+<strong>INC = Incomplete.</strong> A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrolment Services.
 
-rom Enrolment Services.
-W = Withdrew. This grade is assigned for students withdrawing during the first half of the course.
-WP /WF = Withdrew passing / Withdrew failing. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
-LATE ASSIGNMENTS POLICY
+<strong>W = Withdrew.</strong> This grade is assigned for students withdrawing during the first half of the course.
+
+<strong>WP/WF = Withdrew passing/Withdrew failing.</strong> These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
+
+<strong>LATE ASSIGNMENTS POLICY</strong>
+
 Assignments are due by midnight Pacific Time (PDT/PST) in the appropriate assignment folder in the online classroom on the day they are due (preferably as Word documents). Once I grade your assignment, I will put it in your grade book in the online classroom where you can check your grade and review the comments made on the assignment. There is a 10% deduction per day an assignment is late. The only exception is an approved extension confirmed at least 5 days prior to the assignment due date. Extensions are granted on a case by case basis and without penalty. There will be no extensions on Discussion Question due dates. Rewritten/Resubmitted assignments, will receive a 20% of the assignment’s value before assigning a grade to the rewritten assignment
-STUDENTS WITH DISABILITIES
+
+<strong>STUDENTS WITH DISABILITIES</strong>
+
 "Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU…All disabilities must be recently documented by an appropriately certified professional…Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of [the 2009-10 Academic] Calendar." P.40, 2009-10 Academic Calendar.
-Trinity Western University is located on the traditional ancestral unceded territory of the Sto:lo people.
-TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces based on respect for difference and are open to diverse views, opinions, and identities.
+
+<strong>Trinity Western University</strong> is located on the traditional ancestral unceded territory of the Sto:lo people.
+
+<strong>Trinity Western University</strong> is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces based on respect for difference and are open to diverse views, opinions, and identities.
