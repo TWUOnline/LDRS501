@@ -9,3 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-03 10:17:33
 ---
+<strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501 OL
+</strong>
+
+&nbsp;
