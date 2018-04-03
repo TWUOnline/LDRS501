@@ -11,7 +11,6 @@ post_date: 2018-04-03 10:17:33
 ---
 <strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501
 </strong>
-
 <table>
 <tbody>
 <tr>
@@ -32,7 +31,6 @@ post_date: 2018-04-03 10:17:33
 </tr>
 </tbody>
 </table>
-
 <strong>Instructor:</strong><strong> Dr. D.L. (Doug) Atha                             </strong>
 
 <strong>Course Time:</strong><strong>  </strong><strong>May 1, 2018 to July 6, 2018 (Online)
@@ -45,16 +43,14 @@ post_date: 2018-04-03 10:17:33
 <strong>COURSE LEARNING OBJECTIVES</strong>
 
 By the end of LDRS 501, learners will be able to:
-
 <ol>
-    <li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
-    <li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
-    <li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
-    <li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
-    <li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
-    <li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
+ 	<li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
+ 	<li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
+ 	<li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
+ 	<li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
+ 	<li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
+ 	<li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
 </ol>
-
 <strong>REQUIRED TEXT(S):</strong>
 
 Galbraith, J. R. (2014) <em>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</em> San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
@@ -218,8 +214,90 @@ There are no final examinations for this course. Grading is assigned through the
 
 In an effort to ensure consistency in the MA Lead/MAEL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
 
-<p style="text-align: center">Note: * a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.</p>
+<strong>Letter Grade:</strong> A+
 
+<strong>%:</strong> 95-100
+
+<strong>Grade Point:</strong> 4.3
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Exceptionally well-reasoned, compelling development of position. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> A
+
+<strong>%:</strong> 90-94
+
+<strong>Grade Point:</strong> 4.0
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Well-argued and convincing development of position. Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> A-
+
+<strong>%:</strong> 85-89
+
+<strong>Grade Point:</strong> 3.7
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Thorough and plausible development of position. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> B+
+
+<strong>%:</strong> 80-84
+
+<strong>Grade Point:</strong> 3.3
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Proficient development of position. Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> B
+
+<strong>%:</strong> 75-79
+
+<strong>Grade Point:</strong> 3.0
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Competent development of position, but possibly with some gaps and/or limitations. Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> B-
+
+<strong>%:</strong> 70-74
+
+<strong>Grade Point:</strong> 2.7*
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Unimpressive development of position. Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses <em>(e.g., clarity, coherence, grammar)</em>. Overall quality shows noticeable deficiencies.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+
+<strong>Letter Grade:</strong> F
+
+<strong>%:</strong> &lt;70
+
+<strong>Grade Point:</strong> 2.0
+
+<strong>Value Meaning in Graduate Work:</strong>
+
+Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.
+
+<strong>Note:</strong> For assignments that meet criteria in several categories, instructors will assign an average grade.
+<p style="text-align: center">Note: * a grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.</p>
 <strong>Other Designated Grades</strong>
 
 <strong>INC = Incomplete.</strong> A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrolment Services.
