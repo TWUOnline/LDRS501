@@ -11,7 +11,6 @@ post_date: 2018-04-03 10:17:33
 ---
 <strong>Trinity</strong><strong> Western University </strong><strong>Course Syllabus - LDRS 501
 </strong>
-
 <table>
 <tbody>
 <tr>
@@ -32,7 +31,6 @@ post_date: 2018-04-03 10:17:33
 </tr>
 </tbody>
 </table>
-
 <strong>Instructor:</strong><strong> Dr. D.L. (Doug) Atha                             </strong>
 
 <strong>Timeframe:</strong><strong>  </strong><strong>May 1, 2018 to July 6, 2018</strong>
@@ -44,12 +42,24 @@ post_date: 2018-04-03 10:17:33
 <strong>COURSE LEARNING OBJECTIVES</strong>
 
 By the end of LDRS 501, learners will be able to:
-
 <ol>
-    <li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
-    <li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
-    <li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
-    <li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
-    <li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
-    <li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
+ 	<li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</li>
+ 	<li><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</li>
+ 	<li><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</li>
+ 	<li><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</li>
+ 	<li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
+ 	<li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
 </ol>
+<strong>REQUIRED TEXT(S):</strong>
+
+Galbraith, J. R. (2014) <em>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</em> San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
+
+Hughes R., Colarelli-Beatty K. &amp; Dinwoodie D. (2014) <em>Becoming a strategic leader.</em> San Francisco: Jossey-Bass Second Edition ISBN 978-1-118-56723-4
+
+Lepsinger R. (2010) <em>Closing the Execution Gap.</em> San Francisco: Jossey-Bass. ISBN978-0-470-53130-3
+
+Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic possibilities: strategy formulation and execution practices to flourish.</em> Randburg: KR Publishing. ISBN 978-1-869-22623-7 or 978-1-86922-624-4 (ePDF)
+
+<strong>NOTE:</strong> You can order these texts from the TWU Library (ebook), TWU Bookstore or alternate book or ebook supplier.
+
+&nbsp;
