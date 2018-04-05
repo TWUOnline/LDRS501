@@ -41,6 +41,7 @@ A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, 
 
 https://hbr.org/video/embed/3373616535001/brainswarming-because-brainstorming-doesnt-work
 
+
 Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:
 
 **Why do we need to talk in the first place?**
