@@ -33,6 +33,7 @@ Its underlying methodology often criticized as contributing to **group think**.
 
 https://www.youtube.com/watch?v=dMKK17EWXks
 
+
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
 A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking.
