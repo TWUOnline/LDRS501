@@ -33,7 +33,6 @@ Its underlying methodology often criticized as contributing to **group think**.
 
 https://www.youtube.com/watch?v=dMKK17EWXks
 
-
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
 A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking.
@@ -68,9 +67,9 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 **THE TEAM WILL:**
 
-1. Select an organization to review using a SWOT analysis. _(The organization can be fictional or actual that team members have awareness of.)_
+1. Select an organization to review using a SWOT analysis. _(The organization can be fictional or actual that team members have awareness of.)_ In the case of an actual organization, the choice for naming the actual organization or the organization remaining  anonymous is solely at the discretion of the organization. If anonymous, reviewers need to ensure anonymity is protected throughout the assignment and the remainder of the course (including all published results).
 1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _(May 16)_
-2. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization forfor the end of week 4 _(May 27)_
+2. The team will develop their SWOT Questions, as they relate to the four quadrants of a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) and arrange an interview with a significant leader of the organization for the end of week 4 _(May 27)_
 3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _(June 3)_
 4. Compile findings and results by the end of Week 6 _(June 10)_
 5. TEAM LEAD _(or a team agreed designate_) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _(June 17)_
