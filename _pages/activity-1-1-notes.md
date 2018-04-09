@@ -9,20 +9,24 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h4>Learning Activity 1.1 Learning Notes</h4>
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Learning Activity 1.1]</span>
-<h4>Definitions of Leadership</h4>
-&gt;The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+#### Learning Activity 1.1 Learning Notes
 
-&gt;Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
+[Link to Learning Activity 1.1]
 
-&gt;The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
-<h4>Systemic Leadership</h4>
+#### Definitions of Leadership
+
+> The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)  
+
+> Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
+
+> The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
+
+#### Systemic Leadership
 ![](/assets/Presentation1_edited.jpg)
 
 #### Systemic Leadership
 
-In Systemic Leadership DevelopIn Systemic Leadership Development (1999) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' (p. 12). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced apporach using startegic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the effectiveness of leadership development in the organization.' (p. 12)
+In Systemic Leadership DevelopIn Systemic Leadership Development (1999) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' (p. 12). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced apporach using strategic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the effectiveness of leadership development in the organization.' (p. 12)
 
 #### Personal Leadership
 
@@ -38,24 +42,24 @@ Supervisory Leadership Practice also navigates the socio-political environments 
 
 #### Strategic Leadership
 
-Strategic Leadership is about setting direction and aligning decisions with organizational mission (who you are), vision (where you are going) and values (how you are going to get there). Additionally, startegic leadership focuses organizational structures and resources toward establishing evidence of organizational progress along the way. Intention, theory and planning go nowhere if evidence of progress doesn'rt accompany the process.
+Strategic Leadership is about setting direction and aligning decisions with organizational mission (who you are), vision (where you are going) and values (how you are going to get there). Additionally, strategic leadership focuses organizational structures and resources toward establishing evidence of organizational progress along the way. Intention, theory and planning go nowhere if evidence of progress doesn't accompany the process.
 
-Evidence sets the course for future decision making beyond the plans and the theory. Evidnece he;lps us align decisions, assess progress and evaluate success in fulfiling the startegic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their startegy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
+Evidence sets the course for future decision making beyond the plans and the theory. Evidence helps us align decisions, assess progress and evaluate success in fulfilling the strategic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their strategy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
 
 In many areas:
-&gt;"strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
+> strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time (Montgomery, 2008).
 
-To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the establishe mission, vision and values the organization hold and protect it as it moves toward a future orientation of process, product and people.
+To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the established mission, vision, and values the organization hold and protect it as it moves toward a future orientation of process, product, and people.
 
-Startegic Leadership is the vehicle organizations can use to champion and orchestrate change by its commitment to the startegic processes adopted and the protections initiated.
+Strategic Leadership is the vehicle organizations can use to champion and orchestrate change by its commitment to the strategic processes adopted and the protections initiated.
 
-The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' (Najmaei, A., Quazi, Z., &amp; Behnia, M. 2017) Engaging the whole organization allows leaders to move from static leaders to startegic leaders as they enagage and involve plans, processes and people to accomplish the startegies envisioned for a positive and dynamic organizational future.
+The full value of strategic leadership may not be realized in practical terms, however, until we expand its dimensions to reflect the real complexities of choices which leaders make. Strategies 'shaped by the way in which strategic leaders perceive the business environment, identify strategic issues, select key ones and attend to them by allocating their time and resources at their hand to address them.' (Najmaei, A., Quazi, Z., & Behnia, M. 2017) Engaging the whole organization allows leaders to move from static leaders to strategic leaders as they engage and involve plans, processes and people to accomplish the strategies envisioned for a positive and dynamic organizational future.
 
 #### Versatile Leadership
 
-Versatile leadership allows us to navigate the many challenges attached to the startegic leadership process. Without versaltility, many leaders can get stuck repeating ideas and stagnating in challenges beacauser they are unable to see beyond the patterns set in their own minds or within the restrictive practices of their organizational structures.
+Versatile leadership allows us to navigate the many challenges attached to the strategic leadership process. Without versatility, many leaders can get stuck repeating ideas and stagnating in challenges because they are unable to see beyond the patterns set in their own minds or within the restrictive practices of their organizational structures.
 
-The chart below allows for a snapshot of yourversatility as it relates to Startegic leadership. Look at the chart and then answer the questions below to help you gain a present snapshot of your present versatility practice.
+The chart below allows for a snapshot of your versatility as it relates to strategic leadership. Look at the chart and then answer the questions below to help you gain a present snapshot of your present versatility practice.
 
 #### Leadership Versatility Chart
 
@@ -68,7 +72,7 @@ The chart below allows for a snapshot of yourversatility as it relates to Starte
 
 #### Locus of Control
 
-When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' (Fournier, 2018) If a person or organization has an internal locus of control, they believe they (personally or corporately) 'can influence events and their outcomes.' (Fournier, 2018) A person or organization 'with an external locus of control blames outside forces for everything.' (Fournier. 2018) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect startegic planning and implementation on a broad scale.
+When we use the term 'locus of control' in Strategic Leadership we mean the extent the organization or leadership believes 'they have power over events in their lives.' (Fournier, 2018) If a person or organization has an internal locus of control, they believe they (personally or corporately) 'can influence events and their outcomes.' (Fournier, 2018) A person or organization 'with an external locus of control blames outside forces for everything.' (Fournier. 2018) Hence locus of control can indicate a strong focus on successful Strategic Leadership or defeat itself by believing that no matter what they do, outside forces will militate against them no matter what they plan. This will effect strategic planning and implementation on a broad scale.
 
 This effects every part of the process from planning, through implementation and on through completion of strategic planning, process and outcomes since we only truly commit, to what has meaning for us personally and corporately. If an internal locus of control has personal and corporate meaning we will follow through to complete our plans to the greatest level of success because we believe we can influence all parts of the process and see the challenges within those processes to completion. We find our power, in that meaning.
 
