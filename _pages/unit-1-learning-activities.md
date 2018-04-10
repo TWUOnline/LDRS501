@@ -39,9 +39,7 @@ After you've read the material in <span style="float: none;background-color: tra
 </ol>
 Once you finish answering this question,
 
-Read: Goleman - “Primal Leadership: Learning to Lead with Emotional Intelligence" Summary
-
-[link: [https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf]
+Read: Goleman - [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf) Summary
 
 Once you've read the Goleman summary, answer the following questions to deepen your understanding of the leadership principles contained in his summary. <i>(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)</i>
 
