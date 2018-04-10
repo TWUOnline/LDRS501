@@ -19,7 +19,7 @@ ZOOM video-conference
 
 <ul>
 <li>Learner Questions and Process Review - <strong>TBD</strong></p></li>
-<li><p>TEAM Assignment Progress Review - <strong>TBD</strong></p></li>
+<li>TEAM Assignment Progress Review - <strong>TBD</strong></p></li>
 <li><p>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</p></li>
 </ul>
 
