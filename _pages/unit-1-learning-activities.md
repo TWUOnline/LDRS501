@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2> **Personal Learning and Leadership** </h2>
+### **Personal Learning and Leadership** 
+
 <em>Recommended completion of Reading Learning Notes and Learning Activities prior to Week 1 Day 1.</em>
 
 This section provides a foundational overview on the introductory Learning Activities. The Foundational Learning Activities for this section introduce concepts of Personal Learning, Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and be prepared for the coursework ahead.
