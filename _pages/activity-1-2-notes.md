@@ -14,6 +14,7 @@ Read the learning notes below prior to Week 1 Day 1 of the course. Once you read
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Learning Activity 1.2]</span>
 <h4>Critical Thinking</h4>
+
 Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. **_Daniel Levitin_**
 
 Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
