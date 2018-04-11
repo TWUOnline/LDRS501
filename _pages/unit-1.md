@@ -50,6 +50,7 @@ into your personal, corporate and career experience through the application of s
 
 O’Donovan &amp; N Rimland Flower (2013) [The Strategic Plan is Dead. Long Live Strategy.](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29) _Stanford CA: Stanford Social Innovation Review._
 <h3>Unit 1 Learning Activities</h3>
+
 #### Learning Activity 1.1
 
 #### **Personal Learning and Leadership**
