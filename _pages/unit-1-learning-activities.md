@@ -90,12 +90,12 @@ Pressbooks is a self-publishing tool that we will be using to create content in 
 <h4>Unit 1 Learning Activity References</h4>
 Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
-Critical Thinking. (n.d.). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking?s=t](http://www.dictionary.com/browse/critical-thinking?s=t)
+[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking?s=t) (n.d.). In Dictionary.com
 
-Critical Thinking. (n.d.). In Dictionary.com, Retrieved from [http://www.dictionary.com/browse/critical-thinking](http://www.dictionary.com/browse/critical-thinking).
+[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking) (n.d.). In Dictionary.com
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Goleman, D., Boyatzis, R. and McKee, A. (2015) </span><em>Primal leadership: learning to lead with emotional intelligence summary.</em><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px"> Retrieved from https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Goleman, D., Boyatzis, R. and McKee, A. (2015) </span><em>[Primal leadership: learning to lead with emotional intelligence](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf) summary.</em><span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px"> 
 
-Intellectual Responsibility (2018) If-I-Seek-Us. retrieved from [http://www.ifiseeu.com/Misc/intellectual-responsibility.htm](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm)
+[Intellectual Responsibility](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm) (2018) If-I-Seek-Us. 
 
 &nbsp;
