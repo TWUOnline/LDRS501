@@ -9,35 +9,38 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h3>Assignment 3</h3>
+### Assignment 3
 
-<h4><strong>WEEK 7 – TEAM ASSIGNMENT 2</strong></h4>
+#### **WEEK 7 – TEAM ASSIGNMENT 2**
 
-<h4><strong>STRATEGIC LEADERSHIP TEAM PROJECT (15%)</strong></h4>
+#### **STRATEGIC LEADERSHIP TEAM PROJECT (15%)**
 
-<h5><strong>STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate</strong></h5>
+##### **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
 
-<h5><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></h5>
+##### **Team submissions Due Day 7 of Week 7 at 23:59 PST**
 
-This assignment is intended as an applied learning experience using SWOT in conjunction with either a <em><strong>‘brain storming’</strong></em> process or the newer approach of <strong>‘brain swarming’</strong> to develop your information.
+This assignment is intended as an applied learning experience using SWOT in conjunction with either a _**‘brain storming’**_ process or the newer approach of **‘brain swarming’** to develop your information.
 
 SWOT analysis is a long standing strategic process used successfully by various and varying organizations for many years.
 
 https://www.youtube.com/watch?v=NVwQNOIu808
 
-SWOT Analysis however, is in declining use as are <strong>Brain storming</strong> processes.
+SWOT Analysis however, is in declining use as are **Brain storming** processes.
 
 https://www.youtube.com/watch?v=9K8W4ooygUU
 
-Its underlying methodology often criticized as contributing to <strong>group think</strong>.
+Its underlying methodology often criticized as contributing to **group think**. (
 
-https://www.youtube.com/watch?v=dMKK17EWXks
+https://www.youtube.com/watch?v=CWEvJciU0Zc
+
+)
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
 A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking.
+<div class="blog-video-embed">
 
-<div class="blog-video-embed"><a href="https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work">https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work</a>
+<a href="https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work">https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work</a>
 
 Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:**Why do we need to talk in the first place?**
 
