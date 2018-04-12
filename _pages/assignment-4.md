@@ -26,7 +26,7 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
 * It evokes feelings of pride when you read it.
 * It conveys the kind of organization _they are and what they've accomplished.
 * You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories.
-* Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan the organization you interviewed in TEAM Assignment 2.
+* Use relevant materials from pp. 145 -195, including Exhibits 4.1 - 4.13, to develop a strategic influence development plan the organization you interviewed in TEAM Assignment 2.
 3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
 at the Business Unit Levels (pp. 131-216) to identify/determine what type of organizational design is best served by the
 strategic influence you see the organization developing.
