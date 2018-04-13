@@ -1,11 +1,11 @@
 ---
 ID: 26
-post_title: Unit 10
+post_title: 'Unit 9 &#8211; TITLE'
 author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-10/
+  https://create.twu.ca/ldrs501-su18/unit-9-2/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
