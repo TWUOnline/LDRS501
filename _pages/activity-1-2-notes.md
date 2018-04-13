@@ -1,6 +1,6 @@
 ---
 ID: 186
-post_title: Learning Activity 1.2 Notes
+post_title: Learning Activity 1.2
 author: kmonroe
 post_excerpt: ""
 layout: page
