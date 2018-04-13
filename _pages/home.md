@@ -8,7 +8,7 @@ permalink: https://create.twu.ca/ldrs501-su18/home/
 published: true
 post_date: 2018-04-13 11:20:44
 ---
-<!--themify_builder_static--><h4 style="text-align: center;">Welcome to the course hub for Leadership &#8230;</h4> <p>This course &#8230;</p>
+<!--themify_builder_static--><h4 style="text-align: center;">Welcome to the course hub for Leadership 501: Strategic Leadership</h4> <p>This course &#8230;</p>
  
  
  
@@ -16,10 +16,10 @@ post_date: 2018-04-13 11:20:44
  <h3>Course Overview</h3> 
  
  
+ <a href="https://create.twu.ca/orientation/digital-skills/navigating-a-connected-course/" > 
  
- 
- 
- <h3>Course Navigation</h3> 
+ </a> 
+ <h3><a href="https://create.twu.ca/orientation/digital-skills/navigating-a-connected-course/">Course Navigation</a></h3> 
  
  
  
