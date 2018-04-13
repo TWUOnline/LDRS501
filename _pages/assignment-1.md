@@ -27,7 +27,7 @@ post_date: 2018-02-23 01:07:23
 
 All assignments will receive peer reviewed grading by other members of the class, with the instructor determining final grading after personal review of the material and receiving grading suggestions from the class. Assignment grading is awarded following peer review of the materials entered into PressBooks and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN. 
 
-Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 21-51) and Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016)._ Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, (pp. xiii-105) you will:
+Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 21-51) and Ungerer, M., Ungerer, G., & Herholdt, J. (2016)._ Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish_. Randburg: KR Publishing, (pp. xiii-105) you will:
 
 #### **Assignment Parameters**
 1.  Assess YOU as a strategic leader.
@@ -55,7 +55,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
     1.  Personal
     2.  Professional
 5.  Conclude the assignment:
-    1.  Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer &amp; Herholdt, pp. xiii-105)
+    1.  Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer & Herholdt, pp. xiii-105)
     2.  Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
     3.  Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
 	
