@@ -27,3 +27,4 @@ If you have your own URL, it will likely be:
 ```
 http(s)://[yoursitename].[ca/com/net]/category/ldrs501/feed
 ```
+.
