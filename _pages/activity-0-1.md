@@ -1,11 +1,11 @@
 ---
 ID: 18
-post_title: Learning Activity 1.1
+post_title: Learning Activity 0.1
 author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/activity-1-1/
+  https://create.twu.ca/ldrs501-su18/activity-0-1/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
