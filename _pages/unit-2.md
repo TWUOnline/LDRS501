@@ -49,7 +49,7 @@ NOTE: The session is recorded and distributed for those unable to connect direct
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | :--- | :--- | :--- |
 | R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
-| M. Ungerer, G. Ungerer &amp; J. Herholdt | **Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish** | Intro and chapters 1-2 (pp. xiii-105) |
+| M. Ungerer, G. Ungerer &amp; J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish**_ | Intro and chapters 1-2 (pp. xiii-105) |
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 (pp. 1-88) |
 | R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 (pp. xvii-23) |
 

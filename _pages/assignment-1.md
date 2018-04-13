@@ -58,6 +58,8 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
     1.  Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome(s) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome(s) you anticipate as you adopt 'new economy' habits in your leadership practice. (Ungerer, Ungerer &amp; Herholdt, pp. xiii-105)
     2.  Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. (Hughes, Beatty and Dunwoodie, pp 21-51)
     3.  Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
+	
+	[table id=4 /]
 
 **NOTE:** _Substantive, Succinct and Cited._
 

@@ -27,21 +27,22 @@ https://www.youtube.com/watch?v=NVwQNOIu808
 
 SWOT Analysis however, is in declining use as are **Brain storming** processes.
 
-https://www.youtube.com/watch?v=9K8W4ooygUU&amp;list=PLSK-oAscPW29NnHjI2MviD8O9ZC04ta0v
+https://www.youtube.com/watch?v=9K8W4ooygUU
 
 Its underlying methodology often criticized as contributing to **group think**.
 
-https://www.youtube.com/watch?v=dMKK17EWXks
+https://www.youtube.com/watch?v=CWEvJciU0Zc
+
+&nbsp;
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
 A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking.
+<div class="blog-video-embed">
 
-https://hbr.org/video/embed/3373616535001/brainswarming-because-brainstorming-doesnt-work
+<a href="https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work">https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work</a>
 
-Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:
-
-**Why do we need to talk in the first place?**
+Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:**Why do we need to talk in the first place?**
 
 ##### How brain swarming works:
 
@@ -49,7 +50,7 @@ Brain swarming rejects gathering everyone in a room to force a solution in an en
 * Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team
 * Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see
 
-https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work
+<a href="https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work">https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work</a>
 
 **Assignment Parameters**
 
@@ -79,3 +80,5 @@ The PressBooks material must include descriptive notes where the graphics do not
 [link to PressBooks instruction here]
 
 [link to PressBooks files for insertion of materials here]
+
+</div>
