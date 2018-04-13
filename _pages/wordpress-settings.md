@@ -17,19 +17,20 @@ Before you do that, you will need to create a category on your site to use as th
 
 When you submit the URL for your feed, please do so as follows:
 
-<pre><code>https://create.twu.ca/[yoursitename]/category/ldrs501/feed
-</code></pre>
+```
+https://create.twu.ca/[yoursitename]/category/ldrs501/feed
+```
 
 The only thing you should have to do is replace [yoursitename] with the actual name of your site.
 
 If you are using a site on wordpress.com, your url should look like the following:
-
-<pre><code>https://[yoursitename].wordpress.com/category/ldrs501/feed
-</code></pre>
+```
+https://[yoursitename].wordpress.com/category/ldrs501/feed
+```
 
 If you have your own URL, it will likely be:
+```
+http(s)://[yoursitename].[ca/com/net]/category/ldrs501/feed
+```
 
-<pre><code>http(s)://[yoursitename].[ca/com/net]/category/ldrs501/feed
-</code></pre>
-
-.
+[gravityform id="2" title="false" description="false"]
