@@ -1,11 +1,11 @@
 ---
 ID: 186
-post_title: Learning Activity 1.2
+post_title: Learning Activity 0.2
 author: kmonroe
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/activity-1-2/
+  https://create.twu.ca/ldrs501-su18/activity-0-2/
 published: true
 post_date: 2018-03-03 21:23:01
 ---
