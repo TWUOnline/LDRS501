@@ -1,6 +1,6 @@
 ---
 ID: 60
-post_title: Unit 6 Notes
+post_title: Week 6 Notes
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h3>Unit 7 Notes</h3>
+### Week 6 Notes
