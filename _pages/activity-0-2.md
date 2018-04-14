@@ -11,17 +11,18 @@ post_date: 2018-03-03 21:23:01
 ---
 Once you read the materials below click the link to Learning Activity 1.2 to complete the activity.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Learning Activity 1.2]</span>
-<h4>Critical Thinking</h4>
-Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. **_Daniel Levitin_**
+[Link to Learning Activity 1.2]
+#### Critical Thinking
 
-Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
+> Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. **_Daniel Levitin_**
+
+> Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
 
 ##### Definitions
 
-_**Disciplined thinking that is clear, rational, open-minded, and informed by evidence.**_ (Dictionary.com)
+> Disciplined thinking that is clear, rational, open-minded, and informed by evidence. (Dictionary.com)
 
-_**The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion.**_ (Dictionary.com)
+> The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion. (Dictionary.com)
 
 #### Traits of a Critical Thinking Mind
 
@@ -120,18 +121,19 @@ The following illustration shows how we generally approach the things we observe
 ```
 Image Source? Permissions?
 ```
-<h4>Learning Activity 1.2 Critical Thinking</h4>
-<h4>Unit Learning Outcomes</h4>
+#### Learning Activity 1.2 Critical Thinking
+
+#### Unit Learning Outcomes
+
 Upon completion of Learning Activity 1.2 learners will be able to:
-<ol>
- 	<li>Develop a general awareness of critical thinking theory and practice as it relates to the various and varying aspects of addressing critical thinking in its multiple contexts.</li>
- 	<li>Create a short proposal to suggest changes to practices within these areas as the result of your critical review.</li>
-</ol>
+
+1.  Develop a general awareness of critical thinking theory and practice as it relates to the various and varying aspects of addressing critical thinking in its multiple contexts.
+2.  Create a short proposal to suggest changes to practices within these areas as the result of your critical review.
 Read the Learning Activity 1.2 Learning Notes by clicking on the link below.
 
 [Link to Learning Activity 1.2 Learning Notes]
 
-<em>Take the time to read through and reflect on the following principles and suggested activities during the coming week.</em>
+#### Take the time to read through and reflect on the following principles and suggested activities during the coming week.
 
 Looking at your area of personal worldview, responsibility, discipline, organization or area of study; respond to the questions below as they relate to the discipline of critical thinking:
 
@@ -150,17 +152,19 @@ a. List the critical observations you make on a separate log for future review a
 a. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
 
 b. Keep the proposal for future use in other participation activities throughout the course.
-<h4>Learning Activity 1. 3 PressBooks Instruction</h4>
-<h4>Unit Learning Outcomes</h4>
-Upon completion of Learning Activity 1.3 learners will be able to:
-<ol>
- 	<li>Understand the process for entering course materials into the PressBooks platform.</li>
- 	<li>Be able to edit course materials in the PressBooks platform.</li>
-</ol>
-Pressbooks is a self-publishing tool that we will be using to create content in this course. For instructions on how to use Pressbooks click the link
 
-[Link to PressBooks instruction]
-<h4>Unit 1 Learning Activity References</h4>
+#### Learning Activity 1. 3 PressBooks Instruction
+
+#### Unit Learning Outcomes
+
+Upon completion of Learning Activity 1.3 learners will be able to:
+
+1.  Understand the process for entering course materials into the PressBooks platform.
+2.  Be able to edit course materials in the PressBooks platform.
+
+Pressbooks is a self-publishing tool that we will be using to create content in this course. For instructions on how to use Pressbooks click the link \[Link to PressBooks instruction\]
+
+#### Unit 1 Learning Activity References
 Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
 [Critical Thinking.](http://www.dictionary.com/browse/critical-thinking?s=t) (n.d.). In Dictionary.com
@@ -170,7 +174,3 @@ Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Criti
 Goleman, D., Boyatzis, R. and McKee, A. (2015) <em>[Primal leadership: learning to lead with emotional intelligence](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf) summary.</em>
 
 [Intellectual Responsibility](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm) (2018) If-I-Seek-Us.
-
-&nbsp;
-
-&nbsp;

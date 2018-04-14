@@ -9,13 +9,19 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h4>Definitions of Leadership</h4>
-&gt;The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+Once you read the information below click the link to Learning Activity 1.1 to complete the activity.
 
-&gt;Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
+\[Link to Learning Activity 1.1\]
 
-&gt;The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
-<h4>Systemic Leadership</h4>
+#### Definitions of Leadership
+
+>The only definition of a leader is someone who has followers. (Drucker, P. (1996). Leader of the Future. San Francisco: Jossey-Bass.)
+
+>Leadership is influence - nothing more, nothing less. (Maxwell, J. (1998). The 21 Irrefutable Laws of Leadership.
+
+>The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then the conscious choice brings one to aspire to lead. The best test is: do those served grow as persons; do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? - Greenleaf, R. (1991). The servant as leader. Indianapolis: The Greenleaf Center.
+
+#### Systemic Leadership
 ![](/assets/Presentation1_edited.jpg)
 
 #### Systemic Leadership
@@ -41,7 +47,7 @@ Strategic Leadership is about setting direction and aligning decisions with orga
 Evidence sets the course for future decision making beyond the plans and the theory. Evidence helps us align decisions, assess progress and evaluate success in fulfilling the strategic plan developed for the organization. It also allows the organization to demonstrate their success in fulfilling the plans and theories attached to their strategy, while encouraging critical thinking in evaluation and assessment of the process and processes along the way.
 
 In many areas:
-&gt;"strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
+>"strategy has been narrowed to a competitive game plan, divorcing it from a firm's larger sense of purpose; the CEO's unique role as arbiter and steward of strategy has been eclipsed; and the exaggerated emphasis on sustainable competitive advantage has drawn attention away from the fact that strategy must be a dynamic tool for guiding the development of a company over time" (Montgomery, 2008).
 
 To the contrary, effective strategic leadership encourages and supports innovation and allows the organization, its component parts and its people to innovate at multiple levels to protect organizational identity and to help the entire organization move toward a future orientation based on the establish mission, vision and values the organization hold and protect it as it moves toward a future orientation of process, product and people.
 
@@ -87,226 +93,34 @@ For the internally locussed person or organization, the current reality, no matt
 A properly set locus of control also effects the way individuals and organizations see their values working through the various strategic plans and initiatives aiming them toward their future. There are many values defining personal and organization effort and what they are important. The list below lists a few values appearing in various organizations.
 
 As part of this learning activity, please look at each of the values listed below and define what each value can look like if you or your organization has an internal or external locus of control. Answering these questions will help you confirm where your personal or corporate locus of control is, or what strategic practices need to change to develop a more complete understanding of the things helping or hindering the personal or corporate systemic leadership development and strategic practice.
-<h2>Values</h2>
-<em><strong>Achieving</strong></em>
 
-Personal internal:
+|Values| Personal Internal| Personal External|Organizational Internal|Organizational External|
+|:---:|:---:|:---:|:---:|:---:|
+|Achieving| | | | |
+|Financial Gain| | | | |
+|Privacy| | | | |
+|Advancement| | | | |
+|Freedom| | | | |
+|Public service| | | | |
+|Growth| | | | |
+|Friendships| | | | |
+|Helping people| | | | |
+|Recognition| | | | |
+|Stability| | | | |
+|Creativity| | | | |
+|Order| | | | |
+|Fame| | | | |
+|Family| | | | |
+|Wealth| | | | |
+|Effectiveness| | | | |
+|Truth| | | | |
+|Leadership| | | | |
+|Serenity| | | | |
+|Efficiency| | | | |
 
-Personal external:
 
-Organizational internal:
 
-Organizational external:
 
-<em><strong>Financial gain</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Privacy</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Advancement</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Freedom</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Public service</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Growth</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Friendships</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Helping people</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Authority</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Recognition</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Stability</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Creativity</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Order</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Fame</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Family</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Wealth</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Effectiveness</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Truth</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Leadership</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Serenity</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
-
-<em><strong>Efficiency</strong></em>
-
-Personal internal:
-
-Personal external:
-
-Organizational internal:
-
-Organizational external:
 
 ##### Vision
 
@@ -329,24 +143,25 @@ If you do not have access to these items prior to the start of the course, no wo
 This section of activities focuses on learning (activities 1.1, 1.2 and 1.3) what it means to be a good leader. Your reading of the material found in Learning Activity 1.1 and Learning Activity 1.2 Learning Notes and answers to the Learning Activity Questions and Exercises benefit your preparation of Assignment 1.
 
 Follow the reading/instruction/direction contained in each Learning Activity to add to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
-<h1>Learning Activity 1.1  Exploring the Theory &amp; Practice of Leadership</h1>
-After you've read the material above, take the time to answer the following question. <em>(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)</em>
-<ol>
- 	<li>What attitudes, attributes and actions do you believe make a good leader?</li>
-</ol>
+# Learning Activity 1.1  Exploring the Theory & Practice of Leadership
+
+After you've read the material above, take the time to answer the following question. _(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
+
+#### What attitudes, attributes and actions do you believe make a good leader?
+
 Once you finish answering this question,
 
-Read: Goleman Summary- [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf)
+Read: Goleman (summary)- [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf)
 
-Once you've read the Goleman summary, answer the following questions to deepen your understanding of the leadership principles contained in his summary. <i>(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)</i>
+Once you've read the Goleman summary, answer the following questions to deepen your understanding of the leadership principles contained in his summary. _(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
 
 * What did you like about the summary? Why?
 * What didn’t you like about it? Why?
 * What did you learn personally from the summary?
 * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
-&nbsp;
-<h4>References</h4>
+
+#### References
 Fournier, G. (2018) [_Locus of Control._](https://psychcentral.com/encyclopedia/locus-of-control/) Newburyport MA: Psych Central.
 
 Liu, K. (1999) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
@@ -356,5 +171,3 @@ Montgomery, C. A. (2008) Putting leadership back into startegy. _Harvard Busines
 Najmaei, A., Quazi, Z., &amp; Behnia, M. (2017). _Balancing Strategic Leadership: A Synthesis of Balanced Scorecard and Strategic Leadership Theories_. Proceedings Of The International Conference On Intellectual Capital, Knowledge Management &amp; Organizational Learning, 336-344.
 
 Rezvani, A., Dong, L. &amp; Khosravi, P. (2017). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
-
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px"> </span>
