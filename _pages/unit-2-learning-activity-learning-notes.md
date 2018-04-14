@@ -1,11 +1,11 @@
 ---
 ID: 829
-post_title: Unit 3 Learning Activity Learning Notes
+post_title: Unit 2 Learning Activity Learning Notes
 author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-3-learning-activity-learning-notes/
+  https://create.twu.ca/ldrs501-su18/unit-2-learning-activity-learning-notes/
 published: true
 post_date: 2018-04-02 18:37:58
 ---
