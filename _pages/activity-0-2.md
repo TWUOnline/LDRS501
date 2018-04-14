@@ -1,6 +1,6 @@
 ---
 ID: 186
-post_title: Learning Activity 0.2
+post_title: Week 0 Learning Activity 0.2
 author: kmonroe
 post_excerpt: ""
 layout: page
@@ -11,7 +11,7 @@ post_date: 2018-03-03 21:23:01
 ---
 Once you read the materials below click the link to Learning Activity 1.2 to complete the activity.
 
-<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to Learning Activity 1.2]</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Learning Activity 1.2]</span>
 <h4>Critical Thinking</h4>
 Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. **_Daniel Levitin_**
 
