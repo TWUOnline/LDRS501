@@ -1,6 +1,6 @@
 ---
 ID: 18
-post_title: Learning Activity 0.1
+post_title: Week 0 Learning Activity 0.1
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -357,4 +357,4 @@ Najmaei, A., Quazi, Z., &amp; Behnia, M. (2017). _Balancing Strategic Leadership
 
 Rezvani, A., Dong, L. &amp; Khosravi, P. (2017). Promoting the continuing usage of strategic information systems: The role of supervisory leadership in the successful implementation of enterprise systems. _International Journal of Information Management_. Volume 37. pp. 417-430. Amsterdam: Elsevier.
 
-<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;"> </span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px"> </span>
