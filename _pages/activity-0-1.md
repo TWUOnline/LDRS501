@@ -24,8 +24,6 @@ Once you read the information below click the link to Learning Activity 1.1 to c
 #### Systemic Leadership
 ![](/assets/Presentation1_edited.jpg)
 
-#### Systemic Leadership
-
 In Systemic Leadership Develop In Systemic Leadership Development (1999) by Kevin Liu, he suggests systemic leadership requires a process 'that takes place over time and involves a variety of integrated activities.' (p. 12). Reviewing the diagram above, we see this observation born out as it reflects systemic leadership including the need for a balanced approach using strategic leadership principle, supervisory leadership practice and personal leadership development in the effective integration of a systemic leadership development principles and practice and has 'an impact on the effectiveness of leadership development in the organization.' (p. 12)
 
 #### Personal Leadership
