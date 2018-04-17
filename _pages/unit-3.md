@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2><strong>Strategic Leadership Teams </strong></h2>
+## Strategic Leadership Teams 
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 3.
 
 This week represents your third week of course activity.
@@ -128,7 +128,7 @@ Mastery comes from learning, not vice versa.
 
 [Link to BLOG 2 Posting Instructions]
 
-<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG Grading Rubric (5%)]</span>
+[Link to BLOG Grading Rubric (5%)]
 
 [Link to MA LEAD LEADERSHIP MONOGRAPH 2018]
 

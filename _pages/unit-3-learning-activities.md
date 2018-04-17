@@ -62,7 +62,7 @@ Walonick, D. (1993) [_Organizational theory and behavior._](http://www.statpac.o
 
 Zeeman, A. (2017). [Senge’s Five Disciplines of Learning Organizations.](https://www.toolshero.com/management/five-disciplines-learning-organizations/)
 
-#### -_As leaders you are on your life long learning journey as a systems thinker-_
+#### -_As leaders you are on your life long learning journey as a systems thinker_
 
 ##### Learning Activity 3.2
 
