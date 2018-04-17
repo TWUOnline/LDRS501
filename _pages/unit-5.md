@@ -1,6 +1,6 @@
 ---
 ID: 56
-post_title: Week 5
+post_title: 'Week 5 &#8211; Reading Week'
 author: Colin Madland
 post_excerpt: ""
 layout: page

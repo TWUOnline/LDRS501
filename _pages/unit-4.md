@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: Week 4
+post_title: 'Week 4 &#8211; Strategic Team Review'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -11,6 +11,22 @@ post_date: 2018-02-23 01:07:23
 ---
 <h3><strong>Strategic Team Review</strong></h3>
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 4.
+
+This week represents your fourth week of course activity.
+
+Below, you will find the outline for Week 4 and links to the materials you will need to review, develop and learn about Strategic Leadership.
+
+Our week starts with a paragraph related to the fourth week of the course.  This week introduces an understanding of various aspects of strategic team development and other strategic leadership concepts. YOU can follow the Link to BLOG 3 (Strategy renewal, execution and organizational design) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested through BLOG 3.
+
+As in your introductory BLOG, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+
+Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the unit, further BLOG and Assignment instructions (TEAM Assignment 2) for you to review in the week ahead.
+
+Finally, the section outlines a Learning Activity for the week to help you establish your mastery of the topical material related to Strategy renewal, execution and organizational design.
+
+<strong>NOTE:</strong> Following Week 4, comes a Reading Week (Week 5), where you can catch up on reading and assignment requirements without engaging in BLOG or other scheduled activities for the week. There are some activities available in the Week 5 section for you to review at your leisure for next week, but graded assignments are not due during Week 5.
+
+Welcome to Week 2
 
 #### Week 4
 

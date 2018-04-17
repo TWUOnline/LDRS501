@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: Week 1
+post_title: 'Week 1 &#8211; Personal Strategic Development'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -10,7 +10,23 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Personal Strategic Development</h2>
-All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 1.
+<em><strong>All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 1.</strong></em>
+
+This week represents your first week of course activity.
+
+Below, you will find the outline for Week 1 and links to the materials you will need to review, develop and learn about Strategic Leadership.
+
+First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory BLOG from YOU to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about YOU as unforgettable as possible. It is what people will remember about YOU and set you apart from one another as unique leaders in the field.
+
+Following the Introduction, we start with your first assignment in the course. In this assignment you will enlist all of the things you know about Strategic leadership; from your personal development through to present status of Strategic Leadership ability. You will also learn a peer review process for grading and how to submit your assignments into a PressBooks environment.
+
+We will also take the time to meet a little face to face via a ZOOM video conference, so we can discuss any course logistics and/or any challenges you are facing within the course layout (links, instructions, etc).
+
+Following the instructions below, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun. <img class="alignnone wp-image-1232" src="http://create.twu.ca/ldrs501-su18/files/2018/04/download.jpeg" alt="" width="19" height="20" /> Followed by 3 Learning outcomes for the unit and e-reading resources for you to review in the week ahead.
+
+Finaly, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
+
+Welcome to Week 1
 
 #### Week 1
 

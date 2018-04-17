@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Week 2
+post_title: 'Week 2 &#8211; Leadership Imperatives &amp; Strategic Leadership'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -12,11 +12,25 @@ post_date: 2018-02-23 01:07:23
 <h2><strong>Leadership Imperatives &amp; Strategic Leadership</strong></h2>
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 2.
 
+This week represents your second week of course activity.
+
+Below, you will find the outline for Week 2 and links to the materials you will need to review, develop and learn about Strategic Leadership.
+
+Our week starts with a paragraph related to the second week of the course.  This week introduces an understanding of team dynamics as it relates to Strategic Leadership and the concept of  Appreciative Inquiry (AI). YOU can follow the Link to BLOG 1 (Leadership Imperatives &amp; Strategic Leadership) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested through BLOG 1. f
+
+As in your introductory BLOG, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+
+Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 3 Learning outcomes for the unit, e-reading and video resources for you to review in the week ahead.
+
+Finally, the section outlines two Learning Activities for the week to help you establish your mastery of the topical material related to Leadership Imperatives &amp; Strategic Leadership.
+
+Welcome to Week 2
+
 #### Week 2
 
 TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
-This week also introduces YOU and understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
+This week also introduces YOU and an understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
 
 1. Appreciative Inquiry
 
