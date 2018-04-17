@@ -36,22 +36,22 @@ post_date: 2018-04-13 11:20:44
 <h3>Pre-Reading<br/>Unit 1</h3>
  <p>In unit 1&#8230;</p>
  
- <a href="https://create.twu.ca/ldrs501-su18/unit-1/" > 
+ <a href="https://create.twu.ca/ldrs501-su18/week-0/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-1/">Overview</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-0/">Overview</a></h3> 
  
  
- <a href="https://create.twu.ca/ldrs501-su18/activity-1-1/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/activity-1-1/">Learning Activity 1.1</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/activity-1-2" > 
+ <a href="https://create.twu.ca/ldrs501-su18/activity-0-1/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/activity-1-2">Learning Activity 1.2</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">Learning Activity 0.1</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/activity-0-2" > 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Learning Activity 0.2</a></h3> 
  
  
  Instructor Updates 
