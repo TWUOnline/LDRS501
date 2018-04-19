@@ -10,41 +10,33 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Team Favour/Opposition BLOG</h2>
-
 <h3>Week 6</h3>
-
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 6.
 
 This week represents your fourth week of course activity.
 
-Below, you will find the outline for Week 4 and links to the materials you will need to review, develop and learn about Strategic Leadership.
+Below, you will find the outline for Week 6 and links to the materials you will need to review, develop and learn about Strategic Leadership.
 
-Our week starts with a paragraph related to the fourth week of the course.  This week introduces an understanding of various aspects of strategic team development and other strategic leadership concepts. YOU can follow the Link to BLOG 3 (Strategy renewal, execution and organizational design) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested through BLOG 3.
+Our week starts with an opportunity to gather together in a video conference setting (similar to Week 1) and discuss progress so far, challenges, course related questions or simply to connect with one another. The next paragraphs relate to the sixth week of the course.  This week introduces you to TEAM BLOGging. You are not simply asked to take a topic and BLOG about it. In this BLOG you will represnet a favourable or opposing view to a topic of discussion, with one TEAM member BLOGging to the other TEAMS in the class. YOU can follow the Link to BLOG 4 (Team Favour/Opposition BLOG) to interact with your fellow learners and your journey into TEAM BLOGging and response.
 
-As in your introductory BLOG, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+As in your other BLOGs, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
 
-Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the unit, further BLOG and Assignment instructions (TEAM Assignment 2) for you to review in the week ahead.
+Following the BLOG  instructions, you will find a review of 6 Learning outcomes for the course, further BLOG and Assignment resource for TEAM Assignment 2.
 
-Finally, the section outlines a Learning Activity for the week to help you establish your mastery of the topical material related to Strategy renewal, execution and organizational design.
+Finally, the section outlines a Learning Activity for the week related to navigating the PressBooks environment.
 
-<strong>NOTE:</strong> Following Week 4, comes a Reading Week (Week 5), where you can catch up on reading and assignment requirements without engaging in BLOG or other scheduled activities for the week. There are some activities available in the Week 5 section for you to review at your leisure for next week, but graded assignments are not due during Week 5.
+<strong>NOTE:</strong> Learning Activities in Weeks 6 through 10 relates specifically to navigating the PressBooks material so we can complete the Open Source Discoveries Book together.
 
 Welcome to Week 6
-
 <h4>Week 6 - Day 1</h4>
-
 ZOOM video-conference
-
 <ul>
-    <li>Learner Questions and Process Review - <strong>TBD</strong></li>
-    <li>TEAM Assignment Progress Review - <strong>TBD</strong></li>
-    <li>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</li>
+ 	<li>Learner Questions and Process Review - <strong>TBD</strong></li>
+ 	<li>TEAM Assignment Progress Review - <strong>TBD</strong></li>
+ 	<li>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</li>
 </ul>
-
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
-
 <h4>This week</h4>
-
 This week introduces YOU to TEAM BLOGging.
 
 This is where your and your TEAM will take an assigned position and prove it throughout the week. You may or may not agree with the position you are assigned to defend, but will need to create and defend the position for the other TEAM(S) to respond to. Instruction for the TEAM BLOG activity and  the PressBooks material appear below.
@@ -58,9 +50,7 @@ You will find a wider variety of Learning Activities (6) this week as well. The 
 [Link to BLOG 4 rubric]
 
 [Link to PressBooks instruction here]
-
 <h2><strong>Outcomes</strong></h2>
-
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -74,31 +64,23 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
-
 <h2><strong>Resources</strong></h2>
-
 <h4>Week 4 Assignments</h4>
-
 Assignment: BLOG 4 - <strong>Day 1-6 of Week 6</strong> - Post in BLOG 3 Discussion Thread - <strong>5%</strong>.
-
 <h4>BLOG 4 (TEAM BLOG)</h4>
-
 <h4><em>(Please see posting structures instruction for BLOG 4 - Week 6)</em></h4>
-
 [Link to BLOG 4 - WEEK 6 Posting structures here]
 
 Here we are at the start of Week 6.
 
 To date:
-
 <ol>
-    <li>You assessed yourself as a Strategic Leader. (Assignment 1)</li>
-    <li>You discussed the tools and thinking associated with servant and strategic leadership for organizational development. (BLOG 1)</li>
-    <li>You are presently discussing Strategic Leadership Teams and how to build them and respond to the challenges they represent. (BLOG 2)</li>
-    <li>You also measured and responded to strategy renewal, execution and organizational design principles in your organizational and personal practice.</li>
-    <li>Your first TEAM Assignment is already received. <em>(It should be graded and returned by now.)</em></li>
+ 	<li>You assessed yourself as a Strategic Leader. (Assignment 1)</li>
+ 	<li>You discussed the tools and thinking associated with servant and strategic leadership for organizational development. (BLOG 1)</li>
+ 	<li>You are presently discussing Strategic Leadership Teams and how to build them and respond to the challenges they represent. (BLOG 2)</li>
+ 	<li>You also measured and responded to strategy renewal, execution and organizational design principles in your organizational and personal practice.</li>
+ 	<li>Your first TEAM Assignment is already received. <em>(It should be graded and returned by now.)</em></li>
 </ol>
-
 As we enter Week 6, I want to travel on a favourably oppositional safari.
 
 Using your texts, your experiences and your well honed academic prowess, you will approach this week’s BLOG (BLOG 4 – Week 6) by providing favourable/oppositional views to the questions posed, substantively, succinctly and with citations from relevant supportive referencing to the view you present.
@@ -108,67 +90,48 @@ Using your texts, your experiences and your well honed academic prowess, you wil
 <span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 4 - WEEK 6 Posting structures here]</span>
-
 <ul>
-    <li>Teams will post in ‘favour’ or ‘opposition’ to the premise of the question presented.</li>
-    <li>You can post anytime between Day 1 @ 06:00 and Day 6 @ 23:59:59.</li>
-    <li>The instructor will assign the team focus (‘favour’ or ‘opposition’) for all posts in the BLOG.</li>
+ 	<li>Teams will post in ‘favour’ or ‘opposition’ to the premise of the question presented.</li>
+ 	<li>You can post anytime between Day 1 @ 06:00 and Day 6 @ 23:59:59.</li>
+ 	<li>The instructor will assign the team focus (‘favour’ or ‘opposition’) for all posts in the BLOG.</li>
 </ul>
-
 One TEAM member will speak in ‘favour,’ to support the question, the TEAM member from the opposite team will speak in ‘opposition’ to the question to disprove it.
-
 <ul>
-    <li>‘Favour’ teams will respond in ‘favour’ of the practices and premise laid out in the question and the texts substantively, succinctly and with citation of source materials.</li>
-    <li>‘Opposition’ teams will ‘oppose’ the practices and premise laid out in the question and presented by the texts substantively, succinctly and with citation of source materials.</li>
+ 	<li>‘Favour’ teams will respond in ‘favour’ of the practices and premise laid out in the question and the texts substantively, succinctly and with citation of source materials.</li>
+ 	<li>‘Opposition’ teams will ‘oppose’ the practices and premise laid out in the question and presented by the texts substantively, succinctly and with citation of source materials.</li>
 </ul>
-
 The parameters remain the same for all BLOGS.
-
 <ul>
-    <li>There are no individual posts.</li>
-    <li>You will submit three (3) posts per team for the week.</li>
-    <li>They will be substantive, succinct and cited.</li>
+ 	<li>There are no individual posts.</li>
+ 	<li>You will submit three (3) posts per team for the week.</li>
+ 	<li>They will be substantive, succinct and cited.</li>
 </ul>
-
 The team assignments for this week will be assigned by the Saturday prior to the beginning of Week 6:
 
 The question you will respond to in this week's TEAM BLOG is as follows:.
-
 <ul>
-    <li>Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).</li>
+ 	<li>Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).</li>
 </ul>
-
 Your answers will include materials from the Lepsinger text and at least two (2) other course texts and at least one (1) outside source not listed in course materials.
-
 <h4>Team Posts</h4>
-
 <ul>
-    <li><strong>For your first TEAM post</strong>, you will choose one of the sections from Chapter 5 above and write in favour/opposition of the principle you focus on. The principle must be fully addressed by stating why the principles reviewed are important factors for the section you review. (i.e. if there are 4 points to the section you focus on, every point must receive a favourable/oppositional review on how it helps/hinders organizational change)</li>
-    <li><strong>Your second TEAM post</strong> will respond favourably/opposed to the first post by Team(s) addressing their favour/opposition to the section in chapter 5 they responded to.</li>
-    <li><strong>Your third TEAM post</strong> will review all post materials from the week and provide a summary of your favour/opposition for all sections reviewed in previous posts and the Team favour/opposition position for all sections reviewed in previous posts.</li>
+ 	<li><strong>For your first TEAM post</strong>, you will choose one of the sections from Chapter 5 above and write in favour/opposition of the principle you focus on. The principle must be fully addressed by stating why the principles reviewed are important factors for the section you review. (i.e. if there are 4 points to the section you focus on, every point must receive a favourable/oppositional review on how it helps/hinders organizational change)</li>
+ 	<li><strong>Your second TEAM post</strong> will respond favourably/opposed to the first post by Team(s) addressing their favour/opposition to the section in chapter 5 they responded to.</li>
+ 	<li><strong>Your third TEAM post</strong> will review all post materials from the week and provide a summary of your favour/opposition for all sections reviewed in previous posts and the Team favour/opposition position for all sections reviewed in previous posts.</li>
 </ul>
-
 Once you summarize your position, make one final summary paragraph listing the top three reasons you believe your assigned position proves/disproves the principles reviewed.
 
 Substantive, Succinct and Cited
-
 <h4>LDRS 501 – BLOG 4 Rubric (5%) - Example.
 <strong>BLOG TEAM participation is assessed as follows in all BLOG Posts for 5% of grade:</strong></h4>
-
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG Rubric Example]</span>
 
 &nbsp;
-
 <h2>Resources</h2>
-
 <h4>For TEAM Assignment 2</h4>
-
 Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 
 [Link to Week 3 Notes here]
-
 <h4>Learning Activity 6.1</h4>
-
 <h4>PressBooks Activity</h4>
-
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to PressBooks instruction here]</span>
