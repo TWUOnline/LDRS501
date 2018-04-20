@@ -10,8 +10,11 @@ published: true
 post_date: 2018-04-02 18:37:58
 ---
 <h4>Week 2 Learning Activity Learning Notes</h4>
+
 Read the learning notes below for Week 2 of the course. Once you read the materials below click the link to Learning Activity 2.1 to complete the activity associated to the Learning Notes below.
+
 <h4>Appreciative Inquiry</h4>
+
 [Link to <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Learning Activity 2.1</span>]
 
 When it comes to Appreciative Inquiry, we change the conversation from the problems and solutions to the problems, to what we do well and what we can do better.
@@ -22,15 +25,17 @@ Similarly, the scripture notes we find what we seek (Proverbs 8: 17) In the cont
 
 Too many organizations fail to look beyond the problems and look to what they do well. In a world of fixers, every problem needs an answer. The better focus however, is to celebrate what we do well. To use discretion in our focus and guard what's important. Proverbs 2: 11, 12 tells us:
 
-&gt; Discretion will protect you,
-&gt;
-&gt; and understanding will guard you.
-&gt;
-&gt; Wisdom will save you from the ways of wicked men, from men whose words are perverse,
+<blockquote>
+  Discretion will protect you,
+  
+  and understanding will guard you.
+  
+  Wisdom will save you from the ways of wicked men, from men whose words are perverse,
+</blockquote>
 
 In todays fast paced environment where many pressures face workers and organizations alike, AI is Leadership requirement.
 
-##### Shifting Gears
+<h5>Shifting Gears</h5>
 
 Quick question? How would you rate the culture of your organization?
 
@@ -44,11 +49,13 @@ On the contrary. I see people wanting to change their cultural values, beliefs, 
 
 This is where AI comes in. It helps us look at our cultural practice, foundational values, relationships, organizational direction, systemic practices, performance, the things we excel at, our positive partnerships, community and ethics to ask the questions:
 
-* Tell me about the best times that you have had with your organization.
-* What are your best memories about our cultural practice?
-* How did we represent what we believe best to you?
-* What are the most memorable traditions we practice you believe we could practice better
-* Where do see us excelling the most? etc.
+<ul>
+<li>Tell me about the best times that you have had with your organization.</li>
+<li>What are your best memories about our cultural practice?</li>
+<li>How did we represent what we believe best to you?</li>
+<li>What are the most memorable traditions we practice you believe we could practice better</li>
+<li>Where do see us excelling the most? etc.</li>
+</ul>
 
 In the AI decision making system we consider how a systemic focus makes a difference. How we can help make organizational complexities easier to understand. What can we do well?
 
