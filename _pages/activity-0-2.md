@@ -9,44 +9,36 @@ permalink: >
 published: true
 post_date: 2018-03-03 21:23:01
 ---
-Once you read the materials below click the link to Learning Activity 1.2 to complete the activity.
+<i>Recommended completion of Learning Notes and Activities prior to Week 1 Day 1.</i>
 
-[Link to Learning Activity 1.2]
+Read the instructional information below and complete the Learning Activity(ies) associated with the information provided prior to beginning the Week 1 course work for LDRS 501
 
-<h4>Critical Thinking</h4>
+#### Critical Thinking
 
-<blockquote>
-  Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. <strong><em>Daniel Levitin</em></strong>
-  
-  Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -<em><strong>Judy Carter</strong></em>
-</blockquote>
+&gt; Critical thinking is not something you do once with an issue and then drop it. It requires that we update our knowledge as new information comes in. Time spent evaluating claims is not just time well spent. It should be considered part of an implicit bargain we've all made. **_Daniel Levitin_**
 
-<h5>Definitions</h5>
+&gt; Critical thinking is a process by which we explore and analyze ideas and questions, assess the quality of the evidence, thoughts and arguments presented, and evaluate the credibility, relevance and applicability of ideas. -_**Judy Carter**_
 
-<blockquote>
-  Disciplined thinking that is clear, rational, open-minded, and informed by evidence. (Dictionary.com)
-  
-  The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion. (Dictionary.com)
-</blockquote>
+##### Definitions
 
-<h4>Traits of a Critical Thinking Mind</h4>
+&gt; Disciplined thinking that is clear, rational, open-minded, and informed by evidence. (Dictionary.com)
 
-<ul>
-<li>Intellectual humility</li>
-<li>The intellectually humble do not promote themselves above others, but let their thinking and reasoning speak for them.</li>
-<li>Intellectual perseverance</li>
-<li>Intellectual perseverance can be described as the pursuit of the truth, or pure knowledge, even if the road to get there is arduous - <em><strong>Michael Botyarov</strong></em></li>
-<li>Intellectual responsibility</li>
-<li>Being rational, logical and reasonable in our thinking and belief. - <em><strong>unknown</strong></em></li>
-</ul>
+&gt; The mental process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and evaluating information to reach an answer or conclusion. (Dictionary.com)
 
-<h4>Critical Thinking Values and Skills</h4>
+#### Traits of a Critical Thinking Mind
+
+* Intellectual humility
+* The intellectually humble do not promote themselves above others, but let their thinking and reasoning speak for them.
+* Intellectual perseverance
+* Intellectual perseverance can be described as the pursuit of the truth, or pure knowledge, even if the road to get there is arduous - _**Michael Botyarov**_
+* Intellectual responsibility
+* Being rational, logical and reasonable in our thinking and belief. - _**unknown**_
+
+#### Critical Thinking Values and Skills
 
 When it comes to critical thinking values and skills, it is not simply enough to pat yourself on the back and determine you are a critical thinker. May have taken the stance critical thinking is the negative view of others and their faults; hence critical thinking. But critical thinking is much more.
 
-<blockquote>
-  ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. (Aveyard, Woolliams, &amp; Sharp, p. 7)
-</blockquote>
+&gt; ... critical thinking is about taking a step back and thinking logically and carefully about the information and evidence you have, rather than believing and acting on everything you read, see and hear. (Aveyard, Woolliams, &amp; Sharp, p. 7)
 
 Critical thinking involves clarifying the questions asked. What is the context? Is the information accurate? Are the sources biased or inaccurate in their reporting of fact?
 
@@ -62,7 +54,7 @@ A further value of critical thinking is relevance. When we trace significant imp
 
 Critical thinking also values and practices logic in its approach. When we apply logical consideration to the materials we review, we can assess much of the material based on its logical outcomes. If the result doesn't make sense (isn't logical) we need to review the material and sources again to refine and confirm our conclusions before proceeding. When we apply logic and seek valid conclusions, the result of our critical thinking efforts bears fruit and becomes of greater benefit to all concerned.
 
-<h4>Critical Thinking Process</h4>
+#### Critical Thinking Process
 
 When we think about being critical thinkers, we no longer look at the immediate and consequential views of what we view. We move into a larger view. A big picture view providing us with the best possible oversight of a topic. Looking at the ramifications of decisions and the possible alternatives to direct action available to us in the decision and review process for our organizations and the people we lead and serve.
 
@@ -72,118 +64,114 @@ Critical thinking also looks at the invisible components we often miss at the cu
 
 Invisible Components of critical thinking include:
 
-<ul>
-<li>What are the presenter’s assumptions? Are they accurate and valid?</p></li>
-<li><p>What values and beliefs underlie the presenter's argument?</p></li>
-<li><p>Do you agree with the presenter’s assumptions, values and beliefs?</p></li>
-<li><p>What exceptions can you think of?</p></li>
-</ul>
+* What are the presenter’s assumptions? Are they accurate and valid?
 
-<p>Taking the time to address the questions and seek the answer increases your critically thinking acumen and reveals what was previously hidden in your thinking and your conclusions.
+* What values and beliefs underlie the presenter's argument?
 
-<blockquote>
-  Critical thinking generally incorporates active mental processes (considering, reviewing, thinking) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. (Aveyard, Woolliams, &amp; Sharp p. 114)
-</blockquote>
+* Do you agree with the presenter’s assumptions, values and beliefs?
+
+* What exceptions can you think of?
+
+Taking the time to address the questions and seek the answer increases your critically thinking acumen and reveals what was previously hidden in your thinking and your conclusions.
+
+&gt; Critical thinking generally incorporates active mental processes (considering, reviewing, thinking) that involve some breaking down or analysis of the evidence or experience within a particular context and then reaching a conclusion or outcome. (Aveyard, Woolliams, &amp; Sharp p. 114)
 
 Critical thinking urges us and allows us to:
 
-<ul>
-<li>Scrutinize the details</p></li>
-<li><p>Review information, reflect on its relevance and assess its logic.</p></li>
-<li><p>Ask:</p></li>
-<li><p>Is anything unclear or ambiguous?</p></li>
-<li><p>Are the description and qualities accurate? (all, none, always, never)</p></li>
-<li><p>Do the models, illustrations, charts, maps, illustrate the presenter’s point of view and add credence to his/her argument?</p></li>
-<li><p>What additional information is needed?</p></li>
-<li><p>Assess the evidence</p></li>
-<li><p>Is the information we reviewed accurate?</p></li>
-<li>Does it stand up under scrutiny?</li>
-<li>Is there an alternative view to what we've just found</li>
-<li>Is the data clear, adequate, pertinent, convincing and complete?</li>
-<li>Is the presenter’s interpretation of the data accurate, complete?</li>
-<li>Are the findings universal?</li>
-<li>Are stated cause and effect correctly interpreted?</li>
-<li>Do other alternative explanations exist or might be discovered?</li>
-<li>Are reasons sufficient and valid?</li>
-<li><p>Is the evidence biased?</p></li>
-<li><p>Explore context and connections</p></li>
-<li><p>Are the truths discovered contextually accurate?</p></li>
-<li>Do they mean the same in different and differing contexts? 3 * What are the cross disciplinary connections to what we discovered?</li>
-<li>How can it be applied in different and differing contexts?</li>
-<li>Does the viewpoint fit the field and discipline?</li>
-<li>Does it add something new, present contrasting viewpoints, connect to other ideas?</li>
-<li>Are other points of view and data taken into account?</li>
-<li>What information is missing?</li>
-<li>What would you change or add to improve the work?</li>
-</ul>
+* Scrutinize the details
 
-<p>Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
+* Review information, reflect on its relevance and assess its logic.
+
+* Ask:
+
+* Is anything unclear or ambiguous?
+
+* Are the description and qualities accurate? (all, none, always, never)
+
+* Do the models, illustrations, charts, maps, illustrate the presenter’s point of view and add credence to his/her argument?
+
+* What additional information is needed?
+
+* Assess the evidence
+
+* Is the information we reviewed accurate?
+* Does it stand up under scrutiny?
+* Is there an alternative view to what we've just found
+* Is the data clear, adequate, pertinent, convincing and complete?
+* Is the presenter’s interpretation of the data accurate, complete?
+* Are the findings universal?
+* Are stated cause and effect correctly interpreted?
+* Do other alternative explanations exist or might be discovered?
+* Are reasons sufficient and valid?
+* Is the evidence biased?
+
+* Explore context and connections
+
+* Are the truths discovered contextually accurate?
+* Do they mean the same in different and differing contexts? 3 * What are the cross disciplinary connections to what we discovered?
+* How can it be applied in different and differing contexts?
+* Does the viewpoint fit the field and discipline?
+* Does it add something new, present contrasting viewpoints, connect to other ideas?
+* Are other points of view and data taken into account?
+* What information is missing?
+* What would you change or add to improve the work?
+
+Critical thinking leads us to greater clarity in thinking and development of greater focus on what we research, read and discover.
 
 The following illustration shows how we generally approach the things we observe and make the assumptions that guide us.![](/assets/The data and Experience ladder_edited.jpg)
+```
+Image Source? Permissions?
+```
+#### Learning Activity 1.2 Critical Thinking
 
-<pre><code>Image Source? Permissions?
-</code></pre>
-
-<h4>Learning Activity 1.2 Critical Thinking</h4>
-
-<h4>Unit Learning Outcomes</h4>
+#### Unit Learning Outcomes
 
 Upon completion of Learning Activity 1.2 learners will be able to:
 
-<ol>
-<li>Develop a general awareness of critical thinking theory and practice as it relates to the various and varying aspects of addressing critical thinking in its multiple contexts.</li>
-<li>Create a short proposal to suggest changes to practices within these areas as the result of your critical review.
-Read the Learning Activity 1.2 Learning Notes by clicking on the link below.</li>
-</ol>
+1. Develop a general awareness of critical thinking theory and practice as it relates to the various and varying aspects of addressing critical thinking in its multiple contexts.
+2. Create a short proposal to suggest changes to practices within these areas as the result of your critical review.
+Read the Learning Activity 1.2 Learning Notes by clicking on the link below.
 
 [Link to Learning Activity 1.2 Learning Notes]
 
-<h4>Take the time to read through and reflect on the following principles and suggested activities during the coming week.</h4>
+#### Take the time to read through and reflect on the following principles and suggested activities during the coming week.
 
 Looking at your area of personal worldview, responsibility, discipline, organization or area of study; respond to the questions below as they relate to the discipline of critical thinking:
 
-<ol>
-<li>What changes presently influence your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to these changes?</li>
-</ol>
+1. What changes presently influence your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to these changes?
 
 a. Look at each area (personal worldview, responsibility, discipline, organization or area of study); review the basic assumptions you are dealing with and list the changes influencing YOU.
 
-<ol>
-<li>How can you think more critically about the changes you listed?</li>
-</ol>
+2. How can you think more critically about the changes you listed?
 
 a. List the critical observations you make on a separate log for future review and discussion.
 
-<ol>
-<li>Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?</p></li>
-<li><p>Once you review these questions and respond to them:</p></li>
-</ol>
+3. Review these changes critically to broaden your personal worldview, area of responsibility, discipline, organization, area of study and practice?
 
-<p>a. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
+4. Once you review these questions and respond to them:
+
+a. Make a short proposal to yourself, your organization, people in your discipline or area of study to suggest changes to practices within these areas as the result of your critical review.
 
 b. Keep the proposal for future use in other participation activities throughout the course.
 
-<h4>Learning Activity 1. 3 PressBooks Instruction</h4>
+#### Learning Activity 1. 3 PressBooks Instruction
 
-<h4>Unit Learning Outcomes</h4>
+#### Unit Learning Outcomes
 
 Upon completion of Learning Activity 1.3 learners will be able to:
 
-<ol>
-<li>Understand the process for entering course materials into the PressBooks platform.</li>
-<li>Be able to edit course materials in the PressBooks platform.</li>
-</ol>
+1. Understand the process for entering course materials into the PressBooks platform.
+2. Be able to edit course materials in the PressBooks platform.
 
 Pressbooks is a self-publishing tool that we will be using to create content in this course. For instructions on how to use Pressbooks click the link [Link to PressBooks instruction]
 
-<h4>Unit 1 Learning Activity References</h4>
+#### Unit 1 Learning Activity References
+Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
-Aveyard, H., Woolliams, M., &amp; Sharp, P. (2015). <em>A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.</em> Maidenhead: McGraw-Hill Education.
+[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking?s=t) (n.d.). In Dictionary.com
 
-<a href="http://www.dictionary.com/browse/critical-thinking?s=t">Critical Thinking.</a> (n.d.). In Dictionary.com
+[Critical Thinking.](http://www.dictionary.com/browse/critical-thinking) (n.d.). In Dictionary.com
 
-<a href="http://www.dictionary.com/browse/critical-thinking">Critical Thinking.</a> (n.d.). In Dictionary.com
+Goleman, D., Boyatzis, R. and McKee, A. (2015) <em>[Primal leadership: learning to lead with emotional intelligence](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf) summary.</em>
 
-Goleman, D., Boyatzis, R. and McKee, A. (2015) <em><a href="https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf">Primal leadership: learning to lead with emotional intelligence</a> summary.</em>
-
-<a href="http://www.ifiseeu.com/Misc/intellectual-responsibility.htm">Intellectual Responsibility</a> (2018) If-I-Seek-Us.
+[Intellectual Responsibility](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm) (2018) If-I-Seek-Us.
