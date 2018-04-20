@@ -12,13 +12,20 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Week 2 Learning Activity 2.2 PressBooks Instruction</h2>
+
 &nbsp;
+
 <h4>Learning Activity 2.2</h4>
+
 <h4>Unit Learning Outcomes</h4>
+
 Upon completion of Learning Activity 2.2 learners will be able to:
+
 <ol>
- 	<li>Understand the process for entering course materials into the PressBooks platform.</li>
- 	<li>Be able to edit course materials in the PressBooks platform.</li>
+    <li>Understand the process for entering course materials into the PressBooks platform.</li>
+    <li>Be able to edit course materials in the PressBooks platform.</li>
 </ol>
+
 <h4>PressBooks Instruction</h4>
+
 [Link to PressBooks instruction here]
