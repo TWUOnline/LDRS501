@@ -15,16 +15,18 @@ Week 3 Learning Activity 3.2 PressBooks Instruction
 
 Read the learning notes below for Week 3 of the course. Once you read the materials below click the link to Learning Activity 3.1 to complete the activity associated to the Learning Notes below.
 
-##### Learning Activity 3.2
+<h5>Learning Activity 3.2</h5>
 
-#### Unit Learning Outcomes
+<h4>Unit Learning Outcomes</h4>
 
 Upon completion of Learning Activity 3.2 learners will be able to:
 
-1. Understand the process for entering course materials into the PressBooks platform.
-2. Be able to edit course materials in the PressBooks platform.
+<ol>
+<li>Understand the process for entering course materials into the PressBooks platform.</li>
+<li>Be able to edit course materials in the PressBooks platform.</li>
+</ol>
 
-#### PressBooks Instruction
+<h4>PressBooks Instruction</h4>
 
 [Link to PressBooks instruction here]
 
@@ -48,10 +50,11 @@ Brain swarming rejects gathering everyone in a room to force a solution in an en
 Why do we need to talk in the first place?
 
 <strong>How Brain Swarming works:</strong>
+
 <ul>
- 	<li>Learning outcomes are defined, then refined into cluster groups.</li>
- 	<li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
- 	<li>Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)</li>
+    <li>Learning outcomes are defined, then refined into cluster groups.</li>
+    <li>Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team</li>
+    <li>Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)</li>
 </ul>
 
 [Link to Learning Activity 3.1]
