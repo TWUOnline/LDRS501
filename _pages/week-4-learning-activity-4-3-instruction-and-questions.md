@@ -12,5 +12,7 @@ published: true
 post_date: 2018-04-21 15:55:00
 ---
 <h3>Week 4 Learning Activity 4.3 Instruction and Questions</h3>
+
 Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity(ies) that follow. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.
+
 <h3>Learning Activity 4.3</h3>
