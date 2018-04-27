@@ -59,9 +59,9 @@ The full value of strategic leadership may not be realized in practical terms, h
 
 Versatile leadership allows us to navigate the many challenges attached to the strategic leadership process. Without versatility, many leaders can get stuck repeating ideas and stagnating in challenges because they are unable to see beyond the patterns set in their own minds or within the restrictive practices of their organizational structures.
 
-The chart below allows for a snapshot of you versatility as it relates to Strategic leadership. Look at the chart and answer the questions below to help you gain a present snapshot of <span style="text-decoration: underline">your</span> present versatility practice.
+The chart below allows for a snapshot of you versatility as it relates to Strategic leadership. Look at the chart and answer the questions below to help you gain a present snapshot of <span style="text-decoration: underline;">your</span> present versatility practice.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_</span>
 
 #### Leadership Versatility Chart
 
@@ -124,7 +124,7 @@ As part of this learning activity, please look at each of the values listed belo
 
 One last thought on vision.
 
-Vision is not a magic pill; once framed is fulfilled and committed to by everyone. It’s a compass; an organizing principle people can rally around. It needs regular viewing and requires focus and commitment to the principles everyone subscribes to, to maintain it's principles and ensure everyone arrives at their strategic destination <span style="text-decoration: underline">together</span>.
+Vision is not a magic pill; once framed is fulfilled and committed to by everyone. It’s a compass; an organizing principle people can rally around. It needs regular viewing and requires focus and commitment to the principles everyone subscribes to, to maintain it's principles and ensure everyone arrives at their strategic destination <span style="text-decoration: underline;">together</span>.
 
 “It is not what a vision is that’s important, it’s what a vision does.”
 
