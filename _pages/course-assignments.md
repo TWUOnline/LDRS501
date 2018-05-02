@@ -9,20 +9,20 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-### Course Assignments
+<h3>Course Assignments</h3>
 
 The table below lists all assignments for this course. All assignments are mandatory.
 
-#### Assignments
+<h4>Assignments</h4>
 
-**Blogs**= 35% of final grade: Intro, Week 2, Week 3, Week 4, Week 6, Week 7, Week 8
+<strong>Blogs</strong>= 35% of final grade: Intro, Week 2, Week 3, Week 4, Week 6, Week 7, Week 8
 
-**Individual Assignments**= 10% of final grade- Week 1
+<strong>Individual Assignments</strong>= 10% of final grade- Week 1
 
-**Team Assignments**= 55% of final grade – Week 4, Week 7, Week 10
+<strong>Team Assignments</strong>= 55% of final grade – Week 4, Week 7, Week 10
 
 [table id=5 /]
 
-##### Program Grade Submission Policy
+<h5>Program Grade Submission Policy</h5>
 
 ALL course work must be submitted for final grading within 10 days following the course end date or risk an INC to be entered pending final assignment of a course mark for missing coursework.
