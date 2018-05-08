@@ -12,10 +12,7 @@ published: true
 post_date: 2018-04-21 16:02:17
 ---
 <h3>Week 4 Learning Activity 4.4 Instruction and Questions</h3>
-
 Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity(ies) that follow. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.
-
-<h3>Learning Activity 4.4</h3>
 
 <strong>Uncertainty and Change</strong>
 
@@ -30,79 +27,65 @@ In the context of a Strengths, Weaknesses. Opportunities and Threat Analysis (SW
 Strategic issue levels related to Opportunities, outline how the organization will strategically address the opportunities they see and capitalize on them to maximize the opportunities presented. The strategies coming from this discussion and developed by various organizational teams, provides the framework and the strategic issue levels the organization will address.
 
 One of the simpler approaches is to take your established SWOT and break off into teams to review the strategic issues represented in your identified opportunities and threats. The process below describes an option for addressing strategic issues.
-
 <ol>
-    <li>
+ 	<li>
 <blockquote>Place the list of Opportunities and Threats in front of you.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Review each opportunity and each threat. List them one by one under each heading.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Describe each opportunity and each threat in detail as it relates to the organization's future. Write down a summary for each.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Ask the team what the best possible outcome is for each opportunity and each threat. Write it down.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Ask the team what could possibly go wrong in the opportunity and threat strategies listed. Discuss and make a summary of your discussion.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote> Review the opportunities and threats again.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Ask the team what your team will do if the strategic process fails in solving issues related to the opportunities and threat strategies.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>Make plans to address the issues you foresee.</blockquote>
 </li>
-    <li>
+ 	<li>
 <blockquote>If the plans do not address the issue, start at number 1 and repeat until the strategic issues are resolved and addressed.</blockquote>
 </li>
 </ol>
-
 <strong>Evaluating strategic plans</strong>
 
 William R. King (1978) in his thorough observation of strategic plans outlines several important facets for evaluating strategic planning activities. He suggests:
-
 <ol>
-    <li>Any strategic planning requires attention to the organizational mission.</li>
-    <li>It must stay true to the organization's strategic directives <em>(chosen organizational direction to achieve its goals)</em>.</li>
-    <li>Take into account miscellaneous categories of engagement that may not be outlined in the main mission and organizational strategic objectives <em>(taking a fluid look at all issues affecting planning)</em>.</li>
+ 	<li>Any strategic planning requires attention to the organizational mission.</li>
+ 	<li>It must stay true to the organization's strategic directives <em>(chosen organizational direction to achieve its goals)</em>.</li>
+ 	<li>Take into account miscellaneous categories of engagement that may not be outlined in the main mission and organizational strategic objectives <em>(taking a fluid look at all issues affecting planning)</em>.</li>
 </ol>
-
 He goes on to outline how to evaluate system objectives in the evaluation process to determine the specific focus for the organization and define objectives in more concise and clearer language. (p. 30) He also takes a clear view toward systemic constraints and design strategies, to assist in the development and progression of the strategic plan and design. (pp. 30, 31) Outlining important evaluative processes to ensure the strategic planning organizations engage provides the best result possible for the organization and the future strategic plans it envisions.
 
 While King's article does not deal with every eventuality effectively, it does 'provide a basis for explicating individual systems in a fashion which facilitates choice and priority setting.' (p. 37) The message overall however, is the importance to evaluate strategic plans before, during and after implementation to ensure the trajectory of the plan, the pathway taken and the outcomes align with organizational objectives and to better ensure the success of the strategic plans envisioned, enacted and engaged.
-
 <h4>Learning Activity 4.4</h4>
-
 <strong>Issues, Leaders, Approaches, and Questions </strong>
-
 <h4>Unit Learning Outcomes</h4>
-
 Upon completion of Learning Activity 4.4 learners will be able to:
-
 <ol>
-    <li>Understand the effect of uncertainty and change on corporate decisions.</li>
-    <li>Identify the various address various strategic issue levels affecting/effecting an organization and how to evaluate them.</li>
+ 	<li>Understand the effect of uncertainty and change on corporate decisions.</li>
+ 	<li>Identify the various address various strategic issue levels affecting/effecting an organization and how to evaluate them.</li>
 </ol>
-
 <h4>Reflective Questions and Activity.</h4>
-
-<em>(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)</em>
+_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
 
 <strong>Evaluate</strong>
-
 <ol>
-    <li>What about your organizational strategic plans?</li>
-    <li>Does your organization have a process of evaluation to ensure the plan is effective? Momentum is established and maintained? the objectives remain intact after the plan begins? Why do you say so? Why not?</li>
-    <li>Review your most recent strategic plan and evaluate its overall effectiveness using the few questions cited above.</li>
-    <li>What was your outcome?</li>
+ 	<li>What about your organizational strategic plans?</li>
+ 	<li>Does your organization have a process of evaluation to ensure the plan is effective? Momentum is established and maintained? the objectives remain intact after the plan begins? Why do you say so? Why not?</li>
+ 	<li>Review your most recent strategic plan and evaluate its overall effectiveness using the few questions cited above.</li>
+ 	<li>What was your outcome?</li>
 </ol>
-
 <h3>Week 4 Learning Activities References</h3>
-
 Baum, J. C., &amp; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
 
 Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
