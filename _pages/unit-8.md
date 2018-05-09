@@ -9,10 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2>Competencies at Work</h2>
-
-<h3>Week 8</h3>
-
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 8.
 
 This week represents your eighth week of course activity.
@@ -28,9 +24,7 @@ Following the BLOG  instructions, you will find another review of 6 Learning ou
 <strong>NOTE:</strong> Learning Activities in Weeks 8 through 10 relate specifically to navigating the PressBooks material so we can complete the Open Source Discoveries Book together.
 
 Welcome to Week 8
-
 <h4>This week</h4>
-
 Over the last several weeks we reviewed many aspects of strategic leadership.
 
 In the <em><strong>Week 2 BLOG</strong></em> the discussion centered on how Transformational Servant Leadership affects/effects the development of strategic leadership directions, the benefits of keeping servant leadership as a central focus in strategic leadership principles and how the principles of critical thinking and transformational servant leadership principles affect organizational strategies.
@@ -52,9 +46,7 @@ The PressBooks material follows previous outlines for developing proficiency and
 [Link to BLOG 6 rubric]
 
 [Link to PressBooks instruction here]
-
 <h2>Outcomes</h2>
-
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -68,19 +60,12 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
-
 <h2>Resource</h2>
-
 <h4>Week 8 Assignments</h4>
-
-Assignment: BLOG 6 - <strong>Day 1-6 of Week 8</strong> - Post in BLOG 6 Discussion Thread - 5%.
-
+Assignment: BLOG 6 - **Day 1-6 of Week 8** - Post in BLOG 6 Discussion Thread - 5%.
 <h4>BLOG 6</h4>
-
 <h4><em>(Please see posting structures instruction for BLOG 6 - Week 8)</em></h4>
-
 <h4>Strategic Leadership Competencies</h4>
-
 <strong><em>This Week’s Question</em></strong>
 
 <strong>All</strong> four texts deal with competencies relevant for success in strategically leading organizations.
@@ -94,35 +79,25 @@ Lepsinger  R. (2010) <em>Closing the Execution Gap</em>. San Francisco: Jossey-
 Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic possibilities: strategy </em><em>formulation and execution practices to flourish.</em> Randburg: KR Publishing. (pp. 36-57)
 
 <strong>Looking</strong> at the texts where the competencies are outlined:
-
 <ol>
-    <li><strong>Detail</strong> how you will incorporate these competencies into your organizational practices and why.</li>
-    <li><strong>Identify</strong> the competencies you believe will not work in your organizational practice and why.</li>
+ 	<li><strong>Detail</strong> how you will incorporate these competencies into your organizational practices and why.</li>
+ 	<li><strong>Identify</strong> the competencies you believe will not work in your organizational practice and why.</li>
 </ol>
-
 <strong>Looking</strong> at the assigned texts throughout the course:
-
 <ol>
-    <li><strong>Identify</strong> and <strong>critically evaluate</strong> the three (3) most important principles you discovered in course readings and how you will incorporate them into your organizational practice.</li>
-    <li><strong>Identify</strong> and <strong>critically evaluate</strong> the three (3) least important principles you discovered in the course readings and explain why they are irrelevant to your organizational experience and future.</li>
-    <li><strong>Identify,</strong> from your critical evaluation of course texts, the least effective course text material you discovered during your investigation of strategic leadership principles and why you see them as least effective (personally or corporately).</li>
+ 	<li><strong>Identify</strong> and <strong>critically evaluate</strong> the three (3) most important principles you discovered in course readings and how you will incorporate them into your organizational practice.</li>
+ 	<li><strong>Identify</strong> and <strong>critically evaluate</strong> the three (3) least important principles you discovered in the course readings and explain why they are irrelevant to your organizational experience and future.</li>
+ 	<li><strong>Identify,</strong> from your critical evaluation of course texts, the least effective course text material you discovered during your investigation of strategic leadership principles and why you see them as least effective (personally or corporately).</li>
 </ol>
-
 <strong>For posting responses</strong>, you are free to ‘agree’ or ‘challenge’ observations made in all posts.
 
 [Link to BLOG 6 - WEEK 8 Posting structures here]
-
 <h4>Learning Activity 8.1</h4>
-
 <h4>Unit Learning Outcomes</h4>
-
 Upon completion of Learning Activity 8.1 learners will be able to:
-
 <ol>
-    <li>Understand the process for entering course materials into the PressBooks platform.</li>
-    <li>Be able to edit course materials in the PressBooks platform.</li>
+ 	<li>Understand the process for entering course materials into the PressBooks platform.</li>
+ 	<li>Be able to edit course materials in the PressBooks platform.</li>
 </ol>
-
 <h4>PressBooks Activity</h4>
-
 [Link to PressBooks instruction here]
