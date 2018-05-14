@@ -15,7 +15,7 @@ There are three key components to a connected course: Moodle, the _course hub_, 
 
 ##### Moodle
 
-At the beginning of your course, your instructor likely alerted you to the course site in Moodle, which is at [learn.twu.ca](https://learn.twu.ca). Moodle is where some course activities may take place, where you can send and receive confidential messages, and access the discussion forums, which are only accessible to registered students. 
+At the beginning of your course, your instructor likely alerted you to the course site in Moodle, which is at [learn.twu.ca](https://learn.twu.ca). Moodle is where some course activities may take place, where you can send and receive confidential messages, and access the discussion forums, which are only accessible to registered students.
 
 If you need assistance with Moodle, please see our [Knowledge Base articles here](https://twonline.gitbooks.io/moodlefaq/content/).
 
@@ -31,6 +31,6 @@ Each participant in the course will have control over their own personal website
 
 In order to participate in the course, you must submit the URL for your site to your instructor. Your instructor will then connect your site with the course hub through RSS \(Really Simple Syndication\). Once your site is connected through RSS, your posts on your own site will be syndicated and show up on the course hub.
 
-The first activity in this course, [WordPress Set Up](https://create.twu.ca/orientation/digital-skills/wordpress-set-up/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
+The first activity in this course, [WordPress Set Up](https://create.twu.ca/ldrs501-su18/wordpress-settings/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
 
 Click 'Home' in the menu above to return to the main course page.
