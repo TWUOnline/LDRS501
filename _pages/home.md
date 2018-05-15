@@ -25,7 +25,7 @@ post_date: 2018-04-13 11:20:44
  <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">WordPress Settings for this Course</a></h3> <p style="text-align: center;">Click here for important information on connecting your site to the course hub.</p> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">WordPress Setup</a></h3> <p style="text-align: center;">Click here for important information on connecting your site to the course hub.</p> 
  
  
  <a href="https://create.twu.ca/ldrs501-su18/pressbooks-setup/" > 

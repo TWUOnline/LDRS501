@@ -85,9 +85,9 @@ Using your texts, your experiences and your well honed academic prowess, you wil
 
 <em><strong>Here’s how we will handle the Week 6 BLOG.</strong> </em>
 
-<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
+<span style="float: none; background-color: transparent; color: #333333; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.4px; text-align: left; text-decoration: none; text-indent: 0px;"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 4 - WEEK 6 Posting structures here]</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to BLOG 4 - WEEK 6 Posting structures here]</span>
 <ul>
  	<li>Teams will post in ‘favour’ or ‘opposition’ to the premise of the question presented.</li>
  	<li>You can post anytime between Day 1 @ 06:00 and Day 6 @ 23:59:59.</li>
@@ -122,12 +122,10 @@ Once you summarize your position, make one final summary paragraph listing the t
 Substantive, Succinct and Cited
 <h4>LDRS 501 – BLOG 4 Rubric (5%) - Example.
 <strong>BLOG TEAM participation is assessed as follows in all BLOG Posts for 5% of grade:</strong></h4>
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG Rubric Example]</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to BLOG Rubric Example]</span>
 <h2>Resources</h2>
 <h4>For TEAM Assignment 2</h4>
-Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
-
-[Link to Week 3 Notes here]
+If you need to refresh your memory, please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 <h4>Learning Activity 6.1</h4>
 <h4>PressBooks Activity</h4>
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to PressBooks instruction here]</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to PressBooks instruction here]</span>

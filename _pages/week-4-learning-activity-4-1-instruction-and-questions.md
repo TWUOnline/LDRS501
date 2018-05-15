@@ -11,8 +11,8 @@ permalink: >
 published: true
 post_date: 2018-04-21 15:40:55
 ---
-Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity(ies) that follow. <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.</span>
-<h4></h4>
+Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity(ies) that follow. <span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.</span>
+
 Follow the instructions for each learning activity to gain understanding and interact with the material review for each learning activity during Week 4 of LDRS 501.
 
 <strong>INTRODUCTION</strong>
@@ -89,7 +89,7 @@ Here are some examples to enhance your understanding of deductive thinking. Read
 
 10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
 
-The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain).</em>The images below provide insight into how these differing functions work in our everyday life.
+The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain). </em>The images below provide insight into how these differing functions work in our everyday life.
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
@@ -97,23 +97,7 @@ The discussion of differing thinking styles also leads us to left vs. right brai
 
 As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
 
-As important understanding inductive/deductive and left/right brain thinking are in understanding how strategic teams work, there is also a clear need to understand what type of learners your team represents. Visual? Kinaesthetic? Auditor?
-
-a. Visual
-
-Visual learners  think in pictures and learn best with the use of visual images as they learn. They depend on non-verbal cues (like expressions, illustrations, body language, etc.) to help them understand the world around them. They tend to fare better in learning environments where they can sit near the front. away from distractions from other stimuli, often taking notes and making lists to read later. (Gilakjani, pp. 105, 106)
-
-b. Kinaesthetic
-
-Kinaesthetic learners, learn best with an active “hands-on” approach. They
-favour interaction with the physical world as they learn, but often have
-a difficult time staying on target and can become unfocused.
-
-To address the lack of focus, create learning opportunities to help them concentrate better where movement is involved. (Gilakjani, p. 106)
-
-c. Auditor
-
-Auditory learners  remember details about information they hear quite accurately, often discovering information through listening and interpreting pitch and emphasis on the topics or materials presented. They gain knowledge from reading out loud or hearing information read out loud and have challenges fully understanding detailed written information. (Gilakjani, p. 106)
+&nbsp;
 <h4>Learning Activity 4.1</h4>
 <h4>Unit Learning Outcomes</h4>
 Upon completion of Learning Activity 4.1 learners will be able to:

@@ -65,10 +65,10 @@ Learners will have the opportunity to develop of the following learning outcomes
 <h4>Week 7 Assignments</h4>
 Assignment: BLOG 5 - **Day 1-6 of Week 7** - Post in BLOG 5 Discussion Thread - <strong>5%</strong>.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 5]</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to BLOG 5]</span>
 <h4>BLOG 5</h4>
 <h4><em>(Please see posting structures instruction for BLOG 5 - Week 7)</em></h4>
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 5 - WEEK 7 Posting Structures]</span>
+<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">[Link to BLOG 5 - WEEK 7 Posting Structures]</span>
 <h4>Conflict and cooperation</h4>
 <strong><em>This Week’s Question</em></strong>
 
@@ -98,9 +98,7 @@ For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 16
 
 [Link to Assignment 3]
 <h4>For TEAM Assignment 2</h4>
-Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
-
-[Link to Week 3 Notes here]
+Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
 <h4>Learning Activity 7.1</h4>
 <h4>Unit Learning Outcomes</h4>
 Upon completion of Learning Activity 7.1 learners will be able to:
