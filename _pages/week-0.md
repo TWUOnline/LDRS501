@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h3>Pre-reading and introductory Learning Activities</h3>
+### Pre-reading and introductory Learning Activities
 
 This section of study will provide you with a foundational overview on the general texts for the course, the outcomes we will focus on for the beginning stages of course pre-reading and introductory Learning Activities. The Foundational Learning Activities for this section will introduce you to the concepts of Personal Learning and Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and be prepared for the coursework ahead.
 
@@ -25,84 +25,49 @@ Finally, you will see directions to learning Activities specifically focused for
 
 One final note. If you do not have access to these items prior to the start of the course, no worries. You can work through these concepts over the first weeks of the course to assist your developmental understanding of later concepts introduced to your strategic leadership tool kit.
 
-<h4>Reading Overview</h4>
+#### Reading Overview
 
-<table>
-<thead>
-<tr>
-  <th align="left">Reading Outline- LDRS 501 Strategic Leadership</th>
-  <th align="left">Week 0: Pre COURSE READING (recommended start 4 weeks prior to course start)</th>
-  <th align="left"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left"><strong>Author</strong></td>
-  <td align="left"><strong>Text or Article</strong></td>
-  <td align="left"><strong>Chapters/Pages/Links</strong></td>
-</tr>
-<tr>
-  <td align="left">R Hughes, K Collarelli Beatty, D Dinwoodie</td>
-  <td align="left"><em><strong>Becoming a Strategic Leader</strong></em></td>
-  <td align="left"><strong>All chapters</strong> - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas</td>
-</tr>
-<tr>
-  <td align="left">M. Ungerer, G. Ungerer, &amp; J. Herholdt</td>
-  <td align="left"><em><strong>Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish</strong></em></td>
-  <td align="left"><strong>All chapters</strong> - 3 chapters per week - take notes for personal insight and important application ideas.</td>
-</tr>
-<tr>
-  <td align="left">J. R. Galbraith</td>
-  <td align="left"><em><strong>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</strong></em></td>
-  <td align="left"><strong>All chapters</strong> - 4 chapters per week - take notes for personal insight and important application ideas</td>
-</tr>
-<tr>
-  <td align="left">R Lepsinger</td>
-  <td align="left"><em><strong>Closing the Execution Gap</strong></em></td>
-  <td align="left"><strong>All chapters</strong> - 2 chapters per week - take notes for personal insight and important application ideas.</td>
-</tr>
-</tbody>
-</table>
+| Reading Outline- LDRS 501 Strategic Leadership | Week 0: Pre COURSE READING (recommended start 4 weeks prior to course start) | |
+| :--- | :--- | :--- |
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | **All chapters** - 2 chapters and 2 appendices per week - take notes for personal insight and important application ideas |
+| M. Ungerer, G. Ungerer, &amp; J. Herholdt | _**Navigating Strategic Possibilities: Strategy Formulation and Execution Practices to Flourish**_ | **All chapters** - 3 chapters per week - take notes for personal insight and important application ideas. |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | **All chapters** - 4 chapters per week - take notes for personal insight and important application ideas |
+| R Lepsinger | _**Closing the Execution Gap**_ | **All chapters** - 2 chapters per week - take notes for personal insight and important application ideas. |
 
-<h3>Outcomes</h3>
+### Outcomes
 
 Learners will begin development of the following outcomes in the unit:
 
-<ol>
-<li><strong>Evaluate</strong>
-organizational effectiveness as it relates to strategic leadership principles and practice.</p></li>
-<li><p><strong>Integrate and synthesize</strong>
-course materials to demonstrate leadership application.</p></li>
-<li><p><strong>Examine key strategic leadership applications</strong>
-to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</p></li>
-<li><p><strong>Develop the necessary skills for systemic and systematic inquiry</strong>
-of strategic leadership issues related to your personal leadership development.</p></li>
-<li><p><strong>Integrate strategic leadership practice</strong>
-into your personal, corporate and career experience through the application of service improvement principles introduced.</p></li>
-</ol>
+1. **Evaluate**
+organizational effectiveness as it relates to strategic leadership principles and practice.
 
-<h3>Resources</h3>
+2. **Integrate and synthesize**
+course materials to demonstrate leadership application.
 
-<h4>Reading resource</h4>
+3. **Examine key strategic leadership applications**
+to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
-<p>O’Donovan &amp; N Rimland Flower (2013) <a href="https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29">The Strategic Plan is Dead. Long Live Strategy.</a> <em>Stanford CA: Stanford Social Innovation Review.</em>
+4. **Develop the necessary skills for systemic and systematic inquiry**
+of strategic leadership issues related to your personal leadership development.
 
+5. **Integrate strategic leadership practice**
+into your personal, corporate and career experience through the application of service improvement principles introduced.
+
+### Resources
+
+#### Reading resource
+
+O’Donovan &amp; N Rimland Flower (2013) [The Strategic Plan is Dead. Long Live Strategy.](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29) _Stanford CA: Stanford Social Innovation Review._
 <h3>Week 0 Learning Activities</h3>
+#### Week 0 Learning Activity 0.1 Instruction and Questions
 
-<h4>Week 0 Learning Activity 0.1 Instruction and Questions</h4>
-
-<h4><strong>Personal Learning and Leadership</strong></h4>
-
+#### Personal Learning and Leadership
 <h5><a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">Exploring the Theory &amp; Practice of Leadership</a></h5>
-
 &nbsp;
-
 <h4>Learning Activity 0.2</h4>
-
 <h4><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Critical Thinking</a></h4>
-
+<h4></h4>
 <h4>Learning Activity 0.3</h4>
-
-<h4>PressBooks Instruction</h4>
-
-[Link to PressBooks Instruction]
+<h4>PressBooks Overview</h4>
+&nbsp;
