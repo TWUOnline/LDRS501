@@ -14,7 +14,7 @@ The following rubric represents the scale used for grading all submitted assignm
 
 [table id=2 /]
 
-**Note: * A grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
+**Note: A grade of “B-“carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.**
 
 <strong>Unacceptable work at graduate level.</strong> Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.
 <p style="text-align: center"><em><strong>Note: A grade of “B-“ carries a GPA of 2.7. Learners require a composite GPA of 3.0 to graduate.</strong> </em></p>
