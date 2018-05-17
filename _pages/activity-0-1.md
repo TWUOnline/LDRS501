@@ -61,7 +61,7 @@ Versatile leadership allows us to navigate the many challenges attached to the s
 
 The chart below allows for a snapshot of you versatility as it relates to Strategic leadership. Look at the chart and answer the questions below to help you gain a present snapshot of <span style="text-decoration: underline;">your</span> present versatility practice.
 
-<span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_</span>
+_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
 
 #### Leadership Versatility Chart
 
