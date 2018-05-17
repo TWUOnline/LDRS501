@@ -13,7 +13,30 @@ post_date: 2018-02-23 01:07:23
 ---
 <h2>Personal Strategic Development</h2>
 
+#### Unit 1 Outcomes
+
+Learners will begin development of the following outcomes in the unit:
+1. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+2. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development
+3. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
 <em><strong>All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 1.</strong></em>
+
+#### Reading Overview
+| **Author** | **Text or Article** | **Chapters/Pages/Links** |
+| :--- | :--- | :--- |
+| R Hughes, K Collarelli Beatty, D Dinwoodie | _**Becoming a Strategic Leader**_ | Intro and chapters 1-4 (pp. 1-195) |
+| M. Ungerer, G. Ungerer &amp; J. Herholdt | _**Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish**_ | Intro and chapters 1-2 (pp. xiii-105) |
+| J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | Intro and chapters 1-3 (pp. 1-88) |
+| R Lepsinger | _**Closing the Execution Gap**_ | Intro and chapter 1 (pp. xvii-23) |
+
+#### Resources for **Personal Research** for Forum and Assignment completion.
+
+Boston Consulting Group. (2015) [_Strategy Palette Framework._](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+
+H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe &amp; Mail._
+
+
+
 
 This week represents your first week of course activity.
 
@@ -29,117 +52,29 @@ Following the instructions below, you will find another Reading Overview related
 
 Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
 
-<ul>
-<li>Learning Activity 1.1 - Rubric </li>
-<li>Assignment 1</li>
-</ul>
-
-<h4>Welcome to Week 1</h4>
+#### Welcome to Week 1
 
 This week provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1).
 
-If you haven't already, you should <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">click here</a> and make sure that you have submitted your RSS feed.
+If you haven't already, you should [click here](https://create.twu.ca/ldrs501-su18/wordpress-settings/) and make sure that you have submitted your RSS feed.
 
 Please create a new post on your own blog that will serve as an introduction to yourself. Make sure to include something about your experience with strategic leadership practice and principles whatever that may be right now.
 
-<h5>Categories for this post:</h5>
+##### Categories for this post:
+- LDRS501
+- Hi
 
-<ul>
-<li>LDRS501</li>
-<li>Hi</li>
-</ul>
+Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete [Learning Activity 1.1](https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/) and ]Assignment 1](https://create.twu.ca/ldrs501-su18/assignment-1/).
 
-Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete <a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/">Learning Activity 1.1</a> and ]Assignment 1](https://create.twu.ca/ldrs501-su18/assignment-1/).
+#### ZOOM Video Conference
+_(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
-<h4>ZOOM Video Conference</h4>
-
-<em>(optional F2F interaction can be arranged for those living within driving distance to the university)</em>
-
-<h3>Week 1</h3>
+### Week 1
 
 ZOOM video-conference
 
-<ul>
-<li>Learner Introductions - <strong>TBD</strong></li>
-<li>Assignment 1 Review - <strong>TBD</strong></li>
-<li>Book Development Learning Activity plus Q&amp;A - <strong>TBD</strong>.</li>
-</ul>
+- Learner Introductions - **TBD**
+- Assignment 1 Review - **TBD**
+- Book Development Learning Activity plus Q&amp;A - **TBD**.
 
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
-
-<h4>Reading Overview</h4>
-
-<table>
-<thead>
-<tr>
-  <th align="left"><strong>Author</strong></th>
-  <th align="left"><strong>Text or Article</strong></th>
-  <th align="left"><strong>Chapters/Pages/Links</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left">R Hughes, K Collarelli Beatty, D Dinwoodie</td>
-  <td align="left"><em><strong>Becoming a Strategic Leader</strong></em></td>
-  <td align="left">Intro and chapters 1-4 (pp. 1-195)</td>
-</tr>
-<tr>
-  <td align="left">M. Ungerer, G. Ungerer &amp; J. Herholdt</td>
-  <td align="left"><em><strong>Navigating Strategic Possibilities: Strategic Formulation and Execution Practices ot Flourish</strong></em></td>
-  <td align="left">Intro and chapters 1-2 (pp. xiii-105)</td>
-</tr>
-<tr>
-  <td align="left">J. R. Galbraith</td>
-  <td align="left"><em><strong>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</strong></em></td>
-  <td align="left">Intro and chapters 1-3 (pp. 1-88)</td>
-</tr>
-<tr>
-  <td align="left">R Lepsinger</td>
-  <td align="left"><em><strong>Closing the Execution Gap</strong></em></td>
-  <td align="left">Intro and chapter 1 (pp. xvii-23)</td>
-</tr>
-</tbody>
-</table>
-
-<h2>Outcomes</h2>
-
-Learners will begin development of the following outcomes in the unit:
-1. <strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
-2. <strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development
-3. <strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
-
-<h2>Resources</h2>
-
-<h4>Reading Resource</h4>
-
-Boston Consulting Group. (2015) <a href="http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf"><em>Strategy Palette Framework.</em></a>
-
-H Schachter (2015) <a href="https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/">Five Approaches to Using a Strategy Palette.</a> <em>Globe &amp; Mail.</em>
-
-<strong>Personal Research</strong> for Forum and Assignment completion.
-
-<h4>Week 1 Assignments</h4>
-
-<h1>Assignment 1</h1>
-
-<h2><strong>Week 1</strong></h2>
-
-<h3><strong>ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT (10%)</strong></h3>
-
-<h3><strong>PERSONAL STRATEGIC DEVELOPMENT</strong></h3>
-
-<h4>**Submission Due: Week 1 - Day 7 at 23:59 PDT**</h4>
-
-[Link to Assignment 1]
-
-[Link to PressBooks instruction here]
-
-[Link to PressBooks files for insertion of materials here]
-
-<h4>Week 1 Learning Activities</h4>
-
-<h4>Learning Activity 1.1 - Assignment 1 Rubric - Learning Activity</h4>
-
-[Link to Week 1 Learning Instruction and Activities]
-
-[Link to Assignment Feedback Tab for Learning Activity 1.1]
+NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
