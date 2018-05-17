@@ -35,12 +35,12 @@ https://www.youtube.com/watch?v=CWEvJciU0Zc
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
-A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking.
+A newer process of **Brain Swarming** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in **Brain Swarming** and represents a different approach to the discipline of strategic thinking.
 <div class="blog-video-embed">
 
 <a href="https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work">https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work</a>
 
-Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:**Why do we need to talk in the first place?**
+Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks: **Why do we need to talk in the first place?**
 
 ##### How brain swarming works:
 
