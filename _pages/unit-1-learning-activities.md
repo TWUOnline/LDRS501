@@ -12,22 +12,27 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h3>Week 1 Instruction and Learning Activities</h3>
+
 This week you will participate in the following learning activity below as part of your ongoing development in Strategic Leadership.
 
 Following the reading/instruction/direction contained in each Learning Activity adds to your proficiency in Strategic Leadership skill development, adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout LDRS501.
+
 <h4><strong>Learning Activity 1.1</strong></h4>
+
 <h4>Unit Learning Outcome</h4>
+
 Upon completion of Learning Activity 1.1 learners will be able to:
+
 <ol>
- 	<li>Understand and make recommendations in the grading process for course materials in LDRS 501.</li>
+    <li>Understand and make recommendations in the grading process for course materials in LDRS 501.</li>
 </ol>
-#### Assignment 1 Rubric - Learning Activity
+
+<h4>Assignment 1 Rubric - Learning Activity</h4>
 
 NAME:
 [table id=3 /]
 
-
-Read the article at [this link](https://create.twu.ca/ldrs501-su18/are-you-an-example-of-diversity-practice/) and use the rubric above to assess the quality of the article. There is a feedback link at the bottom of the article.
+Read the article at <a href="https://create.twu.ca/ldrs501-su18/are-you-an-example-of-diversity-practice/">this link</a> and use the rubric above to assess the quality of the article. There is a feedback link at the bottom of the article.
 
 For the purpose of this exercise, you will simply assess the written material provided in this Learning Activity and choose the appropriate letter grade from the dropdown menu.  This will be the same process for each assignment you are asked to review in this course.
 
