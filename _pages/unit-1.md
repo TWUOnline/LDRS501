@@ -12,25 +12,22 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Personal Strategic Development</h2>
-
-<h4>Unit 1 Outcomes</h4>
+#### Unit 1 Outcomes
 
 Learners will begin development of the following outcomes in the unit:
-1. <strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
-2. <strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development
-3. <strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
+1. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
+2. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development
+3. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
 <em><strong>All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 1.</strong></em>
 
+#### Reading Overview
 [table id=6 /]
 
-<h4>The following resources are for <strong>personal research</strong> for Forum and Assignment completion. You are not required to read these.</h4>
+#### The following resources are for **personal research** for Forum and Assignment completion. You are not required to read these.
+- Boston Consulting Group. (2015) [_Strategy Palette Framework._](http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf)
+- H Schachter (2015) [Five Approaches to Using a Strategy Palette.](https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/) _Globe &amp; Mail._
 
-<ul>
-<li>Boston Consulting Group. (2015) <a href="http://media-publications.bcg.com/pdf/Your-Strategy-Needs-a-Strategy-chapter-01.pdf"><em>Strategy Palette Framework.</em></a></li>
-<li>H Schachter (2015) <a href="https://www.theglobeandmail.com/report-on-business/careers/management/five-approaches-to-using-a-strategy-palette/article25878353/">Five Approaches to Using a Strategy Palette.</a> <em>Globe &amp; Mail.</em></li>
-</ul>
-
-<h4>Overview of Week 1</h4>
+#### Overview of Week 1
 
 Below, you will find the outline for Week 1 and links to the materials you will need to review, develop and learn about Strategic Leadership.
 
@@ -44,33 +41,27 @@ Following the instructions below, you will find another Reading Overview related
 
 Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
 
-<h4>Introductions</h4>
+#### Introductions
 
 This activity provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1).
 
-If you haven't already, you should <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">click here</a> and make sure that you have submitted your RSS feed.
+If you haven't already, you should [click here](https://create.twu.ca/ldrs501-su18/wordpress-settings/) and make sure that you have submitted your RSS feed.
 
 Please create a new post on your own blog that will serve as an introduction to yourself. Make sure to include something about your experience with strategic leadership practice and principles whatever that may be right now.
 
-<h5>Categories for this post:</h5>
+##### Categories for this post:
+- LDRS501
+- Hi
 
-<ul>
-<li>LDRS501</li>
-<li>Hi</li>
-</ul>
+Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete [Learning Activity 1.1](https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/) and [Assignment 1](https://create.twu.ca/ldrs501-su18/assignment-1/).
 
-Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete <a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/">Learning Activity 1.1</a> and <a href="https://create.twu.ca/ldrs501-su18/assignment-1/">Assignment 1</a>.
+#### ZOOM Video Conference
+_(optional F2F interaction can be arranged for those living within driving distance to the university)_
 
-<h4>ZOOM Video Conference</h4>
+##### Proposed Agenda
 
-<em>(optional F2F interaction can be arranged for those living within driving distance to the university)</em>
+- Learner Introductions
+- Assignment 1 Review
+- Book Development Learning Activity plus Q&amp;A.
 
-<h5>Proposed Agenda</h5>
-
-<ul>
-<li>Learner Introductions</li>
-<li>Assignment 1 Review</li>
-<li>Book Development Learning Activity plus Q&amp;A.</li>
-</ul>
-
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
+NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
