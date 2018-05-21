@@ -9,7 +9,11 @@ permalink: >
 published: true
 post_date: 2018-05-21 10:42:04
 ---
-This is the week where you can focus your energies on completing your Final Assignment and submit your material for insertion into the PressBooks environment as you complete the work on the Strategic Discoveries open source book project.
+As in previous weeks, Week 9 links to materials needed to review, develop and learn about Strategic Leadership.
+
+Our week starts with an opportunity to begin your countdown to the completion of this course. There is no BLOG Forum this week, so you are free to work together as a TEAM on your Final Assignment.
+
+This is the week where you can begin focusing your energies on completion of the Final Assignment and submitting your material for insertion into the PressBooks environment as you complete the work on the Strategic Discoveries open source book project.
 
 This section reviews the Assignment parameters for the Final Team Assignment due in Week 10 and a Learning Activity related to the PressBooks materials. This PressBook material is mostly for review, but can be helpful as you finalize your team assignments for LDRS 501OL.
 
