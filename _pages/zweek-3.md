@@ -1,6 +1,6 @@
 ---
 ID: 1901
-post_title: zWeek 3
+post_title: zWeek3
 author: datha
 post_excerpt: ""
 layout: page
