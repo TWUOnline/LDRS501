@@ -11,7 +11,7 @@ post_date: 2018-05-16 21:06:45
 ---
 Welcome to the introductory outline for Week 1 with links to the materials you need to review, develop and learn about Strategic Leadership.
 
-First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory BLOG from YOU to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about YOU as unforgettable as possible. It is what people will remember about YOU and set you apart from one another as unique leaders in the field.
+The week starts with an introductory BLOG from YOU to help everyone else in the class know who they are working with. You are free to use all the skills learned in the orientation to the WordPress process to make your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about YOU as unforgettable as possible. It is what people will remember about YOU that sets you apart from one another as the unique leaders YOU are.
 
 Following the Introduction, we start with your first assignment in the course. In this assignment you will enlist all of the things you know about Strategic leadership; from your personal development through to present status of Strategic Leadership ability. You will also learn a peer review process for grading and how to submit your assignments into a PressBooks environment.
 
