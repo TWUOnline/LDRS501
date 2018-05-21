@@ -11,7 +11,7 @@ post_date: 2018-05-16 21:05:24
 ---
 This section of study provides you with a foundational overview on general texts for the course, outcomes focus on beginning stages of course pre-reading and introductory Learning Activities. The Foundational Learning Activities for this section introduce you to concepts of Personal Learning and Leadership and Critical Thinking. Once you work through these activities you will have a greater grasp on the concepts presented and better prepared for the coursework ahead.
 
-In this overview you will find some important items for your review and attention as you begin navigating through LDRS 501OL.
+This overview provides important items for your review and attention as you navigate LDRS 501OL.
 
 The first item you will notice is the reading overview is the allowance for each participant to proceed through the texts related to this course with a focused schedule to allow each person to have opportunity to progress through the material before the course begins. Each section represents the time it will take to read through the material in 4 weeks.
 
