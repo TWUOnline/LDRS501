@@ -17,8 +17,8 @@ The week introduces an understanding of team dynamics as it relates to Strategi
 
 As noted in your introductory BLOG, you are free to use all the skills learned in orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches, make your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
 
-Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 3 Learning outcomes for the unit, e-reading and video resources for you to review in the week ahead.
+Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 3 Learning outcomes for the unit, e-reading and video resources for your review in the week ahead.
 
-Finally, the section outlines two Learning Activities for the week to help you establish your mastery of the topical material related to Leadership Imperatives &amp; Strategic Leadership.
+Finally, this week's section outlines two Learning Activities to help establish your mastery of topical material related to Leadership Imperatives &amp; Strategic Leadership.
 
 <span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">The activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 2.</span>
