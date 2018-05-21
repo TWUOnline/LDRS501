@@ -15,7 +15,7 @@ The week starts with an introductory BLOG from YOU to help everyone else in the 
 
 Following the Introduction, YOU start your first assignment in the course. In this assignment YOU will list everything you know about Strategic leadership; from personal development through YOUr present status of Strategic Leadership ability. YOU will also learn about the peer review process for grading and how to submit assignments into a PressBooks environment.
 
-We will also take the time to meet a little face to face via a ZOOM video conference, so we can discuss any course logistics and/or any challenges you are facing within the course layout (links, instructions, etc).
+We will also take the time to meet face to face via a ZOOM video conference, to discuss any course logistics and/or any challenges YOU face within the course layout (links, instructions, etc).
 
 Following the instructions below, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.
 
