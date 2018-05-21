@@ -17,6 +17,8 @@ Following the Introduction, YOU start your first assignment in the course. In th
 
 We will also take the time to meet face to face via a ZOOM video conference, to discuss any course logistics and/or any challenges YOU face within the course layout (links, instructions, etc).
 
-Following the instructions below, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.
+Following these instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.
 
 Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
+
+Welcome to LDRS 501 OL!
