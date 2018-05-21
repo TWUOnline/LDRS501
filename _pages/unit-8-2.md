@@ -10,11 +10,7 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Countdown to Completion</h2>
-
-&nbsp;
-
 <h2>Outcomes</h2>
-
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -28,20 +24,13 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
-
 <h2>Resources</h2>
-
 <h4>Learning Activity 9.1</h4>
-
 <h4>Unit Learning Outcomes</h4>
-
 Upon completion of Learning Activity 9.1 learners will be able to:
-
 <ol>
-    <li>Understand the process for entering course materials into the PressBooks platform.</li>
-    <li>Be able to edit course materials in the PressBooks platform.</li>
+ 	<li>Understand the process for entering course materials into the PressBooks platform.</li>
+ 	<li>Be able to edit course materials in the PressBooks platform.</li>
 </ol>
-
 <h4>PressBooks Activity</h4>
-
 [Link to PressBooks instruction here]
