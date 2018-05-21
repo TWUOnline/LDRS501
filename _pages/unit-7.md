@@ -12,27 +12,8 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h2>Strategic Leadership TEAM Project</h2>
-
-All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 7.
-
-This week represents your seventh week of course activity.
-
-Below, you will find the outline for Week 7 and links to the materials you will need to review, develop and learn about Strategic Leadership.
-
-Our week starts with an opportunity to consider the topic of Conflict and Cooperation in our BLOG Forum. This week sees a return to individual BLOGging and the completion of TEAM Assignment 2.
-
-As in your other BLOGs, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
-
-Following the BLOG  instructions, you will find another review of 6 Learning outcomes for the course, further BLOG and Assignment direction for TEAM Assignment 2.
-
-Finally, the section outlines a Learning Activity for the week related to navigating the PressBooks environment.
-
-<strong>NOTE:</strong> Learning Activities in Weeks 7 through 10 relate specifically to navigating the PressBooks material so we can complete the Open Source Discoveries Book together.
-
-Welcome to Week 7
-
+&nbsp;
 <h4>This week</h4>
-
 This week introduces YOU to the topic of Conflict and Cooperation in our BLOG Forum &amp; the completion of your Strategic Applications Team Assignment.
 
 This is another opportunity to interact in real time responses as we discuss how conflict and cooperation demonstrate a delicate balance in life and for developing organizational strategies. A poorly framed idea here, a flippant response to someone on the wrong day or wrong time and all cooperation and good will disappears quickly. Cooperation can help corporate strategies soar and achieve projections at unparalleled levels, while conflict can destroy any momentum an organization hopes to accomplish.
@@ -53,9 +34,7 @@ The PressBooks material follows previous outlines for developing proficiency wit
 [Link to BLOG 5 rubric]
 
 [Link to PressBooks instruction here]
-
 <h2>Outcomes</h2>
-
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
 <strong>1. Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.
@@ -69,77 +48,50 @@ Learners will have the opportunity to develop of the following learning outcomes
 <strong>5. Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.
 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
-
 <h2>Resource</h2>
-
 <h4>Week 7 Assignments</h4>
-
-Assignment: BLOG 5 - <strong>Day 1-6 of Week 7</strong> - Post in BLOG 5 Discussion Thread - <strong>5%</strong>.
+Assignment: BLOG 5 - **Day 1-6 of Week 7** - Post in BLOG 5 Discussion Thread - <strong>5%</strong>.
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 5]</span>
-
 <h4>BLOG 5</h4>
-
 <h4><em>(Please see posting structures instruction for BLOG 5 - Week 7)</em></h4>
-
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 5 - WEEK 7 Posting Structures]</span>
-
 <h4>Conflict and cooperation</h4>
-
 <strong><em>This Week’s Question</em></strong>
 
 For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 167-204).
-
 <ol>
-    <li>What are some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and in the organization as a whole?</li>
+ 	<li>What are some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and in the organization as a whole?</li>
 </ol>
-
 <ul>
-    <li>How did your organization develop its communication policies within your missional environments?</li>
-    <li>What expectations for transparency did they intend to enhance corporate working environments?</li>
-    <li>Did they define how the organization would cooperate in fulfilling corporate goals through agreement, policy, etc.?</li>
-    <li>What is/has your organization doing/done to align interests and establish common ground for fulfilling their envisioned practice of mission, vision and values and create healthy communication and productivity within corporate work environments?</li>
+ 	<li>How did your organization develop its communication policies within your missional environments?</li>
+ 	<li>What expectations for transparency did they intend to enhance corporate working environments?</li>
+ 	<li>Did they define how the organization would cooperate in fulfilling corporate goals through agreement, policy, etc.?</li>
+ 	<li>What is/has your organization doing/done to align interests and establish common ground for fulfilling their envisioned practice of mission, vision and values and create healthy communication and productivity within corporate work environments?</li>
 </ul>
-
-<ol>
-<li>How has conflict affected the intended corporate practices within the organization and what is/was the impact to your experience within the organization or to the organization as a whole? (please do not use real names) </li>
-</ol>
-
+2. How has conflict affected the intended corporate practices within the organization and what is/was the impact to your experience within the organization or to the organization as a whole? (please do not use real names) 
 <ul>
-    <li>What conflict affected/effected the forward momentum of your team/organization?</li>
-    <li>What steps did team/organization (or both) take to correct the results of the conflict experienced within team/organization?</li>
-    <li>How would you direct your team/organization to resolve experienced conflict and the effects of conflict within the team/organization?</li>
+ 	<li>What conflict affected/effected the forward momentum of your team/organization?</li>
+ 	<li>What steps did team/organization (or both) take to correct the results of the conflict experienced within team/organization?</li>
+ 	<li>How would you direct your team/organization to resolve experienced conflict and the effects of conflict within the team/organization?</li>
 </ul>
-
-<ol>
-<li>All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.</li>
-</ol>
+3. All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.
 
 [Link to BLOG 5 - WEEK 7 Posting structures here]
-
 <h4>WEEK 7– TEAM ASSIGNMENT 2 - STRATEGIC LEADERSHIP TEAM PROJECT (15%)</h4>
-
 <strong>STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate</strong>
 
 <em><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></em>
 
 [Link to Assignment 3]
-
 <h4>For TEAM Assignment 2</h4>
-
 Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
-
 <h4>Learning Activity 7.1</h4>
-
 <h4>Unit Learning Outcomes</h4>
-
 Upon completion of Learning Activity 7.1 learners will be able to:
-
 <ol>
-    <li>Understand the process for entering course materials into the PressBooks platform.</li>
-    <li>Be able to edit course materials in the PressBooks platform.</li>
+ 	<li>Understand the process for entering course materials into the PressBooks platform.</li>
+ 	<li>Be able to edit course materials in the PressBooks platform.</li>
 </ol>
-
 <h4>PressBooks Activity</h4>
-
 [Link to PressBooks instruction here]
