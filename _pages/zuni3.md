@@ -15,7 +15,7 @@ This week represents your second week of course activity and contains the outlin
 
 The week introduces an understanding of team dynamics as it relates to Strategic Leadership and Appreciative Inquiry (AI). YOU can follow the Link to BLOG 1 (Leadership Imperatives &amp; Strategic Leadership) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested through BLOG 1.
 
-As in your introductory BLOG, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+As noted in your introductory BLOG, you are free to use all the skills learned in orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches, make your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
 
 Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 3 Learning outcomes for the unit, e-reading and video resources for you to review in the week ahead.
 
