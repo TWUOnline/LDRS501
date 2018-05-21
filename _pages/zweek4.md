@@ -13,7 +13,7 @@ Here is your outline of materials for Week 4 and links to the materials needed t
 
 This week introduces arious aspects of strategic team development and other strategic leadership concepts. YOU can follow the Link to BLOG 3 (Strategy renewal, execution and organizational design) to interact with fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested in BLOG 3.
 
-As in your introductory BLOG, you are free to use all of the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+As in your introductory BLOG, you are free to use the skills learned in the orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make your BLOG as unforgettable as possible so people remember what you say and set you apart from other unique leaders in the field.
 
 Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the unit, further BLOG and Assignment instructions (TEAM Assignment 2) for you to review in the week ahead.
 
