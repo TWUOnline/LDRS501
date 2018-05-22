@@ -9,19 +9,19 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2>Strategic Leadership Teams</h2>
+## Strategic Leadership Teams
 
-<h3>Week 3</h3>
+### Week 3
 
 This week introduces YOU to an understanding of Systems Thinking dynamics as it relates to Strategic Leadership. We will review three important concepts from the Systems Thinking realm and add more instruction around the PressBooks platform. The concepts we will review include:
 
-<ul>
-<li>Senge's Laws for System Thinking. This section outlines Senge's work from his book, <strong><em>The Fifth Discipline</em></strong>, (2006).</p></li>
-<li><p>5 additional laws to consider to expand our thinking on the topic.</p></li>
-<li><p>Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.</p></li>
-</ul>
+* Senge's Laws for System Thinking. This section outlines Senge's work from his book, **_The Fifth Discipline_**, (2006).
 
-<p>Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
+* 5 additional laws to consider to expand our thinking on the topic.
+
+* Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
+
+Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
 The PressBooks material follows previous outlines for developing proficiency with the material. * More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.(add new information below with an overview here)
 
@@ -31,81 +31,35 @@ The PressBooks material follows previous outlines for developing proficiency wit
 
 [Link to Learning Activities for Unit 4 here]
 
-<h4>Reading Overview</h4>
+#### Reading Overview
 
 [table id=9 /]
 
 &nbsp;
 
-<h2>Outcomes</h2>
+## Outcomes
 
 Learners will have the opportunity to continue developing the following learning outcomes in this unit:
 
-<ol>
-<li><strong>Analyze personal and corporate leadership effectiveness</strong> through the review and assessment of various leadership and management styles.</p></li>
-<li><p><strong>Evaluate</strong> organizational effectiveness as it relates to strategic leadership principles and practice.</p></li>
-<li><p><strong>Integrate and synthesize</strong> a broad range of LDRS 501 course materials to demonstrate leadership application.</p></li>
-<li><p><strong>Examine key strategic leadership applications</strong> to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.</p></li>
-<li><p><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</p></li>
-<li><p><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</p></li>
-</ol>
+1. **Analyze personal and corporate leadership effectiveness** through the review and assessment of various leadership and management styles.
 
-<h2>Resources</h2>
+2. **Evaluate** organizational effectiveness as it relates to strategic leadership principles and practice.
 
-<h4>Week 3 Assignments</h4>
+3. **Integrate and synthesize** a broad range of LDRS 501 course materials to demonstrate leadership application.
 
-<p><strong>Assignment:</strong> BLOG 2 - <strong>Day 1-6 of Week 3</strong> - Post in BLOG 2 Discussion Thread -<em><strong>5%</strong></em>.
+4. **Examine key strategic leadership applications** to maximize organizational benefit as it relates to the application of transformational servant and values based leadership principles within strategic leadership practice.
 
-<h4>BLOG 2</h4>
+5. **Develop the necessary skills for systemic and systematic inquiry** of strategic leadership issues related to your personal leadership development.
 
-<h5>BLOG 2 – Week 3: Strategic Leadership Teams</h5>
+6. **Integrate strategic leadership practice** into your personal, corporate and career experience through the application of service improvement principles introduced.
 
-This week’s DQ involves portions of all four texts from your reading in Week 2, plus any other relevant resources you wish to add to the discussion. Please answer substantively to the whole question (all parts). Please be as succinct as possible, but be complete. Please cite all references. (Substantive/succinct/cited)
+## Resources
 
-| <strong>Author</strong> | <strong>Text or Article</strong> | <strong>Chapters/Pages/Links</strong> |
-| :--- | :--- | :--- |
-Galbraith | Formal Groups | pp. 90-106
-Hughes et al. | Strategic Leadership Teams | Chapter 5
-Lepsinger | Bridge 3 | pp. 14-16
-M. Ungerer, G. Ungerer &amp; J. Herholdt | Chapters 3 - 5 | pp. 107-275
+#### Week 3 Assignments
 
-Assessing your present/previous team situation or course team environment <strong>(see Hughes, et al., p. 213)</strong>, did you/are you perform/performing effectively as a team to access all the diverse leadership perspectives? Why do you say so? Why not?
+**Assignment:** BLOG 2 - **Day 1-6 of Week 3** - Post in BLOG 2 Discussion Thread -_**5%**_.
 
-As you work with teams in your present/previous work environment and your team in this course, how do you build a sense of ownership and involvement?
-
-What are some of the limiting factors in the team systems you’ve worked with or work with presently?
-
-How do you identify bottlenecks in your present/previous team situation or course team environment? How do you address those issues without shutting down team creativity, efficiency or cohesiveness?
-
-Using the Formal Groups section of Galbraith’s Designing Organizations text, identify the design choices in your present/previous working environment and compare it to the design choices you made for the function of your teams in this course?
-
-<ul>
-<li>How are they similar?</p></li>
-<li><p>How are they different?</p></li>
-<li><p>What do you see needing improvement in both to make them more effective?</p></li>
-<li><p>How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?</p></li>
-<li><p>How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you?</p></li>
-</ul>
-
-<p>NOTE:
-
-<ol>
-<li>ALL BLOGs start with post leaders (see posting instructions).</li>
-<li>ALL posts (leaders and responders) must answer substantively, succinctly and cited.</li>
-<li>ALL posts must be started and completed in the time frames provided in posting instructions.</li>
-</ol>
-
-If you have questions, please do not hesitate to ask.
-We are learning together.
-Mastery comes from learning, not vice versa.
-
-[Link to BLOG 2 Discussion Thread]
-
-[Link to BLOG 2 Posting Instructions]
-
-[Link to BLOG Grading Rubric (5%)]
-
-[Link to MA LEAD LEADERSHIP MONOGRAPH 2018]
+&nbsp;
 
 &lt;h4&gt;TEAM Assignment 2 Resource Notes&lt;/h4&gt;
 
@@ -132,9 +86,7 @@ Why do we need to talk in the first place?
 &lt;li&gt;Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team&lt;/li&gt;
 &lt;li&gt;Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)&lt;/li&gt;
 &lt;/ul&gt;
-
 <h4>TEAM Assignment 2 Resource Notes</h4>
-
 The following resources will assist you in preparing for and completing TEAM Assignment 2
 
 &lt;h4&gt;&lt;strong&gt;SWOT&lt;/strong&gt;&lt;/h4&gt;
