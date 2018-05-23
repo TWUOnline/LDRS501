@@ -21,4 +21,27 @@ Following these instructions, you will find another Reading Overview related to 
 
 Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
 
-Welcome to LDRS 501 OL!
+Welcome to LDRS 501 OL!<!--themify_builder_static--><h2>Personal Strategic Development<br />Unit 1</h2>
+ <p>In unit 1&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-1/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-1/">Overview</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/">Learning Activities</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/assignment-1"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/assignment-1">Assignment 1</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 1<!--/themify_builder_static-->
