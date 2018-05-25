@@ -13,18 +13,15 @@ This is the Reading Week for this course and represents your opportunity to catc
 
 If you want to make an appointment with me during this week to discuss anything related to your course work or progression, please feel free to connect with me and we will make a time to get together, in person, or via Skype, ZOOM or phone.
 
-Enjoy your reading week.<!--themify_builder_static-->
-
-<h2>Reading Week<br />Unit 5</h2>
-
-In unit 5&#8230;
-
-<a href="https://create.twu.ca/ldrs501-su18/unit-5/">
-
-</a>
-
-<h3><a href="https://create.twu.ca/ldrs501-su18/unit-5/">Overview</a></h3>
-
-Instructor Updates
-
-Student Posts for Unit 5<!--/themify_builder_static-->
+Enjoy your reading week.<!--themify_builder_static--><h2>Reading Week<br />Unit 5</h2>
+ <p>In unit 5&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-5/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-5/">Overview</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 5<!--/themify_builder_static-->
