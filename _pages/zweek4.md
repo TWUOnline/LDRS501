@@ -21,4 +21,59 @@ Finally, the section outlines not just one Learning Activity for the week, but f
 
 <strong>NOTE:</strong> Following the activities outlined for Week 4, comes Reading Week (Week 5), where you can catch up on reading and assignment requirements without engaging in the course BLOG or submit graded materials for the week. There are some activities available in the Week 5 section for you to engage in as you continue your Strategic Leadership journey, but those activities are ungraded, with graded assignments continuing following the Week 5 break.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 4.</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 4.</span><!--themify_builder_static--><h2>Strategic Team Review<br />Unit 4</h2>
+ <p>In unit 4&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-4/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-4/">Overview</a></h3> 
+ 
+<h2>Graded<br />Learning Activities</h2>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/post-4-1/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/post-4-1/">Post 4.1</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/assignment-2/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/assignment-2/">Assignment 2</a></h3> 
+ 
+<h2>Ungraded<br />Learning Activities</h2>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-2/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-2/">Post 4.2</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-3/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-3/">Post 4.3</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-4/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-4/">Post 4.4</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-5/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-4-post-4-5/">Post 4.5</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-4-supplementary-reading/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-4-supplementary-reading/">Supplementary Reading</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 4<!--/themify_builder_static-->
