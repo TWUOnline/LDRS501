@@ -15,4 +15,15 @@ Congratulations to you all. This marks a major milestone in your academic career
 
 The Assignment outline, along with a Learning Activity for the PressBooks material for completing the open source materials we worked together on these last 10 weeks. Congratulations on completing this course and the open source book. You are not simply students of Strategic leadership, but authors as well.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 5 - Week 10.</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 5 - Week 10.</span><!--themify_builder_static--><h2>Strategic Influence and Completion<br />Unit 10</h2>
+ <p>In unit 10&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-10/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-10/">Overview</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 10<!--/themify_builder_static-->
