@@ -15,15 +15,15 @@ If you want to make an appointment with me during this week to discuss anything 
 
 Enjoy your reading week.
 
-<!--themify_builder_static-->
-<h2>Reading Week
-Unit 5</h2>
-In unit 5&#8230;
-
-<a href="https://create.twu.ca/ldrs501-su18/unit-5/"> 
-
- </a>
-<h3><a href="https://create.twu.ca/ldrs501-su18/unit-5/">Overview</a></h3>
-Instructor Updates 
-
+<!--themify_builder_static--><h2>Reading Week<br />Unit 5</h2>
+ <p>In unit 5&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-5/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-5/">Overview</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
  Student Posts for Unit 5<!--/themify_builder_static-->
