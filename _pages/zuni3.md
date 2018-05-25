@@ -21,4 +21,27 @@ Following the BLOG  instructions, you will find another Reading Overview relate
 
 Finally, this week's section outlines two Learning Activities to help establish your mastery of topical material related to Leadership Imperatives &amp; Strategic Leadership.
 
-<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">The activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 2.</span>
+<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">The activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 2.</span><!--themify_builder_static--><h2>Leadership Imperatives &amp; Strategic Leadership<br />Unit 2</h2>
+ <p>In unit 2&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-2/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-2/">Overview</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-2-learning-activity-learning-notes/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-2-learning-activity-learning-notes/">Week 2 Learning Activity</a></h3> 
+ 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/week-2-blog-1-leadership-imperatives-strategic-leadership/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-2-blog-1-leadership-imperatives-strategic-leadership/">Blog Post 2.1</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 2<!--/themify_builder_static-->
