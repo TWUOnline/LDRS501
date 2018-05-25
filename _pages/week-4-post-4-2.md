@@ -34,87 +34,89 @@ Lack in leadership accountability is one of the most common criticisms of leader
 Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
 
 Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
-
 <h4>Inductive Reasoning in the Workplace</h4>
-
 (https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
 
 Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
 
 Here are some examples to enhance your understanding of inductive thinking. Read them over, and reflect on instances of inductive thinking in your own professional experience.
 
-<ol>
-<li>A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em></p></li>
-<li><p>An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i></p></li>
-</ol>
+1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em>
 
-<p>In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
+2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i>
 
+3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i>
+
+4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i>
+
+5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i>
+
+6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i>
+
+7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i>
+
+8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i>
+
+9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i>
+
+10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein." The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
+
+In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
 <h4>Examples of Deductive Reasoning Skills</h4>
-
 <em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
 
 Here are some examples to enhance your understanding of deductive thinking. Read them over, and reflect on instances of deductive thinking in your own professional experience.
 
-<ol>
-<li>A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(belief </em>proves outcome)</p></li>
-<li><p>Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i></p></li>
-<li><p>Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i></p></li>
-<li><p>Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b></p></li>
-<li><p>A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i></p></li>
-<li><p>A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i></p></li>
-<li><p>A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i></p></li>
-<li><p>A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i></p></li>
-<li><p>Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i></p></li>
-<li><p>A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i></p></li>
-</ol>
+1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition's hair coloring product. <em>(belief </em>proves outcome)
 
-<p>The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain). </em>The images below provide insight into how these differing functions work in our everyday life.
+2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i>
+
+3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i>
+
+4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b>
+
+5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i>
+
+6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i>
+
+7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i>
+
+8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i>
+
+9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year's curriculum. <i>(belief proves outcome)</i>
+
+10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word "Organic" when redesigning their packaging. <i>(belief proves outcome)</i>
+
+The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn't as simple as many of us were taught regarding handedness <em>(right handed - left brain; left handed - right brain). </em>The images below provide insight into how these differing functions work in our everyday life.
 
 <img class="alignnone size-medium wp-image-258" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" />          <img class="alignnone size-medium wp-image-259" src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" />
 
 <strong>Image 1 &amp; 2:</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png</em>
 
 As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
-
-&nbsp;
-
 <h4>Post 4.2</h4>
-
 <h4>Unit Learning Outcomes</h4>
-
 Upon completion of post 4.2 learners will be able to:
-
 <ol>
-    <li>Understand the various and varying thinking and learning styles represented in teams they work with.</li>
+ 	<li>Understand the various and varying thinking and learning styles represented in teams they work with.</li>
 </ol>
-
 <h4>Strategic Thinking</h4>
-
 <strong>Market Position Thinking &amp; Processes for Service Improvement</strong>
-
 <h4><em>Read and Respond Activities</em></h4>
-
 Follow the instructions below to help you gain understanding and interact with the material above.
 
 Create a new post on your blog and respond to the following questions (make sure that you maintain confidentiality, either by anonymizing your post or setting appropriate access controls to your post):
-
 <ol>
-    <li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li>
-    <li>Make a list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li>
-    <li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li>
+ 	<li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li>
+ 	<li>Make a list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li>
+ 	<li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li>
 </ol>
-
+<h4>Categories for this post:</h4>
+<ul>
+ 	<li>ldrs501</li>
+ 	<li>post 4.2</li>
+</ul>
 <h3>References</h3>
-
 Baum, J. C., &amp; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
 
 Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
