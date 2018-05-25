@@ -23,4 +23,15 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <strong>NOTE:</strong> Learning Activities in Weeks 6 through 10 relates specifically to navigating the PressBooks material so we can complete the Open Source Discoveries Book together.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 6.</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 6.</span><!--themify_builder_static--><h2>Team Favour/Opposition<br />Unit 6</h2>
+ <p>In unit 6&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-6/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-6/">BLOG</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
+ Student Posts for Unit 6<!--/themify_builder_static-->
