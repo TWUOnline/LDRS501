@@ -10,8 +10,7 @@ published: true
 post_date: 2018-04-21 16:06:24
 ---
 <h3>Week 4 Supplementary Reading</h3>
-
-Read the learning notes below for Week 4 of the course. Once you read the materials below complete Post 4.6. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.
+Read the learning notes below for Week 4 of the course. Once you read the materials below complete the supplementary reading. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.
 
 <strong>Best practice questions</strong>
 
@@ -20,9 +19,7 @@ Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practic
 Follow the link to review Perkins <a href="https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/"><em>Top 10 Strategic Planning Best Practices</em></a>.
 
 <strong>Strategic IQ</strong>
-
 <blockquote>'Strategic intelligence is the capacity to adapt to changing circumstances, as opposed to blindly continuing on a path when all the signals in your competitive environment suggest you need to change course.' - John R. Wells</blockquote>
-
 Wells, in an interview with Michael Blanding (2012), suggests Strategic IQ is established in an organization when 'the people in a company are intrinsically motivated to develop and execute good strategy.'
 
 Wells outlines ways of developing Strategic IQ, as well as critical success factors required for companies to excel in their strategies. The first, and in many instances the most important critical success factor, is 'the capacity to tolerate and learn from failure.' (Dalkir, 2016) The second critical success factor is 'the need to constantly adapt to the changing competitive environment.' (Dalkir)
@@ -40,9 +37,7 @@ One final resource to recommend for  researching strategies for a variety of or
 Baum, J. C., &amp; Lampel, J. (2010). <em>The Globalization Of Strategy Research.</em> Bingley, UK: Emerald Group Publishing Limited.
 
 The permalink is: https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=335519&amp;site=eds-live&amp;ebv=EB&amp;ppid=pp_Cover
-
 <h3>Week 4 Learning Activities References</h3>
-
 Baum, J. C., &amp; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
 
 Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
