@@ -1,11 +1,11 @@
 ---
 ID: 2004
-post_title: Blog 4.1
+post_title: Week4 Post 4.1
 author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/blog-4-1/
+  https://create.twu.ca/ldrs501-su18/post-4-1/
 published: true
 post_date: 2018-05-25 09:17:31
 ---
