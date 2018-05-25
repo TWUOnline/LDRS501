@@ -19,15 +19,15 @@ This section reviews the Assignment parameters for the Final Team Assignment due
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 5 - Week 10.</span>
 
-<!--themify_builder_static-->
-<h2>Countdown to Completion
-Unit 9</h2>
-In unit 9&#8230;
-
-<a href="https://create.twu.ca/ldrs501-su18/unit-8-2/"> 
-
- </a>
-<h3><a href="https://create.twu.ca/ldrs501-su18/unit-8-2/">Overview</a></h3>
-Instructor Updates 
-
+<!--themify_builder_static--><h2>Countdown to Completion<br />Unit 9</h2>
+ <p>In unit 9&#8230;</p>
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-8-2/"> 
+ 
+ </a> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-8-2/">Overview</a></h3> 
+ 
+ 
+ Instructor Updates 
+ 
  Student Posts for Unit 9<!--/themify_builder_static-->
