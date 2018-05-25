@@ -19,27 +19,30 @@ You are free to use all the skills learned your orientation to the WordPress pro
 
 Following the BLOG  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the course along with this week's BLOG instructions.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 3.</span><!--themify_builder_static--><h2>Strategic Leadership Teams<br />Unit 3</h2>
- <p>In unit 3&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-3/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3/">Overview</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/">Week 3 Learning Activity</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/">Blog Post 3.1</a></h3> 
- 
- 
- Instructor Updates 
- 
- Student Posts for Unit 3<!--/themify_builder_static-->
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 3.</span><!--themify_builder_static-->
+
+<h2>Strategic Leadership Teams<br />Unit 3</h2>
+
+In unit 3&#8230;
+
+<a href="https://create.twu.ca/ldrs501-su18/unit-3/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/unit-3/">Overview</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/">Week 3 Learning Activity</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/">Blog Post 3.1</a></h3>
+
+Instructor Updates
+
+Student Posts for Unit 3<!--/themify_builder_static-->
