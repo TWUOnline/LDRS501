@@ -19,58 +19,64 @@ The next section is entitled Outcomes. This section outlines what the course aim
 
 Finally, you will see directions to learning Activities, specifically focused for this unit. Each weekly unit has learning activities attached and helps develop competencies and understanding associated with the practice of progressive strategic leadership habits. In this group of learning activities, you will find Learning Activities related to Personal Learning and Leadership, Critical Thinking and the development of skill specifically focused on the  development and entry of the PressBooks materials we will use for publishing our open source book on Strategic Leadership Discoveries.
 
-One final note. If you do not have access to these items prior to the start of the course, no worries. You can work through these concepts over the first weeks of the course to assist your developmental understanding of later concepts introduced to your strategic leadership tool kit.<!--themify_builder_static--><h4 style="text-align: center">Welcome to the course hub for Leadership 501: Strategic Leadership</h4> <p>This course &#8230;</p>
- 
- 
- 
- 
- <h3>Course Overview</h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/">Course Navigation</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">WordPress Setup</a></h3> <p style="text-align: center">Click here for important information on connecting your site to the course hub.</p> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks">PressBooks Set Up</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/course-assignments/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/course-assignments/">Assignments</a></h3> 
- 
+One final note. If you do not have access to these items prior to the start of the course, no worries. You can work through these concepts over the first weeks of the course to assist your developmental understanding of later concepts introduced to your strategic leadership tool kit.<!--themify_builder_static-->
+
+<h4 style="text-align: center">Welcome to the course hub for Leadership 501: Strategic Leadership</h4>
+
+This course &#8230;
+
+<h3>Course Overview</h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/">Course Navigation</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">WordPress Setup</a></h3>
+
+<p style="text-align: center">Click here for important information on connecting your site to the course hub.</p>
+
+<a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks">PressBooks Set Up</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/course-assignments/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/course-assignments/">Assignments</a></h3>
+
 <h3>Pre-Reading<br /></h3>
- 
- <a href="https://create.twu.ca/ldrs501-su18/week-0/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/week-0/">Overview</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/activity-0-1/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">Learning Activity 0.1</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/activity-0-2"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Learning Activity 0.2</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/activity-0-2"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Learning Activity 0.3</a></h3><!--/themify_builder_static-->
+
+<a href="https://create.twu.ca/ldrs501-su18/week-0/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/week-0/">Overview</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">Learning Activity 0.1</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/activity-0-2">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Learning Activity 0.2</a></h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/activity-0-2">
+
+</a>
+
+<h3><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Learning Activity 0.3</a></h3>
+
+<!--/themify_builder_static-->
