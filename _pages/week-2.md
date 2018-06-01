@@ -1,35 +1,43 @@
 ---
-ID: 1690
-post_title: Week 1
+ID: 1692
+post_title: Week 2
 author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
   https://create.twu.ca/ldrs501-su18/week-2/
 published: true
-post_date: 2018-05-16 21:06:45
+post_date: 2018-05-16 21:07:21
 ---
-<!--themify_builder_static--><h2>Personal Strategic Development<br/>Unit 1</h2>
- <p>Welcome to the introductory outline for Week 1 with links to the materials you need to review, develop and learn about Strategic Leadership.</p> <p>The week starts with an introductory BLOG from you to help everyone else in the class know who they are working with. You are free to use all the skills learned in the orientation to the WordPress process to make your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about you as unforgettable as possible. It is what people will remember about you that sets you apart from one another as the unique leaders you are.</p> <p>Following the Introduction, you start your first assignment in the course. In this assignment you will list everything you know about Strategic leadership; from personal development through your present status of Strategic Leadership ability. you will also learn about the peer review process for grading and how to submit assignments into a PressBooks environment.</p> <p>We will also take the time to meet face to face via a ZOOM video conference, to discuss any course logistics and/or any challenges you face within the course layout (links, instructions, etc).</p> <p>Following these instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.</p> <p>Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.</p> <p>Welcome to LDRS 501 OL!</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-1/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-1/">Overview</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/">Learning Activities</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/assignment-1" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/assignment-1">Assignment 1</a></h3> 
- 
- 
- Instructor Updates 
- 
- Student Posts for Unit 1<!--/themify_builder_static-->
+<!--themify_builder_static-->
+<h2>Leadership Imperatives & Strategic Leadership
+Unit 2</h2>
+Welcome to Week 2
+
+This week represents your second week of course activity and contains the outline and links to materials you need to review, develop and learn about Strategic Leadership for Week 2.
+
+The week introduces an understanding of team dynamics as it relates to Strategic Leadership and Appreciative Inquiry (AI). You can follow the Link to blog 1 (Leadership Imperatives &#038; Strategic Leadership) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &#038; Strategic Leadership ideas requested through blog 1.
+
+As noted in your introductory BLOG, you are free to use all the skills learned in orientation to the WordPress process for making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches, make your BLOG as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as unique leaders in the field.
+
+Following the blog instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 3 Learning outcomes for the unit, e-reading and video resources for your review in the week ahead.
+
+Finally, this week&#8217;s section outlines two Learning Activities to help establish your mastery of topical material related to Leadership Imperatives &#038; Strategic Leadership.
+
+The activities, assignments and readings for this unit are expected for completion and/or due on Day 7 &#8211; Week 2.
+
+<a href="https://create.twu.ca/ldrs501-su18/unit-2/" >
+
+</a>
+<h3><a href="https://create.twu.ca/ldrs501-su18/unit-2/">Overview</a></h3>
+<a href="https://create.twu.ca/ldrs501-su18/unit-2-learning-activity-learning-notes/" >
+
+</a>
+<h3><a href="https://create.twu.ca/ldrs501-su18/unit-2-learning-activity-learning-notes/">Week 2 Learning Activity</a></h3>
+<a href="https://create.twu.ca/ldrs501-su18/week-2-blog-1-leadership-imperatives-strategic-leadership/" >
+
+</a>
+<h3><a href="https://create.twu.ca/ldrs501-su18/week-2-blog-1-leadership-imperatives-strategic-leadership/">Blog Post 2.1</a></h3>
+Instructor Updates
+
+Student Posts for Unit 2<!--/themify_builder_static-->
