@@ -48,9 +48,8 @@ As we continue into Week 6, I want to travel on a favourably oppositional safari
 
 Using your texts, your experiences and your well honed academic prowess, you will approach this week’s blog (Post 6.1) by providing favourable/oppositional views to the questions posed, substantively, succinctly and with citations from relevant supportive referencing to the view you present.
 <h3>Question</h3>
-<ul>
- 	<li>Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).</li>
-</ul>
+Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166) entitled Bridge Builder 5: Facilitate Change Readiness outlines several principles for how top performing companies handle change initiatives (pp. 133-141), what addicts can teach us about change (pp. 141-145), change level appropriate strategies (pp. 145-154) and understanding the Impact of leader behaviour (pp. 154-166).
+
 Your answers will include materials from the Lepsinger text and at least two (2) other course texts and at least one (1) outside source not listed in course materials.
 <h4>Here’s how we will handle Post 6.1.</h4>
 <span style="float: none; background-color: transparent; color: #333333; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.4px; text-align: left; text-decoration: none; text-indent: 0px;"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
@@ -69,8 +68,7 @@ Your answers will include materials from the Lepsinger text and at least two (2)
 Categories for this post:
 <ul>
  	<li>ldrs501</li>
- 	<li>either 'favour' or 'opposition' (according to your team's assigned role)</li>
- 	<li>OP</li>
+ 	<li>either 'Favour OP' or 'Opposition OP' (according to your team's assigned role)</li>
 </ul>
 <h5>Step 2</h5>
 <ul>
@@ -80,8 +78,7 @@ Categories for this post:
 Categories for this post:
 <ul>
  	<li>ldrs501</li>
- 	<li>'favour' or 'opposition' (according to YOUR team's assigned role)</li>
- 	<li>rebuttal</li>
+ 	<li>'favour rebuttal' or 'opposition rebuttal' (according to YOUR team's assigned role)</li>
 </ul>
 <h5>Step 3</h5>
 <ul>
@@ -92,8 +89,7 @@ Categories for this post:
 Categories for this post:
 <ul>
  	<li>ldrs501</li>
- 	<li>'favour' or 'opposition' (according to YOUR team's assigned role)</li>
- 	<li>conclusion</li>
+ 	<li>'favour conclusion' or 'opposition conclusion' (according to YOUR team's assigned role)</li>
 </ul>
 The parameters remain the same for all posts for this week.
 <ul>
