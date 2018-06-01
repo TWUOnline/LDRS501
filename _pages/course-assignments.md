@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-The table below lists all assignments for this course. All assignments are mandatory.
-
 #### Assignments
+
+The table below lists all assignments for this course. All assignments are mandatory.
 
 **Blogs** - 35% of final grade: Intro, Week 2, Week 3, Week 4, Week 6, Week 7, Week 8
 
