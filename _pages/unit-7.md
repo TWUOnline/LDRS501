@@ -1,7 +1,7 @@
 ---
 ID: 68
 post_title: >
-  Week 7 – Strategic Leadership TEAM
+  Week 7 – Strategic Leadership team
   Project
 author: Colin Madland
 post_excerpt: ""
@@ -11,9 +11,9 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-<h2>Strategic Leadership TEAM Project</h2>
+<h2>Strategic Leadership team Project</h2>
 <h4>This week</h4>
-This week introduces YOU to the topic of Conflict and Cooperation in our BLOG Forum &amp; the completion of your Strategic Applications Team Assignment.
+This week introduces you to the topic of Conflict and Cooperation in our BLOG Forum &amp; the completion of your Strategic Applications Team Assignment.
 
 This is another opportunity to interact in real time responses as we discuss how conflict and cooperation demonstrate a delicate balance in life and for developing organizational strategies. A poorly framed idea here, a flippant response to someone on the wrong day or wrong time and all cooperation and good will disappears quickly. Cooperation can help corporate strategies soar and achieve projections at unparalleled levels, while conflict can destroy any momentum an organization hopes to accomplish.
 
@@ -22,7 +22,7 @@ Even the smallest unresolved conflict in the workplace can bring all the momentu
 
 You all have declared mission, vision and values focus for the organizations you work for. It may be practiced or simply posted on a wall or filed for future reference. You also have experienced conflict and its consequences within the organization as well. This is your week to wrestle through the implications in a BLOG format discussion to find solutions within the discussions for your organization or situations you may face in the future.
 
-The TEAM Assignment focuses on Strategic Direction gleaned from your interviews, SWOT, processes used following those events and placing the material developed into the PressBooks environment. It is the culmination of all your TEAM work to date and provides the basis for new research done through your work with outside organizations, or fictional. This is the section where the book we are developing takes the most shape and introduced the most original research.
+The team Assignment focuses on Strategic Direction gleaned from your interviews, SWOT, processes used following those events and placing the material developed into the PressBooks environment. It is the culmination of all your team work to date and provides the basis for new research done through your work with outside organizations, or fictional. This is the section where the book we are developing takes the most shape and introduced the most original research.
 <h2>Outcomes</h2>
 Learners will have the opportunity to develop of the following learning outcomes in this unit.
 
@@ -61,7 +61,7 @@ For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 16
  	<li>All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.</li>
 </ol>
 &nbsp;
-<h4>TEAM ASSIGNMENT 2 - STRATEGIC LEADERSHIP TEAM PROJECT (15%)</h4>
+<h4>team ASSIGNMENT 2 - STRATEGIC LEADERSHIP team PROJECT (15%)</h4>
 <em><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></em>
 
-Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
+Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.

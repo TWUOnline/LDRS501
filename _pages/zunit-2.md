@@ -11,11 +11,11 @@ post_date: 2018-05-16 21:06:45
 ---
 Welcome to the introductory outline for Week 1 with links to the materials you need to review, develop and learn about Strategic Leadership.
 
-The week starts with an introductory BLOG from YOU to help everyone else in the class know who they are working with. You are free to use all the skills learned in the orientation to the WordPress process to make your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about YOU as unforgettable as possible. It is what people will remember about YOU that sets you apart from one another as the unique leaders YOU are.
+The week starts with an introductory BLOG from you to help everyone else in the class know who they are working with. You are free to use all the skills learned in the orientation to the WordPress process to make your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about you as unforgettable as possible. It is what people will remember about you that sets you apart from one another as the unique leaders you are.
 
-Following the Introduction, YOU start your first assignment in the course. In this assignment YOU will list everything you know about Strategic leadership; from personal development through YOUr present status of Strategic Leadership ability. YOU will also learn about the peer review process for grading and how to submit assignments into a PressBooks environment.
+Following the Introduction, you start your first assignment in the course. In this assignment you will list everything you know about Strategic leadership; from personal development through your present status of Strategic Leadership ability. you will also learn about the peer review process for grading and how to submit assignments into a PressBooks environment.
 
-We will also take the time to meet face to face via a ZOOM video conference, to discuss any course logistics and/or any challenges YOU face within the course layout (links, instructions, etc).
+We will also take the time to meet face to face via a ZOOM video conference, to discuss any course logistics and/or any challenges you face within the course layout (links, instructions, etc).
 
 Following these instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.
 

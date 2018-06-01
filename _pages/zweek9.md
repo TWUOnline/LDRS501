@@ -11,7 +11,7 @@ post_date: 2018-05-21 10:42:04
 ---
 As in previous weeks, Week 9 links to materials needed to review, develop and learn about Strategic Leadership.
 
-Our week starts with an opportunity to begin your countdown to the completion of this course. There is no BLOG Forum this week, so you are free to work together as a TEAM on your Final Assignment.
+Our week starts with an opportunity to begin your countdown to the completion of this course. There is no BLOG Forum this week, so you are free to work together as a team on your Final Assignment.
 
 This is the week where you can begin focusing your energies on completion of the Final Assignment and submitting your material for insertion into the PressBooks environment as you complete the work on the Strategic Discoveries open source book project.
 

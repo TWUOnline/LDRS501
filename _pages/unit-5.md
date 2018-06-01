@@ -36,9 +36,9 @@ One way at looking at the change process. This is for reference only. No require
 
 <img class="alignnone size-medium wp-image-407" src="http://create.twu.ca/ldrs501-su18/files/2018/03/The-Wave-of-Change-300x232.png" alt="" width="300" height="232" />     <img class="alignnone size-medium wp-image-406" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Surfing-the-Wave-of-Change-300x231.png" alt="" width="300" height="231" />
 
-<h4>For TEAM Assignment 2</h4>
+<h4>For team Assignment 2</h4>
 
-Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
+Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.
 
 [Link to Week 3 Notes here]
 

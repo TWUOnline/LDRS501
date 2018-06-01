@@ -14,7 +14,7 @@ post_date: 2018-02-23 01:07:23
 
 #### Week 4
 
-This week introduces YOU to understanding various aspects of strategic team development and other strategic leadership concepts:
+This week introduces you to understanding various aspects of strategic team development and other strategic leadership concepts:
 <ol>
  	<li>Market Position Thinking &amp; Processes for Service Improvement</li>
  	<li>Subjectivity and Intuition</li>
@@ -52,8 +52,8 @@ You will find a wider variety of Learning Activities (5) this week as well. The 
 <h2><strong>Resources</strong></h2>
 <h4>Week 4 Assignments</h4>
 <h4><a href="https://create.twu.ca/ldrs501-su18/blog-4-1/">Assignment: BLOG 4.1 - **First Day 1-6 of Week 4** - <strong>5%</strong>.</a></h4>
-<h4><a href="https://create.twu.ca/ldrs501-su18/assignment-2/">TEAM Assignment 2</a></h4>
-Please see <a href="https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/">TEAM Assignment 2 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2. TEAM Assignment 2 is due in Week 7, but you should start working on it now.
+<h4><a href="https://create.twu.ca/ldrs501-su18/assignment-2/">team Assignment 2</a></h4>
+Please see <a href="https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/">team Assignment 2 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. team Assignment 2 is due in Week 7, but you should start working on it now.
 <h4>Week 4 Learning Activities</h4>
 <h4><a href="https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-1-instruction-and-questions/">Learning Activity 4.1 - Strategic Thinking</a></h4>
 <h4><a href="https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-2-instruction-and-questions/">Learning Activity 4.2 - <strong>Subjectivity and Intuition</strong></a></h4>

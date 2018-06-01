@@ -13,11 +13,11 @@ post_date: 2018-05-21 10:22:09
 
 Our week starts with an opportunity to gather again in a video conference setting (similar to Week 1) and discuss progress, challenges, course related questions or simply to connect with one another.
 
-This week introduces you to TEAM BLOGging. This is not simply taking a topic and BLOGging about it. In this BLOG TEAMs will represent a favourable or opposing view to a topic of discussion, with one TEAM member BLOGging to other TEAMS in the class. YOU can follow the Link to BLOG 4 (Team Favour/Opposition BLOG) to interact with your fellow learners and your journey into TEAM BLOGging and response.
+This week introduces you to team BLOGging. This is not simply taking a topic and BLOGging about it. In this BLOG teams will represent a favourable or opposing view to a topic of discussion, with one team member BLOGging to other teamS in the class. you can follow the Link to BLOG 4 (Team Favour/Opposition BLOG) to interact with your fellow learners and your journey into team BLOGging and response.
 
 You are free to make your BLOG come alive. Make it as unforgettable and unique as possible.
 
-Following BLOG  instructions, there are 6 Learning outcomes, with further BLOG and Assignment resource for TEAM Assignment 2.
+Following BLOG  instructions, there are 6 Learning outcomes, with further BLOG and Assignment resource for team Assignment 2.
 
 Finally, the section outlines a Learning Activity for the week related to navigating the PressBooks environment.
 

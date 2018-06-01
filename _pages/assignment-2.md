@@ -13,9 +13,9 @@ post_date: 2018-02-23 01:07:23
 
 **WEEK 4**
 
-**TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
+**team ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
 
-**STRAT TEAM – Strategic Team Review and Action Tool**
+**STRAT team – Strategic Team Review and Action Tool**
 
 **Submission Due: Week 4 - Day 7 at 23:59 PDT**
 
@@ -49,9 +49,9 @@ b. Using the material outlined in the ‘possible flow of a STRAT debriefing mee
 
 date.
 
-**THE TEAM WILL:**
+**THE team WILL:**
 
-1) Connect as a TEAM during Week 1 of LDRS 501. (Week 1)
+1) Connect as a team during Week 1 of LDRS 501. (Week 1)
 
 2) The team will develop their Strategy for meeting and reviewing material by the end of Week 2 (Week 2)
 

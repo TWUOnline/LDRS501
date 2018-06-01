@@ -27,14 +27,14 @@ Learners will have the opportunity to develop of the following learning outcomes
 <h4>ZOOM video-conference</h4>
 <ul>
  	<li>Learner Questions and Process Review</li>
- 	<li>TEAM Assignment Progress Review</li>
+ 	<li>team Assignment Progress Review</li>
  	<li>Book Development Learning Activity plus Q&amp;A</li>
 </ul>
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
-<h4>BLOG 6.1 (TEAM BLOG - <strong>5%</strong>)</h4>
-This week introduces YOU to TEAM blogging.
+<h4>BLOG 6.1 (team BLOG - <strong>5%</strong>)</h4>
+This week introduces you to team blogging.
 
-This is where your and your TEAM will take an assigned position and prove it throughout the week. You may or may not agree with the position you are assigned to defend, but will need to create and defend the position for the other TEAM(S) to respond to. Instruction for the TEAM blog activity appear below.
+This is where your and your team will take an assigned position and prove it throughout the week. You may or may not agree with the position you are assigned to defend, but will need to create and defend the position for the other team(S) to respond to. Instruction for the team blog activity appear below.
 
 To date, you have or are:
 <ol>
@@ -42,7 +42,7 @@ To date, you have or are:
  	<li>discussed the tools and thinking associated with servant and strategic leadership for organizational development. (Post 2.1)</li>
  	<li>presently discussing Strategic Leadership Teams and how to build them and respond to the challenges they represent. (Post 3.1)</li>
  	<li>measured and responded to strategy renewal, execution and organizational design principles in your organizational and personal practice.</li>
- 	<li>submitted your first TEAM Assignment. <em>(It should be graded and returned by now.)</em></li>
+ 	<li>submitted your first team Assignment. <em>(It should be graded and returned by now.)</em></li>
 </ol>
 As we continue into Week 6, I want to travel on a favourably oppositional safari.
 
@@ -55,7 +55,7 @@ Your answers will include materials from the Lepsinger text and at least two (2)
 <span style="float: none; background-color: transparent; color: #333333; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.4px; text-align: left; text-decoration: none; text-indent: 0px;"><strong>NOTE: There are no Post Leaders this week.</strong> </span>
 <h5>Step 1</h5>
 <ul>
- 	<li>Prior to the beginning of week 6, the instructor will assign the team focus (‘favour’ or ‘opposition’) for all TEAM posts.</li>
+ 	<li>Prior to the beginning of week 6, the instructor will assign the team focus (‘favour’ or ‘opposition’) for all team posts.</li>
  	<li>Each team will post on one member's blog a cooperatively written argument either in favour or opposition to the premise provided.
 <ul>
  	<li>You will choose one of the sections from Chapter 5 above and write in favour/opposition of the principle you focus on. The principle must be fully addressed by stating why the principles reviewed are important factors for the section you review. (i.e. if there are 4 points to the section you focus on, every point must receive a favourable/oppositional review on how it helps/hinders organizational change)</li>
@@ -78,7 +78,7 @@ Categories for this post:
 Categories for this post:
 <ul>
  	<li>ldrs501</li>
- 	<li>'favour rebuttal' or 'opposition rebuttal' (according to YOUR team's assigned role)</li>
+ 	<li>'favour rebuttal' or 'opposition rebuttal' (according to your team's assigned role)</li>
 </ul>
 <h5>Step 3</h5>
 <ul>
@@ -89,7 +89,7 @@ Categories for this post:
 Categories for this post:
 <ul>
  	<li>ldrs501</li>
- 	<li>'favour conclusion' or 'opposition conclusion' (according to YOUR team's assigned role)</li>
+ 	<li>'favour conclusion' or 'opposition conclusion' (according to your team's assigned role)</li>
 </ul>
 The parameters remain the same for all posts for this week.
 <ul>
@@ -98,5 +98,5 @@ The parameters remain the same for all posts for this week.
  	<li>Posts will be substantive, succinct and cited.</li>
 </ul>
 <h3>Reminder</h3>
-<h4>For TEAM Assignment 2 (Due in Week 7)</h4>
-If you need to refresh your memory, please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing TEAM Assignment 2.
+<h4>For team Assignment 2 (Due in Week 7)</h4>
+If you need to refresh your memory, please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.

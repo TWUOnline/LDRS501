@@ -27,9 +27,9 @@ Using the Formal Groups section of Galbraith’s Designing Organizations text, i
 
 * What do you see needing improvement in both to make them more effective?
 
-* How do YOU suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?
+* How do you suggest building an effective Strategic Leadership team in your present environment based on your reading and present/previous team experiences?
 
-* How will YOU deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you?
+* How will you deal with the struggles an SLT can face as it develops and takes on challenges in the working/course environments around you?
 
 NOTE:
 

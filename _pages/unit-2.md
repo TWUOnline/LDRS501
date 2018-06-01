@@ -12,13 +12,13 @@ post_date: 2018-02-23 01:07:23
 <h2><strong>Leadership Imperatives &amp; Strategic Leadership</strong></h2>
 #### Week 2
 
-TEAM Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
+team Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
 
-This week also introduces YOU and an understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
+This week also introduces you and an understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
 
 1. Appreciative Inquiry
 
-2. More PressBooks instruction to prepare you further for the TEAM elements of the book preparation process.
+2. More PressBooks instruction to prepare you further for the team elements of the book preparation process.
 
 The Appreciative Inquiry concepts are an important framework for Strategic Leadership. Looking at things from a more positive light is a better framework for developing strategy than developing it to fix problems in the organization. When we become fixers we run into a never ending list of fixes to attend to. When we become dreamers, we see the future as an open book with dreams, wishes and opportunities laid before us to work toward and succeed at.
 

@@ -128,7 +128,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>30
 
-<strong><span style="text-decoration: underline">Week 4 TEAM Assignment 1 - Strategic TEAM Development</span>
+<strong><span style="text-decoration: underline">Week 4 team Assignment 1 - Strategic team Development</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 4 - Day 7.
@@ -172,7 +172,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>60
 
-<strong><span style="text-decoration: underline">Week 8 TEAM Assignment 2 - Strategic TEAM Development</span>
+<strong><span style="text-decoration: underline">Week 8 team Assignment 2 - Strategic team Development</span>
 </strong>
 
 <strong>Due Date:</strong> 3:59 PDT - Week 8 - Day 7.
@@ -183,7 +183,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>75
 
-<strong>Week 10 Final TEAM Assignment 3 - Strategic Influence
+<strong>Week 10 Final team Assignment 3 - Strategic Influence
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 10 - Day 5.

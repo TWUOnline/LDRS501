@@ -31,7 +31,7 @@ Learners will begin development of the following outcomes in the unit:
 
 Below, you will find the outline for Week 1 and links to the materials you will need to review, develop and learn about Strategic Leadership.
 
-First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory BLOG from YOU to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about YOU as unforgettable as possible. It is what people will remember about YOU and set you apart from one another as unique leaders in the field.
+First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory BLOG from you to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your BLOG come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory BLOG about you as unforgettable as possible. It is what people will remember about you and set you apart from one another as unique leaders in the field.
 
 Following the Introduction, we start with your first assignment in the course. In this assignment you will enlist all of the things you know about Strategic leadership; from your personal development through to present status of Strategic Leadership ability. You will also learn a peer review process for grading and how to submit your assignments into a PressBooks environment.
 
@@ -43,7 +43,7 @@ Finally, the section outlines your Assignment due dates and the Learning Activit
 
 #### Introductions
 
-This activity provides an introduction of YOU and your strategic leadership experience. You will provide an introduction to YOU the person in your introductory blog (due on Day 1).
+This activity provides an introduction of you and your strategic leadership experience. You will provide an introduction to you the person in your introductory blog (due on Day 1).
 
 If you haven't already, you should [click here](https://create.twu.ca/ldrs501-su18/wordpress-settings/) and make sure that you have submitted your RSS feed.
 

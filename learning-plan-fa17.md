@@ -83,18 +83,18 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 3 - May 14-20** | Strategic Leadership Development | Week 3- BLOG 2 | Due **MAY 20 @ 23:59** |
 | **Week 4 - May 21-27** | Learning Activity 4 | Book Development Instruction | Available** May 22, 2018** |
 | **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- BLOG 3 | Due **MAY 27 @ 23:59** |
-| **Week 4 - May 21-27** | STRAT Assignment | TEAM Assignment 1 | Due **MAY 27 @ 23:59** |
+| **Week 4 - May 21-27** | STRAT Assignment | team Assignment 1 | Due **MAY 27 @ 23:59** |
 | **READING WEEK – MAY 28-JUNE 3** ||| **Reading and Catch up on reading & Assignments** |
-| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to TEAM BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to TEAM BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
+| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to team BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to team BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- BLOG 4 | Due **JUNE 10 @ 23:59** |
 | **Week 7 - June 11-17** | Learning Activity 6 | Book Development Instruction and Review | Available **June 11, 2018** |
 | **Week 7 - June 11-17** | Strategic Leadership Design and Execution | Week 7- BLOG 5 | Due **JUNE 17 @ 23:59** |
 | **Week 8 - June 18-24** | Learning Activity 7 | Book Development Instruction and Review | Available** June 18, 2018** |
 | **Week 8 - June 18-24** | Strategic Leadership Execution | Week 8- BLOG 6 | Due **JUNE 24 @ 23:59** |
-| **Week 8 - June 18-24** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | TEAM Assignment 2 | Due **JUNE 24 @ 23:59** |
+| **Week 8 - June 18-24** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | team Assignment 2 | Due **JUNE 24 @ 23:59** |
 | **Week 9 - June 25-July 1** | Learning Activity 8 | Book Development Instruction and Review | Available** June 25, 2018** |
 | **Week 10 - July 2-6** | Learning Activity 9 | Book Development Instruction and Review | Available** July 3, 2018** |
-| **Week 10 - July 2-6** | Final Assignment - Strategic Influence Assignment | TEAM Assignment 3 | Due **JULY 6 @ 23:59** |
+| **Week 10 - July 2-6** | Final Assignment - Strategic Influence Assignment | team Assignment 3 | Due **JULY 6 @ 23:59** |
 
 #### **Texts & Resources- LDRS 501A Strategic Leadership**
 
@@ -165,7 +165,7 @@ By the end of this LDRS 501 course, learners will be able to:
 * D Kahnernan & G Klein \(2010\) Strategic Decisions **McKinsey**
 * **Personal research** for Forum and Assignment completion.
 
-|  |  | **Week 4 – Forum & TEAM Assignment 1** |
+|  |  | **Week 4 – Forum & team Assignment 1** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | M. Ungerer, G. Ungerer & J. Herholdt | **  Naviagting Strategic Possibilities:      Strategic Formulation and Execution  Practices to Flourish** | Chapters 8-9 \(pp. 365-438\) |
@@ -232,11 +232,11 @@ By the end of this LDRS 501 course, learners will be able to:
 | **W2 BLOG post** | May 13 @ 23:59 PDT | BLOG 1 | 5% |
 | **W3 BLOG posts** | May 20 @ 23:59 PDT | BLOG 2 | 5% |
 | **W4 BLOG posts** | May 27 @ 23:59 PDT | BLOG 3 | 5% |
-| **W4 TEAM Assignment 1** | May 27 @ 23:59 PDT | PressBooks Environment | 15% |
-| **W6 TEAM BLOG post** | June 10 @ 23:59 PDT | BLOG 4 | 5% |
+| **W4 team Assignment 1** | May 27 @ 23:59 PDT | PressBooks Environment | 15% |
+| **W6 team BLOG post** | June 10 @ 23:59 PDT | BLOG 4 | 5% |
 | **W7 BLOG Posts** | June 17 @ 23:59 PDT | BLOG 5 | 5% |
 | **W8 BLOG Posts** | June 24 @ 23:59 PDT | BLOG 6 | 5% |
-| **W8 TEAM Assignment 2** | June 24 @ 23:59 PDT | PressBooks Environment | 15% |
+| **W8 team Assignment 2** | June 24 @ 23:59 PDT | PressBooks Environment | 15% |
 | **W10** | July 6 @ 23:59 PDT | PressBooks Environment | 25% |
 |  |  |  | 100% |
 
@@ -244,9 +244,9 @@ By the end of this LDRS 501 course, learners will be able to:
 
 #### **You may expect feedback on assignments in one week or less from the submission.**
 
-* **TEAM ASSIGNMENT in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
+* **team ASSIGNMENT in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
 * **INDIVIDUAL ASSIGNMENTS in Week 1\(for addition to Open Source Book\) - Peer reviewed grading in effect.**
-* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(TEAM\), W7 and W8. - Instructor grading in effect.**
+* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(team\), W7 and W8. - Instructor grading in effect.**
 
 #### GRADING:
 
@@ -283,9 +283,9 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 **Assignment Parameters**
 
-1. Assess YOU as a strategic leader.
-   1. What is your general response to the circumstances YOU presently face in your life?
-   2. How do YOU handle the stressors you face?
+1. Assess you as a strategic leader.
+   1. What is your general response to the circumstances you presently face in your life?
+   2. How do you handle the stressors you face?
       1. Personal
       2. Professional
    3. What are your wants and needs for changing or strengthening your responses?
@@ -295,22 +295,22 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
       1. Personal
       2. Professional
 2. What personal mission, vision and values do you practice?
-   1. If YOU do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with YOU and the future personal/professional development YOU desire?
+   1. If you do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with you and the future personal/professional development you desire?
       1. Personal
       2. Professional
       3. Collectively
-3. What key strategic drivers will help YOU create significant impact for achieving your potential?
-   1. What areas will YOU abandon for your future development?
-   2. What areas will YOU excel in?
+3. What key strategic drivers will help you create significant impact for achieving your potential?
+   1. What areas will you abandon for your future development?
+   2. What areas will you excel in?
       1. Personal
       2. Professional
-4. Explain the personal/professional culture YOU want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
+4. Explain the personal/professional culture you want to develop from the mission, vision, values and drivers envisioned and how they align with your present/future success.
    * 1. Personal
      2. Professional
 5. Conclude the assignment:
-   1. Identify some ‘old economy’ thinking and practices YOU continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\) 
+   1. Identify some ‘old economy’ thinking and practices you continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\) 
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
-   3. Outline present strategic strengths YOU discovered and how YOU can align them to become a better strategic leader
+   3. Outline present strategic strengths you discovered and how you can align them to become a better strategic leader
 
 **NOTE:** _Substantive, Succinct and Cited._
 
@@ -320,9 +320,9 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 **WEEK 4**
 
-**TEAM ASSIGNMENT 1 – STRAT ASSIGNMENT \(15%\)**
+**team ASSIGNMENT 1 – STRAT ASSIGNMENT \(15%\)**
 
-**STRAT TEAM – Strategic Team Review and Action Tool**
+**STRAT team – Strategic Team Review and Action Tool**
 
 **Submission Due: Sunday May 27 at 23:59 PDT**
 
@@ -357,9 +357,9 @@ b. Using the material outlined in the ‘possible flow of a STRAT debriefing mee
 
 date.
 
-**THE TEAM WILL:**
+**THE team WILL:**
 
-1\) Connect as a TEAM during Week 1 of LDRS 501. \(May 1-6\)
+1\) Connect as a team during Week 1 of LDRS 501. \(May 1-6\)
 
 2\) The team will develop their Strategy for meeting and reviewing material by the end of Week 2\(May 7-13\)
 
@@ -373,9 +373,9 @@ date.
 
 \[link to PressBooks files for insertion of materials here\]
 
-**WEEK 7 – TEAM ASSIGNMENT 2**
+**WEEK 7 – team ASSIGNMENT 2**
 
-**STRATEGIC LEADERSHIP TEAM PROJECT \(15%\)**
+**STRATEGIC LEADERSHIP team PROJECT \(15%\)**
 
 **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
 
@@ -411,18 +411,18 @@ You can use a brainstorming or brain swarming approaches for reviewing the quest
 
 Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above. The analysis will use Lepsinger’s \(2010\) 6 Bridge Builders \(pp. 25-203\) and the questions contained in Hughes, Beatty and Dinwoodie \(2014\) - Exhibits 3.5, 3.6, 3.7 \(pp. 130-133\) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.
 
-The TEAM LEAD _\(or a team agreed designate_\) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
+The team LEAD _\(or a team agreed designate_\) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
 
 The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 
-**THE TEAM WILL:**
+**THE team WILL:**
 
 1. Select an organization to review using a SWOT analysis. _\(The organization can be fictional or actual that team members have awareness of.\)_
    1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(May 16\)_
 2. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization forfor the end of week 4 _\(May 27\)_
 3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _\(June 3\)_
 4. Compile findings and results by the end of Week 6 _\(June 10\)_
-5. TEAM LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(June 17\)_
+5. team LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(June 17\)_
 
 **\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
@@ -430,22 +430,22 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 \[link to PressBooks files for insertion of materials here\]
 
-**WEEK 10 – STRATEGIC INFLUENCE TEAM ASSIGNMENT 3 \(25%\)**
+**WEEK 10 – STRATEGIC INFLUENCE team ASSIGNMENT 3 \(25%\)**
 
 **DUE DATE: July 6 @ 23:59 PST**
 
-Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material and readings. Each TEAM will enter their materials into the PressBooks environment to complete assignment requirements. Each TEAM will focus on the organization interviewed in TEAM Assignment 2:
+Your FINAL ASSIGNMENT is a FINAL team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
-1. Looking at the organization your TEAM interviewed in TEAM Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
-2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in TEAM Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
-   * From p. 76 – write a one-page newspaper article portraying your vision and aspirations for the organization you interviewed in TEAM Assignment 2.
+1. Looking at the organization your team interviewed in team Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
+2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
+   * From p. 76 – write a one-page newspaper article portraying your vision and aspirations for the organization you interviewed in team Assignment 2.
      * The article should represent what makes them proud of their organization three or four years from now.
      * Write the article so:\_
        * It tells the story of the organization’s success.
        * It evokes feelings of pride when you read it.
        * It conveys the kind of organization \_they are and what they've accomplished.
          * You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories.
-   * Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan the organization you interviewed in TEAM Assignment 2.
+   * Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan the organization you interviewed in team Assignment 2.
 3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
    at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the
    strategic influence you see the organization developing.
@@ -453,13 +453,13 @@ Your FINAL ASSIGNMENT is a FINAL TEAM Assignment shaped by the course material a
      the strategic influence you see the organization you interviewed developing.
      * State why the described designs do not fit and describe your vision of the organization’s future in 
        terms of another suggested design for operating.
-   * Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in TEAM Assignment 2.
+   * Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in team Assignment 2.
 4. You may use any available documentation you can access about your organization to obtain the needed information for the assignment.  
    * _You may also use:_
      * Any other course materials to support your evaluation and development of your strategic influences within your organization.
-     * Any other research materials you find to support your evaluation and development of your strategic influences within the organization you interviewed in TEAM Assignment 2.
+     * Any other research materials you find to support your evaluation and development of your strategic influences within the organization you interviewed in team Assignment 2.
 5. _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
-6. _The TEAM LEAD \(or the TEAM approved designate\) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by the Week 10 due date \(July 6\)_
+6. _The team LEAD \(or the team approved designate\) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by the Week 10 due date \(July 6\)_
 
 _**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.Substantive, Succinct and Cited._
 
@@ -477,7 +477,7 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 | W2 BLOG | BLOG 1 | 5% |
 | W3 BLOG | BLOG 2 | 5% |
 | W4 BLOG | BLOG 3 | 5% |
-| W6 TEAM BLOG | BLOG 4 | 5% |
+| W6 team BLOG | BLOG 4 | 5% |
 | W7 BLOG | BLOG 5 | 5% |
 | W8 BLOG | BLOG 6 | 5% |
 

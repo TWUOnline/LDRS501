@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-#### **WEEK 3 through 7 – TEAM ASSIGNMENT 2**
+#### **WEEK 3 through 7 – team ASSIGNMENT 2**
 
-#### **STRATEGIC LEADERSHIP TEAM PROJECT (15%)**
+#### **STRATEGIC LEADERSHIP team PROJECT (15%)**
 
 ##### **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
 
@@ -60,18 +60,18 @@ You can use a brainstorming or brain swarming approaches for reviewing the quest
 
 Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above. The analysis will use Lepsinger’s (2010) 6 Bridge Builders (pp. 25-203) and the questions contained in Hughes, Beatty and Dinwoodie (2014) - Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.
 
-The TEAM LEAD _(or a team agreed designate_) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
+The team LEAD _(or a team agreed designate_) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
 
 The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 
-**THE TEAM WILL:**
+**THE team WILL:**
 
 1. Select an organization to review using a SWOT analysis. _(The organization can be fictional or actual that team members have awareness of.)_ In the case of an actual organization, the choice for naming the actual organization or the organization remaining  anonymous is solely at the discretion of the organization. If anonymous, reviewers need to ensure anonymity is protected throughout the assignment and the remainder of the course (including all published results).
 1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _(Wednesday)_
 2. The team will develop their SWOT Questions, as they relate to the four quadrants of a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) and arrange an interview with a significant leader of the organization for the end of week 4 _(Sunday)_
 3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _(June 3)_
 4. Compile findings and results by the end of Week 6 _(Sunday)_
-5. TEAM LEAD _(or a team agreed designate_) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _(Sunday)_
+5. team LEAD _(or a team agreed designate_) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _(Sunday)_
 
 **NOTE:** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
