@@ -1,6 +1,6 @@
 ---
 ID: 282
-post_title: Home
+post_title: old-Home
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -216,7 +216,7 @@ post_date: 2018-04-13 11:20:44
  Instructor Updates 
  
  Student Posts for Unit 6 
-<h2>Strategic Leadership team Project<br/>Unit 7</h2>
+<h2>Strategic Leadership TEAM Project<br/>Unit 7</h2>
  <p>In unit 7&#8230;</p>
  
  <a href="https://create.twu.ca/ldrs501-su18/unit-7/" > 
