@@ -24,8 +24,10 @@ Finally, the section outlines not just one Learning Activity for the week, but f
 <span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 4.</span>
 
 <!--themify_builder_static-->
+
 <h2>Strategic Team Review
 Unit 4</h2>
+
 Welcome to your forth week of course activity.
 
 Here is your outline of materials for Week 4 and links to the materials needed to review, develop and learn further principles for Strategic Leadership.
@@ -42,12 +44,14 @@ Finally, the section outlines not just one Learning Activity for the week, but f
 
 All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 &#8211; Week 4.
 
-<a href="https://create.twu.ca/ldrs501-su18/unit-4/" > 
+<a href="https://create.twu.ca/ldrs501-su18/unit-4/" >
 
- </a>
+</a>
+
 <h3><a href="https://create.twu.ca/ldrs501-su18/unit-4/">Overview</a></h3>
-Instructor Updates 
 
- Student Posts for Unit 4<!--/themify_builder_static-->
+Instructor Updates
+
+Student Posts for Unit 4<!--/themify_builder_static-->
 
 &nbsp;
