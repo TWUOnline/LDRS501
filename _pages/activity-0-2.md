@@ -140,7 +140,7 @@ Looking at your area of personal worldview, responsibility, discipline, organiza
 
 1. What changes presently influence your personal worldview, area of responsibility, discipline, organization and/or area of study in the twenty- first century, and how can critical thinking help you respond to these changes?
 
-a. Look at each area (personal worldview, responsibility, discipline, organization or area of study); review the basic assumptions you are dealing with and list the changes influencing you.
+a. Look at each area (personal worldview, responsibility, discipline, organization or area of study); review the basic assumptions you are dealing with and list the changes influencing YOU.
 
 2. How can you think more critically about the changes you listed?
 
