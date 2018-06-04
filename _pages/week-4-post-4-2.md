@@ -46,8 +46,8 @@ Here are some examples to enhance your understanding of inductive thinking. Read
 <ol>
 <li>A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em></p></li>
 <li>An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p></li>
-<li><p>A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p></li>
+<li>A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p></li>
+<li>A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p></li>
 <li><p>A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i></p></li>
 <li><p>A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i></p></li>
 <li><p>A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i></p></li>
@@ -195,5 +195,160 @@ OnStrategy. (2018). <em>About us.</em> Retrieved from https://onstrategyhq.com/
 
 Perkins, K. (2018). <em>The top 10 strategic planning best practices.</em> Reno NV: OnStrategy. Retrieved from https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/
 
-Project Implicit. (2018) <em>Implicit Association Test.</em> Boston MA: Harvard University. Retrieved from https://implicit.harvard.edu/implicit/Canada/<!--themify_builder_static--><p>Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity that follows. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.</p><p>Follow the instructions for each learning activity to gain understanding and interact with the material review for each learning activity during Week 4 of LDRS 501.</p><p><strong>INTRODUCTION</strong></p><p><strong><i>Seeing things the way God sees them</i></strong></p><p><strong>Principle:</strong> Submit to God</p><p>One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes two thoughts in his first epistle:</p><p><em>Submit yourselves for the Lord&#8217;s sake to every authority instituted among men: whether to the king, as the supreme authority,</em> &#8211; I Peter 2: 13</p><p><em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> &#8211; I Peter 2: 16</p><p><i>THINK about it! Leadership accountability in a strategic environment allows everyone to excel and find protection through the process. Ungerer, et al., note:</i></p><p><em>&#8216;autonomy does not imply a lack of accountability or a lack of hierarchy.&#8217;</em> (p. 288)</p><p>Lack in leadership accountability is one of the most common criticisms of leadership over the years. Leaders who act as if followers are their personal minions to order around regardless of the respect level earned or ethical considerations for treating people fairly, cause great harm to understanding true accountable leadership for the betterment of the organization and the people they lead. To lead is to recognize the level or accountability and responsibility for the position and process.</p><p>Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.</p><p>Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.</p><h4>Inductive Reasoning in the Workplace</h4><p>(https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)</p><p>Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.</p><p>Here are some examples to enhance your understanding of inductive thinking. Read them over, and reflect on instances of inductive thinking in your own professional experience.</p><p>1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em></p><p>2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i></p><p>3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i></p><p>4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i></p><p>5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i></p><p>6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i></p><p>7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i></p><p>8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i></p><p>9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i></p><p>10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein.&#8221; The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i></p><p>In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.</p><h4>Examples of Deductive Reasoning Skills</h4><p><em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em></p><p>Here are some examples to enhance your understanding of deductive thinking. Read them over, and reflect on instances of deductive thinking in your own professional experience.</p><p>1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition&#8217;s hair coloring product. <em>(belief </em>proves outcome)</p><p>2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i></p><p>3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i></p><p>4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b></p><p>5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i></p><p>6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i></p><p>7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i></p><p>8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i></p><p>9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year&#8217;s curriculum. <i>(belief proves outcome)</i></p><p>10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word &#8220;Organic&#8221; when redesigning their packaging. <i>(belief proves outcome)</i></p><p>The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn&#8217;t as simple as many of us were taught regarding handedness <em>(right handed &#8211; left brain; left handed &#8211; right brain). </em>The images below provide insight into how these differing functions work in our everyday life.</p><p><img src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" srcset="https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg 175w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-768x1320.jpg 768w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-596x1024.jpg 596w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited.jpg 1185w" sizes="(max-width: 175px) 100vw, 175px" />          <img src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" srcset="https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg 190w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-768x1210.jpg 768w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-650x1024.jpg 650w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2.jpg 1195w" sizes="(max-width: 190px) 100vw, 190px" /></p><p><strong>Image 1 &#038; 2:</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png</em></p><p>As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.</p><h4>Post 4.2</h4><h4>Unit Learning Outcomes</h4><p>Upon completion of post 4.2 learners will be able to:</p><ol><li>Understand the various and varying thinking and learning styles represented in teams they work with.</li></ol><h4>Strategic Thinking</h4><p><strong>Market Position Thinking &#038; Processes for Service Improvement</strong></p><h4><em>Read and Respond Activities</em></h4><p>Follow the instructions below to help you gain understanding and interact with the material above.</p><p>Create a new post on your blog and respond to the following questions (make sure that you maintain confidentiality, either by anonymizing your post or setting appropriate access controls to your post):</p><ol><li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li><li>Make a list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li><li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li></ol><h4>Categories for this post:</h4><ul><li>ldrs501</li><li>post 4.2</li></ul>
- <h3>References</h3><p>Baum, J. C., &#038; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.</p><p>Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die</p><p>Complexity Labs. (September 8, 2016). Subjective Thinking. <em>Complexity Labs. </em>Barcelona: Complexity Labs. Retrieved from http://complexitylabs.io/subjective-thinking/</p><p>Dalkir, K. (2016). Editorial: Why do organizations need to increase their strategic intelligence quotient (IQ)? <em>Information Science</em>.  45 (3). Brasilia BR: Brazilian Institute of Information in Science and Technology. Retrieved from http://revista.ibict.br/ciinf/article/viewFile/4065/3562</p><p>Doyle, A. (updated January 23, 2018). Learn why employers value deductive reasoning, and how you can show it. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</p><p>&#8212;&#8211; (updated September 22, 2017). <em>Inductive reasoning in the workplace.</em> New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683</p><p>Fitzgerald, F. S. (Spring 1936). The crack up. <em>Esquire.</em> New York: Hearst.</p><p>Galbraith, J. (1974). Organization design: an information processing view. <em>The Institute of Management Sciences.</em> Vol. 4, pp. 28-36. Catonsville MD: INFORMS.</p><p>Gilakjani, A. P. (2012). Visual, auditory, kinaesthetic learning styles and<br />their impacts on English language teaching.  <em>Journal of Studies in Education</em>. 2(1). Macrothink Institute: Las Vegas, NV.</p><p>Higson, P., and Sturgess, A. (1999). Intuition and Decision Making. <em>The Happy Manager.</em> London: Apex Leadership. Retrieved from http://the-happy-manager.com/articles/intuition-and-decision-making/</p><p>Johnson, D., and Levin, S. (December 10, 2009). The tragedy of cognition: psychological biases and environmental inaction.  Current Science. 97(11). Bangalore, India: Current Science Association. Retrieved from http://dominicdpjohnson.com/publications/pdf/2009JohnsonLevinTheTragedyOfCognition.pdf</p><p>Justice Institute of BC. (April 8, 2013). Subjective vs. objective. <em>School of Community and Social Justice.</em> Vancouver BC: Centre for Leadership. Retrieved from  http://www.jibc.ca/sites/default/files/community_social_justice/pdf/cl/Objective_vs._Subjective.pdf</p><p>Kaufman, R. (2014). Characteristics of Useful and Practical Organizational Strategic Plans. <em>Educational Technology</em>, 54(1), 37-39. Retrieved from http://www.jstor.org/stable/44430235</p><p>King, W. R. (March 1978). Strategic planning for management information systems. MIS Quarterly. Minneapolis MN: University of Minnesota. Retrieved from https://pdfs.semanticscholar.org/3e9d/c86eec51d0e3444be59f2887c384e2ff0258.pdf</p><p>Llopis, G. (January 27, 2011). How distrust, indifference and lack of integrity will destroy your business. Forbes. Jersey City NJ: Forbes.com. Retrieved from https://www.forbes.com/sites/glennllopis/2011/01/17/how-distrust-indifference-and-lack-of-integrity-will-destroy-your-business/#2e50b7a36a42</p><p>Milgram, J. (January 3, 2018). <em>Left and right brain—the surprising truth</em> [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain</p><p>OnStrategy. (2018). <em>About us.</em> Retrieved from https://onstrategyhq.com/about-us/</p><p>Perkins, K. (2018). <em>The top 10 strategic planning best practices.</em> Reno NV: OnStrategy. Retrieved from https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/</p><p>Project Implicit. (2018) <em>Implicit Association Test.</em> Boston MA: Harvard University. Retrieved from https://implicit.harvard.edu/implicit/Canada/</p><!--/themify_builder_static-->
+Project Implicit. (2018) <em>Implicit Association Test.</em> Boston MA: Harvard University. Retrieved from https://implicit.harvard.edu/implicit/Canada/<!--themify_builder_static-->
+
+Read the learning notes below for Week 4 of the course. Once you read the materials below complete the activity that follows. Follow the instructions for the learning activity to gain understanding and interact with the related material for greater understanding of the Week 4 Strategic Leadership principles outlined.
+
+Follow the instructions for each learning activity to gain understanding and interact with the material review for each learning activity during Week 4 of LDRS 501.
+
+<strong>INTRODUCTION</strong>
+
+<strong><i>Seeing things the way God sees them</i></strong>
+
+<strong>Principle:</strong> Submit to God
+
+One of the important things as leaders is understanding our place of submission in leadership. Without submission, we answer to no one and feel accountable to even less. Peter the apostle writes two thoughts in his first epistle:
+
+<em>Submit yourselves for the Lord&#8217;s sake to every authority instituted among men: whether to the king, as the supreme authority,</em> &#8211; I Peter 2: 13
+
+<em>Live as free men, but do not use your freedom as a cover up for evil; live as servants of God.</em> &#8211; I Peter 2: 16
+
+<i>THINK about it! Leadership accountability in a strategic environment allows everyone to excel and find protection through the process. Ungerer, et al., note:</i>
+
+<em>&#8216;autonomy does not imply a lack of accountability or a lack of hierarchy.&#8217;</em> (p. 288)
+
+Lack in leadership accountability is one of the most common criticisms of leadership over the years. Leaders who act as if followers are their personal minions to order around regardless of the respect level earned or ethical considerations for treating people fairly, cause great harm to understanding true accountable leadership for the betterment of the organization and the people they lead. To lead is to recognize the level or accountability and responsibility for the position and process.
+
+Some special issues to consider when working with your collaborative teams are identification and understanding who your inductive/deductive thinkers are. Next, how does this style of thinking effect the team and the strategic outcomes of the organization? Understanding the thinking styles of your teams opens up opportunities for you to excel in the strategies put forth by the organization.
+
+Being an inductive thinker means you operate from observations of the people and environment around you  to formulate a theory to explain the facts. Some examples of how this occurs in the workplace appear below.
+
+<h4>Inductive Reasoning in the Workplace</h4>
+
+(https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683)
+
+Employers value workers who think logically as they solve problems and carry out tasks, and who discern patterns and develop strategies, policies, or proposals based on those tendencies. These employees are practicing inductive reasoning.
+
+Here are some examples to enhance your understanding of inductive thinking. Read them over, and reflect on instances of inductive thinking in your own professional experience.
+
+1. A teacher notices his students learned more when hands-on activities were incorporated into lessons, and then decides to regularly include a hands-on component in his future lessons. <em>(the observation leads to the conclusion)</em>
+
+2. An architect discerns a pattern of cost overages for plumbing materials in jobs and opts to increase the estimate for plumbing costs in subsequent proposals. <i>(the observation leads to the conclusion)</i>
+
+3. A stock broker observes Intuit stock increased in value four years in a row during tax season and recommends a buy to clients in March. <i>(the observation leads to the conclusion)</i>
+
+4. A recruiter conducts a study of recent hires who achieved success and stayed with the organization. She finds they graduated from three local colleges, so she focuses recruiting efforts on those schools. <i>(the observation leads to the conclusion)</i>
+
+5. A salesperson presents testimonials of current customers to suggest to prospective clients that her products are high quality and worth the purchase. <i>(the observation leads to the conclusion)</i>
+
+6. A defense attorney reviews the strategy employed by lawyers in similar cases and finds an approach consistently leading to acquittals. She applies this approach to her own case. <i>(the observation leads to the conclusion)</i>
+
+7. A production manager examines cases of injuries on the line and discerns many injuries occurred towards the end of long shifts. The manager proposes moving from 10-hour to 8-hour shifts based on this observation. <i>(the observation leads to the conclusion)</i>
+
+8. A bartender becomes aware customers give her higher tips when she shares personal information, so she intentionally starts to divulge personal information when it feels appropriate to do so. <i>(the observation leads to the conclusion)</i>
+
+9. An activities leader at an assisted living facility notices resident cheer up when young people visit. She decides to develop a volunteer initiative with a local high school, connecting students with residents who need cheering up. <i>(the observation leads to the conclusion)</i>
+
+10. A market researcher designs a focus group to assess consumer responses to new packaging for a snack product. She discovers that participants repeatedly gravitate towards a label stating “15 grams of protein.&#8221; The researcher recommends increasing the size and differentiating the color of the wording on the label. <i>(the observation leads to the conclusion)</i>
+
+In deductive thinking, the general conclusion holds; if the first statement is true, the second statement should be true; belief proves outcome. Some examples of what deductive reasoning appears below.
+
+<h4>Examples of Deductive Reasoning Skills</h4>
+
+<em>https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749</em>
+
+Here are some examples to enhance your understanding of deductive thinking. Read them over, and reflect on instances of deductive thinking in your own professional experience.
+
+1. A consumer products firm believes professional women are overloaded with family and work responsibilities and strapped for time. Therefore, they advertise their hair coloring product can be applied in less time than their competition&#8217;s hair coloring product. <em>(belief </em>proves outcome)
+
+2. Human Resources has identified public speaking skills as an important qualifier for a particular position. They decide to require candidates to make an oral presentation on a predetermined topic as a part of their second interview. <i>(belief proves outcome)</i>
+
+3. Management is committed to professional development for staff members and mandates a formal professional development plan into all performance reviews. <i>(belief proves outcome)</i>
+
+4. Development executives at a college believe professionals working in the financial sector are the best donors. So, they direct their two most effective staff members to target alumni working in finance when it comes time to plan their next fundraising strategy. <i>(belief proves outcome)</i><b></b>
+
+5. A liquor store owner identifies a trend customers are buying more bourbon than other types of alcohol. The store owner then allocates prime ad space to bourbon and offers related discounts. <i>(belief proves outcome)</i>
+
+6. A supermarket manager believes candy products are an impulse buy. He or she positions candy displays adjacent to store entry paths. <i>(belief proves outcome)</i>
+
+7. A detective believes robberies at banks are usually inside jobs planned by experienced thieves. Therefore, he or she does a criminal background check on employees with access to cash reserves. <i>(belief proves outcome)</i>
+
+8. A hospital believes patients recover quicker if they get more sleep. The hospital distributes eye masks and earplugs to patients and reduces lighting during the night. <i>(belief proves outcome)</i>
+
+9. Teachers in the science department agree their students learn better through hands-on activity.  Therefore, they increase laboratory activities when developing next year&#8217;s curriculum. <i>(belief proves outcome)</i>
+
+10. A food products company spots a trend that consumers favor organic products, so they increase the size of the lettering for the word &#8220;Organic&#8221; when redesigning their packaging. <i>(belief proves outcome)</i>
+
+The discussion of differing thinking styles also leads us to left vs. right brain thinking. It isn&#8217;t as simple as many of us were taught regarding handedness <em>(right handed &#8211; left brain; left handed &#8211; right brain). </em>The images below provide insight into how these differing functions work in our everyday life.
+
+<img src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg" alt="" width="175" height="300" srcset="https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-175x300.jpg 175w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-768x1320.jpg 768w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-596x1024.jpg 596w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited.jpg 1185w" sizes="(max-width: 175px) 100vw, 175px" />          <img src="http://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg" alt="" width="190" height="300" srcset="https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-190x300.jpg 190w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-768x1210.jpg 768w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2-650x1024.jpg 650w, https://create.twu.ca/ldrs501-su18/files/2018/03/brain-infographic_edited-2.jpg 1195w" sizes="(max-width: 190px) 100vw, 190px" />
+
+<strong>Image 1 &#038; 2:</strong><em> from Left and right brain—the surprising truth [INFOGRAPHIC] (edited) https://custom-writing.org/blog/wp-content/uploads/custom-writing.org/2017/03/brain-infographic.png</em>
+
+As you review the items listed in the Images above, they bring out important nuances to working with people who focus on left or right brain thinking. To continue effectively progressing with your team strategically, understanding these nuances in your teams thinking patterns and habit is important for all concerned.
+
+<h4>Post 4.2</h4>
+
+<h4>Unit Learning Outcomes</h4>
+
+Upon completion of post 4.2 learners will be able to:
+
+<ol><li>Understand the various and varying thinking and learning styles represented in teams they work with.</li></ol>
+
+<h4>Strategic Thinking</h4>
+
+<strong>Market Position Thinking &#038; Processes for Service Improvement</strong>
+
+<h4><em>Read and Respond Activities</em></h4>
+
+Follow the instructions below to help you gain understanding and interact with the material above.
+
+Create a new post on your blog and respond to the following questions (make sure that you maintain confidentiality, either by anonymizing your post or setting appropriate access controls to your post):
+
+<ol><li>Review this section and try to identify the differing thinkers, learners and thinking types in your present organization or an organization you worked with previously.</li><li>Make a list and determine how you might approach each of those people differently to show an understanding for the differing styles, learning and type they represent.</li><li>How might you change your interaction with these co-workers, leaders or those in subordinate roles in your present organization or an organization you worked with previously?</li></ol>
+
+<h4>Categories for this post:</h4>
+
+<ul><li>ldrs501</li><li>post 4.2</li></ul>
+
+<h3>References</h3>
+
+Baum, J. C., &#038; Lampel, J. (2010). The Globalization Of Strategy Research. Bingley, UK: Emerald Group Publishing Limited.
+
+Blanding, M. (2012). Strategic intelligence: adapt or die. <em>Working Knowledge.</em> Boston MA: Harvard. Retrieved from https://hbswk.hbs.edu/item/strategic-intelligence-adapt-or-die
+
+Complexity Labs. (September 8, 2016). Subjective Thinking. <em>Complexity Labs. </em>Barcelona: Complexity Labs. Retrieved from http://complexitylabs.io/subjective-thinking/
+
+Dalkir, K. (2016). Editorial: Why do organizations need to increase their strategic intelligence quotient (IQ)? <em>Information Science</em>.  45 (3). Brasilia BR: Brazilian Institute of Information in Science and Technology. Retrieved from http://revista.ibict.br/ciinf/article/viewFile/4065/3562
+
+Doyle, A. (updated January 23, 2018). Learn why employers value deductive reasoning, and how you can show it. New York: The Balance. Retrieved from https://www.thebalance.com/deductive-reasoning-definition-with-examples-2063749
+
+&#8212;&#8211; (updated September 22, 2017). <em>Inductive reasoning in the workplace.</em> New York: The Balance. Retrieved from https://www.thebalance.com/inductive-reasoning-definition-with-examples-2059683
+
+Fitzgerald, F. S. (Spring 1936). The crack up. <em>Esquire.</em> New York: Hearst.
+
+Galbraith, J. (1974). Organization design: an information processing view. <em>The Institute of Management Sciences.</em> Vol. 4, pp. 28-36. Catonsville MD: INFORMS.
+
+Gilakjani, A. P. (2012). Visual, auditory, kinaesthetic learning styles and<br />their impacts on English language teaching.  <em>Journal of Studies in Education</em>. 2(1). Macrothink Institute: Las Vegas, NV.
+
+Higson, P., and Sturgess, A. (1999). Intuition and Decision Making. <em>The Happy Manager.</em> London: Apex Leadership. Retrieved from http://the-happy-manager.com/articles/intuition-and-decision-making/
+
+Johnson, D., and Levin, S. (December 10, 2009). The tragedy of cognition: psychological biases and environmental inaction.  Current Science. 97(11). Bangalore, India: Current Science Association. Retrieved from http://dominicdpjohnson.com/publications/pdf/2009JohnsonLevinTheTragedyOfCognition.pdf
+
+Justice Institute of BC. (April 8, 2013). Subjective vs. objective. <em>School of Community and Social Justice.</em> Vancouver BC: Centre for Leadership. Retrieved from  http://www.jibc.ca/sites/default/files/community_social_justice/pdf/cl/Objective_vs._Subjective.pdf
+
+Kaufman, R. (2014). Characteristics of Useful and Practical Organizational Strategic Plans. <em>Educational Technology</em>, 54(1), 37-39. Retrieved from http://www.jstor.org/stable/44430235
+
+King, W. R. (March 1978). Strategic planning for management information systems. MIS Quarterly. Minneapolis MN: University of Minnesota. Retrieved from https://pdfs.semanticscholar.org/3e9d/c86eec51d0e3444be59f2887c384e2ff0258.pdf
+
+Llopis, G. (January 27, 2011). How distrust, indifference and lack of integrity will destroy your business. Forbes. Jersey City NJ: Forbes.com. Retrieved from https://www.forbes.com/sites/glennllopis/2011/01/17/how-distrust-indifference-and-lack-of-integrity-will-destroy-your-business/#2e50b7a36a42
+
+Milgram, J. (January 3, 2018). <em>Left and right brain—the surprising truth</em> [INFOGRAPHIC]. London: Custom Writing. Retrieved from https://custom-writing.org/blog/left-vs-right-brain
+
+OnStrategy. (2018). <em>About us.</em> Retrieved from https://onstrategyhq.com/about-us/
+
+Perkins, K. (2018). <em>The top 10 strategic planning best practices.</em> Reno NV: OnStrategy. Retrieved from https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/
+
+Project Implicit. (2018) <em>Implicit Association Test.</em> Boston MA: Harvard University. Retrieved from https://implicit.harvard.edu/implicit/Canada/
+
+<!--/themify_builder_static-->
