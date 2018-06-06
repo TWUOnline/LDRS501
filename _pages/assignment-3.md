@@ -64,7 +64,7 @@ The team lead _(or a team agreed designate_) will assign all materials related t
 
 The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 
-**THE team WILL:**
+**The Team Will:**
 
 1. Select an organization to review using a SWOT analysis. _(The organization can be fictional or actual that team members have awareness of.)_ In the case of an actual organization, the choice for naming the actual organization or the organization remaining  anonymous is solely at the discretion of the organization. If anonymous, reviewers need to ensure anonymity is protected throughout the assignment and the remainder of the course (including all published results).
 1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _(Wednesday)_

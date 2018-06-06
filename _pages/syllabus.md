@@ -183,7 +183,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>75
 
-<strong>Week 10 Final team Assignment 3 - Strategic Influence
+<strong>Week 10 Final Team Assignment 3 - Strategic Influence
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 10 - Day 5.

@@ -47,7 +47,7 @@ b. Using the material outlined in the ‘possible flow of a STRAT debriefing mee
 
 1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due date.
 
-**THE team WILL:**
+**The Team Will:**
 
 1) Connect as a team during Week 1 of LDRS 501. (Week 1)
 

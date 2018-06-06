@@ -37,7 +37,7 @@ the strategic influence you see the organization you interviewed developing.
 * Any other course materials to support your evaluation and development of your strategic influences within your organization.
 * Any other research materials you find to support your evaluation and development of your strategic influences within the organization you interviewed in team Assignment 2.
 5. _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
-6. _The team LEAD (or the team approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by Week 10 - Day 5 due date.
+6. _The Team LEAD (or the team approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by Week 10 - Day 5 due date.
 
 _**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.Substantive, Succinct and Cited._
 
