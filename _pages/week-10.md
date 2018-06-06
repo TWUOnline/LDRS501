@@ -1,6 +1,6 @@
 ---
 ID: 1953
-post_title: week-10
+post_title: Week 10
 author: datha
 post_excerpt: ""
 layout: page
@@ -19,13 +19,13 @@ The Assignment outline, along with a Learning Activity for the PressBooks materi
 
 <!--themify_builder_static--><h2>Strategic Influence and Completion<br/>Unit 10</h2>
  <p>In unit 10&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-10/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-10/">Overview</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-10/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-10/">Overview</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 10<!--/themify_builder_static-->

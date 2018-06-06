@@ -1,6 +1,6 @@
 ---
 ID: 1928
-post_title: week-7
+post_title: Week 7
 author: datha
 post_excerpt: ""
 layout: page
@@ -25,13 +25,13 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <!--themify_builder_static--><h2>Strategic Leadership TEAM Project<br/>Unit 7</h2>
  <p>In unit 7&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-7/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-7/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 7<!--/themify_builder_static-->

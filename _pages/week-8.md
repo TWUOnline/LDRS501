@@ -1,6 +1,6 @@
 ---
 ID: 1937
-post_title: week-8
+post_title: Week 8
 author: datha
 post_excerpt: ""
 layout: page
@@ -23,13 +23,13 @@ Following blog  instructions, you will find another list of 6 Learning outcomes
 
 <!--themify_builder_static--><h2>Competencies at Work<br/>Unit 8</h2>
  <p>In unit 8&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-8/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-8/">Overview</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-8/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-8/">Overview</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 8<!--/themify_builder_static-->

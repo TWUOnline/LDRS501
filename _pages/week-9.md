@@ -1,6 +1,6 @@
 ---
 ID: 1943
-post_title: week-9
+post_title: Week 9
 author: datha
 post_excerpt: ""
 layout: page
@@ -21,13 +21,13 @@ This section reviews the Assignment parameters for the Final Team Assignment due
 
 <!--themify_builder_static--><h2>Countdown to Completion<br/>Unit 9</h2>
  <p>In unit 9&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-8-2/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-8-2/">Overview</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-8-2/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-8-2/">Overview</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 9<!--/themify_builder_static-->

@@ -1,6 +1,6 @@
 ---
 ID: 1922
-post_title: week-6
+post_title: Week 6
 author: datha
 post_excerpt: ""
 layout: page
@@ -27,13 +27,13 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <!--themify_builder_static--><h2>Team Favour/Opposition<br/>Unit 6</h2>
  <p>In unit 6&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-6/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-6/">blog</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-6/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-6/">blog</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 6<!--/themify_builder_static-->
