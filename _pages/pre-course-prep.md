@@ -1,6 +1,6 @@
 ---
 ID: 1688
-post_title: Pre-Course Preparation
+post_title: zWeek 0
 author: Colin Madland
 post_excerpt: ""
 layout: page

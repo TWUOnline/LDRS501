@@ -1,6 +1,6 @@
 ---
 ID: 1681
-post_title: Home
+post_title: zSample home
 author: Colin Madland
 post_excerpt: ""
 layout: page

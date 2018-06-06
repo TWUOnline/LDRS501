@@ -28,13 +28,13 @@ Pressbooks is a self-publishing tool that we will be using to create content in 
 
 #### Week 0 Learning Activity References
 
-Aveyard, H., Woolliams, M., & Sharp, P. (2015). \_A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.\_ Maidenhead: McGraw-Hill Education.
+Aveyard, H., Woolliams, M., & Sharp, P. (2015). _A Beginner's Guide to Critical Thinking and Writing in Health and Social Care._ Maidenhead: McGraw-Hill Education.
 
 [Critical Thinking.](http://www.dictionary.com/browse/critical-thinking?s=t) (n.d.). In Dictionary.com
 
 [Critical Thinking.](http://www.dictionary.com/browse/critical-thinking) (n.d.). In Dictionary.com
 
-Goleman, D., Boyatzis, R. and McKee, A. (2015) _\[Primal leadership: learning to lead with emotional intelligence\](https://acarthustraining.com/documents/Primal\_Leadership-by\_Daniel_Goleman.pdf) summary._
+Goleman, D., Boyatzis, R. and McKee, A. (2015) _[Primal leadership: learning to lead with emotional intelligence](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf) summary._
 
 [Intellectual Responsibility](http://www.ifiseeu.com/Misc/intellectual-responsibility.htm) (2018) If-I-Seek-Us.
 
