@@ -31,7 +31,7 @@ Regardless of your process, you do need one, it must take into account the nuanc
 
 <i>  “The test of first-rate intelligence is the ability to hold two </i><i>opposed </i><i>ideas in the mind at the same time and still retain the ability to function.” -</i> F. Scott Fitzgerald (1936)
 
-<strong>Values, beliefs, traditions and symbols</strong>
+<strong>Values, Beliefs, Traditions and Symbols</strong>
 
 As we move to how values beliefs and symbols affect/effect strategy and the success of strategic goals within an organization, we need to be aware of how we view values on various topics. For this exercise, look at the exercise below. It asks you to sort, by importance to you, the educational values you think should be emphasized in public schools.
 <h4>Post 4.4</h4>

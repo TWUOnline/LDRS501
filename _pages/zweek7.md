@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-21 10:29:41
 ---
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Welcome to Week 7</span>
-
-you are now in your seventh week of course activity.
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">Welcome to Week 7</span> you are now in your seventh week of course activity.
 
 The outline for Week 7 links to the materials you need to review, develop and learn about Strategic Leadership.
 
@@ -25,7 +23,7 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 7.</span>
 
-<!--themify_builder_static--><h2>Strategic Leadership team Project<br />Unit 7</h2>
+<!--themify_builder_static--><h2>Strategic Leadership Team Project<br />Unit 7</h2>
  <p>In unit 7&#8230;</p>
 
  <a href="https://create.twu.ca/ldrs501-su18/unit-7/">

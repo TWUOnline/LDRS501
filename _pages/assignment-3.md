@@ -60,7 +60,7 @@ You can use a brainstorming or brain swarming approaches for reviewing the quest
 
 Each team must submit the results of a SWOT analysis for an organization in line with the requirements mentioned above. The analysis will use Lepsinger’s (2010) 6 Bridge Builders (pp. 25-203) and the questions contained in Hughes, Beatty and Dinwoodie (2014) - Exhibits 3.5, 3.6, 3.7 (pp. 130-133) and the AAR six step process outlined on p. 134; to determine the success or failure of the organization to apply the changes discovered by the team in the SWOT Process.
 
-The team LEAD _(or a team agreed designate_) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
+The team lead _(or a team agreed designate_) will assign all materials related to team reviews and is responsible for submitting the finalized material in the PressBooks environment for grading.
 
 The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 

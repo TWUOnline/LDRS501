@@ -88,7 +88,7 @@ An internal locus of control in Personal Leadership leads leader and organizatio
 
 With any focus on mastery of skills, mastery brings a sense of purpose and focus in fulfilling the responsibilities related to strategic outcomes. Some are empowered to the extent it appears they operate from a level akin to vision-like calling. The sense of purpose and focus outweighs any distractions or challenges they or the organization might face along the way. Mastery begets mastery and challenges are viewed as challenges to overcome, not obstacles to block progress.
 
-For the internally locussed person or organization, the current reality, no matter how challenging, is the ally not the enemy. The internal locos commits to seeing reality more and more accurately, with an inate inquisitiveness that seeks wisdom, insight, practical and practicable methods for completing the strategic plans and practices aimed at making what was envisioned into a reality, while providing a focus on the forces of change to move forward with.
+For the internally locussed person or organization, the current reality, no matter how challenging, is the ally not the enemy. The internal locos commits to seeing reality more and more accurately, with an innate inquisitiveness that seeks wisdom, insight, practical and practicable methods for completing the strategic plans and practices aimed at making what was envisioned into a reality, while providing a focus on the forces of change to move forward with.
 
 ##### Personal and Corporate Strategic Values
 

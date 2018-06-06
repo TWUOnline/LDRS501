@@ -17,14 +17,14 @@ post_date: 2018-02-23 01:07:23
 * Blog Posts in Week 3 are limited to the following posting pattern:
 * All posts will require substantive response* to ALL questions asked in the blog (One 6 part question for Week 3) in the following pattern.
 
-**Blog 2 – Week 3 - POST LEADERS**
+**Blog 2 – Week 3 - Post Leaders**
 
 * First blog posting is limited to the first team members from the cohort _(one [1] from each team represented in the learning cohort)_ who post a substantive response to the questions posed AFTER 6 am of Day 1 of Week 3.
 * First posters _(one [1] from each team represented in the learning cohort)_ become the post leaders for the week and must post their first response to the questions posed fully and completely by Monday 23:59:59 of Week 3.
 * Post leaders _(one [1] from each team represented in the learning cohort)_ will then post one substantive response* in responding to posts from other cohort members to their First Post to the blog for Thursday @ 23:59:59 of Week 3.
 * Post leaders will also post one substantive response* to one other Post leader's blog thread outside their own by Saturday midnight of Week 3.
 
-**Blog 2 – Week 3 - ALL OTHER POSTS FOR Week 3**
+**Blog 2 – Week 3 - All Other Posts FOR Week 3**
 
 * All other cohort posts for Week 3 will provide a substantive response* to 1 post leader and 2 other posts from cohort members (3 postings total) between Tuesday @ 23:59:59 and Saturday @ 23:59:59 of Week 3
 
@@ -48,7 +48,7 @@ post_date: 2018-02-23 01:07:23
 * Critically reflecting on an idea/concept.
 * Questioning or challenging a principle/perspective and giving reasons for your questioning
 
-Is **NOT**:
+Is **Not**:
 
 * Very basic comments such as “I agree” or “I disagree.”
 * Restating what has already been said (unless there is a direct purpose in doing so).

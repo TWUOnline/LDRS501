@@ -5,7 +5,7 @@
 
 ## COURSE LEARNING PLAN
 
-### SUMMER 2018 – 10 week delivery
+### Summer 2018 – 10 week delivery
 
 #### Instructor: Dr. D. L. \(Doug\) Atha
 

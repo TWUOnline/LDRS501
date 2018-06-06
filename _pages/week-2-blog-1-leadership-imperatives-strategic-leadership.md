@@ -42,7 +42,7 @@ Starter posts in Week 2 are limited to the following posting pattern:
  	<li>All posts will require a substantive response* to ALL questions asked in the question (Three [3] for Week 2]) in the following pattern.</li>
  	<li>First posting is limited to the first members of the cohort posting a substantive response to the questions posed AFTER 6 am Week 2 - Day 1. See the Week 2 Instructor Updates for further details.</li>
 </ul>
-<em><strong>Post 1 – Week 2 - POST LEADERS</strong></em>
+<em><strong>Post 1 – Week 2 - Post Leaders</strong></em>
 
 First posters become the post leaders for the week and must post their first response to the questions posed fully and completely by 23:59:59 of Week 2 - Day 1.
 <ul>

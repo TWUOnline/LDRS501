@@ -12,6 +12,7 @@ published: true
 post_date: 2018-02-23 01:07:23
 ---
 <h3>Week 1 Instruction and Learning Activities</h3>
+
 This week you will participate in the following learning activity below as part of your ongoing development in Strategic Leadership.
 
 Following the reading/instruction/direction contained in the learning activity adds to your proficiency in Strategic Leadership skill development, your knowledge base,  and assists in the completion of assignments. This is the same requirement for each Learning Activity in LDRS501.

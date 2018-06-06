@@ -12,7 +12,7 @@ post_date: 2018-04-21 16:06:24
 <h3>Week 4 Supplementary Reading</h3>
 Read the learning notes below for Week 4 of the course. Once you read the materials below complete the supplementary reading to gain understanding and interact with the related material for the Week 4 Strategic Leadership principles outlined.
 
-<strong>Best practice questions</strong>
+<strong>Best Practice Questions</strong>
 
 Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. OnStrategy is a strategic planning consulting organization who 'believe strategic planning is more than simply achieving business goals. It creates confidence in the future.' (https://onstrategyhq.com/about-us/)
 

@@ -18,7 +18,7 @@ Regardless the choices you make in any strategic approach you face uncertainty a
 
 If you want to engage strategically without uncertainty and change, then play video games. The outcome does not affect the lives of the people in your organization and any changes you don't like can be offset by turning the power off. Strategic planning and implementation requires risk. Strategic planning and implementation results in change. The challenge is using the resources around you to ensure both uncertainty and change are positive outcomes of the effort and energy expended.
 
-<strong>Strategic issue levels</strong>
+<strong>Strategic Issue Levels</strong>
 
 In the context of a Strengths, Weaknesses. Opportunities and Threat Analysis (SWOT), Opportunities and Threats represent the strategic issues facing the organization. Strengths and Weaknesses identify observable conclusions by the organization, whereas opportunities and threats identify the strategies related to addressing the realities this represents.
 

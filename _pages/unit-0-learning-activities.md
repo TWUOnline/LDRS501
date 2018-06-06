@@ -25,6 +25,7 @@ Upon completion of Learning Activity 0.3 learners will be able to:
 Pressbooks is a self-publishing tool that we will be using to create content in this course. For instructions on how to use Pressbooks click the link
 
 [Link to PressBooks instruction]
+
 #### Week 0 Learning Activity References
 
 Aveyard, H., Woolliams, M., & Sharp, P. (2015). \_A Beginner's Guide to Critical Thinking and Writing in Health and Social Care.\_ Maidenhead: McGraw-Hill Education.

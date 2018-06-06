@@ -13,7 +13,7 @@ post_date: 2018-02-23 01:07:23
 
 <h2>Reading Week Resources</h2>
 
-<em><strong>Reading Resources </strong></em>
+<em><strong>Reading Resources</strong></em>
 
 <ol>
     <li>20 Questions Directors Should Ask about Strategy, 3rd Edition Chartered Accountants of Canada. (http://hoacorp.ca/wp-content/uploads/2017/03/20q-strategy.pdf)</li>
@@ -42,7 +42,7 @@ Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for
 
 [Link to Week 3 Notes here]
 
-<h4>IMPLICATIONS AND CHALLENGES IN STRATEGIC LEADERSHIP</h4>
+<h4>Implications and Challenges in Strategic Leadership</h4>
 
 Read the learning notes below for Week 5 of the course. This is for reference only. No requirements for Assignments or inclusion with blog discussions, but the material will further your understanding of the activities a strategic leader finds themselves engaged in through their leadership activities and influence.
 
@@ -52,9 +52,9 @@ Read the learning notes below for Week 5 of the course. This is for reference on
 
 <strong>Principle:</strong> Hope for future
 
-Many are the plans in a man's heart, but it is the Lord's purpose that prevails. Proverbs 19: 21
+Many are the plans in a man's heart, but it is the Lord's purpose that prevails. Proverbs 19:21
 
-<em><strong>EMPOWERING PUBLIC CULTURE</strong></em>
+<em><strong>Empowering Public Culture</strong></em>
 
 When empowering public culture, there are several principles for ensuring success. The seminal work on the subject, <em>Inside the learning society</em> by Stewart Ranson (1998) outlines several principles important to the practice of empowering a learning society in the public culture. in general, there needs to be a resistance to organizational democratization. In other words, the life of free enterprise beyond government controls is a central tenet of the learning society. Reliance on governmental oversight to reign in organizations to fit within the democratized vision of a city, country or region will not help build effective response to ongoing learning and organizational vitality.
 

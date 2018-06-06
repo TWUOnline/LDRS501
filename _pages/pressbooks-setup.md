@@ -28,19 +28,19 @@ Initially, as you are working in cooperation with your colleagues in the course,
 
 This course-long assignment will require you to work cooperatively with your colleagues to create the content of the PressBooks resource. It will be an opportunity for you all to practice the servant leadership that you have studied so far in your program. A cooperative learning environment has several distinct characteristics (Johnson &amp; Johnson,2009):
 
-##### Positive interdependence
+##### Positive Interdependence
 Positive interdependence comes from a sense of having mutual goals, complementary roles, or access to different resources and personal experiences. Johnson and Johnson argue that it is not enough that people simply belong to and interact with a group, there must be a sense that any given individual's success is dependent upon the success of each other individual in the group. In short, I cannot succeed unless you succeed.
 
-##### Individual accountability and personal responsibility
+##### Individual Accountability and Personal Responsibility
 As a result of positive interdependence, a sense of personal responsibility to the group needs to exist. This tends to happen more readily when individual contributions are visible and can be assessed by the group and the instructor for quality compared to a specific standard. The sense of responsibility includes social pressure for individuals to complete their own work, and pressure on individuals to help their group mates to complete their work.
 
-##### Promotive interaction
+##### Promotive Interaction
 A further result of positive interdependence, and a key component of individual and group accountability is a willingness for group members to act in the best interests of the group by supporting and facilitating each others' work. This is in contrast with oppositional interaction where group members are in competition with each other and seek to block others' work.
 
-##### Appropriate use of social skills
+##### Appropriate use of Social Skills
 If groups are to be successful in learning or in any context, there must be at least a moderate level of social skills that are actively practiced and promoted. Johnson and Johnson specifically mention trust, communication, acceptance, and conflict resolution as key skills for cooperative groups.
 
-##### Group processing
+##### Group Processing
 Each group must also be able to metacognitively evaluate their process and interactions to be able to identify behaviours that led to both success and failure during the project and to make decisions as to how to improve for future efforts.
 
 

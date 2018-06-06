@@ -10,7 +10,7 @@ published: true
 post_date: 2018-03-12 14:54:43
 ---
 <h4>MA LEAD/MAEL Assignment Grading Rubric 2.0</h4>
-The following rubric represents the scale used for grading all submitted assignments for LDRS501.
+The following rubric represents the scale used for grading all submitted assignments for LDRS 501.
 
 [table id=2 /]
 

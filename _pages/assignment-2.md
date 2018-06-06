@@ -39,15 +39,13 @@ c. Score the results of the STRAT Assessment so the team can make sense of them.
 
 d. Review the results with the team.
 
-3.In Debriefing the exercise, outline your findings for the team.
-a. The team STRAT scoring:
+3.In debriefing the exercise, outline your findings for the team.
+a. The Team STRAT scoring:
 i. Average ratings only (p. 293)
 
 b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ (pp. 295-298) drawing on as many applicable sections of the process as are relevant for your team.
 
-1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due
-
-date.
+1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due date.
 
 **THE team WILL:**
 
