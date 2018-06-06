@@ -1,6 +1,6 @@
 ---
 ID: 1937
-post_title: zWeek8
+post_title: week-8
 author: datha
 post_excerpt: ""
 layout: page

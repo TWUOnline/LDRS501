@@ -1,6 +1,6 @@
 ---
 ID: 1922
-post_title: zWeek6
+post_title: week-6
 author: datha
 post_excerpt: ""
 layout: page

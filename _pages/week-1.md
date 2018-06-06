@@ -1,6 +1,6 @@
 ---
 ID: 1690
-post_title: zWeek 1
+post_title: week-1
 author: Colin Madland
 post_excerpt: ""
 layout: page

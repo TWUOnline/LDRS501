@@ -1,6 +1,6 @@
 ---
 ID: 1928
-post_title: zWeek7
+post_title: week-7
 author: datha
 post_excerpt: ""
 layout: page

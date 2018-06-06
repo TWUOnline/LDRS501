@@ -1,6 +1,6 @@
 ---
 ID: 1953
-post_title: zWeek10
+post_title: week-10
 author: datha
 post_excerpt: ""
 layout: page
