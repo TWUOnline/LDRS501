@@ -415,7 +415,7 @@ The team LEAD _\(or a team agreed designate_\) will assign all materials related
 
 The PressBooks material must include descriptive notes where the graphics do not explain the material fully and include clear referencing, citing all reference materials used in the exploration and conclusions for the materials covered.
 
-**THE team WILL:**
+**The Team Will:**
 
 1. Select an organization to review using a SWOT analysis. _\(The organization can be fictional or actual that team members have awareness of.\)_
    1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(May 16\)_
@@ -432,7 +432,7 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 **Week 10 – Strategic Influence Team Assignment 3 \(25%\)**
 
-**DUE DATE: July 6 @ 23:59 PST**
+**Due Date: July 6 @ 23:59 PST**
 
 Your final assignment is a final Team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
