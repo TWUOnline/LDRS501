@@ -15,33 +15,33 @@ In this section, you will find the outline for Week 3 and links to the materials
 
 This week introduces an understanding of Systems Thinking dynamics as it relates to Strategic Leadership and Peter Senge's Laws for Systems Thinking. you can follow the Link to Blog 2 (Strategic Leadership Teams) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &amp; Strategic Leadership ideas requested through Blog 2.
 
-You are free to use all the skills learned your orientation to the WordPress process for making your Blog come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your Blog as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as the unique leaders you are.
+You are free to use all the skills learned your orientation to the WordPress process for making your blog come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your blog as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as the unique leaders you are.
 
-Following the Blog  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the course along with this week's Blog instructions.
+Following the blog  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the course along with this week's blog instructions.
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 3.</span>
 
 <!--themify_builder_static--><h2>Strategic Leadership Teams<br/>Unit 3</h2>
- <p>Welcome to your third week of course activity.</p><p>In this section, you will find the outline for Week 3 and links to the materials needed to review, develop and learn more about Strategic Leadership.</p><p>This week introduces an understanding of Systems Thinking dynamics as it relates to Strategic Leadership and Peter Senge&#8217;s Laws for Systems Thinking. YOU can follow the Link to Blog 2 (Strategic Leadership Teams) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &#038; Strategic Leadership ideas requested through Blog 2.</p><p>You are free to use all the skills learned your orientation to the WordPress process for making your Blog come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your Blog as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as the unique leaders YOU are.</p><p>Following the Blog  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the course along with this week&#8217;s Blog instructions.</p><p>All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 &#8211; Week 3.</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-3/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3/">Overview</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/">Week 3 Learning Activity</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/" > 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/">Blog Post 3.1</a></h3> 
- 
- 
- Instructor Updates 
- 
+ <p>Welcome to your third week of course activity.</p><p>In this section, you will find the outline for Week 3 and links to the materials needed to review, develop and learn more about Strategic Leadership.</p><p>This week introduces an understanding of Systems Thinking dynamics as it relates to Strategic Leadership and Peter Senge&#8217;s Laws for Systems Thinking. YOU can follow the Link to Blog 2 (Strategic Leadership Teams) to interact with your fellow learners and develop an understanding around the Leadership Imperatives &#038; Strategic Leadership ideas requested through blog 2.</p><p>You are free to use all the skills learned your orientation to the WordPress process for making your blog come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the your blog as unforgettable as possible. It is what people will remember about what you say and set you apart from one another as the unique leaders YOU are.</p><p>Following the blog  instructions, you will find another Reading Overview related to the specific materials covered in the coming week of the course, followed by 6 Learning outcomes for the course along with this week&#8217;s blog instructions.</p><p>All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 &#8211; Week 3.</p>
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-3/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3/">Overview</a></h3>
+
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-3-learning-activities/">Week 3 Learning Activity</a></h3>
+
+
+ <a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/" >
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/week-3-post-3-1/">Blog Post 3.1</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 3<!--/themify_builder_static-->

@@ -24,11 +24,11 @@ post_date: 2018-02-23 01:07:23
 * Post leaders _(one [1] from each team represented in the learning cohort)_ will then post one substantive response* in responding to posts from other cohort members to their First Post to the blog for Thursday @ 23:59:59 of Week 3.
 * Post leaders will also post one substantive response* to one other Post leader's blog thread outside their own by Saturday midnight of Week 3.
 
-**Blog 2 – Week 3 - ALL OTHER POSTS FOR WEEK 3**
+**Blog 2 – Week 3 - ALL OTHER POSTS FOR Week 3**
 
 * All other cohort posts for Week 3 will provide a substantive response* to 1 post leader and 2 other posts from cohort members (3 postings total) between Tuesday @ 23:59:59 and Saturday @ 23:59:59 of Week 3
 
-### Substantive Responses and Participation ...
+### Substantive Responses and Participation...
 
 **Involves** the following:
 

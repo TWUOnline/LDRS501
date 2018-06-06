@@ -33,9 +33,9 @@ Learners will have the opportunity to develop of the following learning outcomes
 
 <h3>Assignment 4</h3>
 
-<h5>WEEK 10 – STRATEGIC INFLUENCE team ASSIGNMENT 3 (25%)</h5>
+<h5>Week 10 – Strategic Influence Team Assignment 3 (25%)</h5>
 
-<h5>DUE DATE: WEEK 10 - DAY 5 @ 23:59 PST</h5>
+<h5>Due Date: Week 10 - DAY 5 @ 23:59 PST</h5>
 
 [Link to Assignment 4]
 

@@ -61,7 +61,7 @@ For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 16
  	<li>All responses to Post Leaders will look to bring remedy or improve the practices outlined by the Post Leaders for questions 1 and 2 and respond to the additional bullet points for each question as well.</li>
 </ol>
 &nbsp;
-<h4>team ASSIGNMENT 2 - STRATEGIC LEADERSHIP team PROJECT (15%)</h4>
+<h4>Team Assignment 2 - Strategic Leadership Team Project (15%)</h4>
 <em><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></em>
 
 Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.

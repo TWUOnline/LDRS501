@@ -9,7 +9,7 @@
 
 #### Instructor: Dr. D. L. \(Doug\) Atha
 
-##### Pre Course READ Dates: _**April 16-30, 2018**_
+##### Pre Course Reading Dates: _**April 16-30, 2018**_
 
 ##### Course Start Date: _May 1, 2018_
 
@@ -21,11 +21,11 @@
 
 |  | Approach | Duration | Time of Year |
 | --- | --- | --- | --- |
-| X | ONLINE | 10 weeks online | Spring |
+| X | Online | 10 weeks online | Spring |
 
 This course in leadership is delivered as part of the following delivery
 
-| X | COMMON CORE | 3 credits |
+| X | Common Core | 3 credits |
 | --- | --- | --- |
 
 
@@ -71,7 +71,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | --- |
 
 
-|  |  |  | **Weekly COURSE SCHEDULE – LDRS 501 online** |
+|  |  |  | **Weekly Course Schedule – LDRS 501 Online** |
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
 | **Week 0  - April 30 - 23:59** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introduction Blog | Before course begins MAY |
@@ -84,7 +84,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | **Week 4 - May 21-27** | Learning Activity 4 | Book Development Instruction | Available** May 22, 2018** |
 | **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- Blog 3 | Due **MAY 27 @ 23:59** |
 | **Week 4 - May 21-27** | STRAT Assignment | team Assignment 1 | Due **MAY 27 @ 23:59** |
-| **READING WEEK – MAY 28-JUNE 3** ||| **Reading and Catch up on reading & Assignments** |
+| **Reading Week – May 28-JUNE 3** ||| **Reading and Catch up on reading & Assignments** |
 | **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to team Blog - Blog 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to team Blog - Blog 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- Blog 4 | Due **JUNE 10 @ 23:59** |
 | **Week 7 - June 11-17** | Learning Activity 6 | Book Development Instruction and Review | Available **June 11, 2018** |
@@ -113,7 +113,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | J. R. Galbraith | _**Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.**_ | All chapters\*\* - 4 chapters per week -  take notes for personal insight and      important application ideas |
 | R Lepsinger | _**Closing the Execution Gap**_ | All chapters\*\* - 2 chapters per week - take notes for personal insight and        important application ideas. |
 
-**\*NOTE:** Weekly reading material will appear in Blogged Discussion Question development throughout the course.
+**\*NOTE:** Weekly reading material will appear in blogged Discussion Question development throughout the course.
 
 **\*\*NOTE:** This schedule allows for pre-reading texts prior to the course start date of May 1, 2018 \(the start of LDRS 501\).This is a paced approach to the materials covered.
 
@@ -222,7 +222,7 @@ By the end of this LDRS 501 course, learners will be able to:
 | --- |
 
 
-**ASSIGNMENTS for LDRS 501A Strategic Leadership**
+**Assignments for LDRS 501A Strategic Leadership**
 
 |  |  |  | **Assignments** |
 | :--- | :--- | :--- | :--- |
@@ -240,17 +240,17 @@ By the end of this LDRS 501 course, learners will be able to:
 | **W10** | July 6 @ 23:59 PDT | PressBooks Environment | 25% |
 |  |  |  | 100% |
 
-#### FEEDBACK ON ASSIGNMENTS:
+#### Feedback on Assignments:
 
 #### **You may expect feedback on assignments in one week or less from the submission.**
 
-* **team ASSIGNMENT in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
-* **INDIVIDUAL ASSIGNMENTS in Week 1\(for addition to Open Source Book\) - Peer reviewed grading in effect.**
-* **PARTCIPATION in weekly DISCUSSION BlogS in W2, W3, W4, W6 \(team\), W7 and W8. - Instructor grading in effect.**
+* **Team Assignment in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
+* **Individual Assignments in Week 1\(for addition to Open Source Book\) - Peer reviewed grading in effect.**
+* **Participation in Weekly Discussion Blogs in W2, W3, W4, W6 \(team\), W7 and W8. - Instructor grading in effect.**
 
-#### GRADING:
+#### Grading:
 
-Your completed grades will be uploaded to the electronic Grade book in WordPress.You will receive individualized instructor feedback on team and individual Blog posts at the end of each Forum week.
+Your completed grades will be uploaded to the electronic Grade book in WordPress.You will receive individualized instructor feedback on team and individual blog posts at the end of each Forum week.
 
 **You will receive individual feedback on course assignments.**
 
@@ -258,15 +258,15 @@ Because this course involves interviews and interaction with real time organizat
 
 Assignments will be awarded after peer review and a preliminary grading recommendation by class members, using the MA Lead and MAEL Grading Rubric included in this LEARNING PLAN.
 
-LATE ASSIGNMENTS POLICY: As this course is designed to build strategic leadership application cumulatively, it will be very disruptive to have late assignments. Assignments will receive deductions of 15% per day for each day they are delayed.
+Late Assignments Policy: As this course is designed to build strategic leadership application cumulatively, it will be very disruptive to have late assignments. Assignments will receive deductions of 15% per day for each day they are delayed.
 
 ALL course work must be submitted for final grading within 3 days following the course end date without penalty. The instructor must submit grades to the Registrar within 10 days of the course end date.
 
 **Week 1**
 
-**ASSIGNMENT 1- PERSONAL STRATEGIC DEVELOPMENT ASSESSMENT \(10%\)**
+**Assignments 1- Personal Strategic Development Assignment \(10%\)**
 
-**PERSONAL STRATEGIC DEVELOPMENT**
+**Personal Strategic Development**
 
 **Submission Due: Sunday May 6 at 23:59 PDT**
 
@@ -308,7 +308,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
    * 1. Personal
      2. Professional
 5. Conclude the assignment:
-   1. Identify some ‘old economy’ thinking and practices you continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\) 
+   1. Identify some ‘old economy’ thinking and practices you continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
    2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
    3. Outline present strategic strengths you discovered and how you can align them to become a better strategic leader
 
@@ -318,11 +318,11 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
 
 \[link to PressBooks files for insertion of materials here\]
 
-**WEEK 4**
+**Week 4**
 
-**team ASSIGNMENT 1 – STRAT ASSIGNMENT \(15%\)**
+**Team Assignment 1 – STRAT Assignment \(15%\)**
 
-**STRAT team – Strategic Team Review and Action Tool**
+**STRAT Team – Strategic Team Review and Action Tool**
 
 **Submission Due: Sunday May 27 at 23:59 PDT**
 
@@ -330,7 +330,7 @@ This assignment is an applied learning experience using the STRAT _\(Strategic T
 
 As an adhoc team, placed together for the purposes of this course you will work together to determine your potential for strategic team effectiveness.
 
-Using Appendix B, C and D inRichard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 285-302\):
+Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 285-302\):
 
 1. Complete the STRAT survey in Appendix B of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader. _ Jossey-Bass. Second Edition. \(pp. 285-289\)  
        a. Where the instruction states to respond to the questions as they apply to the strategic leadership team you are part  
@@ -373,11 +373,11 @@ date.
 
 \[link to PressBooks files for insertion of materials here\]
 
-**WEEK 7 – team ASSIGNMENT 2**
+**Week 7 – Team Assignment 2**
 
-**STRATEGIC LEADERSHIP team PROJECT \(15%\)**
+**Strategic Leadership Team Project \(15%\)**
 
-**STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
+**Strategic Directions – Sustain, Delete, Rethink and Add-Innovate**
 
 **Team submissions Due Sunday June 17 at 23:59 PST**
 
@@ -389,7 +389,7 @@ SWOT Analysis however, is in declining use as are **Brain storming** processes \
 
 Review of these principles allows learners to gain experience with methodologies critical in developing an effective strategic leadership toolkit.
 
-A newer process of ** Brain Swarming ** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking. \(see [https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)\)
+A newer process of **Brain Swarming** focuses attention on a Sustain, Delete, Rethink, Add, Innovate process based on a shift of thinking process included in ** Brain Swarming ** and represents a different approach to the discipline of strategic thinking. \(see [https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work](https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)\)
 
 Brain swarming rejects gathering everyone in a room to force a solution in an environment not necessarily suitable for everyone. While **Brain Storming** is the practice of sharing ideas while withholding judgment, **Brain Swarming** asks:
 
@@ -430,11 +430,11 @@ The PressBooks material must include descriptive notes where the graphics do not
 
 \[link to PressBooks files for insertion of materials here\]
 
-**WEEK 10 – STRATEGIC INFLUENCE team ASSIGNMENT 3 \(25%\)**
+**Week 10 – Strategic Influence Team Assignment 3 \(25%\)**
 
 **DUE DATE: July 6 @ 23:59 PST**
 
-Your FINAL ASSIGNMENT is a FINAL team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
+Your final assignment is a final Team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
 1. Looking at the organization your team interviewed in team Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
 2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
@@ -451,7 +451,7 @@ Your FINAL ASSIGNMENT is a FINAL team Assignment shaped by the course material a
    strategic influence you see the organization developing.
    * If none of the designs listed in Galbraith fit the organization’s future, following the implementation of  
      the strategic influence you see the organization you interviewed developing.
-     * State why the described designs do not fit and describe your vision of the organization’s future in 
+     * State why the described designs do not fit and describe your vision of the organization’s future in
        terms of another suggested design for operating.
    * Feel free to create a workable hybrid you can add to suggestions for the organization you interviewed in team Assignment 2.
 4. You may use any available documentation you can access about your organization to obtain the needed information for the assignment.  
@@ -467,13 +467,13 @@ _**NOTE:** If you have any challenges with the PressBooks environment in complet
 
 \[link to PressBooks files for insertion of materials here\]
 
-**ONLINE FORUMS - LDRS 501 = 35% of final course grade**
+**Online Forums - LDRS 501 = 35% of final course grade**
 
 Online Forum Discussions will be used in the following weeks and blocks of LDRS 501.
 
 | Assignment | Post | % of Grade |
 | --- | --- | --- |
-| INTRODUCTORY Blog | LEARNER INTRODUCTION Blog | 5% |
+| Introductory Blog | Learner Introduction Blog | 5% |
 | W2 Blog | Blog 1 | 5% |
 | W3 Blog | Blog 2 | 5% |
 | W4 Blog | Blog 3 | 5% |
@@ -481,11 +481,11 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 | W7 Blog | Blog 5 | 5% |
 | W8 Blog | Blog 6 | 5% |
 
-**DQ Learner participation is assessed as follows in all Blog Posts for 5% of grade \(per week\):**
+**DQ Learner participation is assessed as follows in all blog posts for 5% of grade \(per week\):**
 
-|  |  |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
+|  |  |  | **MARK= /5** | **Online Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Performance** | **BELOW** | **Acceptable** | **Well Developed** | **ABOVE** |
+| **Performance** | **Below** | **Acceptable** | **Well Developed** | **Above** |
 | **Marks** | **2.5 or less** | **3.0- 3.5** | **4.0- 4.5** | **5** |
 | **Quality of starter & summary posts** | Less than required number of postings. The quality of work does not show critical thinking or analysis | Postings reflect the reading but do not show outside sources. The post shows some critical thinking | Postings reflect the reading but do show outside sources. The post shows strong critical thinking and use of evidence | Postings reflect the readings well and outside information with proper outside source material citation. The post shows stellar understanding and application |
 | **Quality of threaded discussion reply ** | Does not further the discussions topic or move the discussion forward | Participates, but does not show higher ordered thinking. Limited use of evidence | Strong posts that does show significant higher ordered thinking and effective use of evidence | Response relevant to posting and supports position with factual information. The post shows excellent understanding and application. |
@@ -535,7 +535,7 @@ In an effort to ensure consistency in the MA Lead/MAEL assignment of grades and 
 
 Writing Guidelines- LDRS 501A
 
-SUBJECT LINES AND HEADINGS FOR FORUM POSTS
+Subject lines and headings for forum posts
 
 **The subject lines should be provided clearly**
 
@@ -606,4 +606,3 @@ All MA Lead and MAEL program staff and faculty are required to abide by Canadian
 Prepared by D. L. Atha – January 30, 2018
 
 Updated – February 27, 2018
-

@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-#### **WEEK 3 through 7 – team ASSIGNMENT 2**
+#### **Week 3 through 7 – Team Assignments 2**
 
-#### **STRATEGIC LEADERSHIP team PROJECT (15%)**
+#### **Strategic Leadership Team Project (15%)**
 
-##### **STRATEGIC DIRECTIONS – Sustain, Delete, Rethink and Add-Innovate**
+##### **Strategic Directions – Sustain, Delete, Rethink and Add-Innovate**
 
 ##### **Submission is due Day 7 of Week 7 at 23:59 PST**
 

@@ -15,9 +15,9 @@ you are now in your seventh week of course activity.
 
 The outline for Week 7 links to the materials you need to review, develop and learn about Strategic Leadership.
 
-Our week starts with an opportunity to consider the topic of Conflict and Cooperation in our Blog Forum and a return to individual Blogging, in addition to the completion of team Assignment 2.
+Our week starts with an opportunity to consider the topic of Conflict and Cooperation in our Blog Forum and a return to individual blogging, in addition to the completion of team Assignment 2.
 
-Following the Blog  instructions, you will find further review of 6 Learning outcomes, Blog and Assignment direction for completion of team Assignment 2.
+Following the blog  instructions, you will find further review of 6 Learning outcomes, Blog and Assignment direction for completion of team Assignment 2.
 
 Finally, the section outlines a Learning Activity for the week related to navigating the PressBooks environment.
 
@@ -27,13 +27,13 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <!--themify_builder_static--><h2>Strategic Leadership team Project<br />Unit 7</h2>
  <p>In unit 7&#8230;</p>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-7/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3> 
- 
- 
- Instructor Updates 
- 
+
+ <a href="https://create.twu.ca/ldrs501-su18/unit-7/">
+
+ </a>
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3>
+
+
+ Instructor Updates
+
  Student Posts for Unit 7<!--/themify_builder_static-->

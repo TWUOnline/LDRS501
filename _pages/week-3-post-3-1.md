@@ -33,7 +33,7 @@ Using the Formal Groups section of Galbraith’s Designing Organizations text, i
 
 NOTE:
 
-1. ALL Blogs start with post leaders (see posting instructions).
+1. ALL blogs start with post leaders (see posting instructions).
 2. ALL posts (leaders and responders) must answer substantively, succinctly and cited.
 3. ALL posts must be started and completed in the time frames provided in posting instructions.
 

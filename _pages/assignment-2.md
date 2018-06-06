@@ -11,11 +11,11 @@ post_date: 2018-02-23 01:07:23
 ---
 # Assignment 2
 
-**WEEK 4**
+**Week 4**
 
-**team ASSIGNMENT 1 – STRAT ASSIGNMENT (15%)**
+**Team Assignment 1 – STRAT Assignment (15%)**
 
-**STRAT team – Strategic Team Review and Action Tool**
+**STRAT Team – Strategic Team Review and Action Tool**
 
 **Submission Due: Week 4 - Day 7 at 23:59 PDT**
 

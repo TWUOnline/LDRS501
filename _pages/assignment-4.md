@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-##### **WEEK 10 – STRATEGIC INFLUENCE team ASSIGNMENT 3 (25%)**
+##### **Week 10 – Strategic Influence Team Assignment 3 (25%)**
 
-##### **DUE DATE: WEEK 10 - DAY 5 @ 23:59 PST**
+##### **Due Date: Week 10 - DAY 5 @ 23:59 PST**
 
-Your FINAL ASSIGNMENT is a FINAL team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
+Your final assignment is a FINAL Team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
 1. Looking at the organization your team interviewed in team Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
 2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 145-195), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions:

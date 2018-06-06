@@ -49,7 +49,7 @@ First posters become the post leaders for the week and must post their first res
  	<li>Post leaders will then post one substantive response* in responding to posts from other cohort members to their First Post to the question for Week 2 by Thursday @ 23:59:59 of Week 2.</li>
  	<li>Post leaders will also post one substantive response* to one other Post leader thread outside their own by the end of the day on Saturday of Week 2.</li>
 </ul>
-<em><strong>Post 1 – Week 2 - ALL OTHER POSTS FOR WEEK 2</strong></em>
+<em><strong>Post 1 – Week 2 - All Other Posts For Week 2</strong></em>
 
 All other cohort posts for Week 2 will provide a substantive response* to 1 post leader and 2 other posts from cohort members (3 postings total) between Week 2 - Day 2 @ 23:59:59 and Week 2 Day 6 @ 23:59:59.
 

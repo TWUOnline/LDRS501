@@ -40,7 +40,7 @@ post_date: 2018-04-03 10:17:33
 
 <strong>Place:</strong> <strong> Online</strong>
 
-<strong>COURSE LEARNING OBJECTIVES</strong>
+<strong>Course Learning Objectives</strong>
 
 By the end of LDRS 501, learners will be able to:
 <ol>
@@ -51,7 +51,7 @@ By the end of LDRS 501, learners will be able to:
  	<li><strong>Develop the necessary skills for systemic and systematic inquiry</strong> of strategic leadership issues related to your personal leadership development.</li>
  	<li><strong>Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.</li>
 </ol>
-<strong>REQUIRED TEXT(S):</strong>
+<strong>Required Text(S):</strong>
 
 Galbraith, J. R. (2014) <em>Designing Organizations: strategy, structure, and process at the business unit and enterprise levels.</em> San Francisco: Jossey-Bass. ISBN: 978-1-118-40995-4
 
@@ -65,7 +65,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>E Resources</strong> - This course will include electronic reading resources accessed from the internet. These readings will be clearly listed in the Reading Resources for the course.
 
-<strong>COURSE ACTIVITY REQUIREMENTS/OUTLINE/DETERMINATION OF FINAL SEMESTER GRADE:</strong>
+<strong>Course Activity Requirements/Outline/Determination of Final Semester Grade:</strong>
 
 <strong>Assignments: </strong>
 
@@ -128,7 +128,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>30
 
-<strong><span style="text-decoration: underline">Week 4 team Assignment 1 - Strategic team Development</span>
+<strong><span style="text-decoration: underline">Week 4 Team Assignment 1 - Strategic Team Development</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 4 - Day 7.
@@ -198,9 +198,8 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. TWU has a strict policy on plagiarism (see academic calendar). Learning what constitutes plagiarism and avoiding it is the student's responsibility. Two resources describing plagiarism and how to avoid it have been prepared by TWU Librarian William Badke and are freely available for viewing at the URLs below:
 
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentati
-
-on)http://bit.ly/1p00KX3   (Google Slide presentation offering more comprehensive information)
+https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
+http://bit.ly/1p00KX3   (Google Slide presentation offering more comprehensive information)
 
 <strong>ATTENDANCE POLICY</strong>
 
@@ -306,11 +305,11 @@ Unacceptable work at graduate level. Shows lack of understanding and/or competen
 
 <strong>WP/WF = Withdrew passing/Withdrew failing.</strong> These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
 
-<strong>LATE ASSIGNMENTS POLICY</strong>
+<strong>Late Assignment Policy</strong>
 
 Assignments are due by midnight Pacific Time (PDT/PST) in the appropriate assignment folder in the online classroom on the day they are due (preferably as Word documents). Once I grade your assignment, I will put it in your grade book in the online classroom where you can check your grade and review the comments made on the assignment. There is a 10% deduction per day an assignment is late. The only exception is an approved extension confirmed at least 5 days prior to the assignment due date. Extensions are granted on a case by case basis and without penalty. There will be no extensions on Discussion Question due dates. Rewritten/Resubmitted assignments, will receive a 20% of the assignment’s value before assigning a grade to the rewritten assignment
 
-<strong>STUDENTS WITH DISABILITIES</strong>
+<strong>Students with Disabilities</strong>
 
 "Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU…All disabilities must be recently documented by an appropriately certified professional…Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of [the 2009-10 Academic] Calendar." P.40, 2009-10 Academic Calendar.
 

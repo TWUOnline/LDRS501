@@ -74,9 +74,9 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 [Link to Blog 1]
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Blog 1 - WEEK 2 Posting structures]</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Blog 1 - Week2 Posting structures]</span>
 
-[Link to MA LEAD LEADERSHIP MONOGRAPH 2018]
+[Link to MA LEAD Leadership Monograph 2018]
 <h4>LDRS 501 – Blog 1 Rubric (5%) - Example.</h4>
 [Link to Blog Rubric Example]
 
