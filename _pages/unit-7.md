@@ -13,14 +13,14 @@ post_date: 2018-02-23 01:07:23
 ---
 <h2>Strategic Leadership team Project</h2>
 <h4>This week</h4>
-This week introduces you to the topic of Conflict and Cooperation in our BLOG Forum &amp; the completion of your Strategic Applications Team Assignment.
+This week introduces you to the topic of Conflict and Cooperation in our Blog Forum &amp; the completion of your Strategic Applications Team Assignment.
 
 This is another opportunity to interact in real time responses as we discuss how conflict and cooperation demonstrate a delicate balance in life and for developing organizational strategies. A poorly framed idea here, a flippant response to someone on the wrong day or wrong time and all cooperation and good will disappears quickly. Cooperation can help corporate strategies soar and achieve projections at unparalleled levels, while conflict can destroy any momentum an organization hopes to accomplish.
 
 Your experience with cooperation and conflict may mirror the descriptions above. Seeing teams cooperate and make great strides in fulfilling corporate strategy and enhance mission, vision and values objectives and practice is exhilarating; making the environment enjoyable and the workplace somewhere you look forward to being. Conflict however, can do the opposite.
 Even the smallest unresolved conflict in the workplace can bring all the momentum built by the team or organization to a grinding halt. Corporate strategy fizzles, mission, vision and values shift from practice to theory, with little passion for fulfillment as conflict drains energy, hope and desire for fulfilling any of the real goals envisioned.
 
-You all have declared mission, vision and values focus for the organizations you work for. It may be practiced or simply posted on a wall or filed for future reference. You also have experienced conflict and its consequences within the organization as well. This is your week to wrestle through the implications in a BLOG format discussion to find solutions within the discussions for your organization or situations you may face in the future.
+You all have declared mission, vision and values focus for the organizations you work for. It may be practiced or simply posted on a wall or filed for future reference. You also have experienced conflict and its consequences within the organization as well. This is your week to wrestle through the implications in blog format discussion to find solutions within the discussions for your organization or situations you may face in the future.
 
 The team Assignment focuses on Strategic Direction gleaned from your interviews, SWOT, processes used following those events and placing the material developed into the PressBooks environment. It is the culmination of all your team work to date and provides the basis for new research done through your work with outside organizations, or fictional. This is the section where the book we are developing takes the most shape and introduced the most original research.
 <h2>Outcomes</h2>

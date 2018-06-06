@@ -61,7 +61,7 @@ Versatile leadership allows us to navigate the many challenges attached to the s
 
 The chart below allows for a snapshot of you versatility as it relates to Strategic leadership. Look at the chart and answer the questions below to help you gain a present snapshot of <span style="text-decoration: underline">your</span> present versatility practice.
 
-_(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
+_(Record your answer somewhere you can access it for future reference in Assignments and Blog material for this course)_
 
 #### Leadership Versatility Chart
 
@@ -117,7 +117,7 @@ This section of activities focuses on learning what it means to be a good leader
 Follow the reading/instruction/direction contained in each Learning Activity to add to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
 # Learning Activity 1.1 Exploring the Theory &amp; Practice of Leadership
 
-After you've completed reading and responding to the material above, take the time to answer the following question. _(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
+After you've completed reading and responding to the material above, take the time to answer the following question. _(Record your answer somewhere you can access it for future reference in Assignments and Blog material for this course)_
 
 #### What attitudes, attributes and actions do you believe make a good leader?
 
@@ -125,7 +125,7 @@ Once you complete your answer to the question above,
 
 Read: Goleman (summary)- [“Primal Leadership: Learning to Lead with Emotional Intelligence"](https://acarthustraining.com/documents/Primal_Leadership-by_Daniel_Goleman.pdf)
 
-After you complete reading the Goleman summary, answer the questions below to deepen your understanding of the leadership principles contained in his summary. _(Record your answer somewhere you can access it for future reference in Assignments and BLOG material for this course)_
+After you complete reading the Goleman summary, answer the questions below to deepen your understanding of the leadership principles contained in his summary. _(Record your answer somewhere you can access it for future reference in Assignments and Blog material for this course)_
 
 * What did you like about the summary? Why?
 * What didn’t you like about it? Why?

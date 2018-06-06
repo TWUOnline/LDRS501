@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: 'Week 3 &#8211; BLOG 2 Posting Structures'
+post_title: 'Week 3 &#8211; Blog 2 Posting Structures'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -13,18 +13,18 @@ post_date: 2018-02-23 01:07:23
 
 **<span style="float: none;background-color: transparent;color: #333333;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;line-height: 22.4px;text-align: left;text-decoration: none;text-indent: 0px">Week 3 - <span>B</span></span>LOG 2 – ** The posting pattern for online discussion will use a compacted online posting pattern:
 
-* BLOG Posts are limited to a three post maximum per DQ Discussion Week.
-* BLOG Posts in Week 3 are limited to the following posting pattern:
-* All posts will require substantive response* to ALL questions asked in the BLOG (One 6 part question for Week 3) in the following pattern.
+* Blog Posts are limited to a three post maximum per DQ Discussion Week.
+* Blog Posts in Week 3 are limited to the following posting pattern:
+* All posts will require substantive response* to ALL questions asked in the blog (One 6 part question for Week 3) in the following pattern.
 
-**BLOG 2 – Week 3 - POST LEADERS**
+**Blog 2 – Week 3 - POST LEADERS**
 
-* First BLOG posting is limited to the first team members from the cohort _(one [1] from each team represented in the learning cohort)_ who post a substantive response to the questions posed AFTER 6 am of Day 1 of Week 3.
+* First blog posting is limited to the first team members from the cohort _(one [1] from each team represented in the learning cohort)_ who post a substantive response to the questions posed AFTER 6 am of Day 1 of Week 3.
 * First posters _(one [1] from each team represented in the learning cohort)_ become the post leaders for the week and must post their first response to the questions posed fully and completely by Monday 23:59:59 of Week 3.
-* Post leaders _(one [1] from each team represented in the learning cohort)_ will then post one substantive response* in responding to posts from other cohort members to their First Post to the BLOG for Thursday @ 23:59:59 of Week 3.
-* Post leaders will also post one substantive response* to one other Post leader's BLOG thread outside their own by Saturday midnight of Week 3.
+* Post leaders _(one [1] from each team represented in the learning cohort)_ will then post one substantive response* in responding to posts from other cohort members to their First Post to the blog for Thursday @ 23:59:59 of Week 3.
+* Post leaders will also post one substantive response* to one other Post leader's blog thread outside their own by Saturday midnight of Week 3.
 
-**BLOG 2 – Week 3 - ALL OTHER POSTS FOR WEEK 3**
+**Blog 2 – Week 3 - ALL OTHER POSTS FOR WEEK 3**
 
 * All other cohort posts for Week 3 will provide a substantive response* to 1 post leader and 2 other posts from cohort members (3 postings total) between Tuesday @ 23:59:59 and Saturday @ 23:59:59 of Week 3
 

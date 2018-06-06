@@ -24,9 +24,9 @@ The Appreciative Inquiry concepts are an important framework for Strategic Leade
 
 The PressBooks material follows previous outlines for developing proficiency with the material. (add new information below with an overview here)
 
-[Link to BLOG 1]
+[Link to Blog 1]
 
-[Link to BLOG 1 rubric]
+[Link to Blog 1 rubric]
 
 [Link to PressBooks instruction here]
 
@@ -70,15 +70,15 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 #### Week 2 Assignments
 
-**Assignment:** BLOG 1 - due Day 1-6 of Week 2 - Post in BLOG 1 Discussion Thread - _**5%**_.
+**Assignment:** Blog 1 - due Day 1-6 of Week 2 - Post in Blog 1 Discussion Thread - _**5%**_.
 
-[Link to BLOG 1]
+[Link to Blog 1]
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to BLOG 1 - WEEK 2 Posting structures]</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">[Link to Blog 1 - WEEK 2 Posting structures]</span>
 
 [Link to MA LEAD LEADERSHIP MONOGRAPH 2018]
-<h4>LDRS 501 – BLOG 1 Rubric (5%) - Example.</h4>
-[Link to BLOG Rubric Example]
+<h4>LDRS 501 – Blog 1 Rubric (5%) - Example.</h4>
+[Link to Blog Rubric Example]
 
 #### Unit 3 Learning Activities
 <h4>Learning Activity 2.1</h4>

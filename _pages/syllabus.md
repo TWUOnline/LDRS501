@@ -69,17 +69,17 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Assignments: </strong>
 
-<strong>BLOGS = </strong>30% of final grade- Intro, W2, W3, W4, W5, W8;
+<strong>Blogs = </strong>30% of final grade- Intro, W2, W3, W4, W5, W8;
 
 <strong>Individual Assignments = </strong>10% of final grade - W1
 
 <strong>Team Assignments = </strong>55% of final grade – W4, W7, W10
 
-<span style="text-decoration: underline"><strong>Introductory BLOG</strong></span>
+<span style="text-decoration: underline"><strong>Introductory Blog</strong></span>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 1 - Day 1
 
-<strong>Post Location: </strong>Learner Introduction BLOG
+<strong>Post Location: </strong>Learner Introduction Blog
 
 <strong>% of Grade:</strong> 5%
 
@@ -95,34 +95,34 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>15
 
-<strong><span style="text-decoration: underline">Week 2 - BLOG 1</span>
+<strong><span style="text-decoration: underline">Week 2 - Blog 1</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 2 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 1
+<strong>Post Location: </strong>Blog 1
 
 <strong>% of Grade:</strong> 5%
 
 <strong>Course Completion %: </strong>20
 
-<strong><span style="text-decoration: underline">Week 3 - BLOG 2</span>
+<strong><span style="text-decoration: underline">Week 3 - Blog 2</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 3 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 2
+<strong>Post Location: </strong>Blog 2
 
 <strong>% of Grade:</strong> 5%
 
 <strong>Course Completion %: </strong>25
 
-<strong><span style="text-decoration: underline">Week 4 - BLOG 3</span>
+<strong><span style="text-decoration: underline">Week 4 - Blog 3</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 4 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 3
+<strong>Post Location: </strong>Blog 3
 
 <strong>% of Grade:</strong> 5%
 
@@ -139,34 +139,34 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
 
 <strong>Course Completion %: </strong>45
 
-<strong><span style="text-decoration: underline">Week 6 - BLOG 4</span>
+<strong><span style="text-decoration: underline">Week 6 - Blog 4</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 6 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 4
+<strong>Post Location: </strong>Blog 4
 
 <strong>% of Grade:</strong> 5%
 
 <strong>Course Completion %: </strong>50
 
-<strong><span style="text-decoration: underline">Week 7 - BLOG 5</span>
+<strong><span style="text-decoration: underline">Week 7 - Blog 5</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 7 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 5
+<strong>Post Location: </strong>Blog 5
 
 <strong>% of Grade:</strong> 5%
 
 <strong>Course Completion %: </strong>55
 
-<strong><span style="text-decoration: underline">Week 8 - BLOG 6</span>
+<strong><span style="text-decoration: underline">Week 8 - Blog 6</span>
 </strong>
 
 <strong>Due Date:</strong> 23:59 PDT - Week 8 - Day 7. See Instructions for Posting Order
 
-<strong>Post Location: </strong>BLOG 4
+<strong>Post Location: </strong>Blog 4
 
 <strong>% of Grade:</strong> 5%
 

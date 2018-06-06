@@ -13,9 +13,9 @@ post_date: 2018-05-21 10:36:27
 
 In this section you will find the outline for Week 8, links to the materials needed for review, development and learning about Strategic Leadership.
 
-Our week starts with addressing, identifying and incorporating Strategic Leadership competencies in your BLOG Forum.
+Our week starts with addressing, identifying and incorporating Strategic Leadership competencies in your Blog Forum.
 
-Following BLOG  instructions, you will find another list of 6 Learning outcomes for review, BLOG direction and a final section outlining a Learning Activity for the week related to navigating the PressBooks environment.
+Following Blog  instructions, you will find another list of 6 Learning outcomes for review, Blog direction and a final section outlining a Learning Activity for the week related to navigating the PressBooks environment.
 
 <strong>NOTE:</strong> Learning Activities in Weeks 8 through 10 relate specifically to navigating the PressBooks material so we can complete the Open Source Discoveries Book together.
 

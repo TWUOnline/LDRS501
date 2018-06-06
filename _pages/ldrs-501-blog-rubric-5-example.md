@@ -1,6 +1,6 @@
 ---
 ID: 637
-post_title: 'LDRS 501 – BLOG Grading Rubric (5%)'
+post_title: 'LDRS 501 – Blog Grading Rubric (5%)'
 author: datha
 post_excerpt: ""
 layout: page

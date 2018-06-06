@@ -25,7 +25,7 @@ Systems Thinking is an important part of Strategic Leadership development. Addre
 
 The PressBooks material follows previous outlines for developing proficiency with the material. * More PressBooks instruction to prepare you further for the team elements of the book preparation process.(add new information below with an overview here)
 
-[Link to BLOG 2]
+[Link to Blog 2]
 
 [Link to PressBooks instruction here]
 
@@ -57,7 +57,7 @@ Learners will have the opportunity to continue developing the following learning
 
 #### Week 3 Assignments
 
-**Assignment:** BLOG 2 - **Day 1-6 of Week 3** - Post in BLOG 2 Discussion Thread -_**5%**_.
+**Assignment:** Blog 2 - **Day 1-6 of Week 3** - Post in Blog 2 Discussion Thread -_**5%**_.
 
 &nbsp;
 

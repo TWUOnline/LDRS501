@@ -15,9 +15,9 @@ you are now in your seventh week of course activity.
 
 The outline for Week 7 links to the materials you need to review, develop and learn about Strategic Leadership.
 
-Our week starts with an opportunity to consider the topic of Conflict and Cooperation in our BLOG Forum and a return to individual BLOGging, in addition to the completion of team Assignment 2.
+Our week starts with an opportunity to consider the topic of Conflict and Cooperation in our Blog Forum and a return to individual Blogging, in addition to the completion of team Assignment 2.
 
-Following the BLOG  instructions, you will find further review of 6 Learning outcomes, BLOG and Assignment direction for completion of team Assignment 2.
+Following the Blog  instructions, you will find further review of 6 Learning outcomes, Blog and Assignment direction for completion of team Assignment 2.
 
 Finally, the section outlines a Learning Activity for the week related to navigating the PressBooks environment.
 

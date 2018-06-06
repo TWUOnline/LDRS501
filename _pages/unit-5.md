@@ -32,7 +32,7 @@ post_date: 2018-02-23 01:07:23
 
 <em><strong>The Wave of Change Graphic</strong></em>
 
-One way at looking at the change process. This is for reference only. No requirements for Assignments or inclusion with BLOG discussions.
+One way at looking at the change process. This is for reference only. No requirements for Assignments or inclusion with blog discussions.
 
 <img class="alignnone size-medium wp-image-407" src="http://create.twu.ca/ldrs501-su18/files/2018/03/The-Wave-of-Change-300x232.png" alt="" width="300" height="232" />     <img class="alignnone size-medium wp-image-406" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Surfing-the-Wave-of-Change-300x231.png" alt="" width="300" height="231" />
 
@@ -44,7 +44,7 @@ Please see Week 3 Notes for SWOT, Brainstorming and Brain Swarming Resources for
 
 <h4>IMPLICATIONS AND CHALLENGES IN STRATEGIC LEADERSHIP</h4>
 
-Read the learning notes below for Week 5 of the course. This is for reference only. No requirements for Assignments or inclusion with BLOG discussions, but the material will further your understanding of the activities a strategic leader finds themselves engaged in through their leadership activities and influence.
+Read the learning notes below for Week 5 of the course. This is for reference only. No requirements for Assignments or inclusion with blog discussions, but the material will further your understanding of the activities a strategic leader finds themselves engaged in through their leadership activities and influence.
 
 <strong>Leading Strategically</strong>
 
@@ -52,7 +52,7 @@ Read the learning notes below for Week 5 of the course. This is for reference on
 
 <strong>Principle:</strong> Hope for future
 
-Many are the plans in a man's heart, but it is the LORD's purpose that prevails. Proverbs 19: 21
+Many are the plans in a man's heart, but it is the Lord's purpose that prevails. Proverbs 19: 21
 
 <em><strong>EMPOWERING PUBLIC CULTURE</strong></em>
 

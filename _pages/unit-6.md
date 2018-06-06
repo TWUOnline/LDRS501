@@ -31,7 +31,7 @@ Learners will have the opportunity to develop of the following learning outcomes
  	<li>Book Development Learning Activity plus Q&amp;A</li>
 </ul>
 NOTE: The session is recorded and distributed for those unable to connect directly to the session. <em>(ZOOM invitation will be sent the Saturday prior to the video conference)</em>
-<h4>BLOG 6.1 (team BLOG - <strong>5%</strong>)</h4>
+<h4>Blog 6.1 (team blog - <strong>5%</strong>)</h4>
 This week introduces you to team blogging.
 
 This is where your and your team will take an assigned position and prove it throughout the week. You may or may not agree with the position you are assigned to defend, but will need to create and defend the position for the other team(S) to respond to. Instruction for the team blog activity appear below.

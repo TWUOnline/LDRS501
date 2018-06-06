@@ -74,23 +74,23 @@ By the end of this LDRS 501 course, learners will be able to:
 |  |  |  | **Weekly COURSE SCHEDULE – LDRS 501 online** |
 | :--- | :--- | :--- | :--- |
 | **Day & Dates** | **TOPIC** | **Course Work** | **Notes** |
-| **Week 0  - April 30 - 23:59** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introduction BLOG | Before course begins MAY |
+| **Week 0  - April 30 - 23:59** | PRE COURSE READING & INTRODUCTIONS | Reading and Posting of Personal Introduction Blog | Before course begins MAY |
 | **Week 1 - May 1-6** | Video Introductions, Learning Activity 1, plus Q&A | ZOOM video-conference - Learner Introductions, Assignment 1 Review, Book Development Learning Activity 1, plus Q&A | **May 1, 2018 - 5 pm - 7 pm PDT** - Learner Introductions - **5 pm - 6 pm**. Assignment 1 Review - **6 pm - 6:30 pm**. Book Development Learning Activity plus Q&A - **6:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
 | **Week 1 - May 1-6** | Personal Strategic Assessment | Individual Assignment 1 | Due **MAY 6 @ 23:59** |
 | **Week 2 - May 1-7** | Learning Activity 2 | Book Development Instruction | Available** May 7, 2018 ** |
-| **Week 2 - May 7-13** | Strategic Leadership Development | Week 2- BLOG 1 | Due **MAY 13 @ 23:59** |
+| **Week 2 - May 7-13** | Strategic Leadership Development | Week 2- Blog 1 | Due **MAY 13 @ 23:59** |
 | **Week 3 - May 14-20** | Learning Activity 3 | Book Development Instruction | Available** May 14, 2018** |
-| **Week 3 - May 14-20** | Strategic Leadership Development | Week 3- BLOG 2 | Due **MAY 20 @ 23:59** |
+| **Week 3 - May 14-20** | Strategic Leadership Development | Week 3- Blog 2 | Due **MAY 20 @ 23:59** |
 | **Week 4 - May 21-27** | Learning Activity 4 | Book Development Instruction | Available** May 22, 2018** |
-| **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- BLOG 3 | Due **MAY 27 @ 23:59** |
+| **Week 4 - May 21-27** | Strategic Leadership Practice | Week 4- Blog 3 | Due **MAY 27 @ 23:59** |
 | **Week 4 - May 21-27** | STRAT Assignment | team Assignment 1 | Due **MAY 27 @ 23:59** |
 | **READING WEEK – MAY 28-JUNE 3** ||| **Reading and Catch up on reading & Assignments** |
-| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to team BLOG - BLOG 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to team BLOG - BLOG 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
-| **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- BLOG 4 | Due **JUNE 10 @ 23:59** |
+| **Week 6 - June 4-10** | Learning Activity 5 plus Q&A | ZOOM video-conference - Introduction to team Blog - Blog 4, Learning Activity 5, Book Development Review plus Q&A | **June 4, 2018 - 5 pm - 7 pm PDT** - Introduction to team Blog - Blog 4 - **5 pm - 5:30 pm**. Book Development Review plus Q&A - **5:30 pm - 7 pm**. The session is recorded and distributed for those unable to connect directly to the session. |
+| **Week 6 - June 4-10** | Strategic Leadership Design | Week 6- Blog 4 | Due **JUNE 10 @ 23:59** |
 | **Week 7 - June 11-17** | Learning Activity 6 | Book Development Instruction and Review | Available **June 11, 2018** |
-| **Week 7 - June 11-17** | Strategic Leadership Design and Execution | Week 7- BLOG 5 | Due **JUNE 17 @ 23:59** |
+| **Week 7 - June 11-17** | Strategic Leadership Design and Execution | Week 7- Blog 5 | Due **JUNE 17 @ 23:59** |
 | **Week 8 - June 18-24** | Learning Activity 7 | Book Development Instruction and Review | Available** June 18, 2018** |
-| **Week 8 - June 18-24** | Strategic Leadership Execution | Week 8- BLOG 6 | Due **JUNE 24 @ 23:59** |
+| **Week 8 - June 18-24** | Strategic Leadership Execution | Week 8- Blog 6 | Due **JUNE 24 @ 23:59** |
 | **Week 8 - June 18-24** | Strategic Leadership Team Assignment - Sustain, Delete, Rethink and Add- innovate | team Assignment 2 | Due **JUNE 24 @ 23:59** |
 | **Week 9 - June 25-July 1** | Learning Activity 8 | Book Development Instruction and Review | Available** June 25, 2018** |
 | **Week 10 - July 2-6** | Learning Activity 9 | Book Development Instruction and Review | Available** July 3, 2018** |
@@ -138,7 +138,7 @@ By the end of this LDRS 501 course, learners will be able to:
 * H Schachter \(2015\) _Five Approaches to Using a Strategy Palette_ Globe & Mail
 * **Personal research** for Forum and Assignment completion.
 
-|  |  | **Week 2 - Forum BLOG** |
+|  |  | **Week 2 - Forum Blog** |
 | :--- | :---: | :--- |
 | **Author** | **Text or Article** | **Chapters/Pages/Links** |
 | R Hughes & K Collarelli Beatty | _**Becoming A Strategic Leader**_ | Chapters 5-7 and Appendices \(pp. 197-310\) |
@@ -210,7 +210,7 @@ By the end of this LDRS 501 course, learners will be able to:
 
 * **Personal research** for Forum and Assignment completion.
 
-| Week 8 - BLOG |
+| Week 8 - Blog |
 | --- |
 
 
@@ -227,15 +227,15 @@ By the end of this LDRS 501 course, learners will be able to:
 |  |  |  | **Assignments** |
 | :--- | :--- | :--- | :--- |
 | Assignment | Due | Post | % of Grade |
-| **Introductory BLOG** | May 1 @ 23:59 PDT | Learner Introduction BLOG | 5% |
+| **Introductory Blog** | May 1 @ 23:59 PDT | Learner Introduction Blog | 5% |
 | **W1 Individual Assignment 1** | May 6 @ 23:59 PDT | PressBooks Environment | 10% |
-| **W2 BLOG post** | May 13 @ 23:59 PDT | BLOG 1 | 5% |
-| **W3 BLOG posts** | May 20 @ 23:59 PDT | BLOG 2 | 5% |
-| **W4 BLOG posts** | May 27 @ 23:59 PDT | BLOG 3 | 5% |
+| **W2 Blog post** | May 13 @ 23:59 PDT | Blog 1 | 5% |
+| **W3 Blog posts** | May 20 @ 23:59 PDT | Blog 2 | 5% |
+| **W4 Blog posts** | May 27 @ 23:59 PDT | Blog 3 | 5% |
 | **W4 team Assignment 1** | May 27 @ 23:59 PDT | PressBooks Environment | 15% |
-| **W6 team BLOG post** | June 10 @ 23:59 PDT | BLOG 4 | 5% |
-| **W7 BLOG Posts** | June 17 @ 23:59 PDT | BLOG 5 | 5% |
-| **W8 BLOG Posts** | June 24 @ 23:59 PDT | BLOG 6 | 5% |
+| **W6 team Blog post** | June 10 @ 23:59 PDT | Blog 4 | 5% |
+| **W7 Blog Posts** | June 17 @ 23:59 PDT | Blog 5 | 5% |
+| **W8 Blog Posts** | June 24 @ 23:59 PDT | Blog 6 | 5% |
 | **W8 team Assignment 2** | June 24 @ 23:59 PDT | PressBooks Environment | 15% |
 | **W10** | July 6 @ 23:59 PDT | PressBooks Environment | 25% |
 |  |  |  | 100% |
@@ -246,11 +246,11 @@ By the end of this LDRS 501 course, learners will be able to:
 
 * **team ASSIGNMENT in Week 4, Week 7 and Week 10 \(Book Development pieces\) - Peer reviewed grading in effect.**
 * **INDIVIDUAL ASSIGNMENTS in Week 1\(for addition to Open Source Book\) - Peer reviewed grading in effect.**
-* **PARTCIPATION in weekly DISCUSSION BLOGS in W2, W3, W4, W6 \(team\), W7 and W8. - Instructor grading in effect.**
+* **PARTCIPATION in weekly DISCUSSION BlogS in W2, W3, W4, W6 \(team\), W7 and W8. - Instructor grading in effect.**
 
 #### GRADING:
 
-Your completed grades will be uploaded to the electronic Grade book in WordPress.You will receive individualized instructor feedback on team and individual BLOG posts at the end of each Forum week.
+Your completed grades will be uploaded to the electronic Grade book in WordPress.You will receive individualized instructor feedback on team and individual Blog posts at the end of each Forum week.
 
 **You will receive individual feedback on course assignments.**
 
@@ -473,15 +473,15 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 
 | Assignment | Post | % of Grade |
 | --- | --- | --- |
-| INTRODUCTORY BLOG | LEARNER INTRODUCTION BLOG | 5% |
-| W2 BLOG | BLOG 1 | 5% |
-| W3 BLOG | BLOG 2 | 5% |
-| W4 BLOG | BLOG 3 | 5% |
-| W6 team BLOG | BLOG 4 | 5% |
-| W7 BLOG | BLOG 5 | 5% |
-| W8 BLOG | BLOG 6 | 5% |
+| INTRODUCTORY Blog | LEARNER INTRODUCTION Blog | 5% |
+| W2 Blog | Blog 1 | 5% |
+| W3 Blog | Blog 2 | 5% |
+| W4 Blog | Blog 3 | 5% |
+| W6 team Blog | Blog 4 | 5% |
+| W7 Blog | Blog 5 | 5% |
+| W8 Blog | Blog 6 | 5% |
 
-**DQ Learner participation is assessed as follows in all BLOG Posts for 5% of grade \(per week\):**
+**DQ Learner participation is assessed as follows in all Blog Posts for 5% of grade \(per week\):**
 
 |  |  |  | **MARK= /5** | **ONLINE Discussion Grading Criteria** |
 | :--- | :--- | :--- | :--- | :--- |

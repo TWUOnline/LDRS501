@@ -24,9 +24,9 @@ This week introduces you to understanding various aspects of strategic team deve
 </ol>
 You will find a wider variety of Learning Activities (5) this week as well. The first 4 weeks of the course focuses us on introducing newer concepts as you prepare and develop your research and questions to organizational leaders. The learning activities here focus on thinking and insight into how people respond to differing experiences and environments. As you prepare and ask your questions, keep these lessons in mind to ensure you keep your personal bias to a minimum.
 
-[Link to BLOG 4.1]
+[Link to Blog 4.1]
 
-[Link to BLOG Grading Rubric (5%)]
+[Link to Blog Grading Rubric (5%)]
 
 [Link to PressBooks instruction here]
 
@@ -51,7 +51,7 @@ You will find a wider variety of Learning Activities (5) this week as well. The 
 <strong>6. Integrate strategic leadership practice</strong> into your personal, corporate and career experience through the application of service improvement principles introduced.
 <h2><strong>Resources</strong></h2>
 <h4>Week 4 Assignments</h4>
-<h4><a href="https://create.twu.ca/ldrs501-su18/blog-4-1/">Assignment: BLOG 4.1 - **First Day 1-6 of Week 4** - <strong>5%</strong>.</a></h4>
+<h4><a href="https://create.twu.ca/ldrs501-su18/blog-4-1/">Assignment: Blog 4.1 - **First Day 1-6 of Week 4** - <strong>5%</strong>.</a></h4>
 <h4><a href="https://create.twu.ca/ldrs501-su18/assignment-2/">team Assignment 2</a></h4>
 Please see <a href="https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/">team Assignment 2 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. team Assignment 2 is due in Week 7, but you should start working on it now.
 <h4>Week 4 Learning Activities</h4>
