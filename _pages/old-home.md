@@ -211,7 +211,7 @@ post_date: 2018-04-13 11:20:44
  <a href="https://create.twu.ca/ldrs501-su18/unit-6/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-6/">BLOG</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs501-su18/unit-6/">blog</a></h3> 
  
  
  Instructor Updates 

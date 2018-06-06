@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/zweek7/
+  https://create.twu.ca/ldrs501-su18/week-7/
 published: true
 post_date: 2018-05-21 10:29:41
 ---
