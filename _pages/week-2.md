@@ -32,4 +32,6 @@ post_date: 2018-05-16 21:07:21
  
  Instructor Updates 
  
- Student Posts for Unit 2<!--/themify_builder_static-->
+ Student Posts for Unit 2 
+ 
+ <a href="https://create.twu.ca/ldrs501-su18/unit-1/"> Overview </a> <a href="https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/"> Learning Activities </a> <a href="https://create.twu.ca/ldrs501-su18/assignment-1"> Assignment 1 </a><!--/themify_builder_static-->
