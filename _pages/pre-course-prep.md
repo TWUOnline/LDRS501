@@ -14,30 +14,6 @@ post_date: 2018-05-16 21:05:24
  <p>Please use the links below to navigate through some preliminary tasks like connecting your blog to the course hub and signing up for PressBooks.</p>
  
  <a href="https://create.twu.ca/ldrs501-su18/unit-1/"> Overview </a> <a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/"> Course Navigation </a> <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/"> WordPress Setup </a> <a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks"> PressBooks Set Up </a> 
- 
- 
- 
- 
- <h3>Course Overview</h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/">Course Navigation</a></h3> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/wordpress-settings/">WordPress Setup</a></h3> <p style="text-align: center">Click here for important information on connecting your site to the course hub.</p> 
- 
- 
- <a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks"> 
- 
- </a> 
- <h3><a href="https://create.twu.ca/ldrs501-su18/accessing-pressbooks">PressBooks Set Up</a></h3> 
- 
 <h3>Pre-Reading<br /></h3>
  
  <a href="https://create.twu.ca/ldrs501-su18/week-0/"> 
