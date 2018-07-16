@@ -1,6 +1,6 @@
 ---
 ID: 1974
-post_title: 'Week 3 &#8211; Post 3.1'
+post_title: Week 3 – Post 3.1
 author: Colin Madland
 post_excerpt: ""
 layout: page
