@@ -115,7 +115,8 @@ If you do not have access to these items prior to the start of the course, no wo
 This section of activities focuses on learning what it means to be a good leader. Your reading of the material and answers to the Learning Activity Questions and Exercises benefits your preparation of Assignment 1.
 
 Follow the reading/instruction/direction contained in each Learning Activity to add to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
-# Learning Activity 1.1 Exploring the Theory &amp; Practice of Leadership
+
+## Learning Activity 0.1 Exploring the Theory &amp; Practice of Leadership
 
 After you've completed reading and responding to the material above, take the time to answer the following question. _(Record your answer somewhere you can access it for future reference in Assignments and Blog material for this course)_
 
