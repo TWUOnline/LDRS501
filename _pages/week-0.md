@@ -38,16 +38,14 @@ into your personal, corporate and career experience through the application of s
 
 ### Resources
 
-#### Reading resource
-
 O’Donovan &amp; N Rimland Flower (2013) [The Strategic Plan is Dead. Long Live Strategy.](https://ssir.org/articles/entry/the_strategic_plan_is_dead._long_live_strategy%29) _Stanford CA: Stanford Social Innovation Review._
-<h3>Week 0 Learning Activities</h3>
-#### Week 0 Learning Activity 0.1 Instruction and Questions
 
-#### Personal Learning and Leadership
-<h5><a href="https://create.twu.ca/ldrs501-su18/activity-0-1/">Exploring the Theory &amp; Practice of Leadership</a></h5>
-<h4>Learning Activity 0.2</h4>
-<h4><a href="https://create.twu.ca/ldrs501-su18/activity-0-2">Critical Thinking</a></h4>
-<h4>Learning Activity 0.3</h4>
-<h4>PressBooks Overview</h4>
-&nbsp;
+### Week 0 Learning Activities
+
+#### Learning Activity 0.1
+
+- [Exploring the Theory & Practice of Leadership](https://create.twu.ca/ldrs501-su18/activity-0-1/)
+
+#### Learning Activity 0.2
+
+- [Critical Thinking](https://create.twu.ca/ldrs501-su18/activity-0-2)
