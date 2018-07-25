@@ -23,12 +23,17 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <span style="float: none; background-color: transparent; color: #333333; cursor: text; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px;">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 7.</span>
 
-<!--themify_builder_static--><h3>Unit 7<br/>Activities</h3>
- 
- <a href="https://create.twu.ca/ldrs501-su18/unit-1/"> Overview </a> <a href="https://create.twu.ca/ldrs501-su18/assignment-2"> Team Assignment 2 </a> 
+<!--themify_builder_static-->
+
+<h3>Unit 7<br/>Activities</h3>
+
+<a href="https://create.twu.ca/ldrs501-su18/unit-1/"> Overview </a> <a href="https://create.twu.ca/ldrs501-su18/assignment-2"> Team Assignment 2 </a>
+
 <h3>Unit 7<br/>Posts</h3>
- 
- <h3></h3> Sign in for access 
- <a href="https://create.twu.ca/wp-admin"> Sign In </a> 
- 
- <a href="https://create.twu.ca/ldrs501-su18/category/u7-updates"> Instructor Updates </a> <a href="https://create.twu.ca/ldrs501-su18/category/unit-7"> Student Posts for Unit 1 </a><!--/themify_builder_static-->
+
+<h3></h3>
+
+Sign in for access 
+ <a href="https://create.twu.ca/wp-admin"> Sign In </a>
+
+<a href="https://create.twu.ca/ldrs501-su18/category/u7-updates"> Instructor Updates </a> <a href="https://create.twu.ca/ldrs501-su18/category/unit-7"> Student Posts for Unit 1 </a><!--/themify_builder_static-->
