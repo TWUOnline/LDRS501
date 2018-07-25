@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/week-7/
+  https://create.twu.ca/ldrs501-su18/zweek7/
 published: true
 post_date: 2018-05-21 10:29:41
 ---
@@ -23,15 +23,18 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 7.</span>
 
-<!--themify_builder_static--><h2>Strategic Leadership TEAM Project<br/>Unit 7</h2>
- <p>In unit 7&#8230;</p>
+<!--themify_builder_static-->
 
- <a href="https://create.twu.ca/ldrs501-su18/unit-7/" >
+<h2>Strategic Leadership TEAM Project<br/>Unit 7</h2>
 
- </a>
- <h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3>
+In unit 7&#8230;
 
+<a href="https://create.twu.ca/ldrs501-su18/unit-7/" >
 
- Instructor Updates
+</a>
 
- Student Posts for Unit 7<!--/themify_builder_static-->
+<h3><a href="https://create.twu.ca/ldrs501-su18/unit-7/">Overview</a></h3>
+
+Instructor Updates
+
+Student Posts for Unit 7<!--/themify_builder_static-->
