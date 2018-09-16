@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/
+  https://create.twu.ca/ldrs501/team-assignment-2-notes/
 published: true
 post_date: 2018-05-25 09:36:57
 ---
@@ -34,7 +34,9 @@ Why do we need to talk in the first place?
 &lt;li&gt;Inputs are sought from each team – there are limits on the number of inputs in each cluster so strategic choices are required by each team&lt;/li&gt;
 &lt;li&gt;Your input becomes pieces to a puzzle joining various contributions into strategic perspectives the team can sort. (see https://hbr.org/video/3373616535001/brainswarming-because-brainstorming-doesnt-work)&lt;/li&gt;
 &lt;/ul&gt;
+
 <h4>Team Assignment 2 Resource Notes</h4>
+
 The following resources will assist you in preparing for and completing team Assignment 2
 
 &lt;h4&gt;&lt;strong&gt;SWOT&lt;/strong&gt;&lt;/h4&gt;
