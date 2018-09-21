@@ -31,15 +31,15 @@ Learners will begin development of the following outcomes in the unit:
 
 Below, you will find the outline for Week 1 and links to the materials you will need to review, develop and learn about Strategic Leadership.
 
-First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory Blog from you to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your Blog come alive. Whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory Blog about you as unforgettable as possible. It is what people will remember about you and set you apart from one another as unique leaders in the field.
+First you will find an introductory paragraph related to the first week of the course.  The week starts with an introductory Blog from you to help everyone else in the class know who they are working with. You are free to use all of the skills you learned in the orientation to the WordPress process in making your Blog come alive, whether it is text alone, text and pictures, video, sound bite or a combination of all approaches. Make the Introductory Blog about you as unforgettable as possible. It is what people will remember about you and will set you apart from one another as unique leaders in the field.
 
-Following the Introduction, we start with your first assignment in the course. In this assignment you will enlist all of the things you know about Strategic leadership; from your personal development through to present status of Strategic Leadership ability. You will also learn a peer review process for grading and how to submit your assignments into a PressBooks environment.
+Following the Introduction, we start with your first assignment in the course. In this assignment you will list all of the things you know about Strategic leadership; from your personal development through to present status of Strategic Leadership ability. You will also learn a peer review process for grading and how to submit your assignments into a PressBooks environment.
 
-We will also take the time to meet a little face to face via a ZOOM video conference, so we can discuss any course logistics and/or any challenges you are facing within the course layout (links, instructions, etc).
+We will also take the time to meet a little face to face via a ZOOM video conference, so we can discuss any course logistics and/or any challenges you are facing within the course layout (links, instructions, etc.).
 
 Following the instructions below, you will find another Reading Overview related to the specific materials covered in the coming week of the course. Your life of reading, responding and submitting is officially begun, followed by 3 learning outcomes for the unit and e-reading resources for you to review in the week ahead.
 
-Finally, the section outlines your Assignment due dates and the Learning Activities for the week. All of which are due by Day 7 of Week 1 @ 23:59.
+Finally, the section outlines your Assignment due dates and the Learning Activities for the week, all of which are due by Day 7 of Week 1 @ 23:59.
 
 #### Introductions
 
@@ -64,4 +64,4 @@ _(optional F2F interaction can be arranged for those living within driving dista
 - Assignment 1 Review
 - Book Development Learning Activity plus Q&amp;A.
 
-NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference)_
+NOTE: The session is recorded and distributed for those unable to connect directly to the session. _(ZOOM invitation will be sent the Saturday prior to the video conference.)_
