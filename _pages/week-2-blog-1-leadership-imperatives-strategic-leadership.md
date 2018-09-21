@@ -11,7 +11,7 @@ post_date: 2018-04-17 13:44:29
 ---
 For this first post, you will respond according to your stream choices.
 
-Using the Hughes, Beatty and Dinwoodie text (pp. 52 – 103), all pre- and Week 1 reading for this course, the <a href="https://books.twu.ca/monograph/">MA LEAD LEADERSHIP MONOGRAPH 2018 – Monograph 2 - Transformational Servant Leadership</a> –and the “Personal Learning and Leadership” and “Critical Thinking” Learning Activities from Week 1.
+Using the Hughes, Beatty and Dinwoodie text (pp. 52 – 103), all pre- and Week 1 reading for this course, the <a href="https://books.twu.ca/monograph/">MA LEAD LEADERSHIP MONOGRAPH 2018 – Monograph 2 - Transformational Servant Leadership</a>, and the “Personal Learning and Leadership” and “Critical Thinking” Learning Activities from Week 1:
 
 Reflect on the importance of the tools and thinking associated with servant and strategic leadership for organizational development in today’s business, health care, educational, nonprofit and Christian Ministry organizations, by answering the following stream specific questions: [pick your stream focus only]
 <ol>
