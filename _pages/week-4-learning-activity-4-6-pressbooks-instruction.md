@@ -13,7 +13,7 @@ post_date: 2018-04-21 16:24:28
 ---
 This week you will participate in the Learning Activity 4.6 listed below as part of your ongoing development in Strategic Leadership.
 
-Following the reading/instruction/direction contained in each Learning Activity adds to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
+Following the reading/instruction/direction contained in each Learning Activity adds to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completing assignments and developing PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
 <h4>Learning Activity 4.6</h4>
 <h4>Unit Learning Outcomes</h4>
 Upon completion of Learning Activity 4.6 learners will be able to:
