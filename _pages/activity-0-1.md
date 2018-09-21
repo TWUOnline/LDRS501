@@ -134,7 +134,7 @@ After you complete reading the Goleman summary, answer the questions below to de
 * What are couple of key points that stand out for you in thinking about the meaning of leadership?
 
 #### References
-Fournier, G. (2018) [_Locus of Control._](https://psychcentral.com/encyclopedia/locus-of-control/) Newburyport MA: Psych Central.
+Fournier, G. (2018). [_Locus of Control._](https://psychcentral.com/encyclopedia/locus-of-control/) Newburyport MA: Psych Central.
 
 Liu, K. (1999) Systemic leadership development. _Leadership in Action._ Volume 19. Number 3. pp. 12-13. San Francisco: Jossey-Bass.
 
