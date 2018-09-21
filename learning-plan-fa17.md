@@ -1,4 +1,6 @@
-
+```
+needs dates updated, of course
+```
 ---
 
 # LDRS501 STRATEGIC LEADERSHIP
@@ -51,7 +53,7 @@ By the end of this LDRS 501 course, learners will be able to:
 
 1. **Analyze personal and corporate leadership effectiveness**
 
-   through the review and assessment of various leadership and management styles..
+   through the review and assessment of various leadership and management styles.
 
 2. **Evaluate**  
    organizational effectiveness as it relates to strategic leadership principles and practice.
@@ -295,7 +297,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
       1. Personal
       2. Professional
 2. What personal mission, vision and values do you practice?
-   1. If you do not have a personal/professional mission, vision or values, take the time to develop one and explain why the mission, vision and values statements developed align with you and the future personal/professional development you desire?
+   1. If you do not have a personal/professional mission, vision or values statements, take the time to develop one and explain why the mission, vision and values statements developed align with you and the future personal/professional development you desire?
       1. Personal
       2. Professional
       3. Collectively
@@ -309,7 +311,7 @@ Using the materials outlined in chapter 1 of Richard Hughes, Katherine Colarelli
      2. Professional
 5. Conclude the assignment:
    1. Identify some ‘old economy’ thinking and practices you continue to use in your leadership and the outcome\(s\) you've experienced as a result. Include how you plan changing those habits to 'new economy' thinking and practice to create an effective personal/professional strategy with the outcome\(s\) you anticipate as you adopt 'new economy' habits in your leadership practice. \(Ungerer, Ungerer & Herholdt, pp. xiii-105\)
-   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp 21-51\)
+   2. Provide a personal assessment of needed personal development to become a better strategic leader based on your review of the chapter 1 material. \(Hughes, Beatty and Dunwoodie, pp. 21-51\)
    3. Outline present strategic strengths you discovered and how you can align them to become a better strategic leader
 
 **NOTE:** _Substantive, Succinct and Cited._
@@ -340,18 +342,18 @@ Using Appendix B, C and D in Richard Hughes, Katherine Colarelli Beatty & David 
 2. Using the instruction in Appendix C of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) Becoming a Strategic Leader. Jossey-Bass. Second Edition. \(pp. 291-298\) the team leader will lead the team through the exercise by accomplishing the following tasks:  
       a. Work with the team to develop a team name.
 
-   b. Prepare and distribute the team tool to team members.
+      b. Prepare and distribute the team tool to team members.
 
-   c. Score the results of the STRAT Assessment so the team can make sense of them.
+      c. Score the results of the STRAT Assessment so the team can make sense of them.
 
-   d. Review the results with the team.
+      d. Review the results with the team.
 
 3.In Debriefing the exercise, outline your findings for the team.  
-   a. The team STRAT scoring:  
-     i. Average ratings only \(p. 293\)
+      a. The team STRAT scoring:  
+         i. Average ratings only \(p. 293\)
 
-b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many  
-   applicable sections of the process as are relevant for your team.
+      b. Using the material outlined in the ‘possible flow of a STRAT debriefing meeting’ \(pp. 295-298\) drawing on as many  
+      applicable sections of the process as are relevant for your team.
 
 1. Submit your findings in chapter form to the PressBook environment, being sure to follow chapter parameters by the due  
 
@@ -403,7 +405,7 @@ Brain swarming rejects gathering everyone in a room to force a solution in an en
 
 **Assignment Parameters**
 
-Using Lepsinger's 6 Bridge Building Principles in "Closing the Execution Gap \(2010\) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader \(2014\) from Exhibits 3.5, 3.6, 3.7 \(pp. 130-133\) and the AAR six step process outlined on p. 134;
+Using Lepsinger's 6 Bridge Building Principles in "Closing the Execution Gap" \(2010\) and Hughes, Beatty and Dunwoody's assessment tools for assessing organizational capacity for change in Becoming a Strategic Leader \(2014\) from Exhibits 3.5, 3.6, 3.7 \(pp. 130-133\) and the AAR six step process outlined on p. 134;
 
 Assess the suggested strategies developed for the organization reviewed in your SWOT analysis of the organization chosen to determine the anticipated success or failure of the changes suggested for the organization's future practice and suggested strategies determined for change in the organization.
 
@@ -418,11 +420,11 @@ The PressBooks material must include descriptive notes where the graphics do not
 **The Team Will:**
 
 1. Select an organization to review using a SWOT analysis. _\(The organization can be fictional or actual that team members have awareness of.\)_
-   1. For the purpose of time the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(May 16\)_
-2. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization forfor the end of week 4 _\(May 27\)_
-3. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _\(June 3\)_
-4. Compile findings and results by the end of Week 6 _\(June 10\)_
-5. team LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(June 17\)_
+2. For the purpose of time, the choice and identity of the organization needs completion by the team for the middle of Week 3 _\(May 16\)_
+3. The team will develop their SWOT Questions and arrange an interview with a significant leader of the organization for the end of week 4 _\(May 27\)_
+4. The team will review interview responses and how they relate to the 4 quadrants by the end of Week 5 _\(June 3\)_
+5. Compile findings and results by the end of Week 6 _\(June 10\)_
+6. The team LEAD _\(or a team agreed designate_\) will post PressBooks materials with full references and conclusions to the PressBooks environment by the Week 7 due date _\(June 17\)_
 
 **\*NOTE: ** _If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established._
 
@@ -437,15 +439,15 @@ The PressBooks material must include descriptive notes where the graphics do not
 Your final assignment is a final Team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
 1. Looking at the organization your team interviewed in team Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
-2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. \(pp. 145-195\), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions::  
+2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty & David Dinwoodie \(2014\) _Becoming a Strategic Leader ( Jossey-Bass, Second Edition), \(pp. 145-195\), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions:  
    * From p. 76 – write a one-page newspaper article portraying your vision and aspirations for the organization you interviewed in team Assignment 2.
      * The article should represent what makes them proud of their organization three or four years from now.
      * Write the article so:\_
        * It tells the story of the organization’s success.
        * It evokes feelings of pride when you read it.
        * It conveys the kind of organization \_they are and what they've accomplished.
-         * You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes and corporate stories.
-   * Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan the organization you interviewed in team Assignment 2.
+       * You will want to cite as much supporting material as you can to support your assertions, along with anecdotes, quotes   and corporate stories.
+      * Use relevant materials from pp. 145-195, including Exhibits 4.1-4.13, to develop a strategic influence development plan           the organization you interviewed in team Assignment 2.
 3. Once you complete your assessment use Chapters 6-9 of Galbraith’s Designing Organizations: Strategy, Structure and Process
    at the Business Unit Levels \(pp. 131-216\) to identify/determine what type of organizational design is best served by the
    strategic influence you see the organization developing.
@@ -458,10 +460,10 @@ Your final assignment is a final Team Assignment shaped by the course material a
    * _You may also use:_
      * Any other course materials to support your evaluation and development of your strategic influences within your organization.
      * Any other research materials you find to support your evaluation and development of your strategic influences within the organization you interviewed in team Assignment 2.
-5. _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
+5. _Your assignment will utilize APA 6th edition throughout, including a cover page and reference page._
 6. _The team LEAD \(or the team approved designate\) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by the Week 10 due date \(July 6\)_
 
-_**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.Substantive, Succinct and Cited._
+_**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established. Substantive, Succinct and Cited._
 
 \[link to PressBooks instruction here\]
 
@@ -497,7 +499,7 @@ Online Forum Discussions will be used in the following weeks and blocks of LDRS 
 
 low tier points.
 
-* _**Acceptable Standard**_** **-- postings meet the basic expectations stated in the outcomes. It will qualify for the
+* _**Acceptable Standard**_ -- postings meet the basic expectations stated in the outcomes. It will qualify for the
 
 median tier points.
 
@@ -505,7 +507,7 @@ median tier points.
 
 outcomes. It will qualify for the higher tier points.
 
-* _**Above Standard**_ -- posting is above the higher level integration and synthesis’ expectations stated in
+* _**Above Standard**_ -- posting is above the higher level integration and synthesis expectations stated in
 
 the outcomes. It will qualify for the highest tier points.
 
@@ -517,7 +519,7 @@ In an effort to ensure consistency in the MA Lead/MAEL assignment of grades and 
 | --- | --- | --- | --- |
 | **A+** | 95-100 | 4.3 | _**Exceptionally well-reasoned, compelling development of position**_. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable. |
 | **A** | 90-94 | 4.0 | _**Well-argued and convincing development of position. Insightful**_ incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use. |
-| **A-** | 85-89 | 3.7 | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
+| **A-** | 85-89 | 3.7 | _**Thorough and plausible development of position**_. Skillful incorporation of personal vision, references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage. |
 | **B+** | 80-84 | 3.3 | _**Proficient development of position**_. Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage. |
 | **B** | 75-79 | 3.0 | _**Competent development of position, but possibly with some gaps and/or limitations**_. Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
 | **B-** | 70-74 | 2.7\* | _**Unimpressive development of position**_. Position not completely consistent with personal vision _or_ references and resources not taken fully into account _or_ examples are basic or not completely convincing _or_ lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses \(e.g., clarity, coherence, grammar\). Overall quality shows noticeable deficiencies. |
