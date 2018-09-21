@@ -16,10 +16,9 @@ post_date: 2018-02-23 01:07:23
 Your final assignment is a FINAL Team Assignment shaped by the course material and readings. Each team will enter their materials into the PressBooks environment to complete assignment requirements. Each team will focus on the organization interviewed in team Assignment 2:
 
 1. Looking at the organization your team interviewed in team Assignment 2, evaluate the strategic influence in the organization and how the organization can further develop strategic influence for their anticipated future.
-2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader._ Jossey-Bass. Second Edition. (pp. 145-195), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions:
+2. Using chapter 4 of Richard Hughes, Katherine Colarelli Beatty &amp; David Dinwoodie (2014) _Becoming a Strategic Leader_ (Jossey-Bass, Second Edition, pp. 145-195), review the strategic influence for the organization you interviewed in team Assignment 2 and prepare a complete assessment of their present strategic influence and the development of their future strategic influence using the following materials and questions:
 * From p. 76 – Write a one-page newspaper article portraying your vision and aspirations for the organization you interviewed in team Assignment 2.
-* The article should represent what makes them proud of their organization three or four years from now.
-* _Write the article so:_
+* The article should represent what makes them proud of their organization three or four years from now.  _Write the article so:_
 * It tells the story of the organization’s success.
 * It evokes feelings of pride when you read it.
 * It conveys the kind of organization _they are and what they've accomplished.
@@ -36,8 +35,8 @@ the strategic influence you see the organization you interviewed developing.
 * _You may also use:_
 * Any other course materials to support your evaluation and development of your strategic influences within your organization.
 * Any other research materials you find to support your evaluation and development of your strategic influences within the organization you interviewed in team Assignment 2.
-5. _Your assignment with utilize APA 6th edition throughout including a cover page and reference page._
-6. _The Team LEAD (or the team approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by Week 10 - Day 5 due date.
+5. _Your assignment will utilize APA 6th edition throughout and include a cover page and reference page._
+6. _The team lead (or the team approved designate) will post the assignment in PressBooks materials with full references and conclusions to the PressBooks environment by Week 10 - Day 5 due date.
 
 _**NOTE:** If you have any challenges with the PressBooks environment in completing the assignment, contact the instructor immediately to assist you in completion of the assignment within the time frames established.Substantive, Succinct and Cited._
 
