@@ -15,7 +15,7 @@ post_date: 2018-02-23 01:07:23
 
 * Blog Posts are limited to a three post maximum per DQ Discussion Week.
 * Blog Posts in Week 3 are limited to the following posting pattern:
-* All posts will require substantive response* to ALL questions asked in the blog (One 6 part question for Week 3) in the following pattern.
+* All posts will require substantive response* to ALL questions asked in the blog (One 6-part question for Week 3) in the following pattern.
 
 **Blog 2 – Week 3 - Post Leaders**
 
@@ -53,7 +53,7 @@ Is **Not**:
 * Very basic comments such as “I agree” or “I disagree.”
 * Restating what has already been said (unless there is a direct purpose in doing so).
 * Disrespectfully disagreeing.
-* Pat answers that are not thought - provoking
+* Pat answers that are not thought-provoking
 
 Below are _**examples**_ of how to stimulate your thinking and the thinking of others when looking for new and unique approaches to a line of study, questioning or argumentation.
 
