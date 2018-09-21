@@ -14,21 +14,21 @@ Read the learning notes below for Week 4 of the course. Once you read the materi
 
 <strong>Best Practice Questions</strong>
 
-Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. OnStrategy is a strategic planning consulting organization who 'believe strategic planning is more than simply achieving business goals. It creates confidence in the future.' (https://onstrategyhq.com/about-us/)
+Kim Perkins, Client Engagement Manager for OnStrategy, lists a good best practices list for strategic planning initiatives. OnStrategy is a strategic planning consulting organization who "believe strategic planning is more than simply achieving business goals. It creates confidence in the future." (https://onstrategyhq.com/about-us/)
 
 Follow the link to review Perkins <a href="https://onstrategyhq.com/resources/the-top-10-strategic-planning-best-practices/"><em>Top 10 Strategic Planning Best Practices</em></a>.
 
 <strong>Strategic IQ</strong>
-<blockquote>'Strategic intelligence is the capacity to adapt to changing circumstances, as opposed to blindly continuing on a path when all the signals in your competitive environment suggest you need to change course.' - John R. Wells</blockquote>
+<blockquote>Strategic intelligence is the capacity to adapt to changing circumstances, as opposed to blindly continuing on a path when all the signals in your competitive environment suggest you need to change course. - John R. Wells</blockquote>
 Wells, in an interview with Michael Blanding (2012), suggests Strategic IQ is established in an organization when 'the people in a company are intrinsically motivated to develop and execute good strategy.'
 
-Wells outlines ways of developing Strategic IQ, as well as critical success factors required for companies to excel in their strategies. The first, and in many instances the most important critical success factor, is 'the capacity to tolerate and learn from failure.' (Dalkir, 2016) The second critical success factor is 'the need to constantly adapt to the changing competitive environment.' (Dalkir)
+Wells outlines ways of developing Strategic IQ, as well as critical success factors required for companies to excel in their strategies. The first, and in many instances the most important critical success factor, is "the capacity to tolerate and learn from failure" (Dalkir, 2016). The second critical success factor is "the need to constantly adapt to the changing competitive environment" (Dalkir).
 
-For the one, it's all about learning through our success and failure in the process and gleaning lessons form both. Not gloating over what we've accomplished to the detriment of others. Not punishing failure as if it is not allowed in the process. Both bring learning and both bring wisdom and both add to our strategic IQ as we increase our knowledge over time and through the various and varying circumstances we face. (Dalkir)
+For the one, it's all about learning through our success and failure in the process and gleaning lessons form both. Not gloating over what we've accomplished to the detriment of others. Not punishing failure as if it is not allowed in the process. Both bring learning and both bring wisdom and both add to our strategic IQ as we increase our knowledge over time and through the various and varying circumstances we face (Dalkir).
 
-For the second, it means understanding and learning what's happening around us. Predicting and facing the challenges as they come. Forecasting situations that unfold in the process to help with decision-making. Analyzing the past to inform the future to prevent the repeat of past errors. (Dalkir)
+For the second, it means understanding and learning what's happening around us. Predicting and facing the challenges as they come. Forecasting situations that unfold in the process to help with decision-making. Analyzing the past to inform the future to prevent the repeat of past errors (Dalkir).
 
-Increasing Strategic IQ ensures 'accurate and valid means of assessing your success.' (Dalkir) By evaluating returns on investments (ROI), benefits can be measured 'from strategic and business intelligence processes as well as technologies.' (Dalkir) You also need to 'need to assess the value and effectiveness of organizational learning processes. ' (Dalkir) Taking into consideration the need for regular review of strategic processes to ensure an even and consistent forward progression at a level consistent with progress and never satisfied with settling for what you get, but pushing forward to the best possible outcomes the strategies devised and implemented will bring the organization.
+Increasing Strategic IQ ensures "accurate and valid means of assessing your success" (Dalkir). By evaluating returns on investments (ROI), benefits can be measured "from strategic and business intelligence processes as well as technologies.' (Dalkir) You also need to 'need to assess the value and effectiveness of organizational learning processes" (Dalkir). Taking into consideration the need for regular review of strategic processes to ensure an even and consistent forward progression at a level consistent with progress and never satisfied with settling for what you get, but pushing forward to the best possible outcomes the strategies devised and implemented will bring the organization.
 
 <strong>Other Strategy Research</strong>
 
