@@ -15,9 +15,9 @@ Our week starts with an opportunity to begin your countdown to the completion of
 
 This is the week where you can begin focusing your energies on completion of the Final Assignment and submitting your material for insertion into the PressBooks environment as you complete the work on the Strategic Discoveries open source book project.
 
-This section reviews the Assignment parameters for the Final Team Assignment due in Week 10 and a Learning Activity related to the PressBooks materials. This PressBook material is mostly for review, but can be helpful as you finalize your team assignments for LDRS 501OL.
+This section reviews the Assignment parameters for the Final Team Assignment due in Week 10 and a Learning Activity related to the PressBooks materials. This PressBook material is mostly for review, but can be helpful as you finalize your team assignments for LDRS 501.
 
-<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Day 5 - Week 10.</span>
+<span style="float: none;background-color: transparent;color: #333333;cursor: text;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;text-align: left;text-decoration: none;text-indent: 0px">All activities, assignments and readings for this unit are expected for completion and/or due on Week 10 - Day 5.</span>
 
 <!--themify_builder_static--><h2>Countdown to Completion<br/>Unit 9</h2>
  <p>In unit 9&#8230;</p>
