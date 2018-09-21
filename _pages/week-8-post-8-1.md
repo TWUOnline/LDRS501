@@ -35,7 +35,7 @@ Ungerer, M., Ungerer, G., &amp; Herholdt, J. (2016). <em>Navigating strategic po
  	<li><strong>Identify</strong> and <strong>critically evaluate</strong> the three (3) least important principles you discovered in the course readings and explain why they are irrelevant to your organizational experience and future.</li>
  	<li><strong>Identify,</strong> from your critical evaluation of course texts, the least effective course text material you discovered during your investigation of strategic leadership principles and why you see them as least effective (personally or corporately).</li>
 </ol>
-<strong>For posting responses</strong>, you are free to ‘agree’ or ‘challenge’ observations made in all posts.
+<strong>For posting responses</strong>, you are free to "agree" or "challenge" observations made in all posts.
 
 Categories for this post:
 <ul>
