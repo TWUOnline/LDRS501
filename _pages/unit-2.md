@@ -12,9 +12,9 @@ post_date: 2018-02-23 01:07:23
 <h2><strong>Leadership Imperatives &amp; Strategic Leadership</strong></h2>
 #### Week 2
 
-team Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of teams of 3.
+Team Assignments will be announced this week, based on the results of Week 1 Assignment. Teams will consist of three members each.
 
-This week also introduces you and an understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
+This week also introduces you to an understanding team dynamics as it relates to Strategic Leadership. We will review two important concepts for your learning.
 
 1. Appreciative Inquiry
 
@@ -60,7 +60,7 @@ In preparation for the Appreciative Inquiry Exercise in Learning Activity 3.1 be
 
 3. [Appreciative Inquiry Case Study](https://www.youtube.com/watch?v=RG8dW2RwwEc) - Louisiana School District
 
-4. [Appreciative Inquiry Resources](http://aim2flourish.com/appreciative-inquiry-resources) clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
+4. [Appreciative Inquiry Resources](http://aim2flourish.com/appreciative-inquiry-resources). Clicking the available links provides you with a variety of resources to deepen your understanding of Appreciative Inquiry and its use across a variety of organizational types and styles.
 
 5. [How to Do An Appreciative Inquiry Interview](https://www.youtube.com/watch?v=8P2xVpH0uTI)
 
