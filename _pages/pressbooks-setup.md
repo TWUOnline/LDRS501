@@ -11,7 +11,7 @@ post_date: 2018-04-13 13:36:41
 ---
 ## Activity Learning Outcomes
 
-Upon completion this activity learners will be able to:
+Upon completion of this activity, learners will be able to:
 
 1. Understand the process for entering course materials into the PressBooks platform.
 2. Be able to edit course materials in the PressBooks platform.
@@ -32,10 +32,10 @@ This course-long assignment will require you to work cooperatively with your col
 Positive interdependence comes from a sense of having mutual goals, complementary roles, or access to different resources and personal experiences. Johnson and Johnson argue that it is not enough that people simply belong to and interact with a group, there must be a sense that any given individual's success is dependent upon the success of each other individual in the group. In short, I cannot succeed unless you succeed.
 
 ##### Individual Accountability and Personal Responsibility
-As a result of positive interdependence, a sense of personal responsibility to the group needs to exist. This tends to happen more readily when individual contributions are visible and can be assessed by the group and the instructor for quality compared to a specific standard. The sense of responsibility includes social pressure for individuals to complete their own work, and pressure on individuals to help their group mates to complete their work.
+As a result of positive interdependence, a sense of personal responsibility to the group needs to exist. This tends to happen more readily when individual contributions are visible and can be assessed by the group and the instructor for quality compared to a specific standard. The sense of responsibility includes social pressure for individuals to complete their own work, and pressure on individuals to help their groupmates to complete their work.
 
 ##### Promotive Interaction
-A further result of positive interdependence, and a key component of individual and group accountability is a willingness for group members to act in the best interests of the group by supporting and facilitating each others' work. This is in contrast with oppositional interaction where group members are in competition with each other and seek to block others' work.
+A further result of positive interdependence, and a key component of individual and group accountability, is a willingness for group members to act in the best interests of the group by supporting and facilitating each others' work. This is in contrast with oppositional interaction where group members are in competition with each other and seek to block others' work.
 
 ##### Appropriate use of Social Skills
 If groups are to be successful in learning or in any context, there must be at least a moderate level of social skills that are actively practiced and promoted. Johnson and Johnson specifically mention trust, communication, acceptance, and conflict resolution as key skills for cooperative groups.
