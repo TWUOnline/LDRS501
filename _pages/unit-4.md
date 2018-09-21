@@ -44,10 +44,13 @@ Learners will have the opportunity to continue developing the following learning
 #### Week 4 Assignments
 
 - [Assignment: Blog 4.1 - **First Day 1-6 of Week 4 - 5%**.](https://create.twu.ca/ldrs501-su18/blog-4-1/)
+```
+not sure what "first day 1-6" means
+```
 
 - [Team Assignment 2](https://create.twu.ca/ldrs501-su18/assignment-2/)
 
-Please see [team Assignment 2 Notes](https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/) for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. team Assignment 2 is due in Week 7, but you should start working on it now.
+Please see [team Assignment 2 Notes](https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/) for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. Team Assignment 2 is due in Week 7, but you should start working on it now.
 
 #### Week 4 Learning Activities
 
