@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-02-23 01:07:23
 ---
-_Recommended completion of Learning Activity prior to Week 1 Day 1._ Read the instructional information associated with the Learning Activity below and complete the Learning Activity(ies) associated with the information provided prior to beginning the Week 1 course work for LDRS 501
+_Recommended completion of Learning Activity prior to Week 1 Day 1._ Read the instructional information associated with the Learning Activity below and complete the Learning Activity(ies) associated with the information provided prior to beginning the Week 1 course work for LDRS 501.
 
 #### Learning Activity 0.3 PressBooks Instruction
 
