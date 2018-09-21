@@ -21,7 +21,7 @@ Finally, the section outlines a Learning Activity for the week related to naviga
 
 <strong>NOTE:</strong> Learning Activities in Weeks 7 through 10 relate specifically to working in PressBooks so we can complete the Open Source Discoveries Book together.
 
-All activities, assignments and readings for this unit are expected for completion and/or due on Day 7 - Week 7.
+All activities, assignments and readings for this unit are expected for completion and/or due on Week 7 - Day 7.
 
 <!--themify_builder_static--><h2>Strategic Leadership TEAM Project<br/>Unit 7</h2>
  <p>In unit 7&#8230;</p>
