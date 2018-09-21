@@ -15,7 +15,7 @@ In <em><strong>Post 2.1</strong></em> the discussion centered on how Transformat
 
 <em><strong>Post 3.1</strong></em> dealt with Strategic Leadership Teams. The discussion focused on building a sense of ownership and involvement, limiting factors in team systems, identifying bottlenecks, the design choices in your present/previous working environment, your suggestions for building an effective Strategic Leadership team and the struggles an SLT can face as it develops and takes on challenges in working environments.
 
-<strong><em>Post 4.1</em></strong> focused on the effects of strategy renewal, execution and design principles in organizational experiences, while <strong><em>Post 6.1</em></strong> focused on Team Postings in ‘favour’ or ‘opposition’ to the principles presented in Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166).
+<strong><em>Post 4.1</em></strong> focused on the effects of strategy renewal, execution and design principles in organizational experiences, while <strong><em>Post 6.1</em></strong> focused on Team Postings in "favour" or "opposition" to the principles presented in Chapter 5 of Lepsinger’s Closing the Execution Gap (pp. 133-166).
 
 In <em><strong>Post 7.1</strong></em>, we focused on some of the things your organization experiences(ed) in coordinating the practice of your corporate mission, vision and values in teams and organization,  along with how conflict affects intended corporate practices.
 
