@@ -13,7 +13,7 @@ post_date: 2018-02-23 01:07:23
 ---
 This week you will participate in the learning activity listed below as part of your ongoing development in Strategic Leadership.
 
-Following the reading/instruction/direction contained in each Learning Activity adds to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completion of assignments and development of PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
+Following the reading/instruction/direction contained in each Learning Activity adds to your proficiency in Strategic Leadership and skill development for adding to your knowledge base, completing assignments and developing PressBooks materials throughout this course. This is the same requirement for each Learning Activity throughout the coursework.
 
 #### Systems Thinking
 
@@ -23,13 +23,13 @@ Five Disciplines of a Learning Organization - Peter Senge
 
 _(See Zeeman, A. (2017)_. [Senge’s Five Disciplines of Learning Organizations](https://www.gitbook.com/book/twonline/ldrs501/edit#) For an effective summary of this seminal book related to Systems Thinking.
 
-Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole.” (p. 17)
+Stephen Haines writes that a system is “a set of components that work together for the overall objective of the whole” (p. 17).
 
 In Senge's _The Fifth Discipline,_ Senge outlines his fundamentals (Laws) for systems thinking.
 
 **Today's problems come from yesterday’s solutions.**
 
-Senge notes, 'we merely need to look at our own solutions to other problems in the past.' (p. 57)
+Senge notes, "we merely need to look at our own solutions to other problems in the past" (p. 57).
 
 Explaining that problems arise from past actions.
 
@@ -41,22 +41,22 @@ Compensating feedback is when well-intentioned interventions offset the benefits
 
 > efforts to correct the U.S. trade imbalance by letting the value of the dollar fall in the mid-1980s were compensated for by foreign competitors who let prices of their goods fall in parallel (for countries whose currency was "pegged to the dollar," their prices adjusted automatically) (p.59).
 
-In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial; obligations caused by the reduction or eradication of homelessness.
+In a similar fashion, the attempt to address homelessness in Canada created an industry requiring people to be homeless for them to survive as organizations. If homelessness is reduced or eliminated, hundreds of people in every province will be out of jobs as a result of solving homelessness. This in turn may create a whole new wave of homelessness as the unemployed caregivers become unable to pay their bills or meet their financial obligations caused by the reduction or eradication of homelessness.
 
 **Behavior grows better before it grows worse.**
 
-As in the illustration regarding solving homelessness, things do get better than worse; in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions is what makes political decision making so counterproductive." (Senge p. 60)
+As in the illustration regarding solving homelessness, things do get better than worse in the short term. But like a giant game of JENGA where pieces are stacked successfully, the organizational successes quickly erode or are replaced due to reorganization of funds. Soon enough of the original foundational idea is gone and the entire structure begins to topple, requiring other supports to prop it up. "The better before worse response to many management interventions is what makes political decision making so counterproductive" (Senge p. 60).
 
 **The easy way out usually leads back in.**
 
-"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking." (Senge, p. 61) We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
+"Pushing harder and harder on familiar solutions, while fundamental problems persist or worsen, is a reliable indicator of nonsystemic thinking" (Senge, p. 61). We need to look beyond the comfortable and familiar and push on into finding solutions in areas where we are unfamiliar, but might have an answer we had not considered previously.
 
 **The cure can be worse than the disease.**
 
-"The long - term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution." (Senge, p. 61)
+"The long-term, most insidious consequence of applying nonsystemic solutions is increased need for more and more of the solution" (Senge, p. 61).
 
 The old saying about everything being a nail if you're a hammer applies here. Your solution becomes one size fits all. The solution becomes so predictable everyone in the organization makes it their go to whenever a challenge arises requiring attention. Senge suggests every truly healthy organization requires everyone to shoulder their own burdens (p. 62), take responsibility for finding the best solutions for the challenges before them.
-A sentiment repeated in Galatians 6:4, 5 in the Bible.
+This sentiment is repeated in Galatians 6:4, 5 in the Bible.
 
 **4** Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, **5** for each one should carry their own load (Galatians 6: 4, 5 NIV).
 
@@ -64,9 +64,9 @@ A sentiment repeated in Galatians 6:4, 5 in the Bible.
 
 > When growth becomes excessive ... the system itself will seek to compensate by slowing down; perhaps putting the organization's survival at risk in the process. (Senge, p. 62)
 
-Taking the time in process, with well thought out answers to the organizational challenges experienced will help curtail excessive growth that can hinder the anticipated progress of the organization. We've seen many organizations experience growth and rapid success, only to fail shortly afterward because their success did not anticipate the effects growth would have on the organization as a whole.
+Taking the time in process, with well thought out answers to the organizational challenges experienced, will help curtail excessive growth that can hinder the anticipated progress of the organization. We've seen many organizations experience growth and rapid success, only to fail shortly afterward because their success did not anticipate the effects growth would have on the organization as a whole.
 
-Target Canada is a perfect example of the law of 'faster is slower.' They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the US growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. (St. Louis, January 30, 2015)
+Target Canada is a perfect example of the law of "faster is slower." They entered the Canadian market after the highly successful growth and brand adoption in the US. The expansion was based primarily on the U.S. growth success. As a result of poor planning, taking on too much too soon, poor supply chain issues to support their expansion, Target soon closed their doors in Canada less than two years after opening a massive number of stores to amazing fanfare. (St. Louis, January 30, 2015)
 
 > The company assumed it could coast on its reputation, but its actions in the early stages of the expansion suggests it didn’t understand why Canadian customers loved Target’s U.S. stores. (St. Louis, January 30, 2015)
 
@@ -79,7 +79,7 @@ The chaos theory is part of:
 
 > a scientific field blending mathematics, statistics, and philosophy that was developed to study systems that are highly complex, unstable, and resistant to exact prediction. Chaotic systems include weather patterns, neural networks, some social systems, and a variety of chemical and quantum phenomena. The study of chaotic systems began in the nineteenth century and developed into a distinct field during the 1980s. (Chaotic Systems, 2013)
 
-Small changes in initial conditions lead to drastic changes in results. (Fractal Foundation) What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
+Small changes in initial conditions lead to drastic changes in results (Fractal Foundation). What gets set in motion today, may not effect the organization for years to come. What started as a small imperfection in Europe can cost thousands of dollars in remanufacturing costs in North America. The key component to watching and monitoring cause and effect is diligence. Pay attention to the sources and results of all products and systems to determine their effect elsewhere.
 
 **Small changes can produce large results — but the areas of highest leverage are often the least obvious.**
 
@@ -91,11 +91,11 @@ Senge uses an illustration from Buckminster Fuller regarding the _'trim tab'_:
 
 > The entire system — the ship, the rudder, and the trim tab — is marvellously engineered through the principle of leverage. Yet, its functioning is totally nonobvious if you do not understand the force of hydrodynamics.
 
-> So, too, are the high - leverage changes in human systems nonobvious until we understand the forces at play in those systems. (Senge, p. 65)
+> So, too, are the high-leverage changes in human systems nonobvious until we understand the forces at play in those systems. (Senge, p. 65)
 
-The bible speaks of another small high leverage device that creates high leverage changes; the tongue. Whether expressed directly or through written mediums like email or social media, the tongue can introduce small changes to personal or organizational perspectives that can affect/effect the entire outcome of corporate or personal relations; positively or negatively. (James 3: 3-6)
+The Bible speaks of another small high leverage device that creates high leverage changes; the tongue. Whether expressed directly or through written mediums like email or social media, the tongue can introduce small changes to personal or organizational perspectives that can affect/effect the entire outcome of corporate or personal relations; positively or negatively. (James 3: 3-6)
 
-It is therefore important to realize, every word spoken or written, every plan made, every communication released and every explanation given, must be carefully reviewed before being released for public dissemination. - The smallest changes can produce large results; to the positive or negative.
+It is therefore important to realize, every word spoken or written, every plan made, every communication released and every explanation given, must be carefully reviewed before being released for public dissemination. The smallest changes can produce large results; to the positive or negative.
 
 **You can have your cake and eat it too but not all at once.**
 
@@ -111,7 +111,7 @@ There are many issues and challenges facing an organization that do not require 
 
 **There is no blame.**
 
-> We tend to blame outside circumstances for our problems. "Someone else"—the competitors, the press, the changing mood of the marketplace, the government—did it to us. Systems think that there is no outside; that you and the cause of your problems are part of a single system. The cure lies in your relationship with your "enemy." (Senge, p. 65)
+> We tend to blame outside circumstances for our problems. "Someone else" — the competitors, the press, the changing mood of the marketplace, the government — did it to us. Systems think that there is no outside; that you and the cause of your problems are part of a single system. The cure lies in your relationship with your "enemy." (Senge, p. 65)
 
 Take responsibility for your actions. Take responsibility for the risks you take. Fail; try again. Fail again; try again and again. You and your thinking are your greatest asset and your greatest enemy. Too often we look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways.
 
@@ -123,7 +123,7 @@ Now that we've reviewed Senge's laws, here are 5 more:
 
 **Systems cannot be fully perceived with one set of eyes.**
 
-As the old African proverb states, 'it takes a village to raise a child,' so to does it take a team of people to understand and address the systems within an organization. In education, we have moved from the _'sage on the stage'_ where the professor was the all knowing expert waiting to dispense wisdom to all enrolled. Education, like many systems seeks collaborative learning from all engaged in the process; from learner to leader.
+As the old African proverb states, "it takes a village to raise a child." So, too, does it take a team of people to understand and address the systems within an organization. In education, we have moved from the _'sage on the stage'_ where the professor was the all knowing expert waiting to dispense wisdom to all enrolled. Education, like many systems, seeks collaborative learning from all engaged in the process, from learner to leader.
 
 **No ones work is performed in isolation.**
 
@@ -143,7 +143,7 @@ Use the system within the limits it was intended for. Add pressure to the system
 
 **Systems can suddenly change if you find the right combination of actions.**
 
-Just because you have a system needing change, but not able to handle the pressure of the changes desired, don't lose hope. As you apply different options and press forward with specific plans; change can occur. It just takes ongoing review of what has and has not worked and the attempt to change using a variety of applications and process to make the changes to the system the organization sees as necessary.
+Just because you have a system needing change, but not being able to handle the pressure of the changes desired, don't lose hope. As you apply different options and press forward with specific plans; change can occur. It just takes ongoing review of what has and has not worked and the attempt to change using a variety of applications and process to make the changes to the system the organization sees as necessary.
 
 **A system’s behaviour depends on the total structure. Change the structure and the behavior changes.**
 
@@ -151,13 +151,13 @@ Richard Lepsinger writes:
 
 > "Organizational structure and management systems must support and reinforce that behavior." (p. 206)
 
-Structure is not simply the design or the management structure put in place to run the organization. It is a 'both/and' proposition. Both design and management structure must work hand in hand to ensure the ongoing health of the organization. Design and management structure must reinforce the total structure together.
+Structure is not simply the design or the management structure put in place to run the organization. It is a "both/and" proposition. Both design and management structure must work hand in hand to ensure the ongoing health of the organization. Design and management structure must reinforce the total structure together.
 
-Leadership in the design and management structure is paramount to ensure the ongoing success of the organization. Changing the design, management structure of leadership focus of the organization changes the structure and in course, the behaviour of the organization and all its component parts. The process involves a great deal of commitment and focus to get it right.
+Leadership in the design and management structure is paramount to ensure the ongoing success of the organization. Changing the design and management structure of the leadership focus of the organization changes the structure, and in course, the behaviour of the organization and all its component parts. The process involves a great deal of commitment and focus to get it right.
 
-Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back (p. 45), notes leaders are like symphony conductors endeavour, to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced , while the orchestra members are having various difficulties , stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
+Leonard Sayles, as quoted in Mintzberg, Ahlstrand and Lampel's Strategy Bites Back (p. 45), notes leaders are like symphony conductors,  endeavouring to maintain a melodious performance in which the contributions of the various instruments are coordinated and sequenced, patterned and paced, while the orchestra members are having various difficulties, stage hands are moving music stands, alternating excessive heat and cold are creating audience and instrumental problems, and the sponsor of the concert is insisting on irrational changes to the program.
 
-In the same way, orchestrating the organizational and management systems to support and reinforce behaviour reuires a specific finesse to ensure the whole is not overpowered by subordinate parts to dominate the outcome of organizational vision and focus. Leadership is the central focus to make this balance happen.
+In the same way, orchestrating the organizational and management systems to support and reinforce behaviour requires a specific finesse to ensure the whole is not overpowered by subordinate parts to dominate the outcome of organizational vision and focus. Leadership is the central focus to make this balance happen.
 
 **There is a limit to how big a system can grow.**
 
@@ -167,7 +167,7 @@ No matter what the business model, there is a limit to how big a system can grow
 
 > Organizational growth does not continue indefinitely. An upper asymptopic limit can be imposed by a number of factors. Land and Jarman (1992, p. 258) identify the most common reasons why organizations reach upper growth limits:
 
-> Rapidly increasing internal and market place complexity in such areas a product proliferation and market divisions
+> Rapidly increasing internal and marketplace complexity in such areas a product proliferation and market divisions
 > Internal competition for resources
 > Increasing cost of manufacturing and sales
 > Diminishing returns
@@ -181,19 +181,19 @@ Being ahead of the challenges and staying aware of the various factors affecting
 
 ### Organizational Learning Disabilities
 
-* **I am my position** - when we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.(Senge, p. 18)
+* **I am my position** - When we confuse our position in an organization with our personal identity, every failure, criticism, success and victory is a direct reflection of our worth. We are more than our position. Getting sucked into that thinking only leaves us feeling unfulfilled and at times hamstrung by the challenges we face, where we could be an integral part of the solution versus mired in guilt and shame over organizational performance.(Senge, p. 18)
 
-* **The enemy is out there** - as stated earlier, we often look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways. Similarly, when we look for an enemy we can find one, but blaming them for outcomes limits our locus of control to things beyond our control affecting our organizational success. We may see challenges on the horizon, but the challenges are not the enemy. We are our own worst enemies and that enemy is usually from within. (Senge, p. 20)
+* **The enemy is out there** - As stated earlier, we often look for scapegoats to take the blame and blame shift our responsibility to find others responsible for our failings and conversely for our success. Blame works both ways. Similarly, when we look for an enemy we can find one, but blaming them for outcomes limits our locus of control to things beyond our control affecting our organizational success. We may see challenges on the horizon, but the challenges are not the enemy. We are our own worst enemies and that enemy is usually from within. (Senge, p. 20)
 
 * **The illusion of taking charge** - Being proactive when challenges arise is good, but don't mistake proactive action for reflexive reaction to the challenges. Proactivity faces the difficult issues without waiting for someone else to step up to do it. Proactive is anticipatory. Waiting until the challenge arises or controls the organizational scenario before taking action is reactionary. Taking charge proactively is a positive response to impending challenges. Waiting for them to occur is not. (Senge, p. 20)
 
-* **The fixation on** _**(short term)**_ **events** - when we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. (Senge, p. 21)
+* **The fixation on** _**(short term)**_ **events** - When we focus our attention on short term events occurring within the organizational parameters around us versus describing longer term pattern explanations to describe a longer view of where the organization is going, we can fixate on short-term reporting and miss the long term implications to the organizational structures and processes. (Senge, p. 21)
 
 * **The parable of the boiled frog** - "where we do not see gradual changes, much like a frog in a pot will relax into drowsiness as its water is slowly heated." (Mister Ambiguous)
 
-* **The delusion of learning from experience** - "because some effects are beyond the current limits our awareness (e.g., effects in time, non-linear effects), we do not experience many of the effects of our actions." (Mister Ambiguous) This is reminiscent of Senge's law where "Cause and effect are not closely related in time and space." (p. 63) Sometimes the results of our actions occur far past the time things are put in motion.
+* **The delusion of learning from experience** - "Because some effects are beyond the current limits our awareness (e.g., effects in time, non-linear effects), we do not experience many of the effects of our actions" (Mister Ambiguous). This is reminiscent of Senge's law where "Cause and effect are not closely related in time and space" (p. 63). Sometimes the results of our actions occur far past the time things are put in motion.
 
-* **The myth of the management team** - Teams spend much of their time fighting for turf, avoiding anything making them look bad, while pretending everyone is behind team strategies. (Senge, pp. 18-19) Their energies are mis-focused. Instead of focusing on solutions to the challenges at hand, they are focused inwardly toward self-protection.
+* **The myth of the management team** - Teams spend much of their time fighting for turf, avoiding anything making them look bad, while pretending everyone is behind team strategies (Senge, pp. 18-19). Their energies are mis-focused. Instead of focusing on solutions to the challenges at hand, they are focused inwardly toward self-protection.
 
 #### Learning Activity 3. 1
 
@@ -221,8 +221,8 @@ Create a new post on your blog and reflect on 2-3 key take-aways from the readin
 </li>
  	<li>How does your organization, or the organization you previously served stack up to the additional 5 laws listed above?
 <ul>
- 	<li>Reflect on the impact these additional laws have on your organization, or the organization you previously served?</li>
- 	<li>Which of these 5 listed additional laws are most evident in your organizational practice? What are their impact?</li>
+ 	<li>Reflect on the impact these additional laws have on your organization, or the organization you previously served.</li>
+ 	<li>Which of these 5 listed additional laws are most evident in your organizational practice? What are their impact(s)?</li>
  	<li>What organizational changes would you introduce to mitigate the effect of a departure from these 5 additional laws in your organization or the organization your served previously?</li>
  	<li>What organizational learning disabilities have you experienced in your career?</li>
 </ul>
@@ -237,9 +237,9 @@ Create a new post on your blog and reflect on 2-3 key take-aways from the readin
 As you complete these questions, you will have a better grasp on Systems Thinking practice and the development of Strategic Leadership principles going forward.
 
 #### Learning Activity References
-Fractal Foundation (2018) [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory)
+Fractal Foundation (2018). [_What is chaos theory?_](https://fractalfoundation.org/resources/what-is-chaos-theory)
 
-GE Power and Water (2012) [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp). Boston MA:General Electric Company.
+GE Power and Water (2012). [Handbook of industrial water treatment: chapter 14 - boiler system failures](https://www.suezwatertechnologies.com/handbook/boiler_water_systems/ch_14_systemfailure.jsp). Boston MA:General Electric Company.
 
 Haines, S. (2000). _The systems thinking approach to strategic planning and management._ Washington DC: St. Lucie Press.
 
