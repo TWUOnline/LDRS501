@@ -17,13 +17,13 @@ This week introduces you to an understanding of Systems Thinking dynamics as it 
 
 * Senge's Laws for System Thinking. This section outlines Senge's work from his book, **_The Fifth Discipline_**, (2006).
 
-* 5 additional laws to consider to expand our thinking on the topic.
+* Five additional laws to consider to expand our thinking on the topic.
 
 * Organizational Learning Disabilities hindering the effective development and practice of Systems Thinking.
 
 Systems Thinking is an important part of Strategic Leadership development. Addressing healthy concepts, understanding the pitfalls associated with poor practice and assessing the ability or disability issues in Systems Thinking practice can improve your practice of Strategic Leadership principles and concepts.
 
-The PressBooks material follows previous outlines for developing proficiency with the material. * More PressBooks instruction to prepare you further for the team elements of the book preparation process.(add new information below with an overview here)
+The PressBooks material follows previous outlines for developing proficiency with the material. * More PressBooks instruction will prepare you further for the team elements of the book preparation process. (add new information below with an overview here)
 
 [Link to Blog 2]
 
