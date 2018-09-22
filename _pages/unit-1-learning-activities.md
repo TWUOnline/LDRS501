@@ -7,7 +7,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/
+  https://create.twu.ca/ldrs501/unit-1-learning-activities/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -27,7 +27,7 @@ Upon completion of Learning Activity 1.1 learners will be able to:
 [table id=3 /]
 
 
-Read the article at [this link](https://create.twu.ca/ldrs501-su18/are-you-an-example-of-diversity-practice/) and use the rubric above to assess the quality of the article. There is a feedback link at the bottom of the article.
+Read the article at [this link](https://create.twu.ca/ldrs501/are-you-an-example-of-diversity-practice/) and use the rubric above to assess the quality of the article. There is a feedback link at the bottom of the article.
 
 For the purpose of this exercise, you will simply assess the written material provided in this Learning Activity and choose the appropriate letter grade from the dropdown menu.  This will be the same process for each assignment you are asked to review in this course.
 

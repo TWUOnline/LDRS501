@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/accessing-pressbooks/
+  https://create.twu.ca/ldrs501/accessing-pressbooks/
 published: true
 post_date: 2018-05-17 14:05:43
 ---

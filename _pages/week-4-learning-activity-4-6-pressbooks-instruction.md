@@ -7,7 +7,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-6-pressbooks-instruction/
+  https://create.twu.ca/ldrs501/week-4-learning-activity-4-6-pressbooks-instruction/
 published: true
 post_date: 2018-04-21 16:24:28
 ---

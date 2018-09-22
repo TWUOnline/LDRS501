@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/sample-page/
+  https://create.twu.ca/ldrs501/sample-page/
 published: true
 post_date: 2018-01-19 22:20:37
 ---
@@ -17,4 +17,4 @@ This is an example page. It's different from a blog post because it will stay in
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="https://create.twu.ca/ldrs501-su18/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+As a new WordPress user, you should go to <a href="https://create.twu.ca/ldrs501/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!

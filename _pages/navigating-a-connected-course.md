@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/navigating-a-connected-course/
+  https://create.twu.ca/ldrs501/navigating-a-connected-course/
 published: true
 post_date: 2018-05-14 14:38:46
 ---
@@ -31,6 +31,6 @@ Each participant in the course will have control over their own personal website
 
 In order to participate in the course, you must submit the URL for your site to your instructor. Your instructor will then connect your site with the course hub through RSS (Really Simple Syndication). Once your site is connected through RSS, your posts on your own site will be syndicated and show up on the course hub.
 
-The first activity in this course, [WordPress Set Up](https://create.twu.ca/ldrs501-su18/wordpress-settings/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
+The first activity in this course, [WordPress Set Up](https://create.twu.ca/ldrs501/wordpress-settings/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
 
 Click 'Home' in the menu above to return to the main course page.

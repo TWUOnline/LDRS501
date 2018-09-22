@@ -7,7 +7,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/activity-0-1/
+  https://create.twu.ca/ldrs501/activity-0-1/
 published: true
 post_date: 2018-02-23 01:07:23
 ---

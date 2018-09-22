@@ -4,8 +4,7 @@ post_title: Week 5 – Reading Week
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-5/
+permalink: https://create.twu.ca/ldrs501/unit-5/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -34,7 +33,7 @@ post_date: 2018-02-23 01:07:23
 
 One way at looking at the change process. This is for reference only. No requirements for Assignments or inclusion with blog discussions.
 
-<img class="alignnone size-medium wp-image-407" src="http://create.twu.ca/ldrs501-su18/files/2018/03/The-Wave-of-Change-300x232.png" alt="" width="300" height="232" />     <img class="alignnone size-medium wp-image-406" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Surfing-the-Wave-of-Change-300x231.png" alt="" width="300" height="231" />
+<img class="alignnone size-medium wp-image-407" src="http://create.twu.ca/ldrs501/files/2018/03/The-Wave-of-Change-300x232.png" alt="" width="300" height="232" />     <img class="alignnone size-medium wp-image-406" src="http://create.twu.ca/ldrs501/files/2018/03/Surfing-the-Wave-of-Change-300x231.png" alt="" width="300" height="231" />
 
 <h4>For Team Assignment 2</h4>
 

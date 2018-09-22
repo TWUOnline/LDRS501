@@ -6,8 +6,7 @@ post_title: >
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/week-0/
+permalink: https://create.twu.ca/ldrs501/week-0/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -44,8 +43,8 @@ O’Donovan &amp; N Rimland Flower (2013) [The Strategic Plan is Dead. Long Live
 
 #### Learning Activity 0.1
 
-- [Exploring the Theory & Practice of Leadership](https://create.twu.ca/ldrs501-su18/activity-0-1/)
+- [Exploring the Theory & Practice of Leadership](https://create.twu.ca/ldrs501/activity-0-1/)
 
 #### Learning Activity 0.2
 
-- [Critical Thinking](https://create.twu.ca/ldrs501-su18/activity-0-2)
+- [Critical Thinking](https://create.twu.ca/ldrs501/activity-0-2)

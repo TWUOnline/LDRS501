@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/assignment-4/
+  https://create.twu.ca/ldrs501/assignment-4/
 published: true
 post_date: 2018-02-23 01:07:23
 ---

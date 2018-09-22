@@ -6,8 +6,7 @@ post_title: >
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-7/
+permalink: https://create.twu.ca/ldrs501/unit-7/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -64,4 +63,4 @@ For this week’s question, we focus on Lepsinger’s Bridge Builder # 6 (pp. 16
 <h4>Team Assignment 2 - Strategic Leadership Team Project (15%)</h4>
 <em><strong>Team submissions Due Day 7 of Week 7 at 23:59 PST</strong></em>
 
-Please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.
+Please see <a href="https://create.twu.ca/ldrs501/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.

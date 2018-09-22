@@ -5,7 +5,7 @@ author: denisserivera
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/grading-rubric/
+  https://create.twu.ca/ldrs501/grading-rubric/
 published: true
 post_date: 2018-03-12 14:54:43
 ---

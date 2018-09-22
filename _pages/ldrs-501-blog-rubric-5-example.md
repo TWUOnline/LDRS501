@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/ldrs-501-blog-rubric-5-example/
+  https://create.twu.ca/ldrs501/ldrs-501-blog-rubric-5-example/
 published: true
 post_date: 2018-03-22 19:15:20
 ---

@@ -4,8 +4,7 @@ post_title: Week 4 – Strategic Team Review
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-4/
+permalink: https://create.twu.ca/ldrs501/unit-4/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -43,20 +42,20 @@ Learners will have the opportunity to continue developing the following learning
 
 #### Week 4 Assignments
 
-- [Assignment: Blog 4.1 - **First Day 1-6 of Week 4 - 5%**.](https://create.twu.ca/ldrs501-su18/blog-4-1/)
+- [Assignment: Blog 4.1 - **First Day 1-6 of Week 4 - 5%**.](https://create.twu.ca/ldrs501/blog-4-1/)
 
-- [Team Assignment 2](https://create.twu.ca/ldrs501-su18/assignment-2/)
+- [Team Assignment 2](https://create.twu.ca/ldrs501/assignment-2/)
 
-Please see [team Assignment 2 Notes](https://create.twu.ca/ldrs501-su18/team-assignment-2-notes/) for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. team Assignment 2 is due in Week 7, but you should start working on it now.
+Please see [team Assignment 2 Notes](https://create.twu.ca/ldrs501/team-assignment-2-notes/) for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2. team Assignment 2 is due in Week 7, but you should start working on it now.
 
 #### Week 4 Learning Activities
 
-- [Learning Activity 4.1 - Strategic Thinking](https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-1-instruction-and-questions/)
+- [Learning Activity 4.1 - Strategic Thinking](https://create.twu.ca/ldrs501/week-4-learning-activity-4-1-instruction-and-questions/)
 
-- [Learning Activity 4.2 - **Subjectivity and Intuition**](https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-2-instruction-and-questions/)
+- [Learning Activity 4.2 - **Subjectivity and Intuition**](https://create.twu.ca/ldrs501/week-4-learning-activity-4-2-instruction-and-questions/)
 
-- [Learning Activity 4.3 - Organizational **Information** Strategies](https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-3-instruction-and-questions/)
+- [Learning Activity 4.3 - Organizational **Information** Strategies](https://create.twu.ca/ldrs501/week-4-learning-activity-4-3-instruction-and-questions/)
 
-- [Learning Activity 4.4 - **Issues, Leaders, Approaches, and Questions**](https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-4-instruction-and-questions/)
+- [Learning Activity 4.4 - **Issues, Leaders, Approaches, and Questions**](https://create.twu.ca/ldrs501/week-4-learning-activity-4-4-instruction-and-questions/)
 
-- [Learning Activity 4.5 - **Best Practice Questions**](https://create.twu.ca/ldrs501-su18/week-4-learning-activity-4-5-instruction-and-questions/)
+- [Learning Activity 4.5 - **Best Practice Questions**](https://create.twu.ca/ldrs501/week-4-learning-activity-4-5-instruction-and-questions/)

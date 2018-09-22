@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/week-4-post-4-3/
+  https://create.twu.ca/ldrs501/week-4-post-4-3/
 published: true
 post_date: 2018-04-21 15:49:42
 ---

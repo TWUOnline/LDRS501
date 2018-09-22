@@ -6,8 +6,7 @@ post_title: >
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-1/
+permalink: https://create.twu.ca/ldrs501/unit-1/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -45,7 +44,7 @@ Finally, the section outlines your Assignment due dates and the Learning Activit
 
 This activity provides an introduction of you and your strategic leadership experience. You will provide an introduction to you the person in your introductory blog (due on Day 1).
 
-If you haven't already, you should [click here](https://create.twu.ca/ldrs501-su18/wordpress-settings/) and make sure that you have submitted your RSS feed.
+If you haven't already, you should [click here](https://create.twu.ca/ldrs501/wordpress-settings/) and make sure that you have submitted your RSS feed.
 
 Please create a new post on your own blog that will serve as an introduction to yourself. Make sure to include something about your experience with strategic leadership practice and principles whatever that may be right now.
 
@@ -53,7 +52,7 @@ Please create a new post on your own blog that will serve as an introduction to 
 - LDRS501
 - Hi
 
-Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete [Learning Activity 1.1](https://create.twu.ca/ldrs501-su18/unit-1-learning-activities/) and [Assignment 1](https://create.twu.ca/ldrs501-su18/assignment-1/).
+Once you have completed your intro post, please make sure that you welcome your colleagues to the course by leaving some comments on their sites, then complete [Learning Activity 1.1](https://create.twu.ca/ldrs501/unit-1-learning-activities/) and [Assignment 1](https://create.twu.ca/ldrs501/assignment-1/).
 
 #### ZOOM Video Conference
 _(optional F2F interaction can be arranged for those living within driving distance to the university)_

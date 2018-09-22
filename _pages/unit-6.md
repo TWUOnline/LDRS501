@@ -4,8 +4,7 @@ post_title: Week 6 – Post 6.1
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-6/
+permalink: https://create.twu.ca/ldrs501/unit-6/
 published: true
 post_date: 2018-02-23 01:07:23
 ---
@@ -99,4 +98,4 @@ The parameters remain the same for all posts for this week.
 </ul>
 <h3>Reminder</h3>
 <h4>For team Assignment 2 (Due in Week 7)</h4>
-If you need to refresh your memory, please see <a href="https://create.twu.ca/ldrs501-su18/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.
+If you need to refresh your memory, please see <a href="https://create.twu.ca/ldrs501/unit-3/">Week 3 Notes</a> for SWOT, Brainstorming and Brain Swarming Resources for completing team Assignment 2.

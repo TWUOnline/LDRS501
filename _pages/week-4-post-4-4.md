@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/week-4-post-4-4/
+  https://create.twu.ca/ldrs501/week-4-post-4-4/
 published: true
 post_date: 2018-04-21 15:55:00
 ---
@@ -58,7 +58,7 @@ Using the Q-Sort Sheet below, rank the following educational values according to
  	<li>Developing student emotional stability</li>
  	<li>Preparing career skills</li>
 </ol>
-<img class="alignnone size-medium wp-image-295" src="http://create.twu.ca/ldrs501-su18/files/2018/03/Educational-Values-Exercise_edited-2-300x244.jpg" alt="" width="300" height="244" />
+<img class="alignnone size-medium wp-image-295" src="http://create.twu.ca/ldrs501/files/2018/03/Educational-Values-Exercise_edited-2-300x244.jpg" alt="" width="300" height="244" />
 
 To make it interesting, ask three friends, family members, coworkers, or for the adventurous, three strangers to complete the exercise, then compare responses.
 

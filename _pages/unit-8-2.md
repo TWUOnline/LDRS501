@@ -4,8 +4,7 @@ post_title: Week 9 – Countdown to Completion
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-8-2/
+permalink: https://create.twu.ca/ldrs501/unit-8-2/
 published: true
 post_date: 2018-02-23 01:07:23
 ---

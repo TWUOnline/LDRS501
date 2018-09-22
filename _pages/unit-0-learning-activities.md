@@ -7,7 +7,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/unit-0-learning-activities/
+  https://create.twu.ca/ldrs501/unit-0-learning-activities/
 published: true
 post_date: 2018-02-23 01:07:23
 ---

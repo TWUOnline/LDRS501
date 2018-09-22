@@ -5,7 +5,7 @@ author: datha
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs501-su18/week-2-blog-1-leadership-imperatives-strategic-leadership/
+  https://create.twu.ca/ldrs501/week-2-blog-1-leadership-imperatives-strategic-leadership/
 published: true
 post_date: 2018-04-17 13:44:29
 ---
